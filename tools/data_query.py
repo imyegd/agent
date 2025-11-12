@@ -12,7 +12,7 @@ import os
 class DataQueryTool:
     """数据查询工具类"""
     
-    def __init__(self, data_path: str = "束流.csv"):
+    def __init__(self, data_path: str = "data/束流.csv"):
         """
         初始化数据查询工具
         
@@ -77,7 +77,7 @@ class DataQueryTool:
                 "count": len(result_df),
                 "start_time": start_time,
                 "end_time": end_time,
-                "data": result_df_copy.to_dict('records'),  # 使用转换后的副本
+                "data": result_df_copy.head().to_dict('records'),  # 使用转换后的副本
                 "statistics": {
                     "target_mean": float(result_df['target'].mean()) if 'target' in result_df.columns else None,
                     "target_max": float(result_df['target'].max()) if 'target' in result_df.columns else None,
