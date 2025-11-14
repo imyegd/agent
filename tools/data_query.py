@@ -144,6 +144,15 @@ def get_data_info() -> Dict[str, Any]:
     return tool.get_data_summary()
 
 
+# 导入 PLS 分析工具
+try:
+    from .pls_analysis import analyze_beam_fluctuation
+    PLS_ANALYSIS_AVAILABLE = True
+except ImportError:
+    PLS_ANALYSIS_AVAILABLE = False
+    print("警告: PLS 分析工具导入失败，相关功能将不可用")
+
+
 # 定义给LLM的工具描述（OpenAI Function Calling格式）
 TOOLS = [
     {
@@ -185,10 +194,35 @@ TOOLS = [
     }
 ]
 
-
 # 工具函数映射
 TOOL_FUNCTIONS = {
     "query_beam_data": query_beam_data,
     "get_data_info": get_data_info
 }
+
+# 如果 PLS 分析工具可用，添加到工具列表
+if PLS_ANALYSIS_AVAILABLE:
+    TOOLS.append({
+        "type": "function",
+        "function": {
+            "name": "analyze_beam_fluctuation",
+            "description": "分析指定时间范围内束流数据的波动情况。使用 PLS 模型检测数据是否超过阈值，识别异常点并分析异常原因。适用于检测数据漂移、结构变化等异常情况。",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "start_time": {
+                        "type": "string",
+                        "description": "开始时间，支持格式：'YYYY-MM-DD HH:MM:SS' 或 'YYYY-MM-DDTHH:MM:SS'。例如：'2025-08-30 17:23:26' 或 '2025-08-30T17:23:26'"
+                    },
+                    "end_time": {
+                        "type": "string",
+                        "description": "结束时间，支持格式：'YYYY-MM-DD HH:MM:SS' 或 'YYYY-MM-DDTHH:MM:SS'。例如：'2025-08-30 18:23:30' 或 '2025-08-30T18:23:30'"
+                    }
+                },
+                "required": ["start_time", "end_time"]
+            }
+        }
+    })
+    
+    TOOL_FUNCTIONS["analyze_beam_fluctuation"] = analyze_beam_fluctuation
 
