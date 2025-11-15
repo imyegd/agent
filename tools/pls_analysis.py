@@ -248,7 +248,7 @@ class PLSAnalysisTool:
                     "first_anomaly": first_anomaly_info
                 },
                 "summary": {
-                    "has_anomaly": anomaly_count > 0,
+                    "has_anomaly": bool(anomaly_count > 0),
                     "status": "异常" if anomaly_count > 0 else "正常",
                     "message": f"检测到 {anomaly_count} 个异常点（异常率: {anomaly_rate:.2%}）" if anomaly_count > 0 
                               else "未检测到异常，数据波动在正常范围内"
