@@ -265,6 +265,32 @@ class PLSAnalysisTool:
             }
 
 
+# 定义 PLS 分析工具的工具描述（OpenAI Function Calling格式）
+PLS_ANALYSIS_TOOLS = [
+    {
+        "type": "function",
+        "function": {
+            "name": "analyze_beam_fluctuation",
+            "description": "分析指定时间范围内束流数据的波动情况。使用 PLS 模型检测数据是否超过阈值，识别异常点并分析异常原因。适用于检测数据漂移、结构变化等异常情况。",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "start_time": {
+                        "type": "string",
+                        "description": "开始时间，支持格式：'YYYY-MM-DD HH:MM:SS' 或 'YYYY-MM-DDTHH:MM:SS'。例如：'2025-08-30 17:23:26' 或 '2025-08-30T17:23:26'"
+                    },
+                    "end_time": {
+                        "type": "string",
+                        "description": "结束时间，支持格式：'YYYY-MM-DD HH:MM:SS' 或 'YYYY-MM-DDTHH:MM:SS'。例如：'2025-08-30 18:23:30' 或 '2025-08-30T18:23:30'"
+                    }
+                },
+                "required": ["start_time", "end_time"]
+            }
+        }
+    }
+]
+
+
 # 定义供LLM调用的工具函数
 def analyze_beam_fluctuation(start_time: str, end_time: str) -> Dict[str, Any]:
     """
@@ -291,4 +317,10 @@ def analyze_beam_fluctuation(start_time: str, end_time: str) -> Dict[str, Any]:
             "error": str(e),
             "message": f"PLS 分析失败: {str(e)}"
         }
+
+
+# PLS 分析工具函数映射
+PLS_ANALYSIS_TOOL_FUNCTIONS = {
+    "analyze_beam_fluctuation": analyze_beam_fluctuation
+}
 
