@@ -255,6 +255,30 @@ class PLSAnalysisTool:
                 }
             }
             
+            # 9. 知识增强（如果有异常且RAG可用）
+            try:
+                from knowledge.rag_tool import RAGTool
+                
+                if anomaly_count > 0 and first_anomaly_info:
+                    rag_tool = RAGTool()
+                    
+                    # 获取综合分析和建议
+                    knowledge_result = rag_tool.get_comprehensive_analysis(first_anomaly_info)
+                    
+                    if knowledge_result.get("success"):
+                        result["knowledge_enhanced"] = {
+                            "summary": knowledge_result.get("summary", ""),
+                            "feature_explanations": knowledge_result.get("feature_explanations", {}),
+                            "solutions": knowledge_result.get("solutions", []),
+                            "relevant_concepts": knowledge_result.get("relevant_concepts", [])
+                        }
+            except ImportError:
+                # RAG模块未安装或不可用，跳过知识增强
+                pass
+            except Exception as e:
+                # RAG出错不影响主流程
+                print(f"知识增强失败: {str(e)}")
+            
             return result
             
         except Exception as e:
