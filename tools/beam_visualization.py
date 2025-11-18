@@ -260,7 +260,9 @@ VISUALIZATION_TOOLS = [
         "type": "function",
         "function": {
             "name": "visualize_beam_fluctuation",
-            "description": "分析并可视化束流波动数据。该工具会执行 PLS 分析，生成易读的自然语言报告，并绘制包含 T² 和 SPE 统计量的可视化图表。适合需要全面了解束流状态和生成报告的场景。",
+            "description": """分析并可视化束流波动数据。该工具会执行 PLS 分析，
+            生成易读的自然语言报告，并绘制包含 T² 和 SPE 统计量的可视化图表。
+            适合需要全面了解束流状态和生成报告的场景。""",
             "parameters": {
                 "type": "object",
                 "properties": {
