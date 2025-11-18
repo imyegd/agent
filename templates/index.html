@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>束流数据智能分析系统</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- 顶部导航栏 -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <i class="fas fa-atom"></i>
+                <h1>束流数据智能分析系统</h1>
+            </div>
+            <nav class="nav">
+                <button class="nav-btn active" data-tab="chat">
+                    <i class="fas fa-comments"></i> 智能对话
+                </button>
+                <button class="nav-btn" data-tab="analyze">
+                    <i class="fas fa-chart-line"></i> 波动分析
+                </button>
+                <button class="nav-btn" data-tab="knowledge">
+                    <i class="fas fa-book"></i> 知识库
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- 主内容区 -->
+    <main class="main-content">
+        <!-- 智能对话Tab -->
+        <div class="tab-content active" id="chat-tab">
+            <div class="chat-container">
+                <div class="chat-messages" id="chat-messages">
+                    <div class="message system-message">
+                        <i class="fas fa-robot"></i>
+                        <div class="message-content">
+                            <p>您好！我是束流数据分析助手。</p>
+                            <p>您可以用自然语言查询数据，例如：</p>
+                            <ul>
+                                <li>"查询2025年8月31日两点到三点的束流数据"</li>
+                                <li>"分析8月30日下午的波动情况"</li>
+                                <li>"feature1是什么意思？"</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="chat-input-area">
+                    <div class="input-wrapper">
+                        <textarea 
+                            id="chat-input" 
+                            placeholder="输入您的问题..." 
+                            rows="1"
+                        ></textarea>
+                        <button id="send-btn" class="send-btn">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                    <div class="chat-actions">
+                        <button id="reset-btn" class="action-btn">
+                            <i class="fas fa-redo"></i> 清空对话
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 波动分析Tab -->
+        <div class="tab-content" id="analyze-tab">
+            <div class="analyze-container">
+                <div class="control-panel">
+                    <h3><i class="fas fa-sliders-h"></i> 分析参数</h3>
+                    
+                    <div class="form-group">
+                        <label>开始时间</label>
+                        <input type="datetime-local" id="analyze-start-time" class="form-input">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label>结束时间</label>
+                        <input type="datetime-local" id="analyze-end-time" class="form-input">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label>快速选择</label>
+                        <div class="quick-select">
+                            <button class="quick-btn" data-range="1h">最近1小时</button>
+                            <button class="quick-btn" data-range="6h">最近6小时</button>
+                            <button class="quick-btn" data-range="1d">最近1天</button>
+                            <button class="quick-btn" data-range="7d">最近7天</button>
+                        </div>
+                    </div>
+                    
+                    <button id="analyze-btn" class="primary-btn">
+                        <i class="fas fa-play"></i> 开始分析
+                    </button>
+                </div>
+                
+                <div class="result-panel">
+                    <div id="analyze-result" class="result-content">
+                        <div class="empty-state">
+                            <i class="fas fa-chart-bar"></i>
+                            <p>选择时间范围后点击"开始分析"</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 知识库Tab -->
+        <div class="tab-content" id="knowledge-tab">
+            <div class="knowledge-container">
+                <div class="knowledge-search">
+                    <h3><i class="fas fa-search"></i> 知识搜索</h3>
+                    
+                    <div class="search-box">
+                        <input 
+                            type="text" 
+                            id="knowledge-query" 
+                            placeholder="搜索知识库..." 
+                            class="search-input"
+                        >
+                        <button id="knowledge-search-btn" class="search-btn">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                    
+                    <div class="search-filters">
+                        <label>
+                            <input type="radio" name="doc-type" value="" checked>
+                            全部
+                        </label>
+                        <label>
+                            <input type="radio" name="doc-type" value="feature">
+                            特征
+                        </label>
+                        <label>
+                            <input type="radio" name="doc-type" value="solution">
+                            解决方案
+                        </label>
+                        <label>
+                            <input type="radio" name="doc-type" value="concept">
+                            概念
+                        </label>
+                    </div>
+                </div>
+                
+                <div id="knowledge-result" class="knowledge-result">
+                    <div class="empty-state">
+                        <i class="fas fa-book-open"></i>
+                        <p>输入关键词搜索知识库</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- 状态栏 -->
+    <footer class="status-bar">
+        <div class="container">
+            <div class="status-item">
+                <i class="fas fa-circle status-indicator"></i>
+                <span>系统就绪</span>
+            </div>
+            <div class="status-item">
+                <i class="fas fa-database"></i>
+                <span id="data-info">加载中...</span>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 加载动画 -->
+    <div id="loading-overlay" class="loading-overlay hidden">
+        <div class="spinner"></div>
+        <p>处理中...</p>
+    </div>
+
+    <!-- 通知容器 -->
+    <div id="notification-container" class="notification-container"></div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
+
