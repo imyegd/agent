@@ -42,13 +42,16 @@ class BeamDataAgent:
 可用的工具：
 - query_beam_data: 查询指定时间范围内的束流数据
 - get_data_info: 获取数据集的概要信息
-- analyze_beam_fluctuation: 分析指定时间范围内数据的波动情况，检测异常点（当用户询问"波动"、"异常"、"是否正常"等问题时使用）
+- analyze_beam_fluctuation: 分析指定时间范围内数据的波动情况，检测异常点（纯数据分析，不生成图表）
+- visualize_beam_fluctuation: 分析并可视化束流波动数据，会生成详细的文字报告和可视化图表（当用户需要看图、生成图表、可视化分析时使用）
 
 注意：
 - 时间格式需要是完整的日期时间，如 "2025-08-31 02:00:00"
 - 如果用户只说了日期没说时间，请合理推断（如"两点到三点"指的是凌晨2点到3点）
 - 返回结果时，要突出关键信息，如数据条数、统计信息等
 - 当用户询问数据波动、异常检测、是否超过阈值等问题时，使用 analyze_beam_fluctuation 工具
+- 当用户需要查看图表、生成可视化报告、画图等时，使用 visualize_beam_fluctuation 工具
+- visualize_beam_fluctuation 会自动生成图表，图表会展示给用户，你只需告诉用户分析结果即可
 """
     
     def _add_message(self, role: str, content: str):
@@ -81,7 +84,7 @@ class BeamDataAgent:
         response = self.client.chat.completions.create(**params)
         return response
     
-    def _execute_tool_call(self, tool_call) -> str:
+    def _execute_tool_call(self, tool_call) -> Dict[str, Any]:
         """
         执行工具调用
         
@@ -89,7 +92,9 @@ class BeamDataAgent:
             tool_call: 工具调用对象
         
         Returns:
-            工具执行结果（JSON字符串）
+            包含工具执行结果和元数据的字典：
+            - result_str: JSON格式的结果字符串（用于传给LLM）
+            - images: 生成的图片路径列表（用于前端展示）
         """
         function_name = tool_call.function.name
         function_args = json.loads(tool_call.function.arguments)
@@ -97,15 +102,29 @@ class BeamDataAgent:
         print(f"\n[工具调用] {function_name}")
         print(f"[参数] {json.dumps(function_args, ensure_ascii=False, indent=2)}")
         
+        images = []
+        
         # 执行工具函数
         if function_name in TOOL_FUNCTIONS:
             result = TOOL_FUNCTIONS[function_name](**function_args)
             print(f"[结果] 查询成功，返回 {result.get('count', 0)} 条记录")
-            return json.dumps(result, ensure_ascii=False)
+            
+            # 检查是否有生成的图片
+            if result.get('plot_path'):
+                images.append(result['plot_path'])
+                print(f"[图片] 生成图片: {result['plot_path']}")
+            
+            return {
+                "result_str": json.dumps(result, ensure_ascii=False),
+                "images": images
+            }
         else:
-            return json.dumps({"error": f"未知的工具函数: {function_name}"}, ensure_ascii=False)
+            return {
+                "result_str": json.dumps({"error": f"未知的工具函数: {function_name}"}, ensure_ascii=False),
+                "images": []
+            }
     
-    def chat(self, user_input: str) -> str:
+    def chat(self, user_input: str) -> Dict[str, Any]:
         """
         与用户对话
         
@@ -113,7 +132,9 @@ class BeamDataAgent:
             user_input: 用户输入
         
         Returns:
-            助手回复
+            包含回复内容和附加信息的字典：
+            - response: 助手回复文本
+            - images: 生成的图片路径列表
         """
         # 添加用户消息
         self._add_message("user", user_input)
@@ -124,6 +145,9 @@ class BeamDataAgent:
         # 第一次调用LLM（可能会返回工具调用请求）
         response = self._call_llm(messages, TOOLS)
         assistant_message = response.choices[0].message
+        
+        # 收集所有生成的图片
+        all_images = []
         
         # 检查是否需要调用工具
         max_iterations = 5  # 防止无限循环
@@ -152,11 +176,14 @@ class BeamDataAgent:
             for tool_call in assistant_message.tool_calls:
                 tool_result = self._execute_tool_call(tool_call)
                 
+                # 收集图片
+                all_images.extend(tool_result.get("images", []))
+                
                 # 添加工具调用结果
                 self.conversation_history.append({
                     "role": "tool",
                     "tool_call_id": tool_call.id,
-                    "content": tool_result
+                    "content": tool_result["result_str"]
                 })
             
             # 再次调用LLM，让它基于工具结果生成最终回复
@@ -171,7 +198,10 @@ class BeamDataAgent:
         if not assistant_message.tool_calls:
             self._add_message("assistant", final_response)
         
-        return final_response
+        return {
+            "response": final_response,
+            "images": all_images
+        }
     
     def reset_conversation(self):
         """重置对话历史"""

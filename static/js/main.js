@@ -50,7 +50,7 @@ const chatInput = document.getElementById('chat-input');
 const sendBtn = document.getElementById('send-btn');
 const resetBtn = document.getElementById('reset-btn');
 
-function addMessage(content, type = 'assistant') {
+function addMessage(content, type = 'assistant', images = []) {
     const message = document.createElement('div');
     message.className = `message ${type}-message`;
     
@@ -68,11 +68,85 @@ function addMessage(content, type = 'assistant') {
     
     messageContent.innerHTML = formattedContent;
     
+    // 如果有图片，添加图片展示区域
+    if (images && images.length > 0) {
+        const imageContainer = document.createElement('div');
+        imageContainer.className = 'message-images';
+        imageContainer.style.cssText = 'margin-top: 15px;';
+        
+        images.forEach(imgPath => {
+            const imgWrapper = document.createElement('div');
+            imgWrapper.style.cssText = 'margin-top: 10px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);';
+            
+            const img = document.createElement('img');
+            img.src = imgPath;
+            img.alt = '分析图表';
+            img.style.cssText = 'width: 100%; max-width: 800px; display: block; cursor: pointer;';
+            img.loading = 'lazy';
+            
+            // 点击图片放大查看
+            img.addEventListener('click', () => {
+                openImageModal(imgPath);
+            });
+            
+            // 图片加载失败处理
+            img.onerror = function() {
+                imgWrapper.innerHTML = '<div style="padding: 20px; color: #ff6b6b; text-align: center;"><i class="fas fa-image" style="font-size: 24px;"></i><p>图片加载失败</p></div>';
+            };
+            
+            imgWrapper.appendChild(img);
+            imageContainer.appendChild(imgWrapper);
+        });
+        
+        messageContent.appendChild(imageContainer);
+    }
+    
     message.appendChild(icon);
     message.appendChild(messageContent);
     chatMessages.appendChild(message);
     
     chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+// 图片放大查看模态框
+function openImageModal(imgPath) {
+    // 创建模态框
+    const modal = document.createElement('div');
+    modal.className = 'image-modal';
+    modal.style.cssText = `
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.9);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 10000;
+        cursor: zoom-out;
+    `;
+    
+    const img = document.createElement('img');
+    img.src = imgPath;
+    img.style.cssText = 'max-width: 95%; max-height: 95%; object-fit: contain; border-radius: 4px;';
+    
+    modal.appendChild(img);
+    document.body.appendChild(modal);
+    
+    // 点击关闭
+    modal.addEventListener('click', () => {
+        modal.remove();
+    });
+    
+    // ESC 键关闭
+    const handleEsc = (e) => {
+        if (e.key === 'Escape') {
+            modal.remove();
+            document.removeEventListener('keydown', handleEsc);
+        }
+    };
+    document.addEventListener('keydown', handleEsc);
 }
 
 async function sendMessage() {
@@ -85,6 +159,7 @@ async function sendMessage() {
     
     isProcessing = true;
     sendBtn.disabled = true;
+    showLoading();
     
     try {
         const response = await fetch(`${API_BASE}/api/chat`, {
@@ -96,7 +171,8 @@ async function sendMessage() {
         const data = await response.json();
         
         if (data.success) {
-            addMessage(data.response, 'assistant');
+            // 传递图片数组给 addMessage
+            addMessage(data.response, 'assistant', data.images || []);
         } else {
             addMessage(`错误：${data.error}`, 'assistant');
             showNotification('发送失败', 'error');
@@ -107,6 +183,7 @@ async function sendMessage() {
     } finally {
         isProcessing = false;
         sendBtn.disabled = false;
+        hideLoading();
         chatInput.focus();
     }
 }

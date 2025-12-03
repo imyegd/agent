@@ -53,11 +53,27 @@ def chat():
         
         # 调用 Agent
         agent_instance = get_agent()
-        response = agent_instance.chat(user_message)
+        result = agent_instance.chat(user_message)
+        
+        # 处理图片路径，确保前端可以访问
+        images = []
+        for img_path in result.get('images', []):
+            # 如果是绝对路径，转换为相对路径
+            if os.path.isabs(img_path):
+                # 提取 output 目录下的文件名
+                img_name = os.path.basename(img_path)
+                images.append(f'/output/{img_name}')
+            elif img_path.startswith('output/') or img_path.startswith('output\\'):
+                # 已经是相对路径，添加前导斜杠
+                img_name = os.path.basename(img_path)
+                images.append(f'/output/{img_name}')
+            else:
+                images.append(f'/{img_path}')
         
         return jsonify({
             'success': True,
-            'response': response,
+            'response': result.get('response', ''),
+            'images': images,
             'timestamp': datetime.now().isoformat()
         })
         
