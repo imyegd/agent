@@ -4,27 +4,49 @@ RAG 工具封装 - 供 LLM 调用
 from typing import Dict, Any, List, Optional
 from .knowledge_base import KnowledgeBase
 from .retriever import KnowledgeRetriever
+from .online_retriever import OnlineRetriever
 
 
 # 全局单例，避免重复加载
 _global_retriever = None
+_global_online_retriever = None
 
 
 def get_retriever() -> KnowledgeRetriever:
-    """获取全局检索器实例（单例模式）"""
+    """获取全局检索器实例（单例模式）- 旧版JSON知识库"""
     global _global_retriever
     if _global_retriever is None:
         _global_retriever = KnowledgeRetriever()
     return _global_retriever
 
 
+def get_online_retriever() -> OnlineRetriever:
+    """获取在线检索器实例（单例模式）- 新版FAISS索引"""
+    global _global_online_retriever
+    if _global_online_retriever is None:
+        try:
+            _global_online_retriever = OnlineRetriever()
+            print("使用新版FAISS检索器")
+        except FileNotFoundError as e:
+            print(f"FAISS索引未找到，降级到旧版检索器: {e}")
+            _global_online_retriever = None
+    return _global_online_retriever
+
+
 class RAGTool:
-    """RAG 工具类"""
+    """RAG 工具类 - 混合检索（优先使用FAISS，降级到JSON知识库）"""
     
     def __init__(self):
         """初始化 RAG 工具"""
+        # 尝试使用在线检索器（FAISS）
+        self.online_retriever = get_online_retriever()
+        
+        # 旧版检索器（JSON知识库）作为备份
         self.retriever = get_retriever()
         self.kb = self.retriever.kb
+        
+        # 判断使用哪个检索器
+        self.use_online = self.online_retriever is not None
     
     def search_knowledge(
         self, 
@@ -33,7 +55,7 @@ class RAGTool:
         doc_type: Optional[str] = None
     ) -> Dict[str, Any]:
         """
-        搜索知识库
+        搜索知识库（优先使用FAISS，降级到JSON知识库）
         
         Args:
             query: 查询文本
@@ -44,12 +66,33 @@ class RAGTool:
             搜索结果字典
         """
         try:
+            # 优先使用在线检索器（FAISS）
+            if self.use_online:
+                results = self.online_retriever.search(query, top_k)
+                
+                return {
+                    "success": True,
+                    "query": query,
+                    "results_count": len(results),
+                    "source": "FAISS",
+                    "results": [
+                        {
+                            "content": r["document"],
+                            "score": r["score"],
+                            "metadata": r.get("metadata", {})
+                        }
+                        for r in results
+                    ]
+                }
+            
+            # 降级到旧版检索器
             results = self.retriever.search(query, top_k, doc_type)
             
             return {
                 "success": True,
                 "query": query,
                 "results_count": len(results),
+                "source": "JSON",
                 "results": [
                     {
                         "content": r["document"],
