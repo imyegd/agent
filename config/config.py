@@ -10,7 +10,7 @@ class Config:
     """配置类"""
     
     # ModelScope API配置
-    API_KEY = os.getenv('MODELSCOPE_API_KEY', 'ms-976831f9-525e-430a-82de-f2bf8e2c81bd')
+    API_KEY = os.getenv('MODELSCOPE_API_KEY', 'ms-da777fdb-1e63-4cb2-bf5d-9ec15d4c0355')
     BASE_URL = 'https://api-inference.modelscope.cn/v1'
     MODEL_NAME = 'Qwen/Qwen3-VL-30B-A3B-Instruct'
     
