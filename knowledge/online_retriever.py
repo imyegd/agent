@@ -1,9 +1,19 @@
 """在线检索服务 - 基于离线构建的FAISS索引"""
 import os
+import sys
 import pickle
 from typing import List, Dict, Any, Optional
-from .vector_store import FaissVectorStore
-from .embeddings import create_embedder
+
+# 支持直接运行和作为模块导入
+if __name__ == "__main__":
+    # 直接运行时使用绝对导入
+    sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    from knowledge.vector_store import FaissVectorStore
+    from knowledge.embeddings import create_embedder
+else:
+    # 作为模块导入时使用相对导入
+    from .vector_store import FaissVectorStore
+    from .embeddings import create_embedder
 
 
 class OnlineRetriever:
@@ -190,4 +200,53 @@ def create_retriever(
         OnlineRetriever实例
     """
     return OnlineRetriever(embedder_type=embedder_type, **kwargs)
+
+
+def main():
+    """测试在线检索器"""
+    print("="*60)
+    print("测试在线检索器")
+    print("="*60 + "\n")
+    
+    try:
+        # 创建检索器
+        retriever = OnlineRetriever()
+        
+        # 统计信息
+        stats = retriever.get_stats()
+        print("索引统计:")
+        print(f"  文档数: {stats['total_documents']}")
+        print(f"  维度: {stats['dimension']}")
+        print(f"  来源文件: {stats.get('source_file_count', 0)}")
+        
+        # 测试查询
+        test_queries = ["您是否需要我基于这些分类，为您设计一个用于故障排查的“逻辑树”或知识库架构模板？", "加速器", "二次束流"]
+        
+        for query in test_queries:
+            print(f"\n查询: {query}")
+            print("-" * 40)
+            
+            results = retriever.search(query, top_k=3)
+            
+            for i, result in enumerate(results, 1):
+                doc = result['document']
+                score = result['score']
+                source = result.get('metadata', {}).get('source_file', 'Unknown')
+                
+                preview = doc[:100] + "..." if len(doc) > 100 else doc
+                print(f"[{i}] {score:.4f} | {source}")
+                print(f"    {preview}\n")
+        
+        print("="*60)
+        print("测试完成!")
+        print("="*60)
+        
+    except Exception as e:
+        print(f"错误: {e}")
+        import traceback
+        traceback.print_exc()
+
+
+if __name__ == "__main__":
+    main()
 
