@@ -40,7 +40,6 @@ class PdfParser(BaseParser):
                 
             doc.close()
             
-            # 清理文本
             text = text.strip()
             
             if not text:
