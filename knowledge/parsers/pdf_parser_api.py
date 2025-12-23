@@ -142,7 +142,7 @@ if __name__ == "__main__":
     parser = MinerUPdfParser()
     
     file_path = sys.argv[1] if len(sys.argv) > 1 else \
-                "knowledge\data\电子枪单能电子束流强度稳定装置的研制_郝绿原.pdf"
+                "knowledge\data\HLSⅡ新的注入器束流强度测量系统_程超才.pdf"
     filename = os.path.basename(file_path)
     output_dir = "knowledge/parsers/test_output"
     
