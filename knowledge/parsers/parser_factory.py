@@ -9,9 +9,31 @@ from .pdf_parser import PdfParser
 class ParserFactory:
     """文档解析器工厂类"""
     
+    @staticmethod
+    def _get_pdf_parser():
+        """动态选择PDF解析器 - 优先API，降级本地"""
+        # 检查是否配置了MinerU API
+        api_key = os.getenv("MINERU_API_KEY")
+        
+        if api_key:
+            try:
+                from .pdf_parser_api import HybridPdfParser
+                print("[ParserFactory] 使用MinerU API解析器（带本地降级）")
+                return HybridPdfParser(
+                    api_key=api_key,
+                    use_api=True,
+                    fallback_to_local=True
+                )
+            except Exception as e:
+                print(f"[ParserFactory] API解析器初始化失败，使用本地: {e}")
+        
+        # 使用本地PyMuPDF
+        print("[ParserFactory] 使用本地PyMuPDF解析器")
+        return PdfParser()
+    
     _parsers = {
         '.txt': TxtParser,
-        '.pdf': PdfParser,
+        '.pdf': None,  # 动态选择
     }
     
     @classmethod
@@ -28,6 +50,16 @@ class ParserFactory:
         _, ext = os.path.splitext(file_path)
         ext = ext.lower()
         
+        # 对于PDF，动态选择
+        if ext == '.pdf':
+            try:
+                parser = cls._get_pdf_parser()
+                return parser.parse(file_path)
+            except Exception as e:
+                print(f"解析文档失败 {file_path}: {e}")
+                return None
+        
+        # 其他文件类型
         parser_class = cls._parsers.get(ext)
         
         if parser_class is None:
