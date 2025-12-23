@@ -6,6 +6,10 @@ import time
 import uuid
 import zipfile
 import io
+from dotenv import load_dotenv
+
+# 加载.env文件
+load_dotenv()
 
 if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
@@ -17,13 +21,17 @@ else:
 class MinerUPdfParser(BaseParser):
     """MinerU PDF解析器 - 批量上传模式"""
     
-    TOKEN = "eyJ0eXBlIjoiSldUIiwiYWxnIjoiSFM1MTIifQ.eyJqdGkiOiI4MDMwMDgyNiIsInJvbCI6IlJPTEVfUkVHSVNURVIiLCJpc3MiOiJPcGVuWExhYiIsImlhdCI6MTc2NjQ2MTIxNCwiY2xpZW50SWQiOiJsa3pkeDU3bnZ5MjJqa3BxOXgydyIsInBob25lIjoiIiwib3BlbklkIjpudWxsLCJ1dWlkIjoiY2MxNjM0OTgtZjMzMS00MzEyLWFmNWUtYzRiYWM3OTJjYjFlIiwiZW1haWwiOiIiLCJleHAiOjE3Njc2NzA4MTR9.ausV9wRi16RAsWrU3PfWvz0I9ViIMTcMQVMeWc_U4mSNwoL08h8Euhtt05biM0xpHHat34fAff16wTyxioWg9w"
     BASE_URL = "https://mineru.net/api/v4"
     
     def __init__(self):
+        # 从环境变量读取API Key
+        api_key = os.getenv("MINERU_API_KEY")
+        if not api_key:
+            raise ValueError("未设置 MINERU_API_KEY 环境变量，请在 .env 文件中配置")
+        
         self.header = {
             "Content-Type": "application/json",
-            "Authorization": f"Bearer {self.TOKEN}"
+            "Authorization": f"Bearer {api_key}"
         }
     
     def _upload_file(self, file_path):
@@ -134,7 +142,7 @@ if __name__ == "__main__":
     parser = MinerUPdfParser()
     
     file_path = sys.argv[1] if len(sys.argv) > 1 else \
-                "knowledge\data\95MeV／u的~（12）C炮弹产生的二次束流强度研究_杨永锋.pdf"
+                "knowledge\data\电子枪单能电子束流强度稳定装置的研制_郝绿原.pdf"
     filename = os.path.basename(file_path)
     output_dir = "knowledge/parsers/test_output"
     

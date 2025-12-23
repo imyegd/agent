@@ -1,9 +1,13 @@
 """解析器工厂"""
 import os
 from typing import Optional
+from dotenv import load_dotenv
 from .base_parser import BaseParser
 from .txt_parser import TxtParser
 from .pdf_parser import PdfParser
+
+# 加载环境变量
+load_dotenv()
 
 
 class ParserFactory:
@@ -13,22 +17,19 @@ class ParserFactory:
     def _get_pdf_parser():
         """动态选择PDF解析器 - 优先API，降级本地"""
         # 检查是否配置了MinerU API
-        api_key = os.getenv("MINERU_API_KEY")
+        mineru_api_key = os.getenv("MINERU_API_KEY")
         
-        if api_key:
+        if mineru_api_key:
             try:
-                from .pdf_parser_api import HybridPdfParser
-                print("[ParserFactory] 使用MinerU API解析器（带本地降级）")
-                return HybridPdfParser(
-                    api_key=api_key,
-                    use_api=True,
-                    fallback_to_local=True
-                )
+                from .pdf_parser_api import MinerUPdfParser
+                print("[ParserFactory] 使用 MinerU API 解析器")
+                return MinerUPdfParser()
             except Exception as e:
-                print(f"[ParserFactory] API解析器初始化失败，使用本地: {e}")
+                print(f"[ParserFactory] MinerU API 初始化失败: {e}")
+                print("[ParserFactory] 降级到本地 PyMuPDF 解析器")
         
-        # 使用本地PyMuPDF
-        print("[ParserFactory] 使用本地PyMuPDF解析器")
+        # 默认使用本地PyMuPDF
+        print("[ParserFactory] 使用本地 PyMuPDF 解析器")
         return PdfParser()
     
     _parsers = {
