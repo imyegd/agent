@@ -4,6 +4,16 @@
 from typing import List, Union
 import numpy as np
 from abc import ABC, abstractmethod
+import os
+import sys
+
+# 添加项目根目录到路径
+current_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.dirname(current_dir)
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
+from config.config import Config
 
 
 class BaseEmbedder(ABC):
@@ -75,22 +85,36 @@ class SimpleEmbedder(BaseEmbedder):
 class APIEmbedder(BaseEmbedder):
     """使用 API 进行 Embedding（如 OpenAI, ModelScope）"""
     
-    def __init__(self, api_key: str, base_url: str, model: str = "text-embedding-v1"):
+    def __init__(
+        self, 
+        api_key: str = None,
+        base_url: str = None, 
+        model: str = None
+    ):
         """
         初始化 API Embedder
         
         Args:
-            api_key: API密钥
-            base_url: API基础URL
-            model: Embedding模型名称
+            api_key: API密钥 (默认从配置文件读取)
+            base_url: API基础URL (默认从配置文件读取)
+            model: Embedding模型名称 (默认从配置文件读取)
         """
-        self.api_key = api_key
-        self.base_url = base_url
-        self.model = model
+        # 从配置文件获取默认值
+        embedding_config = Config.get_embedding_config()
+        
+        self.api_key = api_key or embedding_config['api_key']
+        self.base_url = base_url or embedding_config['base_url']
+        self.model = model or embedding_config['model']
+        
+        if not self.api_key:
+            raise ValueError(
+                "未配置 API Key！\n"
+                "请在 .env 文件中设置: MODELSCOPE_API_KEY=your-token-here"
+            )
         
         try:
             from openai import OpenAI
-            self.client = OpenAI(api_key=api_key, base_url=base_url)
+            self.client = OpenAI(api_key=self.api_key, base_url=self.base_url)
         except ImportError:
             raise ImportError("需要安装 openai 包: pip install openai")
     
@@ -109,8 +133,9 @@ class APIEmbedder(BaseEmbedder):
         
         try:
             response = self.client.embeddings.create(
+                model=self.model,
                 input=texts,
-                model=self.model
+                encoding_format="float"
             )
             
             # 提取 embedding 向量
@@ -124,26 +149,33 @@ class APIEmbedder(BaseEmbedder):
 class HybridEmbedder(BaseEmbedder):
     """混合 Embedder - 优先使用API，失败时降级到简单方法"""
     
-    def __init__(self, api_key: str = None, base_url: str = None, model: str = "text-embedding-v1"):
+    def __init__(
+        self, 
+        api_key: str = None, 
+        base_url: str = None, 
+        model: str = None
+    ):
         """
         初始化混合 Embedder
         
         Args:
-            api_key: API密钥（可选）
-            base_url: API基础URL（可选）
-            model: Embedding模型名称
+            api_key: API密钥（可选，默认从配置文件读取）
+            base_url: API基础URL（可选，默认从配置文件读取）
+            model: Embedding模型名称（可选，默认从配置文件读取）
         """
         self.api_embedder = None
         self.simple_embedder = SimpleEmbedder()
         
-        if api_key and base_url:
-            try:
-                self.api_embedder = APIEmbedder(api_key, base_url, model)
-                print("使用 API Embedder")
-            except Exception as e:
-                print(f"API Embedder 初始化失败，将使用简单方法: {e}")
-        else:
-            print("未提供API配置，使用简单TF-IDF方法")
+        # 尝试初始化 API Embedder（会自动从配置文件读取）
+        try:
+            self.api_embedder = APIEmbedder(api_key, base_url, model)
+            print(f"使用 API Embedder (ModelScope) - 模型: {self.api_embedder.model}")
+        except ValueError as e:
+            print(f"API 配置不完整: {e}")
+            print("将使用简单 TF-IDF 方法")
+        except Exception as e:
+            print(f"API Embedder 初始化失败: {e}")
+            print("将使用简单 TF-IDF 方法")
     
     def fit(self, corpus: List[str]):
         """训练简单向量化器（API方法不需要训练）"""
