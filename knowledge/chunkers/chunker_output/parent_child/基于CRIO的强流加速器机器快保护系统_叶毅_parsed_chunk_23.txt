@@ -1,0 +1,9 @@
+以及 3 个子 VI 共同完成 EPICS 与 LabVIEW 的数据交互功能。LabVIEW 和 EPICS 系统数据交互的示意图如图 4 所示。
+
+强流加速器控制系统机器快保护系统OPI软件采用LabVIEW开发环境，使用CaLab接口工具实现，使用了3
+
+个最主要的子 VI，分别为 CaLabPut.vi、CaLabGet.vi 以及 CaLabEvent.vi。 其 中 CaLabPut.vi、 CaLabGet.vi 实 现对数据读/写操作，其功能分别对应于EPICS中的caput和 caget 函 数 ， CaLabEvent. vi 能 够 创 建 用 户 事 件 。 在LabVIEW 开发环境使用 CaLab 接口库中相应的子 VI 就可完成对EPICS PV数据的所有操作。
+
+![](images/3331b352c1c4eab3cb5ef5861e507b2551602246e3a67b1af3813c2a0901b0c7.jpg)  
+Fig.4 Communication between LabVIEW and EPICS by CALab   
+图4 CALab实现 EPICS和La

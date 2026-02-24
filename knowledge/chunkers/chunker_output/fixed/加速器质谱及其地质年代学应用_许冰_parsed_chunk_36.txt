@@ -1,0 +1,20 @@
+repsilon t\right) / \Lambda_ {i}} \left(1 - \mathrm {e} ^ {- (\lambda + \rho \varepsilon / \Lambda_ {i}) t}\right) (1 0) \\ \end{array}
+$$
+
+$z _ { 0 }$ 是起始屏蔽深度 $( z _ { 0 } = \varepsilon T _ { \exp }$ ）；对于表层样品$\left( z _ { 0 } - T _ { \mathrm { e x p } } = 0 \right.$ ）且继承组分可以忽略和散裂产率占主导的情况下，暴露年龄可以用公式（11）计算：
+
+$$
+T _ {\exp} = \frac {1}{\lambda + \frac {\rho \varepsilon}{\Lambda_ {i}}} \ln \left(1 - \frac {N _ {\text {t o t a l}} (t , z) \times \left(\lambda + \frac {\rho \varepsilon}{\Lambda_ {i}}\right)}{\sum P _ {i} (z)}\right) \tag {11}
+$$
+
+如果在介子成因和热中子产率占相当产率时，不能用公式（11）计算暴露年龄，只能用公式（10）进行计算。
+
+在长时间稳定侵蚀速率的极端情况下，如果侵蚀剥离量和产率达到平衡，宇成核素的浓度不再随时间变化，即达到饱和状态。如果 $T _ { \mathrm { e x p } } { \gg } 1 ( 1 { + } \rho \varepsilon / A _ { i } )$ ）时，
+
+对于 表 层 样 品 $\left( z _ { 0 } - \mathrm { e } T _ { \mathrm { e x p } } = 0 \right) ,$ ），继 承 组 分 可 忽 略$N _ { \mathrm { i n h } } = 0$ ）时，则浓度表示如下：
+
+$$
+N _ {\text {t o t a l}} (z) = \sum_ {i} \frac {P _ {i}}{\lambda + \rho \varepsilon / \Lambda_ {i}} \tag {12}
+$$
+
+在产率 $( \boldsymbol {

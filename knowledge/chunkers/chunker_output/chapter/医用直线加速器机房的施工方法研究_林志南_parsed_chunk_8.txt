@@ -1,0 +1,36 @@
+# 2.2.2 采用扣件式脚手架立杆间距为 $5 0 0 \mathrm { m m } \times$ 500mm时
+
+最大支座力
+
+$$
+N = 1. 1 q _ {1} = 1. 1 \times 0. 5 0 0 \times 1 8. 8 4 4 = 1 8. 6 6 \mathrm {k N}
+$$
+
+以3跨连续梁为计算单元，主龙骨的集中力为次龙骨支座力 $P { = } 1 0 . 3 6 4 \mathrm { k N }$ ，此时主龙骨的计算简图如图6所示。
+
+![](images/9789160ecda5b5386dab4e7ea597e076cd6f1b417474a03e61a4cbf29d1bd5a7.jpg)  
+图6 主龙骨的计算简图
+
+对图6进行求解，即可获得主龙骨的支座反力、弯矩、剪力及位移分布图，分别如图7～图10所示。
+
+![](images/93870b2152243451c2ba87a7aee4433f414104a1e0544d76368da6e163d9ba35.jpg)  
+图7 主龙骨的支座反力
+
+![](images/9e3d58a3ade3d37a263b3ec32eb2e6c8dd28d9e7a5ffe4268705e2bf42fad126.jpg)  
+图8 主龙骨的弯矩
+
+![](images/91adceb23393a501818bd5e7e5a021f5c0081a9796a8cb9ac0dd17e251a3613b.jpg)  
+图9 主龙骨的剪力
+
+![](images/df240a279cb9b0a942d84debfdb59a66b3d65efe5274c34f91bba6108db6f2bb.jpg)  
+图10 主龙骨的位移
+
+由图7～图10可知，主龙骨的最大支座反力、弯矩及变形分别为56.71kN、 $4 . 2 6 \mathrm { k N } \cdot \mathrm { m }$ 和$0 . 1 0 0 \mathrm { m m }$ 。
+
+抗弯计算强度公式为
+
+$$
+f = M / W
+$$
+
+主龙骨材料选择为Q235钢材，当抗弯强度取最大值 $2 1 5 . 0 \mathrm { N } / \mathrm { m m } ^ { 2 }$ 时， $W _ { \mathrm { m i n } } { = } 4 . 2 6 \times 1 0 6 / 2 1 5 { = }$ $1 9 . 8 1 3 \mathrm { c m } ^ { 3 }$ 。可见，选用10#工字钢或槽钢、8#槽钢或方钢管、 $8 0 \mathrm { m m } \times 8 0 \mathrm { m m } \times 3 . 0 \mathrm { m m }$ 方管时，均可满足强度要求。由于顶托梁的最大挠度小于$5 0 0 . 0 / 4 0 0$ ，满足变形要求。

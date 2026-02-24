@@ -1,0 +1,9 @@
+charge dominated beam dynamics in an isochronous AVF cyclotron[C]//Proceedings of International Conference on Particle Accelerators. USA: IEEE, 1993: 3639-3641.   
+[20] YANG Jianjun, ZHANG Tianjue, LIN Yuzheng, et al. High performance computation on beam dynamics problems in high intensity compact cyclotrons[C]/Special Issue on the First Chinese Particle Accelerator Conference (2010). [S.1]: [s.n.], 2010.   
+[21] YANG J J, ADELMANN A, HUMBEL M, et al. Beam dynamics in high intensity cyclotrons including neighboring bunch effects: Model, implementation, and application[J]. Physical Review Special Topics: Accelerators and Beams, 2010, 13(6): 064201.   
+[22] ZHANG T, LU Y, ZHONG J, et al. Design, construction, installation, mapping, and shimming for a 416-ton compact cyclotron magnet[J]. IEEE Transactions on Applied Superconductivity, 2016, 26(4): 4101605.   
+[23] 毕远杰. 强流回旋加速器中束流损失和辐射场研究[D]. 北京: 清华大学, 2011.  
+[24] WANG C, ADELMANN A, YIN Z G, et al. Dark current and multipacting capabilities in OPAL: Model benchmarks and applications[J]. Proceedings of ICAP, 2012. doi:10.48550/arXiv.1208.6577.   
+[25] ADELMANN A, YANG J J, CONRAD J M, et al. Beam dynamics simulation for the high intensity DAEδALUS cyclotrons[J]. Nucl Instrum Methods Phys Res A, 2013, 704: 84-91.   
+[26] BAUMGARTEN C, SEIDEL M, ADELMANN A, et al. Production of a 1.3 MW proton beam at PSI[C]//Proceedings of IPAC'10. Kyoto, Japan: [s. n.], 2010.   
+[27] 宋国芳, 张天爵, 贾先禄, 等. 小型医用回旋加速器工程化、标准化技术研究[J]. 原子能科学技术, 2019, 53(9): 1665-1669.

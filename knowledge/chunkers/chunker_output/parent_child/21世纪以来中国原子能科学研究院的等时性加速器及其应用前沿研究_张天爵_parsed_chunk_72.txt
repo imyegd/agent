@@ -1,0 +1,11 @@
+$100\mathrm{km}$ 。加工中的垫补线圈、磁极线圈如图20所示。
+
+![](images/a615b612afc8125c71836209879030055c5a6b457149918c8d682122f54859d2.jpg)  
+图19 CYCIAE-100B整机示意图  
+Fig. 19 Schematic diagram of CYCIAE-100B
+
+![](images/5a8968d7e69977badb46f730ee79f0824ff03b0cda2be8f847e9d3fbae0c7670.jpg)
+
+![](images/74d420547bd8929092fce4cac488295191ae38217c66b8cc8fcd6cf46e1953c4.jpg)  
+图20 绕制加工中的垫补线圈与磁极线圈  
+Fig. 20 Shimming and pole coils in winding process

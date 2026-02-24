@@ -1,0 +1,4 @@
+A new solution for cost effective, high average power (2 GeV, 6 MW) proton accelerator and its R&D activities[C]/22nd International Conference on Cyclotrons and their Applications (CYC2019). Cape Town: [s. n.], 2019.   
+[17] BAARTMAN R A. Intensity limitations in compact $\mathsf{H}^-$ cyclotrons[C]/Proceedings of 14th International Conference on Cyclotrons and Their Applications (CYCLOTRONS 95). Cape Town: [s. n.], 1995.   
+[18] ADAM S. Calculation of space charge effects in isochronous cyclotrons[J]. IEEE Transactions on Nuclear Science, 2007, 32(5): 2507-2509.   
+[19] KOSCIELNIAK S R, ADAM S R. Simulation of space

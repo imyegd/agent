@@ -1,0 +1,7 @@
+reactor based on Venus-II criticality experimental facility and its verification[J]. Atomic Energy Science and Technology, 2025, 59(3): 644-655(in Chinese).   
+[12] 梁淑红, 朱庆福, 史永谦, 等. 跳源法测量 ADS 启明星 II 号的次临界度及动态特性[J]. 原子能科学技术, 2018, 52(2): 302-306.  
+LIANG Shuhong, ZHU Qingfu, SHI Yongqian, et al. Sub-critical reactivity and dynamic characteristic measured by source-Jerk method on Venus-II [J]. Atomic Energy Science and Technology, 2018, 52(2): 302-306(in Chinese).   
+[13] 姜韦, 顾龙, 朱庆福, 等. 启明星 2 号轻水堆燃料棒价值实验和模拟研究[J]. 原子能科学技术, 2018, 52(9): 1665-1670.  
+JIANG Wei, GU Long, ZHU Qingfu, et al. Experiment and simulation study for fuel rod worth of Venus-II light water reactor[J]. Atomic Energy Science and Technology, 2018, 52(9): 1665-1670(in Chinese).   
+[14] 刘洋, 周琦, 朱庆福, 等. 周期法测量启明星 II 号散裂靶材料的反应性价值[J]. 原子能科学技术, 2018, 52(10): 1769-1773.  
+LIU Yang, ZHOU Qi, ZHU Qingfu, et al. Reactivity measurement of solid spallation target in Venus-II by period method[J]. Atomic Energy Science and Technology, 2018, 52(10): 1769-177

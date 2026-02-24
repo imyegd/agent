@@ -1,0 +1,9 @@
+# 仿真工具
+
+与 专 用 集 成 电 路 （ application  specific  integratedcircuit, ASIC）和现场可编程门阵列（field programmablegate array, FPGA）相比，面向 CIM 的仿真工具较为稀缺，尤其是跨架构、电路和器件的多层次仿真工具，而且传统 SPICE 工具对 CIM 架构进行仿真耗时极长[22]，
+
+为了提升设计与开发效率、缩短芯片开发周期，研究者提出了多种面向 CIM架构的仿真工具，这些工具支持在架构、阵列和器件级别进行配置和仿真，报告准确性和其他性能信息，在 CIM 设计空间探索、算法映射、器件仿真和硬件/算法协同设计方面发挥着重要作用。表 2给出了这些工具的对比，其中器件类别包括静态随机存取存储器（static random access memory, SRAM）和忆阻器。
+
+表2     CIM 仿真工具对比  
+
+<table><tr><td>工具</td><td>器件类别</td><td>仿真级别</td><td>测试负载</td></tr><tr><td>NeuroSim[23]</td><td>SRAM/忆阻

@@ -1,0 +1,21 @@
+# Frontier Research on Isochronous Accelerator and Its Applications at China Institute of Atomic Energy Since the 21st Century
+
+ZHANG Tianjue, FU Wei, WANG Chuan, YIN Zhiguo, JIA Xianlu, AN Shizhong,
+
+LI Pengzhan, ZHOU Hongji, SONG Guofang, CHEN Xinyu
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: Isochronous cyclotrons hold an indispensable position in national security and the science and technology innovation system. In the new era, there is an urgent demand for breakthroughs in compact structure, high energy, and high beam intensity of isochronous accelerators in major aerospace projects, frontier scientific research, and the medical and healthcare. Since 2000, China Institute of Atomic Energy (CIAE) has addressed the globally recognized fundamental technical challenge of insufficient focusing strength in isochronous accelerators. Through innovations in principle, engineering breakthroughs, and the systematic development of compact cyclotrons, CIAE has promoted the application of these accelerators in key fields, leading the development direction of compact high-intensity and superconducting cyclotrons both domestically and internationally. A total of nine cyclotrons of various models and energy levels—covering both high-intensity and superconducting types—have been designed and built, forming a relatively complete R&D system. CIAE has thus
+
+become an internationally influential center for isochronous accelerator research, focusing on pioneering research in three main directions: ultra-compact, ultra-lightweight, and high-power isochronous cyclotrons based on LTS and HTS technology.
+
+Key words: isochronous accelerator; strong focusing; high intensity; high-temperature superconductivity
+
+等时性加速器自20世纪初诞生以来，已走过近百年发展历程[1]。作为粒子加速器的重要分支，等时性加速器因其结构紧凑、束流连续、运行稳定等特点，在国家安全、核能开发、空间辐照模拟、医用放射性同位素生产、中子源以及核物理基础研究等领域发挥着不可替代的作用[2]。代表性装置包括传统的AVF(azimuthallyvaryingfield)紧凑型回旋加速器以及近年来快速发展的连续波固定场交变梯度加速器(continuouswave fixed fieldalternating gradient)等。
+
+进入21世纪，传统等时性加速器设计方法在能量上限、空间电荷制约的流强和结构紧凑性等方面均受到明显制约，难以满足多领域重大应用的迫切需求。聚焦力不足是等时性加速器发展全球共同面临的根本性技术难题，国际上普遍认为AVF紧凑型直边扇回旋加速器的能量上限在 $50\sim$ 70MeV范围内[3-4]，分离扇等时性加速器的能量上限为 $1\mathrm{GeV}^{[5 - 6]}$ 。近20年来，中国原子能科学研究院(简称原子能院)致力于从理论方法和工程实践上有效提升聚焦力，挑战长期制约等时性加速器发展的“卡脖子”问题[3]。并在该领域取得了一系列的原创性突破，创新性建立了宽径向范围变梯度磁场的强聚焦理论方法[7]，推动了等时性加速器突破能量极限和大幅提升流强的双重跨越；建成了国际首台能量达 $100\mathrm{MeV}$ 的紧凑型强流回旋加速器[8]；形成了6个能量等级的紧凑型强流回旋加速器型谱化、标准化发展[9]。与此同时，近10年来，强聚焦理论与低温超导和高温超导新技术的结合，开拓了紧凑型超导等时性加速器发展的新方向，完全自主建成了我国首台 $230\mathrm{MeV}$ 超导回旋加速器，用于空间辐射环境地面模拟和癌症质子治疗[10]；并分别在国家安全重大基础项目和国家重大科学仪器项目的支持下，研发出超轻型质子回旋加速器[11]和超紧凑 $\alpha$ 回旋加速器[12]；还完成了 $2\mathrm{GeV}$ 高能量效率、高平均功率的等时性加速器设计方案和关键技术设计验证[13]。一批
+
+具有更高功率密度、更高能量效率、更小设备体积的等时性加速器创新研究正在快速推进，引领21世纪等时性加速器朝着超紧凑、超轻型、高功率的方向发展。
+
+本文将系统回顾21世纪以来，原子能院等时性加速器在原创理论、大型工程与创新应用方面的代表性成果，展示等时性加速器的前沿科技进展和在新时期国家战略需求中的广阔发展前景。

@@ -1,0 +1,9 @@
+Physics, 2017, 19(5): 055004.   
+崔保群, 唐兵, 马鹰俊, 等. 北京放射性核束装置在线同［8］位素分离器的研制[J]. 原子能科学技术, 2019, 53(9):1572-1576.
+
+CUI Baoqun, TANG Bing, MA Yingjun, et al. Development  of  Beijing  Radioactive  Ion  Beam  Facility  Isotope Separator  On-line[J]. Atomic Energy  Science  and   Technology, 2019, 53(9): 1572-1576(in Chinese).   
+ZHANG T, LI Z, CHU C. CYCIAE-100, a 100 MeV H−［9］ cyclotron for RIB production[J]. Nuclear Instruments and Methods  in  Physics  Research  B, 2007, 261(1/2): 1027- 1031.   
+张华顺, 主编. 万春侯, 等编. 离子源和大功率中性束［10］ 源[M]. 北京: 原子能出版社, 1987: 458-459.   
+WEBBER  R  C,  HOJVAT  C. Measurement of  the   elec-［11］ tron loss cross sections for negative hydrogen ions on carbon  at  200  MeV[J]. IEEE Transactions  on  Nuclear   Science, 1979, 26(3): 4012-4014.   
+姚红娟. CYCIAE-100回旋加速器轴向注入与中心区［12］理论和实验研究[D]. 北京: 清华大学, 2008.  
+ADELMANN  A,  KRAUS  C,  INEICHEN  Y,  et  al.  The［13］ OPAL  (Object  Oriented  Parallel  Accelerator  Library) Framework,  technical  report  PSI-PR-08-02[R].  Switzerland: Paul Scherre

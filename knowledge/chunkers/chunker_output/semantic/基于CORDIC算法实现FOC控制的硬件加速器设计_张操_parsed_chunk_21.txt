@@ -1,0 +1,8 @@
+![](images/efe478302d62de8afdc188f6b2fac6117ab8f7945912f946353332a6896bb698.jpg)  
+图9 反Clarke变换原理图
+
+$V_{a} 、 V_{\beta}$ 是反 park 变换最终的运算结果，将其作为反 clarke 变换的输入，最终得到 $V_{\mathrm{r1}} 、 V_{\mathrm{r2}} 、 V_{\mathrm{r3}}$ 的结果，如式（15）所示：
+
+$$
+\left\{ \begin{array}{l} V _ {\mathrm {r} 1} = V _ {\alpha} \\ V _ {\mathrm {r} 2} = \left(V _ {\beta} + \sqrt {3} V _ {\alpha}\right) / 2 \\ V _ {\mathrm {r} 3} = \left(- V _ {\beta} - \sqrt {3} V _ {\alpha}\right) / 2 \end{array} \right. \tag {15}
+$$

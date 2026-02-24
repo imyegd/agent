@@ -1,0 +1,12 @@
+>电机选择</td></tr><tr><td>Machine_op</td><td>Input</td><td>1</td><td>运算模式选择</td></tr><tr><td>Machine Decode</td><td>Input</td><td>6</td><td>操作码编码</td></tr><tr><td>Target_speed</td><td>Output</td><td>32</td><td>电机目标转速</td></tr><tr><td>Actual_speed</td><td>Output</td><td>32</td><td>电机实际转速</td></tr><tr><td>Common_value</td><td>Output</td><td>32</td><td>普通计算值</td></tr><tr><td>Interrupt</td><td>Output</td><td>11</td><td>计算中断反馈</td></tr></table>
+
+图13是上位机测试记录的电机加减速FOC控制波形图，转速从 $300\mathrm{r / min}$ 平滑加速并稳定至 $3000\mathrm{r / min}$ ，然后再减速至 $300\mathrm{r / min}$ 。转速控制误
+
+差在 $1 \%$ 以内，优于行业典型 $3 \%$ 的标准。且转矩随转速在 $0.4 \sim 0.8 \mathrm{~N}$ 之间波动，在低转速下仍能保持转矩稳定，验证了 CORDIC 对角度估算的精度较高。
+
+![](images/db30cf4081cd7d274c24e019b35df640dcb5b2ef87d34d2b2019c00498e2454b.jpg)  
+图13 电机转速控制波形图
+
+由于上位机采样频率限制，实际电流波形用实际示波器记录，如图14所示。电流波形谐波很小，从示波器上读取到电流总谐波失真（Total Harmonic Distortion, THD）的值在 $1.5\% \sim 2.0\%$ 之间。相位电流纹波小于 $5\%$ ，动态电流响应时间小于 $100~\mu \mathrm{s}$ ，均远低于行业标准。
+
+![](images/560f535fc46389315e2cb7d6cd11eee873543fb85880c003cdf565e324f7bbae.j

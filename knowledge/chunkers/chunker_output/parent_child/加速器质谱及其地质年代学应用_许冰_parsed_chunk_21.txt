@@ -1,0 +1,4 @@
+表 1 常见商业加速器质谱的分类  
+Table1 Classificationofcommercialacceleratormassspectrometer   
+
+<table><tr><td>能量</td><td>分类</td><td>典型大小</td><td>面积</td><td>可测量核素</td><td>特点</td></tr><tr><td>6.0 MV</td><td>大型</td><td>20×15 m</td><td>300 m²</td><td>¹⁴C、¹⁰Be、²⁶Al、³⁶Cl、¹²⁹I</td><td>能量高,可直接分辨¹⁰Be、³⁶Cl等核素</td></tr><tr><td>3.0 MV</td><td>中型</td><td>16×12 m</td><td>200 m²</td><td>¹⁴C、¹⁰Be、²⁶Al、¹²⁹I</td><td>可测量³⁶Cl外的所有核素</td></tr><tr><td>1.0 MV</td><td>小型</td><td>7.5×5.0 m</td><td>40 m²</td><td>¹⁴C、¹⁰Be、²⁶Al、¹²⁹I、锕系核素</td><td

@@ -1,0 +1,55 @@
+# 4.3 埋藏年代学
+
+宇宙成因核素埋藏年代定年原理是，定年矿物在地表暴露一段时间，矿物中累积了一定量的宇宙成因核素，而后发生快速埋藏，屏蔽宇宙射线的作用，矿物中不再形成新的宇宙成因核素，样品中的宇宙成因核素含量依其半衰期随时间衰变减少。埋藏年龄相对于暴露年龄而言，由于风化和侵蚀只对表层物质起作用，因此埋藏物质和表层物质的侵蚀一般影响较小。
+
+一种情况是，样品长期暴露在稳定地球表面，其起始产率 $( P _ { i } ( 0 )$ ）和侵蚀速率 ${ \bf \Xi } ( \bf \Lambda _ { \varepsilon } \delta )$ ）达到平衡状态，则样品中宇宙成因核素埋藏前的浓度 $| N _ { i }$ ）为：
+
+$$
+N _ {i} = \frac {P _ {i} (0)}{\lambda_ {i} + \rho \varepsilon / \Lambda_ {i}} \tag {13}
+$$
+
+具体到 $^ { 1 0 } \mathrm { { B e } }$ e和 $^ { 2 6 } \mathrm { A l }$ l：
+
+$$
+N _ {2 6} = \frac {P _ {2 6} (0)}{\lambda_ {2 6} + \rho \varepsilon / \Lambda_ {i}} \tag {14}
+$$
+
+$$
+N _ {1 0} = \frac {P _ {1 0} (0)}{\lambda_ {1 0} + \rho \varepsilon / \Lambda_ {i}} \tag {15}
+$$
+
+另外，如果样品埋藏深度不够，埋藏后还会产生新的宇宙成因核素，则埋藏后的核素浓度变化为：
+
+$$
+N _ {2 6} = \frac {P _ {2 6} (0)}{\lambda_ {2 6} + \rho \varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {2 6} t _ {b}} + \frac {P _ {2 6} (z)}{\lambda_ {2 6}} \left(1 - \mathrm {e} ^ {- \lambda_ {2 6} t _ {b}}\right) \tag {16}
+$$
+
+$$
+N _ {1 0} = \frac {P _ {1 0} (0)}{\lambda_ {1 0} + \rho \varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} + \frac {P _ {1 0} (z)}{\lambda_ {1 0}} \left(1 - \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}}\right) \tag {17}
+$$
+
+因此，通过测量样品中 $^ { 1 0 } \mathrm { { B e } }$ 和 $^ { 2 6 } \mathrm { A l }$ l浓度，以及得到这两种核素在研究区的产率及其随深度的变化，根据公式（16）和（17）就可以得到埋藏年龄 $\left( \mathbf { \sigma } _ { t _ { \mathrm { b } } } \right)$ ）和侵蚀速率。如果样品埋藏足够深且埋藏时间较短（不是远大于核素的半衰期），其埋藏后产率可以忽略不计；另外，在暴露阶段，如果侵蚀速率足够大，侵蚀过程中核素衰变的核素数可以忽略不计（一般情况下满足），则公式（16）和（17）简化为：
+
+$$
+N _ {2 6} = \frac {P _ {2 6} (0)}{\varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {2 6} t _ {\mathrm {b}}} \tag {18}
+$$
+
+$$
+N _ {1 0} = \frac {P _ {1 0} (0)}{\varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} \tag {19}
+$$
+
+因此，对于两个或两个以上宇宙成因核素测量，其核素比值随时间变化为：
+
+$$
+R _ {\mathrm {A B}} \left(t _ {\mathrm {b}}\right) = \frac {C _ {\mathrm {A}} \left(t _ {\mathrm {b}}\right)}{C _ {\mathrm {B}} \left(t _ {\mathrm {b}}\right)} = R _ {\mathrm {A B}} (0) \mathrm {e} ^ {- t _ {\mathrm {b}} \left(\lambda_ {\mathrm {A}} - \lambda_ {\mathrm {B}}\right)} \tag {20}
+$$
+
+则埋藏年龄为：
+
+$$
+t _ {\mathrm {b}} = - \ln \left(\frac {R _ {\mathrm {A B}} \left(t _ {\mathrm {b}}\right)}{R _ {\mathrm {A B}} (0)}\right) / \left(\lambda_ {\mathrm {A}} - \lambda_ {\mathrm {B}}\right) \tag {21}
+$$
+
+公式（20）～（21）中， $R _ { \mathrm { A B } }$ 是两核素 $C _ { \mathrm { { A } } }$ 和 $C _ { \mathrm { B } }$ 的比值，而 $t _ { \mathrm { b } }$ 是埋藏年龄， $\lambda _ { \mathrm { ~ A ~ } }$ 和 $\lambda _ { \mathrm { ~ B ~ } }$ 是两核素的衰变常数； $R _ { \mathrm { A B } } ( 0 )$ 和 $R _ { \mathrm { A B } } \left( \mathrm { \Delta } t _ { \mathrm { b } } \right)$ ）分别是起始时间和测得时间的核素比值。
+
+目前常用的，用于埋藏年龄的核素对包括$^ { 1 0 } \mathrm { B e } - ^ { 2 6 } \mathrm { A l }$ l， $^ { 1 4 } \mathrm { C } - ^ { 1 0 } \mathrm { B e }$ e， $^ { 2 1 } \mathrm { N e } - ^ { 1 0 } \mathrm { B e }$ ， $^ { 2 1 } \mathrm { N e } - ^ { 3 6 } \mathrm { C l }$ l等，其中应用最广泛也是最合适的用于埋藏年龄的核素对是 $^ { 1 0 } \mathrm { { B e } }$ 和 $^ { 2 6 } \mathrm { A l } ^ { [ 5 3 , 5 7 \sim 5 8 ] }$ 。这是由于［59］ ：1）它们产生于同一矿物（石英）中；2）它们产率比值不受纬度和海拔的影响；3）在 岩 石 中 核 素 比 值 随 深 度 变 化 不 大；$4 ) ^ { 2 6 } \mathrm { A l / ^ { 1 0 } B e }$ 的初始比值对侵蚀速率相对不敏感。特征 2）和 3）表明，它们的初始比值，即埋藏前的比值通常能较好确定，近似于地表散裂作用产生的核素比值，特征 3）在不同应用情况下应给予考虑［51，59］ 。

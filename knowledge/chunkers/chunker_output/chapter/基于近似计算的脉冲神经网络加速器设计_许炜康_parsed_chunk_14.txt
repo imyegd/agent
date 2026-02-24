@@ -1,0 +1,28 @@
+# 5.2.3 AxSpike设计实现
+
+经过一系列的实验分析与对比，本节将清晰地呈现出AxSpike在功耗与面积优化方面的显著优势。在脉冲神经网络中，add8u_2LL近似加法器被选中以替代传统的精确加法器，并与原始的脉冲神经网络加速器进行了全面深入的对比。实验数据明确显示，在引入add8u_2LL近似加法器后，AxSpike不仅极大地降低了功耗，而且在维持相对较高计算精度的同时，也实现了面积上的优化。
+
+表4和表5所示是功耗方面的对比数据。
+
+Table 4 Power consumption of full-precision spiking neural network accelerator   
+表 4 完整精度脉冲神经网络加速器功耗  
+
+<table><tr><td>组别</td><td>内部功耗/mW</td><td>开关功耗/mW</td><td>泄露功耗/μW</td><td>总功耗/mW</td><td>占总功耗的百分比/%</td></tr><tr><td>时序电路</td><td>30.10</td><td>2.86</td><td>0.21</td><td>32.96</td><td>53.3</td></tr><tr><td>组合电路</td><td>16.30</td><td>12.60</td><td>0.41</td><td>28.90</td><td>46.7</td></tr><tr><td>总计</td><td>46.40</td><td>15.46</td><td>0.63</td><td>61.86</td><td>100.0</td></tr></table>
+
+在图像分类应用的精度方面，即便引入了近似加法器，AxSpike依然能够保持较高的性能。同时，与完整精度设计下面面积为 $17.2\mathrm{mm}^2$ 相比，近似
+
+精度设计下的面积减小到了 $11.8 \mathrm{~mm}^{2}$ 。表 6 所示为近似精度与完整精度在准确率指标上的比较结果。
+
+Table 5 Power consumption of approximate-precision spiking neural network accelerator   
+表 5 近似精度脉冲神经网络加速器功耗  
+Table 6 Comparison of indicators between approximate-precision and full-precision   
+
+<table><tr><td>组别</td><td>内部功耗/mW</td><td>开关功耗/mW</td><td>泄露功耗/μW</td><td>总功耗/mW</td><td>占总功耗的百分比/%</td></tr><tr><td>时序功耗</td><td>21.70</td><td>1.63</td><td>0.16</td><td>23.33</td><td>60.1</td></tr><tr><td>组合功耗</td><td>9.42</td><td>6.05</td><td>0.27</td><td>15.47</td><td>39.9</td></tr><tr><td>总计</td><td>31.12</td><td>7.68</td><td>0.43</td><td>38.80</td><td>100.0</td></tr></table>
+
+表 6 近似精度与完整精度的指标比较  
+
+<table><tr><td>数据集</td><td>准确率
+(完整精度)/%</td><td>准确率
+(近似精度)/%</td></tr><tr><td>MNIST</td><td>98.44</td><td>94.97</td></tr><tr><td>FMNIST</td><td>87.77</td><td>82.85</td></tr><tr><td>DVS</td><td>91.11</td><td>86.34</td></tr><tr><td>SHD</td><td>65.48</td><td>60.52</td></tr></table>
+
+实验结果表明，在采用add8u_2LL近似加法器后，AxSpike在功耗方面减少了 $37.32\%$ ，在面积方面达成了 $31.26\%$ 的优化。虽然在精度上有所降低（例如，在MNIST数据集上从 $98.44\%$ 下降至 $94.97\%$ ），但AxSpike依旧保持着相对较高的精度，这对于众多应用而言是可以接受的。这表明，通过引入近似计算技术，可以在合理控制准确度损失的前提下，有效降低硬件实现的面积开销，从而提升系统能效并拓展其在资源受限场景中的应用潜力。

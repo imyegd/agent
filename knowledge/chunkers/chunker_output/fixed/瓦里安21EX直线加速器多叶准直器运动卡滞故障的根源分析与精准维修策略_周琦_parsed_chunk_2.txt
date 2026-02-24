@@ -1,0 +1,15 @@
+intenance plans. These strategies can improve the motion performance of the multi leaf collimator, ensure the accuracy of radiation therapy, and provide strong support for the stable operation of the Varian 21EX linear accelerator.
+
+Keywords: Varian 21EX linear accelerator; multi leaf collimator; stuck in exercise; maintenance strategy
+
+DOI:10.16107/j.cnki.mmte.2025.0729
+
+瓦里安21EX直线加速器作为肿瘤放射治疗领域的核心设备，广泛应用于临床实践。其性能的稳定性和精准性直接影响患者的治疗效果与生命安全[1]。多叶准直器是该设备的关键组件之一（外观见图1），负责在放射治疗过程中形成对称或不对称的射野形状，从而精准照射肿瘤靶区。特别是，在调强放射治疗（Intensity Modulated Radiation Therapy，IMRT）和适形放射治疗（Cathode Ray Tube，CRT）中，多叶准直器的动态适形能力至关重要。其通过复杂的机械运动和电气控制，确保射野形状与靶区高度契合，最大限度减少对正常组织的损伤[2]。但是，多叶准直器系统因机械磨损、电气故障及环境因素等引发的运动卡滞问题已成为影响设备稳定性和治疗质量的重要隐患。因此，深入研究多叶准直器运动卡滞故障的根源，并提出有效的维修策略，对于保障放射治疗的精准性和安全性具有重要意义。文章深入分析瓦里安21EX直线加速器多叶准直器运动卡滞故障，全面揭示其故障根源，并提出一套科学、高效的维修策略。
+
+# 1 多叶准直器运动卡滞故障现象
+
+# 1.1 运动速度异常
+
+瓦里安21EX直线加速器的多叶准直器在治疗过
+
+程中，叶片运动速度异常是运动卡滞故障的典型表现之一，具体表现为叶片在运动过程中出现速度变慢、突然停止或速度不均匀等现象。例如，多叶准直器叶片在初始化阶段或执行复杂照射野形状时，会出现明显的速度下降，甚至完全停滞[3]。这种速度异常不仅影响治疗的连续性，还可能导致患者接受剂量分布不均匀，

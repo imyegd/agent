@@ -1,0 +1,15 @@
+# Development and Innovation of Linear Accelerator in China Institute of Atomic Energy
+
+YANG Jinghe, FAN Yuxuan, ZHU Zhibin, ZHANG Lifeng, XIANG Yihuai, WANG Guobao*
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: The linear accelerator is a key technology of nuclear science and technology applications. Since its establishment, China Institute of Atomic Energy (CIAE) has been committed to the research and development of linear accelerator technology, and has a history of more than 70 years of innovative development. It has made great achievements and historic contributions to the multi-disciplinary and multi-application fields at CIAE, which has led to the progress of basic research and application technology of nuclear science and technology in China. After a review of the development history of linear accelerator, this paper focuses on the scientific and technological innovation and application of linear accelerator in the last 10 years. This paper has sorted out the continuous innovative development of the electron linear accelerator and high-intensity proton linear accelerator of CIAE. The electron linear accelerator has evolved from a standardized products to a series of new electron linear accelerators, such as adjustable energy electron linear accelerators and compact size electron linear
+
+accelerators. The high-intensity proton linear accelerator has broken through the construction of multipulse mode experimental platforms and superconducting technology. This paper further explores the future technological trends and strategic directions of the linear accelerator of CIAE, with the aim of continuing to lead innovation and meeting the urgent needs of the rapid development of national nuclear technology in the new era.
+
+Key words: electron linear accelerator; proton linear accelerator; accelerating structure; accelerator technology
+
+直线加速器作为核技术应用的核心装备，在物质结构与材料、核物理等科研领域以及工业无损检测、医疗灭菌、材料改性等应用领域具有不可替代的战略价值。作为我国核科学技术的发祥地，中国原子能科学研究院（简称原子能院）在直线加速器的研究、开发与应用领域发挥着至关重要的作用。从首台自主设计的 $30\mathrm{MeV}$ 电子直线加速器到型谱化的电子直线加速器研发体系以及强流质子直线加速器的技术创新发展，75年来，原子能院的直线加速器发展历程映射了我国核工业从实验室研究到产业化应用，从技术封锁到自主创新的完整轨迹。原子能院不仅推动了核技术的国防应用，更使“看不见的核技术”成为服务国民经济的重要力量。
+
+本文系统梳理原子能院电子直线加速器的研发进程、技术演进脉络与创新体系以及强流质子直线加速器的技术突破，揭示其对国家战略与民生发展的重大意义。

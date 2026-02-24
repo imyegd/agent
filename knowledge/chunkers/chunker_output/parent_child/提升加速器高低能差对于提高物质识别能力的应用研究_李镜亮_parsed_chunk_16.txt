@@ -1,0 +1,17 @@
+# 4.2 物质识别效果
+
+为评价物质识别效果，引入 α 曲线散点图[8]。
+
+在迪卡尔坐标系中定义横坐标为：
+
+$$
+x = a _ {H} = - \ln T \left(E _ {H}, Z, t\right) \cdot s \tag {6}
+$$
+
+纵坐标为：
+
+$$
+\mathrm {y} = \mathrm {a} _ {\mathrm {L}} - \mathrm {a} _ {\mathrm {H}} = (\ln \mathrm {T} \left(\mathrm {E} _ {\mathrm {H}}, \mathrm {Z}, \mathrm {t}\right) - \ln \mathrm {T} \left(\mathrm {E} _ {\mathrm {L}}, \mathrm {Z}, \mathrm {t}\right)) \cdot \mathrm {s} \tag {7}
+$$
+
+式中，s 是比例因子， $\mathrm { T } ( \mathrm { E _ { H } , Z , t } )$ 、 $\mathrm { T } ( \mathrm { E _ {

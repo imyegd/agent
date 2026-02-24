@@ -1,0 +1,5 @@
+# 2.4 ZAP-X 准直器
+
+ZAP-X 是一款专用于头部 SRS治疗的放射外科产品，采用了 3MV的加速器系统，最大剂量率为 $1 5 0 0 ~ \mathrm { c G y / m i n }$ ，SAD为 $4 5 0 \ \mathrm { m m }$ ，见图 14。ZAP-X通过有 8组锥形孔的圆盘型准直器形成所需照射野，成野规格 $4 . 0 \ \mathrm { m m }$ 、 $5 . 0 \ \mathrm { m m }$ 、 $7 . 5 ~ \mathrm { m m }$ 、 $1 0 . 0 \ \mathrm { m m }$ 、
+
+$1 2 . 5 ~ \mathrm { \ m m }$ 、 $1 5 . 0 \ \mathrm { { m m } }$ 、 $2 0 . 0 \ \mathrm { \ m m }$ 和 $2 5 . 0 \ \mathrm { \ m m }$ ，漏 辐 射${ < } 0 . 0 1 \% _ { > }$ 。在 源 皮 距（source-surface distance, SSD） $=$ $4 5 \mathrm { {

@@ -1,0 +1,5 @@
+6037009af0091bd0f44f522f32eec.jpg)  
+图 5 IHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ 实验室（a）OXⅡ、（b）IAEA-C7和（c）IAEA-C8石墨化长期稳定性  
+Fig.5 LongtimegraphitizationresultsofIHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ Labfor（a）OXⅡ standard，（b）IAEA-C7and（c）IAEA-C8
+
+变化主要源于测量本身固有的随机误差，而非源于样品石墨化或 AMS仪器性能的系统性漂移。IAEAC7的 $^ { 1 4 } \mathrm { C }$ 长期平均值为 $4 9 . 4 8 { \scriptstyle \pm 0 . 2 2 } { \mathrm { ~ p M C } }$ （ ${ \bf n } = 1 0 4 { \bf \Gamma } ,$ ），与参考值 $( 4 9 . 5 3 \pm 0 . 1 2 \mathrm { \ p M C } )$ ）（见 表 1）差异低于$\sigma$ ，且数

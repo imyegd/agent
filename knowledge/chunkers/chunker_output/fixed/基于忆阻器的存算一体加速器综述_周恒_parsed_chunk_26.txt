@@ -1,0 +1,13 @@
+os[43] Stanisavljevic,  et  al.  A  64-core  Mixed-Signal  in-Memory Compute  Chip  Based  on  Phase-Change  Memory  for  Deep Neural  Network  Inference[J].  Nature Electronics,  2023, 6(9): 680−693.   
+S. Ambrogio, P. Narayanan, A. Okazaki, et al. An Analog-[44] AI  Chip  for  Energy-Efficient  Speech  Recognition  and Transcription[J]. Nature, 2023, 620: 768−775.
+
+# A Review of Memristor-Based Computing in Memory Accelerators
+
+Heng Zhou1,2,3 ,4, Jinpeng Liu1,2,3,4, Dan Feng1,2,3,4, Wei Tong1,2,3,4
+
+1. Wuhan National Laboratory for Optoelectronics   
+2. Key Laboratory of Information Storage System, Ministry of Education of China   
+3. Engineering Research Center of Data Storage Systems and Technology, Ministry of Education of China   
+4. Huazhong University of Science and Technology
+
+Abstract:  To  meet  the  rapid  evolution  of  artificial  intelligence  (AI)  algorithms,  the  demand  for  computing  resources  is  growing exponentially, posing significant challenges for deploying AI models on hardware.

@@ -1,0 +1,8 @@
+or  Computing-In-Memory[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022, 41(6): 1674−1686.   
+秦忠宇. 面向存算一体 AI 加速器的端到端编译器设计及[21]优化 [D]. 武汉：华中科技大学, 2025.  
+Wenyu  Sun,  Jinshan  Yue,  Yifan  He,  et  al.  A  Survey  of[22] Computing-in-Memory  Processor:  From  Circuit  to Application[J].  IEEE Open Journal of the Solid-State Circuits Society, 2023, 4: 25−42.   
+Xiaochen  Peng,  Shanshi  Huang,  Hongwu  Jiang,  et  al.[23] DNN+NeuroSim  V2.0:  An  End-to-End  Benchmarking Framework  for  Compute-in-Memory  Accelerators  for  On-Chip  Training[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2021,  40(11): 2306−2319.   
+Indranil Chakraborty, Mustafa Fayez Ali, Dong Eun Kim, et[24] al.  GENIEx:  A  Generalized  Approach  to  Emulating  Non-
+
+Ideality  in  Memristive  Xbars  using  Neural  Networks[C]// 2020 57th ACM/IEEE Design Automation Conference. Piscataway: IEEE, 2020: 1−6.   
+Lixue  Xia,  Boxun  Li,  Tianqi  Tang,  et  al.  MNSIM:[2

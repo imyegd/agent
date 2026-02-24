@@ -1,0 +1,11 @@
+s-sectional view of beam dump 3D model (a) and main dimensions (b)   
+图5 束流垃圾桶瞬发辐射剂量当量率计算分布（彩图见网络版）  
+Fig.5 Calculated ambient dose equivalent rates in the dump for prompt radiation (color online)
+
+芯前侧和后侧，总剂量值主要由中子贡献。
+
+为了验证靶芯材料的选择，在模拟计算中，将靶芯材料替换为石墨，保持几何形状不变。图7对比了两种靶芯材料的一维剂量分布。可以明显看出$2 0 0 \mathrm { M e V }$ 质子在两种靶芯材料中与射程相当的Bragg峰，在Bragg峰之后，初级质子的能量沉积快
+
+![](images/fbfdfcaeee4f957f4aea169dea57627abf0fb6f4ec82966ac0d03a1177c9e2bf.jpg)  
+图6 质子和次级粒子沿束流轴的剂量当量率分布（彩图见网络版）  
+Fig.6 Ambient dose equivalent rate along t

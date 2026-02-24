@@ -1,0 +1,4 @@
+impurity elimination system for dual-beam accelerator[J]. Atomic Energy Science and Technology, 2018, 52(2): 199-203(in Chinese).  
+[86] 宋逢泉, 崔保群, 宋钢, 等. HINEG 强流氘氚中子发生器方案设计分析[J]. 核科学与工程, 2014, 34(2): 214-218.  
+SONG Fengquan, CUI Baoqun, SONG Gang, et al. Design analysis of the HINEG high-flux D-T neutron generator[J]. Nuclear Science and Engineering, 2014, 34(2): 214-218(in Chinese).   
+[87] 杨丙凡, 阙朝新, 崔心忆, 等. HI-13 串列加速器 AMS 交替注入系统研制[J]. 原子能科学技术, 2000, 34(4): 296-301. YANG Bingfan, KAN Chaoxin, CUI Xinyi

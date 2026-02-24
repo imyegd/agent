@@ -1,0 +1,7 @@
+quipment: the medical cyclotron
+
+Li Chengze, Lu Yuanyuan, Zhang Feng, Wang Senlin, Liang Ying. National Cancer Center / National Clinical Research Center for Cancer / Department of Nuclear Medicine, Cancer Hospital & Shenzhen Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Shenzhen 518116, Guangdong Province, China (Li Chengze, Lu Yuanyuan, Zhang Feng, Wang Senlin); National Cancer Center / National Clinical Research Center for Cancer / PET / CT Center, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College (Liang Ying)
+
+Corresponding author: Liang Ying, Email: liangy_2000@sina.com
+
+【Abstract】Objective To systematically characterize the routine operating cost structure, workload, and economic performance of a medical cyclotron and to inform operational optimization and investment decisions for new cyclotron centers. Methods We applied activity‑based costing (ABC) to structurally decompose cyclotron operating costs and identify optimization levers.

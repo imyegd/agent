@@ -1,0 +1,8 @@
+4 \mathrm { H e } ^ { + }$ ），可通过周期性的调制磁铁电源，在百毫秒时间尺度内实现束流快速切换，并配合 RFQ 相位同步调制以补偿不同离子速度带来的注入效率下降[11]。LEAF装置还支持混合束各成分离子的能量独立调节，依托调能器系统的协同工作，可对多种离子束在 $0 . 3 { \sim } 0 . 7 \mathrm { M e V / u }$ 能量范围内进行独立精确调控，形成特定能量差控制下的叠加射程分布区域。例如，通过将 $^ 4 { \mathrm { H e } } ^ { + }$ 与 $^ { 5 6 } \mathrm { F e } ^ { 1 4 + }$ 离子的能量分别设定为 $0 . 6 0 \ \mathrm { M e V / u }$ 与$0 . 5 7 \mathrm { M e V / u }$ ，可实现在单晶铜样品中小于 $1 0 0 \mathrm { n m }$ 的穿透深度差，适用于模拟局域叠加损伤机制[12]。
+
+![](images/322c6600133574811ce101ac2747cfdf2f959d53e021e84a635cc7e8237b82ee.jpg)  
+Fig. 7    Measurement of the energy spread of a milliampere-class high-current $\mathrm { O } ^ { 6 ^ { + } }$ heavy ion beam (suppressed by the QWR cavity, with a $1 \sigma$ energy spread of approximately $0 . 1 1 5 \%$ )
+
+![](images/e96fc08bb19ae2154f7f293bbc1ebb6f3a561e59794861dc8f4483bb34fa148d.jpg)  
+图 7    毫安级强流 $\mathrm { O } ^ { 6 ^ { + } }$ 重离子束流的能散度测量（通过 QWR腔体抑制， $1 \sigma$ 能散度约为 $0 . 1 1 5 \%$ ）  
+Fig. 8 $\mathrm { H _ { 2 } } ^ { + }$ and $^ { 4 } \mathrm { H e } ^ { 2 + }$

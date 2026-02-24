@@ -1,0 +1,6 @@
+td>仿真级别</td><td>测试负载</td></tr><tr><td>NeuroSim[23]</td><td>SRAM/忆阻器</td><td>器件级</td><td>VGG-8</td></tr><tr><td>GENIEx[24]</td><td>忆阻器</td><td>器件级</td><td>ResNet-20</td></tr><tr><td>PUMA[16]</td><td>忆阻器</td><td>架构级</td><td>MLP/LSTM/CNN</td></tr><tr><td>MNSIM[25]</td><td>忆阻器</td><td>电路级</td><td>LeNet/VGG-8/ResNet-18</td></tr><tr><td>PIMCOMP+PIMSIM-NN[26]</td><td>忆阻器</td><td>架构级</td><td>VGG-8/ResNet-18/ResNet-34/GoogleNet</td></tr><tr><td>FADESIM[27]</td><td>忆阻器</td><td>器件级/电路级</td><td>LeNet/VGG-11/朴素贝叶斯/离散余弦变换/共轭梯度下降</td></tr></table>
+
+1）NeuroSim[23]：支持忆阻器单元的非线性、非对称性、D2D变化性以及 C2C变化性等非理想因素仿真，集成了外围电路仿真模块，支持神经网络片上训练仿真，并提供Python封装的接口。  
+2）GENIEx[24]：通过 HSPICE（一款模拟电路仿真软件，是集成电路设计的行业标准工具之一）的仿真数据训练三层多层感知机（multilayer perceptron, MLP）来模拟忆阻器交叉阵列的非理想因素，以快速分析阵列非理想因素对神经网络性能的影响，但其准确性需要用户根据自身场景仔细确认。  
+3）PUMA[16]：提出一种可编程且高效的忆阻器存算一体加速器，并提供了配套编译器和仿真工具，支持将高 层 代 码 编 译 为 PUMA 指 令 集 架 构 （ instruction  setarchitecture, ISA）并部署到仿真工具中运行。其微架构基于专用 ISA设计，在保证可编程性的同时保留了高能效优势。PUMA编译器通过图划分、指令调度和寄存器分配等优化手段，提升大规模任务的执行效率。  
+4）MNSIM[25]：面向忆阻器的存算一体

@@ -1,0 +1,7 @@
+[9] Wu Zhengrong, Sun Liepeng, Qiu Feng, et al. A new multi-harmonic buncher for the LEAF project[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2023, 1047: 167856.   
+[10] Chauvin N. Space-charge effect[DB/OL]. arXiv preprint arXiv: 1410.7991, 2014.   
+Zhai  Yuhan,  Yang  Yao,  Sun  Liangting,  et  al. Production  of  high  intensity  highly  charged  cocktail  beams  at  LEAF[J]. Nuclear  Instruments  and  Methods  in[11] Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2022, 1027: 166157.   
+Zhai  Yuhan,  Yang  Yao,  Liu  Yong,  et  al. Variable-energy  cocktail  beam  technology  for  investigating  synergistic  damage  in  nuclear  materials  on  LEAF[12] platform[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2024, 1069: 169987.   
+Li J Q, Sun L T, Yang Yao, et al. Development of an all permanent magnet ECR ion source for low and medium charge state ions production[J]. Journal of[13] Physics: Conference Series, 2020, 1401: 012022.   
+[14] Baluc N. Materials for fusion power reactors[J]. Plasma Physics and Controlled Fusion, 2006, 48（12B）: B165-B177.   
+[15] Zinkle S J. Fusion materials science: overview of challenges and recent progress[J]. Physics of Plasmas, 2005, 12: 058101.

@@ -1,0 +1,11 @@
+灰度化
+
+![](images/85403d74d941de9ff3b5bee623a60c5907e084a4732b0fdafd843b371cd9d157.jpg)  
+(d) 去畸变
+
+![](images/2e3adc29e9c4e5b748722b17df0d0cab14ba7958c92d5b52e4fd9dd6e99b88f6.jpg)  
+(e) 多级中值滤波降噪
+
+![](images/0d380a1bbbc467f9cb3c14768949e277c214424cc3a46d9ff0da39a7cc459e23.jpg)  
+(f) Otsu阈值分割   
+图7 束斑图像处理过程

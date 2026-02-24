@@ -1,0 +1,5 @@
+yields measurement of $^{232}\mathrm{Th}$ induced by 14.8 MeV neutron[J]. Atomic Energy Science and Technology, 2013, 47(6): 901-906(in Chinese).   
+[68] 王黎明, 蒋婧, 鲍杰, 等. 高压倍加器靶单元组件对源中子能谱影响研究[J]. 原子核物理评论, 2016, 33(1): 67-71.  
+WANG Liming, JIANG Jing, BAO Jie, et al. Effect of the high-voltage multiplier target assembly on the source neutron spectrum[J]. Nuclear Physics Review, 2016, 33(1): 67-71(in Chinese).   
+[69] 张凯, 侯龙, 陈红涛, 等. D-T 中子源束斑尺寸测量技术及应用[J]. 原子能科学技术, 2020, 54(12): 2289-2295.  
+ZHANG Kai, HOU L

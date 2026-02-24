@@ -1,0 +1,4 @@
+ett, 2018, 120: 164501   
+31 Morrison J T, Feister S, Frische K D, et al. MeV proton acceleration at kHz repetition rate from ultra-intense laser liquid interaction. New J Phys, 2018, 20: 022001   
+32 Fule M, Kovacs A P, Gilinger T, et al. Development of an ultrathin liquid sheet target for laser ion acceleration at high repetition rates in the kilohertz range. High Pow Laser Sci Eng, 2024, 12: e37   
+33 Galinis G, Strucka J, Barnard JC T, et al. Micrometer-thickness liquid sheet jets flowing in vacuum. Rev

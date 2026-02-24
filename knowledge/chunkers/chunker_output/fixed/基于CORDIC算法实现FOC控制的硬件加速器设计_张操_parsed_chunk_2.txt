@@ -1,0 +1,5 @@
+d, Changchun 130011, China)
+
+Abstract: The Cortex-M architecture is designed around the concept of low-power, real-time control, with the advantage of being able to tightly couple I/O and peripherals through a very lightweight software layer. However, this architecture is not ideal for tasks that process large amounts of data, and due to the increasing complexity of motor control algorithms, the computational performance requirements for local data analysis are also growing, which poses some challenges to microcontroller unit (MCU) with Cortex-M architecture. In order to solve this problem, this paper designs a new hardware accelerator, which uses the simplicity and efficiency of the CORDIC algorithm to achieve high-precision trigonometric function operation, and uses the hardware module to realize the entire
+
+control process of field oriented control (FOC), and the maximum delay for completing a FOC operation is 264.5 ns. This drastically reduces the runtime and energy consumption of signal processing algori

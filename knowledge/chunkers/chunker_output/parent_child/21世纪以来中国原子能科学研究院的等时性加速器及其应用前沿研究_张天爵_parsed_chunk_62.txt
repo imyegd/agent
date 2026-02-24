@@ -1,0 +1,12 @@
+16 $230\mathrm{MeV}$ 超导质子回旋加速器  
+Fig. 16 CYCIAE-230 superconducting proton cyclotron
+
+![](images/89fe8ef3e7772f1510870f9f504b54cb7e2bc0eddc1c5c290d74c9bc0c9eb685.jpg)
+
+![](images/b194034d08f1ce47b1a48ebe14d333094a86de733cc7b63c9af899e22f11cd32.jpg)
+
+![](images/78c79210a453842cab4480bd6ac8c9825bf37075d2a590645a82b8fc99c75337.jpg)  
+图17 束流输运线(a)、旋转机架(b)和质子治疗室(含治疗头)(c)  
+Fig. 17 Beam transportation line (a), gantry (b) and treatment room (including nozzle system) (c)
+
+后，完成了加速器与治疗后端整体联合调试与整机测试，引出流强超过 $460\mathr

@@ -1,0 +1,14 @@
+]. 北京：北京交通大学，2023.  
+[10] 张蕾，李长海，马春. 城轨延伸线工程 LTE-U 车地无线通信系统方案设计及应用 [J]. 铁道通信信号, 2025, 61(3): 66-71.
+
+作者简介：封超（1990—），男，汉族，河北石家庄人，工程师，硕士，研究方向：集群通信；庞欢（1989—），男，汉族，河北保定人，工程师，硕士，研究方向：集群通信；王颢然（1992—），男，汉族，河北承德人，工程师，硕士，研究方向：集群通信。
+
+# （上接06页）
+
+[8] XIE C Y, ALAZEMI H, GHANI N. Rerouting in Advance Reservation Networks [J]. Computer Communications, 2012, 35 (12): 1411-1421.   
+[9] ALAZEMI H M K, GU F, XIE C Y, et al. Advance Reservation in Distributed Multidomain Networks [J].IEEE Systems Journal, 2015, 9 (3): 775-784.   
+[10] FAZLOLLAHI N, STAROBINSKI D. Distance Vector-based Advance Reservation with Delay Performance Guarantees [J].Theory of Computing Systems, 2017, 60 (2) : 194-221.   
+[11] CIVANLAR S, PARLAKISIK M, TEKALP A M, et al. A QoS-enabled Open flow ENVIRONMENT for Scalable Video Streaming [C]/2010 IEEE Globecom Workshops.Miami: IEEE,
+
+2010: 351-356.   
+[12] ZHANG X, WANG T. Elastic and Reliable Bandwidth Reservation Based on Distributed Traffic Monitoring and Control [J]. IEEE Transactions on Parallel and D

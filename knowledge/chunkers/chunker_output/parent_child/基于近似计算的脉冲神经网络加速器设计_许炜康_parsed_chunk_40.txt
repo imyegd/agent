@@ -1,0 +1,5 @@
+spiking neural network accelerator   
+表 5 近似精度脉冲神经网络加速器功耗  
+Table 6 Comparison of indicators between approximate-precision and full-precision   
+
+<table><tr><td>组别</td><td>内部功耗/mW</td><td>开关功耗/mW</td><td>泄露功耗/μW</td><td>总功耗/mW</td><td>占总功耗的百分比/%</td></tr><tr><td>时序功耗</td><td>21.70</td><td>1.63</td><td>0.16</td><td>23.33</td><td>60.1</td></tr><tr><td>组合功耗</td><td>9.42</td><td>6.05</td><td>0.27</td><td>15.47</td><td>39.9</td></tr><tr><td>总计</td><td>31.12</td><td>7.68</td><td>0.43</td><td>38.80</td><td>100.0</

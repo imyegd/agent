@@ -1,0 +1,5 @@
+91.) DOI:10.1007/s41605-020-00203-y.   
+[ 8 ] 江孝国,杨兴林,蒋薇,等 . 基于 Marx 自激监测控制的闪光照相试验可靠性提高技术研究[J]. 强激光与粒子束, 2022,34(6): 84-89. (JIANG Xiaoguo,YANG Xinglin,JIANG Wei,et al. Technique study to improve radiographic-testing reliability basing on self-excitation of pulsed power system[J]. High Power Laser and Particle Beams, 2022, 34(6): 84-89.) DOI: 10.11884/HPLPB
+
+202234.210133.   
+[ 9 ] 中国工程物理研究院流体物理研究所 . 一种起爆装置的紧急自动刹车控制系统及方法:CN201610103072.8[P]. 2016-05-11. (China Academy of Engineering Physics. Emergency autom

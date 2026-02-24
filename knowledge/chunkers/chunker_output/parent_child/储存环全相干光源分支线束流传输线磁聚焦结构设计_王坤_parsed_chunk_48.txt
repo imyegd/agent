@@ -1,0 +1,6 @@
+O Zhentang. Principles and key technologies of advanced X-ray light source accelerators[M]. Shanghai: Shanghai Jiao Tong University Press, 2021.   
+15 李冬国, 戴志敏, 徐洪杰. 储存环的闭合轨道畸变校正研究[J] 核技术, 1999, 22(8): 474–481.  
+LI Dongguo, DAI Zhimin, XU Hongjie. The study of closed orbit distortion correction in SSRF storage ring[J]. Nuclear Techniques, 1999, 22(8): 474–481.   
+16 后接, 刘桂民. 基于响应矩阵和SVD算法的输运线束流轨道校正[J]. 高能物理与核物理, 2006, 30(z1): 37–39.
+
+HOU Jie, LIU Guimin. Transport line orbit distortion correction based on r

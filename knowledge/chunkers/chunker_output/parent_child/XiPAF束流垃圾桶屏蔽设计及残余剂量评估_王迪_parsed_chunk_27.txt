@@ -1,0 +1,15 @@
+= } 0 \mathrm { c m }$ 处，纵坐标为 $R { = } 1 0 \mathrm { c m }$ 内的剂量平均值，可以看出在靶芯处，总剂量呈现Bragg峰状，说明此处剂量主要由质子能量沉积贡献，而在靶
+
+表 3 $3 0 \mathrm { M e V }$ 质子入射不同材料的中子产额值  
+Table 3 Total neutron yield of different materials bombarded by 30 MeV protons   
+
+<table><tr><td rowspan="2">靶材料
+Target material</td><td colspan="6">本文计算数据 Data calculated in this study</td><td colspan="4">文献[13]参考数据 Ref. [13] data</td></tr><tr><td>厚度
+Thickness
+/mm</td><td>半径
+Radius
+/mm</td><td>密度
+Density
+/g·cm-3</td><td>产额1)
+Yield 1)
+/n·p-1</td><td>产

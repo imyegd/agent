@@ -1,0 +1,7 @@
+eecff8d7e8d155ed9a5a49f6bbda5.jpg)  
+（a）
+
+![](images/759daecb05533cd0efa0a4cf27aa8e74be7f3fa943d4b4bb815e9533366bd4e4.jpg)  
+（b）  
+图3 检漏仪界面。（a）检漏仪实时曲线界面（显示微小漏点响应）；（b）检漏合格后检漏仪主界面  
+Fig. 3 Leak detector interface. (a) Real-time curve interface of the leak detector; (b) Main interface of the leak detector

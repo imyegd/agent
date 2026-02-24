@@ -1,0 +1,14 @@
+2013, 47(增刊): 402-405.   
+ZUO Zouyi, ZHENG Yongnan, XU Yongjun, et al. Study on the application of new perturbation angle correlation probe core $^{62}\mathrm{Zn}$ in HOPG[J]. Atomic Energy Science and Technology, 2013, 47(Suppl.): 402-405(in Chinese).   
+[10] 左走翼, 郑永男, 徐永军, 等. 新扰动角关联探针核 $^{62}\mathrm{Zn}$ 在高定向热解石墨研究中的应用[C]//第六届反应堆物理与核材料学术研讨会第三届核能软件自主化研讨会会议摘要集. [出版地不详]: [出版者不详], 2013: 123.  
+[11] LI Guangrui, ZHENG Shuxin, YAO Hongjuan, et al. Design of a compact ring for proton radiation applications[J]. Chinese Physics C, 2017, 41(1): 171-176.   
+[12] 柳卫平, 李志常, 关遐令, 等. HI-13 串列加速器次级束流线的设计[J]. 原子能科学技术, 1993, 27(5): 391-395.  
+LIU Weiping, LI Zhichang, GUAN Xialing, et al. Design of a beam line for secondary radioactive ions[J]. Atomic Energy Science and Technology, 1993, 27(5): 391-395(in Chinese).   
+[13] 张灿哲, 秦久昌, 杨丙凡, 等. HI-13 串列加速器运行状况[J]. 原子能科学技术, 1994, 28(6): 488-493.  
+ZHANG Canzhe, QIN Jiuchang, YANG Bingfan, et al. Operational status of the HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 1994, 28(6): 488-493(in Chinese).   
+[14] 杨丙凡, 秦久昌, 张灿哲, 等. HI-13 串列加速器十年运行、维修与改进[J]. 原子能科学技术, 1999, 33(3): 90-97.  
+YANG Bingfan, QIN Jiuchang, ZHANG Canzhe, et al. Ten-year operation, maintenance and improvement of the HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 1999, 33(3): 90-97 (in Chinese).   
+[15] 胡跃明, 阐朝新, 包轶文, 等. 北京 HI-13 串列加速器近期状况[J]. 原子能科学技术, 2008, 42(增刊): 251-253.  
+HU Yueming, KAN Chaoxin, BAO Yiwen, et al. Recent status of the Beijing HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2008, 42(Suppl.): 251-253(in Chinese).   
+[16] 李康宁, 阙朝新, 王晓飞, 等. HI-13 串列加速器运维 35 周年的实践与创新[J]. 核技术, 2023, 46(8): 080005.  
+LI Kangning, KAN Chaoxin, WANG Xiaofei, et al. Practice and innovation in the operation and maintenance of HI-13 tandem accelerator for 35 years[J]. Nuclear Techniques, 2023, 46(8): 080005(in Chinese).

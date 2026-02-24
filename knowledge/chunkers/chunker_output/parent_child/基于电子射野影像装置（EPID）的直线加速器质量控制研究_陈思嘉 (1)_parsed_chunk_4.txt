@@ -1,0 +1,7 @@
+# 4.4  变频驱动设置及调试※
+
+表 1 所示滚筒变频控制所需要设置的 E740 变频器参数表。
+
+表 1  E740 变频器参数列表  
+
+<table><tr><td>参数号</td><td>含义</td><td>参数号</td><td>含义</td></tr><tr><td>Pr001</td><td>上限频率</td><td>Pr073</td><td>模拟量输入选择</td></tr><tr><td>Pr002</td><td>下限频率</td><td>Pr079</td><td>运行模式</td></tr><tr><td>Pr018</td><td>高速上限频率</td><td>Pr080</td><td>电机容量</td></tr><tr><td>Pr007</td><td>加速时间</td><td>Pr081</td><td>电机极数</td></tr><tr><td>Pr008</td><td>减速时间</td><td>Pr082</td><td>电机励磁电流</td></tr><tr><td>Pr020</td><td>加/减速基准频率</td><td>Pr083</td><td>电机

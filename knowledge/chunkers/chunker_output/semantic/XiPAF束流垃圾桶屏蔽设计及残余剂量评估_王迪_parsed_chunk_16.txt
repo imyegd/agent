@@ -1,0 +1,23 @@
+![](images/6722795d8a246d19f9f4cbfe7135fcb5000fffedbce044d3b9275ddc01322d6e.jpg)
+
+![](images/9310a46b98d7bd8853b43e11f51a68a0393a406c4feb883a21e00e4123f7e197.jpg)  
+图4 束流垃圾桶三维模型剖面视图(a)及主体尺寸(b)
+
+![](images/098231b4799d103f060a3aca591a46ab414746767eb9c5ffc7951aefcdea23be.jpg)  
+Fig.4 Cross-sectional view of beam dump 3D model (a) and main dimensions (b)   
+图5 束流垃圾桶瞬发辐射剂量当量率计算分布（彩图见网络版）  
+Fig.5 Calculated ambient dose equivalent rates in the dump for prompt radiation (color online)
+
+芯前侧和后侧，总剂量值主要由中子贡献。
+
+为了验证靶芯材料的选择，在模拟计算中，将靶芯材料替换为石墨，保持几何形状不变。图7对比了两种靶芯材料的一维剂量分布。可以明显看出$2 0 0 \mathrm { M e V }$ 质子在两种靶芯材料中与射程相当的Bragg峰，在Bragg峰之后，初级质子的能量沉积快
+
+![](images/fbfdfcaeee4f957f4aea169dea57627abf0fb6f4ec82966ac0d03a1177c9e2bf.jpg)  
+图6 质子和次级粒子沿束流轴的剂量当量率分布（彩图见网络版）  
+Fig.6 Ambient dose equivalent rate along the beam axis for protons and secondary particles (color online)
+
+速衰减至零，后端剂量由次级粒子贡献，两种靶芯材料的束流垃圾桶尾部的剂量是相当的。同时可以看出，在径向，聚乙烯靶芯的屏蔽效果略优于石墨。值
+
+得注意的是，在束流垃圾桶轴向前侧，使用聚乙烯靶芯的剂量仅约为石墨靶芯的1/4，这是由于靶原子质量增大而导致中子的背散射作用增强［17］。因此对于
+
+$2 0 0 \mathrm { M e V }$ 质子加速器的束流垃圾桶，选择聚乙烯作为靶芯材料，与石墨材料相比，能够大幅减少背散射剂量，有利于降低辐照终端的瞬时次级辐射。

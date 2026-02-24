@@ -1,0 +1,14 @@
+filteredCandidates);   
+10. for adder in filteredCandidates:   
+11. normalized_AARE $\equiv$ adder.AARE/max_AARE;   
+12. normalized\_power = adder. power / max\_power;   
+13. normalized_area = adder.area / max_area;   
+14. 计算 adder 的代价 cost = AAREWeight × normalized_AARE + POWER Weight × normalized_power + AREA Weight × normalized_area;   
+15. if cost $<$ minCost:   
+16. 更新 $\text{minCost} = \text{cost}$   
+17. 更新 optimalAdder = adder;   
+18. end if   
+19. end for   
+20. end if   
+21. end for   
+22. Return

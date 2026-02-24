@@ -1,0 +1,3 @@
+趋势。我国的强流多脉冲直线感应加速器，其控制系统也采用EPICS平台建设。
+
+EPICS是基于客户端/服务器模式的标准模型、支持多任务并发、多用户交互的分布式控制系统，如图1所示。EPICS 包括 3 个主要部分：操作员界面(Operator Interface，OPI)、信道访问(Channel Access，CA)和输入输出控制器(IOC)。OPI 是操作员接口组件，运行于客户端，通过人机交互界面(Graphical User Interface，GUI)实现人机信息交互、设备监控等功能；IOC是运行于服务器上的输入输出控制模块，其实质是常驻内存的分布式实时数据库系统，将硬件设备的操作与状态转换成全局唯一的数据库记录，通过记录支持(Record Support)、设备支持(Device Support) 和 设 备 驱 动 (Device Driver) 对 硬 件 进 行 访 问 控 制 ； CA 组 件 分 两 部 分 ： 运 行 在 OPI 端 为 CAC(CAClient)；运行在IOC端为CAS(CA Server)，支持TCP/IP协议，负责对全局唯一记录名的解析、发布与定制等服务，使用CA工

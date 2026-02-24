@@ -1,0 +1,44 @@
+# 参考文献
+
+1 Collaboration A. Observation of a new particle in the search for the standard model Higgs boson with the ATLAS detector at the LHC. Phys Rev X, 2012, 11: 021049   
+2 Holler M, Guizar-Sicairos M, Tsai E H R, et al. High-resolution non-destructive three-dimensional imaging of integrated circuits. Nature, 2017, 543: 402-406   
+3 Gonsalves A J, Nakamura K, Daniels J, et al. Petawatt laser guiding and electron beam acceleration to 8 GeV in a laser-heated capillary discharge waveguide. Phys Rev Lett, 2019, 122: 084801   
+4 Ziegler T, Gothel I, Assenbaum S, et al. Laser-driven high-energy proton beams from cascaded acceleration regimes. Nat Phys, 2024, 20: 1211-1216   
+5 Ma W J, Kim I J, Yu J Q, et al. Laser acceleration of highly energetic carbon ions using a double-layer target composed of slightly underdense plasma and ultrathin foil. Phys Rev Lett, 2019, 122: 014803   
+6 Wang P, Gong Z, Lee S G, et al. Super-heavy ions acceleration driven by ultrashort laser pulses at ultrahigh intensity. Phys Rev X, 2021, 11: 021049   
+7 Shou Y, Wang P, Lee SG, et al. Brilliant femtosecond-laser-driven hard X-ray flashes from carbon nanotube plasma. Nat Photon, 2023, 17: 137-142   
+8 Kroll F, Brack F E, Bernert C, et al. Tumour irradiation in mice with a laser-accelerated proton beam. Nat Phys, 2022, 18: 316-322   
+9 Orji N G, Badaroglu M, Barnes B M, et al. Metrology for the next generation of semiconductor devices. Nat Electron, 2018, 1: 532-547   
+10 Daido H, Nishiuchi M, Pirozhkov A S. Review of laser-driven ion sources and their applications. Rep Prog Phys, 2012, 75: 056401   
+11 Principe I, Fuchs J, Pascarelli S, et al. Targets for high repetition rate laser facilities: needs, challenges and perspectives. High Pow Laser Sci Eng, 2017, 5: e17   
+12 Peng Z Y, Cao Z X, Gao Y, et al. Application of liquid film targets in laser-driven radiation sources and laser ion acceleration (in Chinese). High Power Laser Particle Beams, 2022, 34: 081003 [彭梓洋, 曹正轩, 高营, 等. 液体薄膜靶在激光驱动辐射源和激光离子加速中的应用. 强激光与粒子束, 2022, 34: 081003]   
+13 Streeter M J V, Glenn G D, DiIorio S, et al. Stable laser-acceleration of high-flux proton beams with plasma collimation. Nat Commun, 2025, 16: 1004   
+14 Stuhl L, Varmazyar P, Elekes Z, et al. Continuous high-yield fast neutron generation with few-cycle laser pulses at $10\mathrm{Hz}$ for applications. Phys Rev Res, 2025, 7: 023137   
+15 Cavagna A, Eder M, Chowdhury E, et al. Continuous relativistic high-harmonic generation from a kHz liquid-sheet plasma mirror. Opt Lett, 2025, 50: 165   
+16 Peng Z, Cao Z, Liu X, et al. A comprehensive diagnostic system of ultra-thin liquid sheet targets. High Pow Laser Sci Eng, 2024, 12: e26   
+17 Macchi A, Borghesi M, Passoni M. Ion acceleration by superintense laser-plasma interaction. Rev Mod Phys, 2013, 85: 751-793   
+18 Peng Z, Liu X, Song Z Y, et al. Thickness model for viscous impinging liquid sheets. J Fluid Mech, 2025, 1014: R3   
+19 Cao Z, Peng Z, Shou Y, et al. Vibration and jitter of free-flowing thin liquid sheets as target for high-repetition-rate laser-ion acceleration. Front Phys, 2023, 11: 1172075   
+20 Zhu J G, Wu M J, Liao Q, et al. Experimental demonstration of a laser proton accelerator with accurate beam control through image-relaying transport. Phys Rev Accel Beams, 2019, 22: 061302   
+21 Oefelein J C, Yang V. Comprehensive review of liquid-propellant combustion instabilities in F-1 engines. J Propulsion Power, 1993, 9: 657-677   
+22 Baber R, Mazzei L, Thanh N T K, et al. Synthesis of silver nanoparticles using a microfluidic impinging jet reactor. J Flow Chem, 2016, 6: 268-278   
+23 Visser C W, Kamperman T, Karbaat L P, et al. In-air microfluidics enables rapid fabrication of emulsions, suspensions, and 3D modular (bio) materials. Sci Adv, 2018, 4: eaao1175   
+24 Hasson D, Peck R E. Thickness distribution in a sheet formed by impinging jets. AIChE J, 1964, 10: 752-754   
+25 Ibrahim E A, Przekwas A J. Impinging jets atomization. Phys Fluids A-Fluid Dyn, 1991, 3: 2981-2987
+
+26 Choo Y J, Kang B S. Parametric study on impinging-jet liquid sheet thickness distribution using an interferometric method. Exp Fluids, 2001, 31: 56-62   
+27 Bush J W M, Hasha A E. On the collision of laminar jets: fluid chains and fishbones. J Fluid Mech, 2004, 511: 285-310   
+28 Li R, Ashgriz N. Characteristics of liquid sheets formed by two impinging jets. Phys Fluids, 2006, 18: 087104   
+29 Lu J, Corvalan C M. Influence of viscosity on the impingement of laminar liquid jets. Chem Eng Sci, 2014, 119: 182-186   
+30 Majumdar N, Tirumkudulu M S. Dynamics of radially expanding liquid sheets. Phys Rev Lett, 2018, 120: 164501   
+31 Morrison J T, Feister S, Frische K D, et al. MeV proton acceleration at kHz repetition rate from ultra-intense laser liquid interaction. New J Phys, 2018, 20: 022001   
+32 Fule M, Kovacs A P, Gilinger T, et al. Development of an ultrathin liquid sheet target for laser ion acceleration at high repetition rates in the kilohertz range. High Pow Laser Sci Eng, 2024, 12: e37   
+33 Galinis G, Strucka J, Barnard JC T, et al. Micrometer-thickness liquid sheet jets flowing in vacuum. Rev Sci Instruments, 2017, 88: 083117   
+34 Crissman C J, Mo M, Chen Z, et al. Sub-micron thick liquid sheets produced by isotropically etched glass nozzles. Lab Chip, 2022, 22: 1365-1373   
+35 Loh Z H, Doumy G, Arnold C, et al. Observation of the fastest chemical processes in the radiolysis of water. Science, 2020, 367: 179-182   
+36 Yang J, Dettori R, Nunes J P F, et al. Direct observation of ultrafast hydrogen bond strengthening in liquid water. Nature, 2021, 596: 531-535   
+37 Li S, Lu L, Bhattacharyya S, et al. Attosecond-pump attosecond-probe x-ray spectroscopy of liquid water. Science, 2024, 383: 1118-1122   
+38 Withers P J, Bouman C, Carmignato S, et al. X-ray computed tomography. Nat Rev Methods Primers, 2021, 1: 18   
+39 Ma W. Science and technologies in targets for laser accelerators (in Chinese). Chin Sci Bull, 2023, 68: 1047-1053 [马文君. 激光加速器中的靶科学与技术. 科学通报, 2023, 68: 1047-1053]
+
+Summary for “激光加速器中的超薄液体薄膜: 理论、技术及应用前沿”

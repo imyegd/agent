@@ -1,0 +1,5 @@
+re for simulation, a more realistic simulation of beam dynamics can be achieved, which addresses the issue that TraceWin software is incapable  of  setting  the  electric  field  strength  of  circular  arc  plates.  The  coupled  simulation  method  of  CST  Studio Suite and TraceWin has been developed, which has certain value for research on chopper design.
+
+Key  words：    accelerator-based  neutron  source, boron  neutron  capture  therapy, chopper, beam  dynamic, electrostatic field calculation
+
+加速器中子源是

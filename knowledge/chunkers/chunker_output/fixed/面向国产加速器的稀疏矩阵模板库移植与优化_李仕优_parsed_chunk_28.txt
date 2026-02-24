@@ -1,0 +1,8 @@
+nalysis. Washington D. C., USA: IEEE Press, 2024: 1-14.   
+[14] LI S G, OSAWA K, HOEFLER T. Efficient quantized sparse matrix operations on tensor cores[C]//Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. Washington D. C., USA: IEEE Press, 2022: 1-15.   
+[15] NAUMOV M, CHIEN L S, VANDERMERSCH P, et al. CuSPARSE library [EB/OL]. [2025-06-03].
+
+https://www.nvidia.com/content/GTC-2010/pdfs/2070_G TC2010.pdf.   
+[16] BUSATO F, POOL J. Exploiting NVIDIA ampere structured sparsity with cuSPARSELt[EB/OL]. [2025-06-03]. https://developer.nvidia.com/blog/exploiting-ampere-struc tured-sparsity-with-cusparselt/.   
+[17] KERR A, MERRILL D, DEMOUTH J, et al. CUTLASS: fast linear algebra in CUDA $\mathrm { C } { + } { + }$ [EB/OL]. [2025-06-03]. https://developer.nvidia.com/blog/cutlass-linear-algebra-c uda/.   
+[18] HUANG X T, ZHANG X W, YANG P F, et al. Benchmarking GPU tensor cores on general matrix multiplication kernels through CUTLASS[J]. Applied Sciences,

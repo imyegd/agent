@@ -1,0 +1,5 @@
+lue表示加速器做普通数学运算后的结果；Interrupt表示计算结束反馈以及计算错误反馈。
+
+表 5 系统关键信号说明  
+
+<table><tr><td>信号名</td><td>类型(I/O)</td><td>位宽/bit</td><td>说明</td></tr><tr><td>Ctrl_run</td><td>Input</td><td>1</td><td>运行控制</td></tr><tr><td>Motor_sel</td><td>Input</td><td>3</td><td>电机选择</td></tr><tr><td>Machine_op</td><td>Input</td><td>1</td><td>运算模式选择</td></tr><tr><td>Machine Decode</td><td>Input</td><td>6</td><td>操作码编码</td></tr><tr><td>Target_speed</td><td>Output</td><td>32</td><td>电机目标转速</td></tr><tr><td>Actual_speed</td><td>Output</td><td

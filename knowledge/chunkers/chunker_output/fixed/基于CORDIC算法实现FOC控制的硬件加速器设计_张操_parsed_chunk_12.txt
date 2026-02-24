@@ -1,0 +1,27 @@
+a79821d60e2dbd6f4f49fba0b9a58e4d153729acb236.jpg)  
+图8 反Park变换原理图
+
+$(V_{d}, V_{q})$ 是 PI 控制器得到的坐标值，最终得到的 $V_{a} 、 V_{\beta}$ 的运算公式为
+
+$$
+\left\{ \begin{array}{l} V _ {\alpha} = V _ {d} \cos \theta - V _ {q} \sin \theta \\ V _ {\beta} = V _ {d} c \sin \theta + V _ {q} s \cos \theta \end{array} \right. \tag {14}
+$$
+
+# 2.2.4 反Clarke变换
+
+而反Clarke变换就是将坐标系 $\alpha -\beta$ 还原成原始的三相电坐标系，如图9所示。
+
+![](images/754b7e186cf8f160843f00adebf7dbc2f257504f188ea20ec879977a0958a0bb.jpg)
+
+![](images/efe478302d62de8afdc188f6b2fac6117ab8f7945912f946353332a6896bb698.jpg)  
+图9 反Clarke变换原理图
+
+$V_{a} 、 V_{\beta}$ 是反 park 变换最终的运算结果，将其作为反 clarke 变换的输入，最终得到 $V_{\mathrm{r1}} 、 V_{\mathrm{r2}} 、 V_{\mathrm{r3}}$ 的结果，如式（15）所示：
+
+$$
+\left\{ \begin{array}{l} V _ {\mathrm {r} 1} = V _ {\alpha} \\ V _ {\mathrm {r} 2} = \left(V _ {\beta} + \sqrt {3} V _ {\alpha}\right) / 2 \\ V _ {\mathrm {r} 3} = \left(- V _ {\beta} - \sqrt {3} V _ {\alpha}\right) / 2 \end{array} \right. \tag {15}
+$$
+
+# 2.3 PI控制中电流环在FOC控制的应用
+
+在 FOC 系统中，运用 Clarke 和 Park 变换技术，将三相电流转换为两

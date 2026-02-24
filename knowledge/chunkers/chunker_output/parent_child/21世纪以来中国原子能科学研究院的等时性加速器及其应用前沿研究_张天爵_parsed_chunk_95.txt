@@ -1,0 +1,3 @@
+Conference on Particle Accelerators. USA: IEEE, 1993: 3639-3641.   
+[20] YANG Jianjun, ZHANG Tianjue, LIN Yuzheng, et al. High performance computation on beam dynamics problems in high intensity compact cyclotrons[C]/Special Issue on the First Chinese Particle Accelerator Conference (2010). [S.1]: [s.n.], 2010.   
+[21] YANG J J, ADELMANN A, HUMBEL M, et al. Beam dynamics in high intensity cyclotrons including neighboring bunch effects: Model, implementation, and application[J]. Physical Review Special Topic

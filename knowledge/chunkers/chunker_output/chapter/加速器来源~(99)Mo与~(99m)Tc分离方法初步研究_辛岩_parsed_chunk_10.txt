@@ -1,0 +1,13 @@
+# 2. 3 氧化铝柱对钼铼的分离效果
+
+虽然TEVA树脂对钼铼具有较好的分离效果，但其成本较高，为最大程度发挥TEVA的高效分离能力，考虑到溶液中过高含量的钼酸盐会干扰到高铼酸根的分离，故对钼酸盐进行预分离研究。
+
+钼锝发生器中使用氧化铝柱分离钼锝，是将钼酸盐吸附在氧化铝柱上之后再对钼衰变出的高锝酸根进行洗脱［1］。我们测试了氧化铝柱对钼酸钠在不同 pH 值下的吸附情况，结果如图 3a 所示。在 $\mathrm { p H } \leqslant 7$ 时，氧化铝柱对钼酸根的吸附率相对稳定并保持在$80 \%$ 以上，当 $\mathrm { p H } > 7$ 时，氧化铝对钼酸盐的吸附大幅下滑，在浓碱性条件下降低至 $2 5 \%$ 以下。故氧化铝柱的初始环境应维持在 $\mathrm { p H } \leqslant 7$ 的条件下，这与文献报道一致［21］ 。
+
+图3b结果表明，在 $\mathrm { p H } { = } 7$ 的条件下， $3 0 { \sim } 4 0 ~ \mathrm { m L }$ 的生理盐水可洗脱大部分的高铼酸根。因此，氧化铝柱分离钼铼的最佳条件是 $\mathrm { p H } { = } 7$ 利用生理盐水洗脱大部分高铼酸根。
+
+![](images/f890fa4688072278e5c9add94261ac581b6a1435092f7fcbf4bca0f7f0eafbb5.jpg)
+
+![](images/50d9226b0fe24afe01df179d09d7d07fc8b9769a240b3925481aeb55583be838.jpg)  
+图3　（a）不同pH值下氧化铝柱对钼酸根的吸附；（b）生理盐水对高铼酸根的洗脱图  
+Figure 3　（a） Adsorption of molybdate by alumina column at different pH value；（b） Elution diagram of perrhenate with normal saline.

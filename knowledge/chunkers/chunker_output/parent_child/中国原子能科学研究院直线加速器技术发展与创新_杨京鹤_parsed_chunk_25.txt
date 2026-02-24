@@ -1,0 +1,5 @@
+5f385c78b207eb12d4e995370adc03dece77fc931244857.jpg)  
+图4C波段9MeV加速结构腔链模型(a)及加速管样管(b)  
+Fig. 4 Whole tube cavity chain model for C-band $9\mathrm{MeV}$ accelerating cavity (a) and accelerating tube prototype (b)
+
+2024年原子能院研发了C波段高平均功率速调管，提出了一种低波动率的C波段速调管聚焦系统，改进了群聚-校正-收集法[13]，实现了较高注-波转换效率，缩短了速调管长度，达到了C波段 $3.5\mathrm{MW} / 7\mathrm{kW}$ 速调管的紧凑化研制目标[14]，使我国掌握了电子直线加速器小型化与紧凑化的关键技术，有力推动新一代大功率、小型化工业加速器发展。C波段高平均功率速调管高功率测试台架实物图及输出功率测试结果如图5所示。

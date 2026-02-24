@@ -1,0 +1,7 @@
+tic environment, significantly improving the experimental reliability.
+
+Keywords： accelerator； Experimental Physics and Industrial Control System(EPICS)； fastprotection system；Compact Reconfigurable I/O(CRIO)；Field Programmable Gate Array(FPGA)；Input/Output Controller(IOC)
+
+紧凑型可重配置输入输出控制器(CRIO)是一款小巧且坚固的工业化控制和采集嵌入式平台，包含实时控制器和可编程的现场可编程门阵列(FPGA)芯片。采用可重新配置的I/O(Input/Output)、可重复编程的FPGA技术，
+
+实现真正的并行运行性、高确定性和可自定义功能，同时支持可热插拔的工业级I/O模块。CRIO由于其坚固性、稳定性、开放性、实时性等特点，广泛用于车载、机载、舰艇、航空航天等各种复杂以及较恶劣环境的工业现场环境。我国的强流加速器机器快保护系统，主要针对

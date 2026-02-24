@@ -1,0 +1,4 @@
+# 参考文献：
+
+[1] 方守贤, 王乃彦, 何多慧, 等. 关于加速器驱动次临界系统 (ADS) 研发促进我国核能可持续发展的建议[J]. 中国科学院院刊, 2009, 24(6): 641-644.  
+FANG Shouxian, WANG Naiyan, HE Duohui, et al. Suggestions on R and D of accelerator driving sub-critical

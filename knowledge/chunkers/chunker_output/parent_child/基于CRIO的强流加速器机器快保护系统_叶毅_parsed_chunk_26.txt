@@ -1,0 +1,5 @@
+# 参考文献：
+
+[ 1 ] 罗 冰 峰 . 机 器 快 保 护 系 统 控 制 器 设 计 [D]. 北 京 : 中 国 科 学 院 大 学 , 2015. (LUO Bingfeng. Design of controller for fastprotection system[D]. Beijing,China:University of Chinese Academy of Sciences, 2015.)  
+[ 2 ] 山琳洁 . J-TEXT 托卡马克联锁安全系统设计[D]. 武汉:华中科技大学, 2014. (SHAN Linjie. J-TEXT Tokamak interlock & safety system design[D]. Wuhan,China:Huazhong University of Science and Technology, 2014.) DOI:10.7666/d.D227480.   
+[ 3 ] EPICS. Experimental physics and industrial control[EB/OL]. [2024-02-07]. http://www

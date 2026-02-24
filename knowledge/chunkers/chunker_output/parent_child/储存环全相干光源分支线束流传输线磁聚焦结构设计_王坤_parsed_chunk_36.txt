@@ -1,0 +1,7 @@
+mu \mathrm { m }$ （均值 $2 ~ 1 0 5 . 2 ~ { \mu \mathrm { m } }$ ，方差$1 0 6 0 . 3 ~ \mu \mathrm { m } )$ ）。由此可见，在当前误差强度设置下，水平方向和垂直方向轨道均有较大扰动。
+
+![](images/55bb88f4793c5a0ab847069fc04d63c6fbec7415b64c6b3eddf146bd3836da9f.jpg)  
+图13 考虑冲击磁铁和切割铁引入色散后的分支线束流光学函数图（彩图见网络版）  
+Fig.13 Beam optics for bypass line with consideration of dispersion introduced by the kicker and septum (color online)
+
+轨道校正后200个随机种子的轨道扰动如图14所示。轨道畸变RMS校正后的结果如图15所示。经过轨道校正后，水平方向轨道畸变为 $1 6 { \sim } 1 1 8 ~ \mu \mathrm { m }$ （均值 $5 3 . 7 \mu \mathrm

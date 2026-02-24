@@ -1,0 +1,8 @@
+场分布，所以，在回旋加速器及同步回旋加速器的轨道计算中，通常都是根据磁场的对称性，利用中心平面的二维磁场分布来获得磁场在三维空间的分布[12]，即
+
+$$
+\begin{array}{l} B _ {z} (r, \theta , z) = B _ {z} (r, \theta) - \\ \frac {1}{2} z ^ {2} \left(\frac {\partial^ {2}}{\partial r ^ {2}} + \frac {1}{r} \frac {\partial}{\partial r} + \frac {1}{r ^ {2}} \frac {\partial^ {2}}{\partial \theta^ {2}}\right) B _ {z} (r, \theta) + 0 \left(z ^ {4}\right), \tag {2} \\ \end{array}
+$$
+
+$$
+\begin{array}{l} B _ {r} (r, \theta , z) = z \frac {\partial}{\partial r} B _ {z} (r, \theta) + 0 \left(z

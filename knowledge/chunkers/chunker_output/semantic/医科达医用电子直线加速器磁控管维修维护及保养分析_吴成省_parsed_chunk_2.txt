@@ -1,0 +1,11 @@
+内容提要：为了进一步提高放射治疗技术水平，本文以医科达医用电子直线加速器为对象，分析磁控管的运行原理，结合磁控管输出剂量小、磁控管电压值超出限值、磁控管老化、设备使用过程联锁四种常见故障展开分析，总结维修维护的方法。最后提出定期维护设备的冷却系统、实时监测电子束、灵活控制温湿度三点保养建议。从而有效优化磁控管性能，并希望能够为今后医科达医用电子直线加速器在放射治疗中的应用提供维修维护与保养方面的参考。
+
+关键词：医科达 医用电子直线加速器 磁控管 维修维护
+
+# Maintenance and Maintenance Analysis of Magnetron in Elekta Medical Linear Accelerator
+
+WU Cheng-sheng YUAN Ge LI Ding-yan HUANG Guang-sen CHEN Jie CHEN Shao-juan LIU Jia MAI Yan-hua JIANG Lei* Radiotherapy Room, Cancer Hospital, Affiliated Hospital of Guangdong Medical University (Guangdong Zhanjiang 524000)
+
+Abstract: In order to further improve the level of radiation therapy technology, this article takes the medical electronic linear accelerator of Elekta as the object, analyzes the operating principle of the magnetron, and combines four common faults such as low output dose of the magnetron, magnetron voltage value exceeding the limit, magnetron aging, and equipment interlocking during use to analyze and summarize maintenance methods. Finally, three maintenance suggestions are proposed: regular maintenance of the cooling system of the equipment, real-time monitoring of the electron beam, and flexible control of temperature and humidity. In order to effectively optimize the performance of the magnetron and provide reference for the maintenance and upkeep of the medical electron linear accelerator in radiation therapy in the future
+
+Key words: Elekta, medical electronic linear accelerator, magnetron, repair and maintenance

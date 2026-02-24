@@ -1,0 +1,7 @@
+中图分类号：TP393；TN919.8
+
+文献标识码：A
+
+文章编号：2096-4706（2025）20-0001-07
+
+# Research and Implementation of Video Accelerator Based on Software Defined Resource Reservation

@@ -1,0 +1,5 @@
+精确的近似值[2]。其中 $d_{i}$ 是通过判断第 $i$ 次旋转角度的累加后的正负来判断的，当累加值为正时， $d_{i} = 1$ ，反之 $d_{i} = -1$ 即 $d_{i} = \mathrm{sign}[z(i)]$ 。简化后可得
+
+$$
+\left\{ \begin{array}{l} x _ {i + 1} = x _ {i} - y _ {i} \tan \theta_ {i} = x _ {i} - y _ {i} d _ {i} 2 ^ {- i} \\ y _ {i + 1} = y _ {i} + x _ {i} \tan \theta_ {i} = y _ {i} + x _ {i} d _ {i} 2 ^ {- i} \\ z _ {i + 1} = z _ {i} - d _ {i} 2 ^ {- i} \\ d _ {i} = \left\{ \begin{array}{l l} 1 & z _ {i} \geq 0 \\ - 1 & z _ {i} <   0 \end{array} \right. \end{array} \right. \tag {6}
+$$

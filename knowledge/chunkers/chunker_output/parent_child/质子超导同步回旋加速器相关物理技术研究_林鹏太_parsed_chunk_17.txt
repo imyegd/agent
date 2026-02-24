@@ -1,0 +1,4 @@
+mu & \beta \sin \mu \\ - \gamma \sin \mu & \cos \mu \end{array} \right] = \left[ \begin{array}{c c} \cos (2 \pi \sqrt {K}) & \frac {\rho \sin (2 \pi \sqrt {K})}{\sqrt {K}} \\ \frac {- \sqrt {K} \sin (2 \pi \sqrt {K})}{\rho} & \cos (2 \pi \sqrt {K}) \end{array} \right] 。 \tag {7}
+$$
+
+为进行多粒子模拟分析，横向匹配束流需通过周期传输矩阵 (7)计算，当矩阵 (7)表示径向传输矩阵时$K { = } 1 { - } n$ ，表示垂直方向传输矩阵时 $K { = } n$ 。矩阵(7)中，等号左侧为Twiss参数，等号右侧为粒子在二极磁铁中运动的传输矩阵。其中， $\beta$ 为包络函数， $\mu$ 为相移，γ为偏角包络函数。不难发现 $\beta = \rho / \sqrt { K } = 1 / \gamma$ 。结合磁场参数

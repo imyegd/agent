@@ -1,0 +1,7 @@
+c969b847404c4d5607a254b7899b381db3d067eb.jpg)  
+图 2   测量布点现场图和示意图  
+Figure 2    A photo of the treatment room and a schematic diagram of the measurement points
+
+针旋转，每隔 $1 0 ^ { \circ }$ 出束 $1 5 \mathrm { M U }$ ，共出束 ${ 5 4 0 } \mathrm { M U }$ 。出束时机房的环境条件为：温度是 $2 3 . 1 \mathrm { ~ ‰ ~ }$ ，湿度是 $51 \%$ ，气压是 $1 0 1 . 4 \mathrm { k P a }$ ，排风口风速 $2 . 6 \mathrm { m } / \mathrm { s }$ 。
+
+1.4    加速器机房屏蔽防护计算比较    根据实测辐射场的结果，得出无屏蔽体情况下墙外剂量率数据 $\dot { H } _ { m }$ ，结合屏蔽体外剂量率控制目标值，根据公式（1）可以计算出所需屏蔽体的厚度值。同时根据标准 GBZ201.2—

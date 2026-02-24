@@ -1,0 +1,4 @@
+实验装置的小型铅堆确定论中子学计算方法研究及验证[J]. 原子能科学技术, 2025, 59(3): 644-655.  
+YANG Yichen, ZHENG Yongqi, ZHU Qingfu, et al. Deterministic neutronics calculation method of small lead-cooled reactor based on Venus-II criticality experimental facility and its verification[J]. Atomic Energy Science and Technology, 2025, 59(3): 644-655(in Chinese).   
+[12] 梁淑红, 朱庆福, 史永谦, 等. 跳源法测量 ADS 启明星 II 号的次临界度及动态特性[J]. 原子能科学技术, 2018, 52(2): 302-306.  
+LIANG Shuhong, ZHU Qingfu, SHI Yongqian, et al. Sub-critical reactivity and dynamic charac

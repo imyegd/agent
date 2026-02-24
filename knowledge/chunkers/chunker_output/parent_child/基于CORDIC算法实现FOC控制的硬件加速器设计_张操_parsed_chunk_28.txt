@@ -1,0 +1,11 @@
+# 2.2.2 Park变换
+
+Park变换就是将两相静止坐标系 $\alpha -\beta$ 转换为随转子转动的坐标系，也就是坐标系 $d - q$ 。 $d$ 轴的方向是与转子内磁场的方向重合，也就是直轴； $q$ 轴的方向与转子内磁场的方向垂直，为交轴。建设将坐标系 $\alpha -\beta$ 旋转角度 $\theta$ （转子旋转的角度），同样也是将 $\alpha -\beta$ 轴进行正交分解如图7所示。
+
+![](images/76d16446c75e4f02ea1b64f880591b9c31328a3c6768f6acbfa953c6a2732c04.jpg)  
+图7 Park变换原理图
+
+最终计算出 $I_{d} 、 I_{q}$ 的结果如式（13）所示，即 $I_{\alpha} 、 I_{\beta}$ 作用了一个旋转矩阵，写成矩阵形式：
+
+$$
+\left[ \begin{array}{l} I _ {d} \\ I _ {q} \end{array} \right] = \left[ \begin{array}{c c} \cos \theta_ {i} & \sin \t

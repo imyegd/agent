@@ -1,0 +1,27 @@
+# Installation and Leak Detection of Beam Vacuum Equipment for the High Energy Photon Source
+
+LIU Tianfeng, GUO Dizhou, DONG Haiyi, LIU Baiqi*, TIAN Pilong, SUN Xiaoyang, ZHU Bangle, YANG Qi, ZHANG Lei, LI Qi, WANG Xujian,
+
+HUANG Tao, MA Yongsheng, SUN Fei, DENG Binglin, YANG Yuchen, HE Ping
+
+（Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, China）
+
+Abstract As an internationally advanced fourth-generation light source with ultra-high brightness and ultralow emittance, the High Energy Photon Source (HEPS) imposes stringent requirements on the sealing performance and cleanliness of its vacuum system.Vacuum leak detection and residual gas analysis are key procedures to ensure the vacuum system meets performance standards. This paper systematically elaborates on the strategies and practices of vacuum leak detection for the HEPS storage ring vacuum system during the installation, commissioning, and operation phases. It focuses on expounding the leak detection scheme using the vacuum mode method of helium mass spectrometer leak detectors, detailing the procedures and solutions for locating various leak points (such as weld defects and improper installation of sealing rings), and analyzing the typical response characteristics of the instrument interface during leak detection. Meanwhile, this paper deeply explores the dual roles of Quadrupole Mass Spectrometers (QMS) in the commissioning of vacuum systems: on the one hand, as a high-sensitivity leak detection tool, it assists in locating difficult-to-detect leaks that are challenging for helium mass spectrometer leak detectors; on the other hand, as a key device for residual gas composition analysis, it systematically measures and compares the residual gas spectra in the vacuum chamber of the storage ring before and after beam loading. This study verifies the effectiveness and reliability of the adopted leak detection methods and analysis strategies, providing a solid guarantee for the qualification and stable operation of the HEPS storage ring vacuum system. Its experience holds important reference value for vacuum quality control and analysis of similar large scientific facilities.
+
+Keywords High Energy Photon Source (HEPS), Storage ring vacuum system, Vacuum leak detection, Helium mass spectrometer leak detection, Residual gas analysis
+
+摘要 高能同步辐射光源（HEPS）作为具有极高亮度和极低发射度的国际先进的第四代光源，其对真空系统的密封性和洁净度提出了严苛要求。真空检漏与残余气体分析是保障真空系统性能达标的关键环节。本文系统论述了 HEPS 储存环真空系统在安装、调试与运行阶段的真空检漏策略与实践。重点阐述了
+
+利用氦质谱检漏仪的真空模式法的检漏方案，详述了定位各类漏点（如焊缝缺陷、密封圈安装不当等）的流程与解决方案，并分析了检漏过程中仪器界面的典型响应特征。同时，本文深入探讨了四极质谱仪（QMS）在真空系统调试中的双重作用：一方面作为高灵敏度的检漏工具，辅助定位了氦质谱检漏仪在难以检漏情形下的疑难漏点；另一方面，作为残余气体成分分析的关键设备，系统测量并对比了储存环有束流加载前后真空腔内的残余气体谱图。本研究证实了所采用的检漏方法与分析策略的有效性与可靠性，为 HEPS 储存环真空系统的达标与稳定运行提供了坚实保障，其经验对同类大科学装置的真空质控与分析具有重要的参考价值。
+
+关键词 高能同步辐射光源 储存环真空系统 真空检漏 氦质谱检漏 残余气体分析
+
+中图分类号：TB735 文献标识码：A doi:10.13922/j. cnki. cjvst. 202511006
+
+高能同步辐射光源（High Energy PhotonSource，HEPS）是我国正在建设的世界顶尖第四代同步辐射光源，其设计亮度高于第三代光源一个量级以上，发射度接近衍射极限[1]。为实现电子束流的长期稳定储存，HEPS储存环真空系统必须保持为超高真空环境（静态真空度优于 $6 . 6 { \times } 1 0 ^ { - 8 } \mathrm { P a }$ 量级）与极低的动态气载[2-3]。因此，对于高能光源总长约$1 8 0 0 \mathrm { m }$ 的复杂真空系统来说，该真空度要求对系统所有部件的制造、整体安装及检漏工艺提出了前所未有的技术挑战。漏率累积效应或材料放气率不达标都可能导致真空度恶化，进而影响束流寿命和光源的性能。
+
+真空检漏是保障真空系统性能达标的最关键环节之一。HEPS 储存环真空系统结构复杂，包含近万个可拆卸法兰连接点并且每根真空盒有数条焊缝，漏点可能存在于焊缝、波纹管、密封连接口等任何位置[4]。传统的氦质谱检漏技术是真空工程中最灵敏、最常用的方法，但在 HEPS这类庞大复杂的系统中，如何高效精准定位各类漏点并制定科学的处置标准，是工程实践中的核心技术难点[5]。此外，在系统完成初步检漏和烘烤除气后，进入超高真空状态，此时传统的外接检漏仪喷氦法已不再适用，需要依靠四极质谱仪（Quadrupole Mass Spectrometers，QMS）进行在线监测和疑难漏点排查。同时，QMS 提供的残余气体分析（Residual GasAnalyzer，RGA）数据是评估真空洁净度、研究束流与真空盒内壁作用机制（如光致解
+
+吸、电子诱导解吸）的重要依据[6-7]。
+
+本文系统总结了HEPS储存环真空系统在安装、调试和运行阶段的真空检漏策略与实践。重点分析了基于氦质谱检漏仪的真空模式法在复杂工况下的应用，分类阐述了典型漏点的特征、定位方法与处置方案。进一步，研究了 QMS 在超高真空阶段的检漏辅助功能，并对比分析了有无束流加载条件下真空管道内残余气体成分的演变规律，为HEPS 真空系统的长期稳定运行与优化提供了重要的数据支撑和工程经验。

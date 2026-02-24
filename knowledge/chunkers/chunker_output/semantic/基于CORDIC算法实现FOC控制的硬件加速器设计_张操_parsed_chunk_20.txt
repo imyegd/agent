@@ -1,0 +1,5 @@
+# 2.2.4 反Clarke变换
+
+而反Clarke变换就是将坐标系 $\alpha -\beta$ 还原成原始的三相电坐标系，如图9所示。
+
+![](images/754b7e186cf8f160843f00adebf7dbc2f257504f188ea20ec879977a0958a0bb.jpg)

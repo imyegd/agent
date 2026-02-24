@@ -1,0 +1,12 @@
+![](images/55f0b4f26fe6eb86ad6fce73af401530428b6604860f32887d2ba2175b088c12.jpg)  
+注：a 为标准辐照的定位图像及血袋模体勾画（圈出部位），b 为标准辐照的剂量分布图，c 为传统辐照的定位图像及血袋模体勾画（圈出部位），d 为传统辐照的剂量分布图。
+
+![](images/15d2ef97ee4329c1e4b0b1df4e7edb6f85583ec860bac968c19e6cf644a1e127.jpg)  
+图 2　标准辐照和传统辐照的靶区及剂量分布图  
+图3　标准辐照和传统辐照的微分剂量体积直方图比较
+
+表1　标准辐照和传统辐照中血袋模体的剂量学参数
+
+<table><tr><td>辐照方式</td><td>Dmin(Gy)</td><td>Dmax(Gy)</td><td>Dmean(Gy)</td><td>V25 Gy(%)</td></tr><tr><td>标准辐照</td><td>25.0</td><td>27.2</td><td>25.9</td><td>100.0</td></tr><tr><td>传统辐照</td><td>16.3</td><td>27.3</td><td>25.9</td><td>99.7</td></tr></table>
+
+注： $D _ { \mathrm { m i n } }$ 为最小剂量， $D _ { \mathrm { m a x } }$ 为最大剂量， $D _ { \mathrm { m e a n } }$ 为平均剂量。

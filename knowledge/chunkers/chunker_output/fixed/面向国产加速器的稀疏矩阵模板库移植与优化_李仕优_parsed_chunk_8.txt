@@ -1,0 +1,21 @@
+，并利用异步数据加载等方法进一步提升算法的性能；Zhao 等人[6]通过数据相似性重排序和负载均衡等方法来优化基于 Tensor Core 的 SpMM 算法。
+
+在 SpMM 数学库层面，国产加速器平台的SPARSE 数学库仅支持基于通用计算核心方式的SpMM 算法，未能支持 Tensor Core 参与计算；而NVIDIA 推出的 cuSPARSE 和 cuSPARSELt 提供了基于 Tensor Core 的 SpMM 算法，其中 cuSPARSELt要求稀疏矩阵的数据排布规律遵循 2:4 稀疏模式。
+
+上述基于 Tensor Core 的 SpMM 算法和数学库虽然充分发挥了并行处理器的性能，但又普遍存在定制化程度不足的问题。针对此问题，NVIDIA 推出的 CUTLASS-Sparse 是一款基于 Tensor Core 的SpMM 模版库，在确保高性能的前提下兼顾程序的可定制化。
+
+# 1.3 Blocked-ELL 稀疏矩阵存储格式
+
+常见的稀疏矩阵存储格式有压缩稀疏行/压缩稀疏列（CSR/CSC）[19]、坐标格式（COO）[23]和块压缩稀疏行（BCSR）等，这些存储格式中的非零元素在行或列维度呈现非均匀分布，导致并行计算时访存不规则。因此，这些存储格式并不能充分发挥并行处理器的性能优势。
+
+Blocked-ELL（Blocked-Ellpack）稀疏矩阵存储格式[24]是 ELL（Ellpack）稀疏矩阵存储格式[25]的扩展。Blocked-ELL 稀疏矩阵存储格式如图 2 所示，其共包含三个部分：值数组、列块索引数组和分块大小。分块大小定义了数据存储的基本单位，值数组用于存储包含非零元素的分块的数据，列块索引数组用于存储每行中分块的列索引（空余位置用-1填充）。
+
+![](images/d22c6a76607e0ebed3c6ea92be1dfd8f2040840bd52b86dfa1bababad4a094f4.jpg)  
+图 2 Blocked-ELL 稀疏矩阵存储格式  
+Fig.2 The Blocked-ELL storage format of sparse matrix
+
+Blocked-ELL 稀疏矩阵存储格式相较于常见的稀疏矩阵存储格式具有规整的访存模式和较低的线程束分支分歧，更适合发挥并行处理器性能优势[25]。
+
+# 1.4 CUTLASS-Sparse
+
+CUT

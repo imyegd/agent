@@ -1,0 +1,9 @@
+# Design and Implementation of Beam Regulating Electronic Unit for Proton Accelerator
+
+WU Jiaxiang $^{1}$ , ZHANG Xiaohu $^{2}$ , WANG Xianghui $^{1}$ , XU Pengyu $^{1}$ , ZHAO Linlin $^{1}$
+
+(1. CGN Medical Technology (Mianyang) Co., LTD, Mianyang 621000, China;
+
+2. CGN Jinwo Technology Co., LTD, Shenzhen 518118, China)
+
+Abstract: In proton therapy, precise control of beam intensity is critical to ensuring dose uniformity in the target area. To address the insufficient regulation accuracy of existing syste

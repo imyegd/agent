@@ -1,0 +1,10 @@
+fixed-field alternating-gradient accelerators[J]. Reviews of Accelerator Science and Technology, 2008, 1(1): 65-97.   
+[4] 谢家麟. 加速器与科技创新[M]. 北京: 清华大学出版社, 2000.  
+[5] CALABRETTA L, MÉOT F. Cyclotrons and FFG accelerators as drivers for ADS[J]. Reviews of Accelerator Science and Technology, 2000, 8: 77-97.   
+[6] ISHI Y. Status report on KURNS FFAG facility[R]. [S.1.]: [s.n.], 2018.   
+[7] ZHANG Tianjue, FU Wei, WANG Chuan. Method for obtaining strong focusing of isochronous accelerator by varying magnetic field gradient in large radial range: U.S., 12295091[P]. 2025-05-06.   
+[8] ZHANG T, LI M, LV Y, et al. 52 kW CW proton beam
+
+production by CYCIAE-100 and general design of high average power circular accelerator[J]. Nucl Instrum Methods Phys Res B, 2020, 468: 60-64.   
+[9] 张天爵, 贾先禄, 宋国芳, 等. 型谱化高流强质子回旋加速器自主研发及创新应用[J]. 科学通报, 2023, 68(16): 2029-2036.  
+ZHANG Tianjue, JIA Xianlu, SONG Guofang, et al. Independent research and development and innovative applications of high-intensity proton cyclotrons toward seri

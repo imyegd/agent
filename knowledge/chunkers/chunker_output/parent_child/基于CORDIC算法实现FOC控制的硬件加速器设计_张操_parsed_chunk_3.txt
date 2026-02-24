@@ -1,0 +1,7 @@
+# The Design of Hardware Accelerator for FOC Control Based on CORDIC Algorithm
+
+ZHANG Cao<sup>1</sup>, GUAN Zhongxu<sup>2</sup>, BAO Huricha<sup>2</sup>, LI Linnan<sup>2</sup>, SHI Gang<sup>1</sup>
+
+(1.Hefei Zhixin Semiconductor Company Limited, Hefei 230000, China; 2.Intelligent Connected Vehicle Development Institute, China FAW Group Company Limited, Changchun 130011, China)
+
+Abstract: The Cortex-M architecture is designed around the concept of low-power, real-time control, with the advantage of being abl

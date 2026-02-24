@@ -1,0 +1,6 @@
+be43468c07784d41f124099b94b.jpg)  
+图 1 系统原理图
+
+表 1 模块功能说明  
+
+<table><tr><td>编号</td><td>英文名称</td><td>中文名称</td><td>功能</td></tr><tr><td>PWS</td><td>Pure water system</td><td>纯水系统</td><td>生产纯水,通过定压装置与各循环水系统连接。</td></tr><tr><td>OCPD1~ OCPD5</td><td>Online constant pressure device</td><td>在线定压装置</td><td>提供各循环水系统在线恒压补水功能,包括 OCPD1~ OCPD5</td></tr><tr><td>RF CWS</td><td>Radio frequency cooling water system</td><td>射频冷却水系统</td><td>射频部分的冷却功能</td></tr><tr><td>SYNC CWS</td><td>Synchrotron cooling water system</td><td>同步加

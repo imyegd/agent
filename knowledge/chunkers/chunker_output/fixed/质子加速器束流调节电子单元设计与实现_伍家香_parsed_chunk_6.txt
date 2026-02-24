@@ -1,0 +1,43 @@
+\mathrm{A},25~\mu \mathrm{A}$ （默认）或 $50~\mu \mathrm{A}$
+
+ICOutBNC提供 $0\sim 10\mathrm{V}$ 的具有可配置带
+
+![](images/2c090d8dc8ad27da4cbea38376ea88e0db428b04e13ab1e5ed1048f2cde1269b.jpg)  
+图5 IPC软件架构
+
+宽的信号。
+
+# 4.2.3 调节输出
+
+调节输出在 Reg Out 1 或 Reg Out 2 上提供。提供了一种旁路模式，用于将无调节输出连接到相应的旁路输入。
+
+调节输出通过软件配置(配方参数)为 $4\sim$ $20\mathrm{mA}$ 或 $0\sim 10\mathrm{V}$ 。当调节输出配置为 $4\sim$ $20\mathrm{mA}$ 模式时，选定的RegOut必须接上负载，以避免触发内部故障。
+
+# 4.2.4 PID调节器
+
+PID调节器如图7所示，其中比例系数 $K_{p}$ ：
+
+$$
+\frac {Y (z)}{X (z)} = K _ {p} \tag {1}
+$$
+
+积分项可以写成：
+
+$$
+Y (z) = Y (z) \cdot z ^ {- 1} + \frac {X (z) \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{2} \tag {2}
+$$
+
+$$
+\frac {Y (z)}{X (z)} = \frac {K _ {i} \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{\left(1 - z ^ {- 1}\right) \cdot 2} \tag {3}
+$$
+
+微分项可以写成：
+
+$$
+\frac {Y (z)}{X (z)} = \frac {K _ {d} \cdot \left(1 - z ^ {- 1}\right)}{T _ {s}} \tag {4}
+$$
+
+结合（1）、（3）、（4），我们得到：
+
+$$
+C (z) = K _ {p} + \frac {K _ {i} \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{\left(1 - z ^ {- 1}\right) \cdot 2} + \frac {K _ {d

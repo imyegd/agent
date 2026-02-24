@@ -1,0 +1,5 @@
+2025, 72(3): 692-698.   
+[53] YIN Z, XIONG R, GUO Q, et al. Online parameter identification and control in the commissioning of nozzle for CIAE proton therapy system[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 462-468.
+
+[54] GIKAL B N, BOGOMOLOV S L, DMITRIEV S N, et al. DUBNA cyclotrons: Status and plans[J]. ICFA Beam Dyn Newslett, 2005, 37: 44-50.   
+[55] D'AGOSTINO G, CALABRETTA L, KLEEVEN W, et al. A central region upgrade of the K800 superconducting cyclotron at INFN-LNS[J]. Journal of Phys

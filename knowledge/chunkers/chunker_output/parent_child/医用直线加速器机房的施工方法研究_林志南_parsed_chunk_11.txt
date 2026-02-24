@@ -1,0 +1,17 @@
+矩、剪力及位移分布图，分别如图2～图5
+
+所示。
+
+![](images/57d17234ac12c9838726e76be8af1ae4d8e5ebfd5b9e4f9772abc7e3e28d259a.jpg)  
+图2 主龙骨的支座反力
+
+![](images/0a6f74e6ce4d9c4a58ac1183dfa093fc5fc34782503d0dcbc24f04e530911a9c.jpg)  
+图3 主龙骨的弯矩
+
+![](images/303a0b53766fefbedee8ffc8a6fb9e0d1e2a94d11589eb8bd8649c5b09bb9350.jpg)  
+图4 主龙骨的剪力
+
+![](images/fc138f0d615f8562e59926ad3cbfd2824563b05c5701324254fc61cb4fdc3972.jpg)  
+图5 主龙骨的位移
+
+由图2～图5可知，此时主龙骨的最大支座反力、弯矩及变形分别为 $1 0 1 . 9 9 \mathrm { k N }$ 、 $7 . 6 5 \mathrm { k N } \cdot \mathrm { m }$

@@ -1,0 +1,11 @@
+中图分类号：TP183
+
+文献标志码：A
+
+doi:10.3969/j.issn.1007-130X.2025.10.003
+
+# A spiking neural network accelerator based on approximate computing
+
+XU Weikang, SUN Yan, ZHANG Jianmin
+
+(College of Computer Science and Technology, National University of Defense Technology, Changsha 410073, China)

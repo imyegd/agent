@@ -1,0 +1,17 @@
+$3 6 ^ { \circ }$ 、 $3 0 ^ { \circ }$ 、 $2 4 ^ { \circ }$ 和 $1 1 ^ { \circ }$ ，厚度分别为 1.05、1.4、1.1和 $0 . 0 6 ~ \mathrm { c m }$ ，其它再生器模块以此类推。图10为三种情况下磁铁中心平面平均磁场强度随半径的分布：主磁铁单独作用，再生器单独作用，主磁铁与再生器共同作用。
+
+![](images/7e033d6ae70a6eeae4fe676db4ca92ca4c09579fe6ad8504c451d4c260671d1b.jpg)
+
+![](images/338ce264a728adb55902904d73399ccaeedb1ff4e4f6436be48ce2e66d63d8db.jpg)  
+图 9    (在线彩图)再生器径向 1/4截面图和再生器角向截面图
+
+表 3    再生器主要参数 单位：cm  
+
+<table><tr><td rowspan="2">半径</td><td colspan="4">厚度</td></tr><tr><td>36°</td><td>30°</td><td>24°</td><td>11°</td></tr><tr><td>45~45.5</td><td>1</td><td>0.8</td><td>0.6</td><td>0</td></tr><tr><td>45.5~49</td><td>1.05</td><td>1.4</td><td>1.35</td><td>0.06</td></tr><tr><td>49~53</td><td>1.05</td><td>1</td><td>1.1</td><td>0.06</td></tr><tr><td>53~54.5</td><td>1.25</td><td>0.6</td><td>0.95</td><td>0</td></tr></table>
+
+![](images/09731ff1008e709247f2c4f169f9ec29c2f4059c653a1048defdfcf89d808817.jpg)  
+图 10    (在线彩图)磁场随半径分布
+
+图11为半径 $4 8 . 5 \mathrm { c m }$ 处再生器磁场沿方位角的变化。
+
+由图10可知，再生器产生了一个 $0 . 8 \mat

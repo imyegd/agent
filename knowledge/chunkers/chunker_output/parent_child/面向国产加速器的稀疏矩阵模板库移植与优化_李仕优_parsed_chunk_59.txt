@@ -1,0 +1,5 @@
+)  
+图 12 CUTLASS-Sparse 相较于 SPARSE 的加速比  
+Fig.12 The speedup of CUTLASS-Sparse compared to SPARSE
+
+移植与优化后的 CUTLASS-Sparse 性能显著高于 SPARSE 数学库性能的重要原因是 Tensor Core 相较于通用计算核心拥有显著的性能优势，其能够在单次执行中并行完成多次乘累加操作，例如对于规模为 $1 6 \times 8$ 和 $8 \times 1 6$ 的矩阵乘法，基于通用计算核心方式完成该运算需要数十至数百条乘累加指令，而基于Tensor Core方式仅需一条专用指令即可完成该运算，大幅提高了计算性能。

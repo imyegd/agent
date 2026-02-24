@@ -1,0 +1,23 @@
+# Evaluation of radiation protection control effect of a 10 MeV electron accelerator industrial irradiation construction project in Guangxi
+
+CHEN Yongyong ， SHI Yanghai ， WANG Ping ， SHI Yuhua ， LU Yuansheng
+
+Institute of Nuclear and Radiation Protection ， Guangxi Zhuang Autonomous Region Institute for the Prevention and Treatment of Occupational Disease Nanning Guangxi 530021 China
+
+Corresponding author ： LU Yuansheng ， Engineer ， E-mail ： 215899600@qq.com
+
+Abstract ： Objective To evaluate the radiation protection control effect of a 10 MeV electron accelerator construction project for industrial irradiation in a company in Guangxi ， and to ensure the radiation safety and health of the radiation workers in the construction unit. Methods In January 2024 ， the evaluation unit carried out on-site inspection of its industrial irradiation workplace according to the current laws regulations rules normative documents and technical standards and collected project data to comprehensively evaluate the radiation protection control effect of the construction project. Results During normal operation under rated working conditions ， the ambient dose equivalent rate of $\Upsilon , \gamma$ ray measured 30 cm outside the shielding walls and entrances/exits of the accelerator room and the irradiation room and the entrance and exit was from 0.05 to $0 . 4 6 ~ \mu \mathrm { S v / h }$ ， and the ambient dose equivalent rate of neutron was not detected which met the limit requirements of GBZ 141-2002 "protection and detection specifications for $\gamma$ -ray and electron beam irradiation devices". The occupational radiation dose potentially received by the workers over one year was approximately $0 . 9 8 ~ \mathrm { m S v }$ which was less than the annual dose management target value of 5 mSv. Conclusion The radiological protection control measures during normal production operations meet the legal ， regulatory ， and standard requirements for occupational disease prevention and treatment at both the national and local levels. Therefore ， the construction project satisfies the conditions for completion and acceptance.
+
+Keywords ： Industrial irradiation ； Electron accelerator ； $1 0 \ \mathrm { M e V }$ ； Radiological protection ； Control effectiveness
+
+辐照加工是一种利用放射性同位素或加速器产生的射线（如 $\gamma$ 射线 X 射线或电子束）对材料进行处理的技术，这种技术在工业 农业 医疗和环保等多个领域都有广泛的应用 辐照加工可用于医疗器械 食品包装材料等的消毒灭菌，有效杀灭细菌 病毒等微生物，
+
+基金项目：广西卫生健康委员会自筹经费科研课题（Z-A20220342）
+
+作者简介：陈永雍，男，工程师，主要从事放射卫生工作。
+
+通信作者：卢远盛，工程师，E-mail：215899600@qq.com
+
+保证产品卫生安全 近年来以加速器辐照加工为代表的核技术应用发展迅速，为社会带来了显著的效益[1]截至 2024 年 3 月底，广西纳入核技术利用单位风险分级名录库的核技术利用单位达 2 740 家[2]，其中列为重点监管对象（中风险单位）的有 140 家 特殊监管对象（高风险单位）的有 15 家 因此，技术发展的同时也增加了放射工作人员职业暴露风险，对确保核技术的安全使用提出更高要求[3] 因此，本研究于 2024 年1 月对
+
+广西壮族自治区某 $1 0 \ \mathrm { M e V }$ 电子加速器工业辐照建设项目进行放射防护控制效果评价，确保其在正常生产过程中职业病危害放射防护控制效果满足国家和地方对职业病防治方面的法律、法规、标准的要求。

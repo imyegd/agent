@@ -1,0 +1,3 @@
+ted and applied in meteorological departments in Hunan, Zhejiang, and Hubei provinces, providing intelligent algorithm support for high- resolution and high- frequency meteorological intelligent forecasting products.
+
+Keywords: short-term and imminent precipitation forecast; deep learning; domestic accelerator; radar echo extrapolation; mixed-precision training

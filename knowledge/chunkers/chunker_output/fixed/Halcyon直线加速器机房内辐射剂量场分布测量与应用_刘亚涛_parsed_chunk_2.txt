@@ -1,0 +1,13 @@
+）。利用实测辐射场结果进行屏蔽防护计算得出的东墙、南墙、西墙和北墙参数分别为 1219、949、1235 和 $1 2 5 2 \mathrm { m m }$ ，均小于经验公式计算结果。 结论 TLD剂量计适合多点布点实测 Halcyon 型加速器机房内的辐射场分布规律，测量结果可用于优化机房屏蔽防护设计。
+
+关键词：Halcyon 直线加速器；辐射场；热释光剂量计；屏蔽设计
+
+中图分类号：R144 文献标识码：A 文章编号：1004-714X(2025)05-0740-06
+
+# Measurement and application of radiation field distribution in Halcyon linear accelerator treatment room
+
+LIU Yatao1，YI Yanling2，ZHAO Wentao2，LIU Haikuan2，E Xiangyu1，YU Jingping1，ZENG Hongwei1 1. Shuguang Hospital Affiliated to Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China;
+
+2. Institute of Radiation Medicine, Fudan University, Shanghai 200032, China
+
+Abstract：  Objective To measure radiation filed distribution in the treatment room of the Varian Halcyon medical linear accelerator, and to provide a basis for shielding design and potential exposure analysis of treatment rooms for this type of accelerator. Methods Under the 6 MV X-ray (FFF) mode at a maximum dose rate of $8 0 0 ~ \mathrm { M U / m i n }$ and a maximum irradiation field of $2

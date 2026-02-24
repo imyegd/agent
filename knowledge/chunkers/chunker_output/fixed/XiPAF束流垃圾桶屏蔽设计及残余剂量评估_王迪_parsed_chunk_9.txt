@@ -1,0 +1,7 @@
+ergies in various materials   
+
+<table><tr><td rowspan="2">质子能量
+Proton energy / MeV</td><td colspan="6">不同材料中的质子横向歧离
+Lateral straggling data of protons in various materials / mm</td></tr><tr><td>聚乙烯 Polyethylene</td><td>石墨 Graphite</td><td>铝 Aluminum</td><td>铁 Iron</td><td>铜 Copper</td><td>铅 Lead</td></tr><tr><td>10</td><td>0.028</td><td>0.018 9</td><td>0.026 8</td><td>0.016 2</td><td>0.016 5</td><td>0.037 1</td></tr><tr><td>30</td><td>0.195</td><td>0.128</td><td>0.173</td><td>0.099 6</td><td>0.098 9</td><td>0.200</td></tr><tr><td>50</td><td>0.482</td><td>0.315</td><td>0.417</td><td>0.236</td><td>0.233</td><td>0.452</td></tr><tr><td>70</td><td>0.872</td><td>0.567</td><td>0.743</td><td>0.417</td><td>0.41</td><td>0.778</td></tr><tr><td>100</td><td>1.62</td><td>1.05</td><td>1.37</td><td>0.761</td><td>0.745</td><td>1.38</td></tr><tr><td>200</td><td>5.24</td><td>3.37</td><td>4.32</td><td>2.38</td><td>2.32</td><td>4.17</td></tr></table>
+
+注：聚乙烯、石墨、铝、铁、铜、铅的密度分别为： $\mathrm { : 0 . 9 4 g \cdot c m ^ { - 3 } , 2 . 0 0 g

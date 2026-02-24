@@ -1,0 +1,5 @@
+article  systematically reviews memristor devices and crossbar arrays, system architectures, software tools, representative applications, and development trends, and highlights the key technical challenges that remain to be addressed.
+
+Keywords: memristors; crossbar array; computing-in-memory; accelerators; non-ideal effects of memristors; compiler; simulator
+
+摘　要：为应对人工智能（artificial intelligence, AI）算法的快速发展，计算资源的需求正呈指数级增长，这为 AI 模型的硬件部署带来了巨大挑战。基于忆阻器的存算一体加速器为解决大型 AI 模型部署中的能效与时延问题提供了极具前景的方案——即计算直接在存储数据的存储单元中完

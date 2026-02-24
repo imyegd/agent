@@ -1,0 +1,17 @@
+5764db3eb151527e0703f4dd910916555a1342b8f7c03e32db509e0c6d.jpg)  
+图 12 CUTLASS-Sparse 相较于 SPARSE 的加速比  
+Fig.12 The speedup of CUTLASS-Sparse compared to SPARSE
+
+移植与优化后的 CUTLASS-Sparse 性能显著高于 SPARSE 数学库性能的重要原因是 Tensor Core 相较于通用计算核心拥有显著的性能优势，其能够在单次执行中并行完成多次乘累加操作，例如对于规模为 $1 6 \times 8$ 和 $8 \times 1 6$ 的矩阵乘法，基于通用计算核心方式完成该运算需要数十至数百条乘累加指令，而基于Tensor Core方式仅需一条专用指令即可完成该运算，大幅提高了计算性能。
+
+# 4.3.3 NVIDIA GPU L20 对比实验
+
+图 13 给出了国产加速器 K 型号上移植与优化后的 CUTLASS-Sparse 与 NVIDIA GPU L20 上CUTLASS-Sparse 原库的性能对比结果，以 GPU L20性能为基准（ $1 0 0 \%$ ），纵坐标表示国产加速器 K 型号性能达到 GPU L20 性能的百分比。对于 TF32 数据类型，移植与优化后的 CUTLASS-Sparse 在国产加速器K型号上的性能平均达到GPU L20上原库性能的 $7 6 \%$ 。对于 FP16 数据类型（FP32 写回和 FP16写回），移植与优化后的 CUTLASS-Sparse 在国产加速器 K 型号上的性能平均达到 GPU L20 上原库
+
+（FP32 写回和 FP16 写回）性能的 $6 1 \%$ 和 $6 0 \%$ 。
+
+![](images/ba3e32d3f3783452cc203f557402f62489e3983aca870c7e342f82a3ee9a3e77.jpg)  
+图 13 国产加速器 K 型号相较于 GPU L20 的性能百分比  
+Fig.13 The performance percentage of domestic accelerator K compared to the GPU L20
+
+关于国产加速器K型号与GPU L20性能差异的原因，主要表现在 L2 Cache 容量的显著差距，GPUL

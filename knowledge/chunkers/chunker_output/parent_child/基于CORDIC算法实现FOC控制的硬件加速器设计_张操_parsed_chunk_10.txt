@@ -1,0 +1,14 @@
+# 1.1坐标系旋转
+
+将坐标系中任意坐标点 $(x_0, y_0)$ 逆时针旋转角度 $\theta$ ，到坐标 $(x_1, y_1)$ 位置，如图1、图2所示。那么 $(x_1, y_1)$ 可由 $(x_0, y_0)$ 表示，如式（1）所示：
+
+$$
+\left\{ \begin{array}{l} x _ {1} = x _ {0} \cos \theta - y _ {0} \sin \theta \\ y _ {1} = x _ {0} \sin \theta + y _ {0} \cos \theta \end{array} \right. \tag {1}
+$$
+
+![](images/54b2bbf2c367e1b884fc2e8f425131e1be4c58728d56e74caea8d3025f3c9e6f.jpg)  
+图1 坐标旋转图
+
+![](images/7c1d6540c920788292adc0acb975b8b997ed1da58dd9871ed5662fe4189e35b4.jpg)
+
+![](images/52bc2d94f9648aeea6eea3a88594cf

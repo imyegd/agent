@@ -1,0 +1,5 @@
+r iterative methods[M]. 2nd Edition. PA, USA: Society for Industrial and Applied Mathematics, 1994.   
+[24] CHOI J W, SINGH A, VUDUC R W. Model-driven autotuning of sparse matrix-vector multiply on GPUs[C]//Proceedings of the ACM SIGPLAN Notices. New York, USA: ACM Press, 2010: 115-126.   
+[25] 王鑫, 彭健. 基于 HYB 格式 SpMV 在新一代申威架构上的实现与优化[J]. 计算机工程与科学, 2023, 45(10):1754-1762.WANG X, PENG J. Implementation and optimization ofHYB-based SpMV on the new-generation Sunway
+
+architecture[J]. Computer Engineering & Scien

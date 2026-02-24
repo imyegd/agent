@@ -1,0 +1,23 @@
+gh- performance deep learning library[C]// Advances in neural information processing systems, 2019, 32: 8024-8035.   
+[23] https://nvidia.github.io/apex/[EB/OL].   
+[24] WOO W C, WONG W K. Operational application of optical flow techniques to radar- based rainfall nowcasting[J]. Atmosphere, 2017, 8(3): 48.   
+[25] https://www.nvidia.cn/data-center/tesla-p100/[EB/OL].   
+[26] https://www.nvidia.cn/data-center/v100/[EB/OL].
+
+[27] SERGEEV A, DEL BALSO M. Horovod: fast and easy distributed deep learning in tensorflow[J]. arXiv preprint arXiv:1802.05799, 2018.
+
+收稿日期：2025年2月27日
+
+辛昱杭，国家气象信息中心先进计算室，工程师，研究方向为人工智能气象应用.
+
+本文中承担工作为TrajCast方案设计实现与在GPU上的实验。
+
+XIN Yuhang is an engineer at the Advanced Computing Division of the National Meteorological Information
+
+Center. His research direction is the application of artificial intelligence in meteorology.
+
+In this paper, he is responsible for the design and implementation of the TrajCast scheme and experiments on GPU.
+
+E-mail: xinyj@cma.gov.cn
+
+![](images/33494481326ff734a10d7

@@ -1,0 +1,14 @@
+并对电势 $\varphi$ 进行线性近似，即
+
+![](images/fb1504455653a3e04a71dbf571eda668111a6abe7a63e2549170e38732cc98b5.jpg)  
+Fig. 1    Schematic diagram of electrostatic chopper structure   
+图 1    静电式斩束器结构示意
+
+$$
+\varphi = \varphi_ {0} + \varphi^ {\prime} d \tag {2}
+$$
+
+在束流光学中，将粒子传输方向定义为 z 方向，与 $z$ 方向正交的平面定义为横向截面，横向截面的正交轴 x、$y$ 轴与 $z$ 轴满足右手法则。假定时间 $\scriptstyle { t = 0 }$ 时，粒子坐标 $y { = } 0$ ， $z { = } 0$ ，对于束流偏转角采用泰勒展开并取一阶近似$\tan \theta { \approx } \theta .$ ，带入到拉格朗日方程中，最终可以求得斩束器作用下束流偏转距离公式为
+
+$$
+H = K \varphi = \frac {1}{

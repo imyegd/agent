@@ -1,0 +1,27 @@
+中性化后中性束的束流成分占比表示，在 100 MeV 负氢离子束单
+
+![](images/51adfeb7456bf4f4f72c1982d3a102fe5f9572c0a7b44811cea60870db53206c.jpg)  
+图 2    单次剥离的剥离膜质量厚度与束流成分占比关系  
+Fig. 2    Dependence of stripped beam fraction on foil mass thickness with single-pass stripping
+
+次通过碳剥离膜的条件下，中性化率最大值为$5 5 . 9 5 \%$ ，对应的剥离膜质量厚度为 $1 1 . 1 6 \mu \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 。
+
+# 2.2 多圈剥离的束流中性化
+
+在本方案中，未被剥离的负氢离子会继续在加速器内旋转，多次通过剥离膜直至被引出。设图 3 中单次剥离后的负氢离子、氢原子、质子的占比依次为 $F _ { - 1 } , F _ { 0 }$ $F _ { 0 }$ 和 $F _ { 1 }$ ，近似认为在多圈剥离的过程中电荷转移碰撞截面不变，则多圈剥离后的氢原子 $F _ { 0 } ^ { \prime }$ 和质子占比 $F _ { 1 } ^ { \prime }$ 为：
+
+$$
+F _ {0} ^ {\prime} = \frac {F _ {0}}{F _ {0} + F _ {1}} \tag {5}
+$$
+
+$$
+F _ {1} ^ {\prime} = \frac {F _ {1}}{F _ {0} + F _ {1}} \tag {6}
+$$
+
+得到多圈剥离的束流成分占比，如图 3 所示。
+
+![](images/f449feaff2ef5f8008fb533a0fb8dd21e92377da1d49ddbb5f09aff31c901c63.jpg)  
+图 3    多圈剥离的剥离膜质量厚度与束流成分占比关系  
+Fig. 3    Dependence of stripped beam fraction on foil mass thickness with multi-pass stripping
+
+计算结果表明，剥离膜厚度越小，中性化率越高，但降低剥离膜厚度带来两方面问题：首先，过薄的剥离膜会大幅

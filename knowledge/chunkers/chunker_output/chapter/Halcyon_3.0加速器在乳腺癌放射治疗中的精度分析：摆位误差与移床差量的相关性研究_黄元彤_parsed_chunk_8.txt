@@ -1,0 +1,3 @@
+# 1.3观察指标
+
+为综合评估空间位移，定义以下矢量指标：摆位误差总位移（D）由摆位误差VRT，LNG，LAT合成。$D = \sqrt [ 2 ] { ( V R T ) ^ { 2 } + ( L N G ) ^ { 2 } + ( L A T ) ^ { 2 } }$ ， 单 位： $\mathbf { m m }$ 。移床差量总矢量（ $\Delta \mathrm { D }$ ）由移床差量 $\Delta \mathrm { V R T }$ ，ΔLNG，ΔLAT 合成。$\varDelta D = \sqrt [ 2 ] { ( A V R T ) ^ { 2 } + ( A L N G ) ^ { 2 } + ( A L A T ) ^ { 2 } }$ ，单位：cm。

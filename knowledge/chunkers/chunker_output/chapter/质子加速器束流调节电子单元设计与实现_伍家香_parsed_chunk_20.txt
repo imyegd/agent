@@ -1,0 +1,81 @@
+# 4.2.4 PID调节器
+
+PID调节器如图7所示，其中比例系数 $K_{p}$ ：
+
+$$
+\frac {Y (z)}{X (z)} = K _ {p} \tag {1}
+$$
+
+积分项可以写成：
+
+$$
+Y (z) = Y (z) \cdot z ^ {- 1} + \frac {X (z) \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{2} \tag {2}
+$$
+
+$$
+\frac {Y (z)}{X (z)} = \frac {K _ {i} \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{\left(1 - z ^ {- 1}\right) \cdot 2} \tag {3}
+$$
+
+微分项可以写成：
+
+$$
+\frac {Y (z)}{X (z)} = \frac {K _ {d} \cdot \left(1 - z ^ {- 1}\right)}{T _ {s}} \tag {4}
+$$
+
+结合（1）、（3）、（4），我们得到：
+
+$$
+C (z) = K _ {p} + \frac {K _ {i} \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{\left(1 - z ^ {- 1}\right) \cdot 2} + \frac {K _ {d} \cdot \left(1 - z ^ {- 1}\right)}{T _ {s}} \tag {5}
+$$
+
+该式可以改写为：
+
+$$
+C (z) = \frac {1}{1 - z ^ {- 1}} \cdot \left(\left(K _ {p} + K _ {i} \cdot \frac {T _ {s}}{2} + \frac {K _ {d}}{T _ {s}}\right) + \right.
+$$
+
+$$
+\left(- K _ {p} + K _ {i} \cdot \frac {T _ {s}}{2} - \frac {2 \cdot K _ {d}}{T _ {s}}\right) \cdot z ^ {- 1} + \frac {K _ {d}}{T _ {s}} \cdot z ^ {- 2} \tag {6}
+$$
+
+BREU参数的表达方式如下：
+
+$$
+P = K _ {p} \tag {7}
+$$
+
+![](images/03db40ace1cfaf2f9dfa86594150ae4d27e5620eb38b6418dd645072f476776d.jpg)  
+图6DSP调节框图
+
+![](images/9e4c4f5923d45f0679a749742a250285146b51f4686f21a526b311e857a1b73d.jpg)  
+图7 PID调节器
+
+$$
+I = \frac {K _ {i}}{2 \cdot \pi} \tag {8}
+$$
+
+$$
+D = \frac {1}{2 \cdot \pi \cdot K _ {d}} \tag {9}
+$$
+
+结合(6)、(7)、(8)、(9)，我们得到：
+
+$$
+C (z) = \frac {1}{1 - z ^ {- 1}} \cdot \left(\left(P + \pi \cdot I \cdot T _ {s} + \frac {1}{2 \pi \cdot D \cdot T _ {s}}\right) + \right.
+$$
+
+$$
+\begin{array}{l} \left(- P + \pi \cdot I \cdot T _ {s} - \frac {1}{\pi \cdot D \cdot T _ {s}}\right) \cdot z ^ {- 1} + \\ \left. \frac {1}{2 \cdot \pi \cdot D \cdot T _ {s}} \cdot z ^ {- 2}\right) \tag {10} \\ \end{array}
+$$
+
+考虑到实际情况取值如下：
+
+$P = 0.85; I = 212; D = \infty$ （不使用）。
+
+最后，我们得到离散传递函数：
+
+$$
+C (z) = \frac {0 . 8 5 6 - 0 . 8 4 3 \cdot z ^ {- 1}}{1 - z ^ {- 1}} \tag {11}
+$$
+
+默认情况下，PID调节器作为PI调节器运行，在反馈输入上有一个一阶低通滤波器，截止频率与PI调节器的积分分量截止频率一致。PI调节器的所有参数均可软件配置（配方参数）。

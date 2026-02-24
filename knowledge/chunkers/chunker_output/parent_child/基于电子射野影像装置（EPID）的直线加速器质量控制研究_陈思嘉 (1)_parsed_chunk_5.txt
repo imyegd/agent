@@ -1,0 +1,1 @@
+td>Pr020</td><td>加/减速基准频率</td><td>Pr083</td><td>电机额定电压</td></tr><tr><td>Pr021</td><td>加/减速时间单位</td><td>Pr084</td><td>电机额定频率</td></tr><tr><td>Pr089</td><td>速度控制增益</td><td></td><td></td></tr></table>

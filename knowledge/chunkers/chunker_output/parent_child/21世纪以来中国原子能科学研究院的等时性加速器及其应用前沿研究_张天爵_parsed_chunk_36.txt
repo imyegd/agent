@@ -1,0 +1,1 @@
+td>47</td></tr><tr><td>离子源流强,mA</td><td>&gt;5</td><td>峰区磁场,T</td><td>1.35</td></tr><tr><td>Dee个数</td><td>2</td><td>谷区磁场,T</td><td>0.15</td></tr><tr><td>Dee电压,kV</td><td>60~120</td><td>磁轭外半径,mm</td><td>3080</td></tr><tr><td>谐波数</td><td>4</td><td>磁气隙,mm</td><td>50~60</td></tr><tr><td>频率,MHz</td><td>44.37</td><td>磁铁重量,t</td><td>435</td></tr></table>

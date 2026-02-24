@@ -1,0 +1,8 @@
+# 4 总结与展望
+
+超薄液体薄膜靶技术为高重频激光加速中的靶材
+
+表 2 国际上超薄液膜制备水平总结  
+Table 2 Summary of the state-of-the-art in ultra-thin liquid sheet preparation internationally   
+
+<table><tr><td>单位</td><td>制备方法</td><td>最薄厚度</td><td>喷嘴尺寸D(μm)</td><td>归一化厚度(h/D)</td></tr><tr><td>北京大学[16]</td><td>射流对撞法</td><td>238 nm</td><td>50</td><td>4.76</td></tr><tr><td>美国空军研究实验室[31]</td><td>射流对撞法</td><td>450 nm</td><td>30</td><td>15</td></tr><tr><td>塞格德大学[32]</td><td>射流对撞法</td><td>182 nm</td><td>11</td><td>16.5</td></tr><tr><td>帝国理工学院[33]</td><td>收

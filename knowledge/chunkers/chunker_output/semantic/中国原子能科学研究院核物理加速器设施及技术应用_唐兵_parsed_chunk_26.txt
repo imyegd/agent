@@ -1,0 +1,15 @@
+[34] 杨丙凡, 关遐令, 曹小平, 等. HI-13 串列加速器升级工程进展与现状[J]. 核技术, 2008, 31(1): 41-46.  
+YANG Bingfan, GUAN Xialing, CAO Xiaoping, et al. Progresses in the project of upgrading HI-13 tandem accelerator at CIAE[J]. Nuclear Techniques, 2008, 31(1): 41-46(in Chinese).   
+[35] 彭朝华, 关遐令. HI-13 串列加速器升级工程 144 MHz 铜铌溅射超导腔物理设计[J]. 原子能科学技术, 2006, 40(6): 646-649.  
+PENG Zhaohua, GUAN Xialing. 144 MHz niobium sputtered superconducting cavity physical design for HI-13 tandem upgrade project[J]. Atomic Energy Science and Technology, 2006, 40(6): 646-649 (in Chinese).   
+[36] 彭朝华, 吕钊, 关遐令. 超导四分之一波长谐振腔高频功率磁耦合器物理设计[J]. 原子能科学技术, 2007, 41(1): 98-100.  
+PENG Zhaohua, LU Zhao, GUAN Xialing. RF coupling loop design for superconducting quarter wave resonator[J]. Atomic Energy Science and Technology, 2007, 41(1): 98-100(in Chinese).   
+[37] 许谨诚, 关遐令. 迈向核物理研究的最前沿: 北京放射性核束装置简介[J]. 科学中国人, 1995(5): 33-34.  
+XU Jincheng, GUAN Xialing. Towards the forefront of nuclear physics research: BRIEF introduction of radioactive nuclear beam facility in Beijing[J]. Scientific Chinese, 1995(5): 33-34(in Chinese).   
+[38] 张焱, 蒋渭生, 关遐令. 产生放射性核束的厚靶的物理设计[J]. 原子能科学技术, 1998, 32(1): 39-43.  
+ZHANG Yan, JIANG Weisheng, GUAN Xialing. Physical design of thick target producing radioactive nuclear beam[J]. Atomic Energy Science and Technology, 1998, 32(1): 39-43 (in Chinese).   
+[39] 崔保群, 秦久昌, 李立强, 等. 放射性核束靶源试验及应用装置[C]/2001全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2001: 94-99.  
+[40] 崔保群. keV 放射性核束系统中的几个重要问题研究 [D]. 北京: 中国原子能科学研究院, 2001.  
+[41] 彭朝华, 关遐令, 崔保群. HI-13 串列加速器升级工程在线同位素分离器高质量分辨谱仪物理设计[J]. 原子能科学技术, 2006, 40(2): 133-138.  
+PENG Zhaohua, GUAN Xialing, CUI Baoqun. Physical design of high mass resolution spectrometer for ISOL[J]. Atomic Energy Science and Technology, 2006, 40(2): 133-138(in Chinese).   
+[42] 崔保群, 彭朝华, 马鹰俊, 等. 北京放射性核束装置 (BRIF) 在线同位素分离器研制进展 [C]/第三届全国加速器技术学术交流会论文摘要集. [出版地不详]:

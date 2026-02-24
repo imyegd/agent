@@ -1,0 +1,6 @@
+Heng Zhou1,2,3 ,4, Jinpeng Liu1,2,3,4, Dan Feng1,2,3,4, Wei Tong1,2,3,4
+
+1. Wuhan National Laboratory for Optoelectronics   
+2. Key Laboratory of Information Storage System, Ministry of Education of China   
+3. Engineering Research Center of Data Storage Systems and Technology, Ministry of Education of China   
+4. Huazhong University of Science and Technology

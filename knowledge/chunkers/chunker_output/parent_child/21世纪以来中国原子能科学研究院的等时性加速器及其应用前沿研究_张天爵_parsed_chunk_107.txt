@@ -1,0 +1,3 @@
+C, et al. Investigation and quantitative simulation of beam physics for 230 MeV SC cyclotron under construction at CIAE[J]. Nucl Instrum Methods Phys Res B, 2020, 468: 8-13.   
+[49] ZHANG T, LI M, WANG C, et al. Magnetic field measurement, shimming and processing for 230 MeV superconducting cyclotron main magnet[J]. IEEE Transactions on Applied Superconductivity, 2020, 30(4): 4101205.   
+[50] YIN Z, JI B, FU X, et al. Design of RF system for CYCIAE-230 superconducting cyclotron[J]. Nucl Instrum Methods Phy

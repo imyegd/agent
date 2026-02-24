@@ -1,0 +1,5 @@
+} + \left(k _ {x} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) x - I _ {x} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) x = 0 \\ \frac {\mathrm {d} ^ {2} y}{\mathrm {d} z ^ {2}} + \left(k _ {y} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) y - I _ {y} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) y = 0 \\ \frac {\mathrm {d} ^ {2} \Delta z}{\mathrm {d} z ^ {2}} + k _ {z} ^ {2} \Delta z - I _ {z} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) \Delta z = 0 \end{array} \right. \tag {9}
+$$
+
+$$
+\left\{ \begin{array}{l

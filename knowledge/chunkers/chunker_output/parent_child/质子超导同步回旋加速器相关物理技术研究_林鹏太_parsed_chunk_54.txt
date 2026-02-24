@@ -1,0 +1,5 @@
+# The Research on Physical Technology of Superconducting Synchrocyclotron
+
+LIN Pengtai,  YANG Yufei,  WAN Xinmiao,  REN Zhiqiang,  LIAO Wenlong,  LUO Xiaobao,  CHANG Xuankai,  LI Zhihui† (Key Laboratory of Radiation Physics and Technology of Ministry of Education, Institute of Nuclear Science and Technology, Sichuan University, Chengdu 610064, China)
+
+Abstract: Superconducting synchrocyclotrons offer compact structure and low cost, making them highly suitable for proton therapy systems. This paper presents

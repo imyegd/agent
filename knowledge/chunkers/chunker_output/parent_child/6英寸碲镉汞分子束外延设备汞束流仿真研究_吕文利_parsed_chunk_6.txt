@@ -1,0 +1,5 @@
+ude, and deposition uniformity of the $\mathrm { H g }$ source’s emitted beam flux on a 6-inch substrate. Through optimization, the film thickness non-uniformity is reduced to below $1 . 2 3 \%$ . This study offers insights and a theoretical basis for design and optimization of large-scale HgCdTe molecular beam epitaxy systems.
+
+Key words: molecular beam epitaxy equipment; Hg source; model simulation; optimization design
+
+红外探测器在军事侦察、红外制导及民用工业等领域都有着十分重要的应用, 碲镉汞(HgCdTe)因其宽的可调谐禁带宽度和极高的吸收系数成为实现高性能红外探测器的最佳材料之一[1

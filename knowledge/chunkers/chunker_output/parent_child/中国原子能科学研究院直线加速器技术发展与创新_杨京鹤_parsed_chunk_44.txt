@@ -1,0 +1,5 @@
+# 参考文献：
+
+[1] 王国宝, 曾自强, 朱志斌, 等. CIAE 直线加速器技术的创新发展[J]. 原子能科学技术, 2020, 54(增刊): 293-302. WANG Guobao, ZENG Ziqiang, ZHU Zhibin, et al. Innovation and development of CIAE linear accelerator technology[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 293-302(in Chinese).   
+[2] 本刊记者. 毛主席革命科技路线的一曲凯歌——北京市医用电子直线加速器建成[J]. 现代物理知识, 1977, 2(1): 10-11.  
+[3] 顾本广, 林郁正, 童德春. BF-5辐照电子直线加速器的主要技术特性[J]. 原子能科学技术, 1986, 20(6): 665-669. GU Benguang, LIN Yuzheng, TONG Dechun. Performance characteristics of BF-5 linac fo

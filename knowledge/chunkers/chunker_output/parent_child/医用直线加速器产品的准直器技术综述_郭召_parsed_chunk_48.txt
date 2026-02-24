@@ -1,0 +1,7 @@
+# 3.2 RefleXion X1的二元光栅准直器
+
+RefleXion X1是美国 RefleXion公司研制的一款正电子发射断层显像正电子发射断层显像（positronemission tomography, PET）引 导 的 加 速 器 放 射 治 疗系统，采用了二元多叶光栅准直器（binary multileafcollimator），MLC以 100次/s 的速度转换，实现与直线加速器脉冲频率的同步对准，其在整机系统中的安装位置如图16所示［38-39］。
+
+图 16 RefleXion X1 的二元光栅准直器  
+![](images/b73029a5513f095cc806a480cc474c76d3b5ea13b051878c641cc2511c07d29c.jpg)  
+注：1为直线加速器；2为初级准直器；3为二元多叶光栅；4为正电子发射断层显像探测器；5为锥形束计算机断层扫描成像装置；6为兆伏级探测器。

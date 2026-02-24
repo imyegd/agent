@@ -1,0 +1,255 @@
+# XiPAF束流垃圾桶屏蔽设计及残余剂量评估
+
+王 迪 陈 伟 吕 伟 闫逸花 于俊英 王敏文 王忠明
+
+（强脉冲辐射环境模拟与效应全国重点实验室（西北核技术研究所） 西安 710024）
+
+摘要 为了确保西安 $2 0 0 \mathrm { M e V }$ 质子应用装置（Xi'an 200 MeV Proton Application Facility，XiPAF）升级之后的辐射安全，对束流垃圾桶进行了屏蔽设计与残余剂量评估。首先分析了不同材料的中子产额特征，选择聚乙烯作为低中子产额的靶芯材料。基于FLUKA蒙特卡罗模拟设计了复合结构束流垃圾桶，主体屏蔽材料为铁，外围屏蔽材料为含硼聚乙烯。计算结果表明，束流垃圾桶尾部侧面和横向侧面的最大剂量当量率分别为 $4 . 2 \mathrm { m S v { \cdot h } ^ { - 1 } }$ 和 $3 . 2 ~ \mathrm { m S v { \cdot h } ^ { - 1 } }$ ，满足 $5 . 5 \mathrm { m S v ^ { \cdot } h ^ { - 1 } }$ 的设计限值。与传统石墨靶芯相比，聚乙烯靶芯在上游方向的剂量降低约 $7 5 \%$ 。对连续出束1 h、1 d、1 w三种工况的残余剂量分析显示，桶入口处剂量衰减至 $2 . 5 \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 }$ 所需时间均为 $2 { \sim } 3 \mathrm { ~ h ~ }$ 。研究结果为中能质子加速器束流垃圾桶设计提供了重要参考，有助于确保XiPAF工作人员的辐射安全。
+
+关键词 束流垃圾桶，辐射屏蔽，残余剂量，蒙特卡罗模拟
+
+中图分类号 TL77
+
+DOI: 10.3724/j.0253-3219.2026.hjs.49.250021
+
+CSTR: 32193.14.hjs.CN31-1342/TL.2026.49.250021
+
+# Radiation shielding design and residual radioactivity assessment for the beam dump at XiPAF
+
+WANG Di CHEN Wei LYU Wei YAN Yihua YU Junying WANG Minwen WANG Zhongming
+
+(National Key Laboratory of Intense Pulsed Radiation Simulation and Effect, Northwest Institute of Nuclear Technology, Xi'an 710024, China)
+
+Abstract [Background] The Xi'an $2 0 0 \ \mathrm { M e V }$ proton application facility (XiPAF) is planned for upgrade and transformation into a versatile experimental facility for both proton and heavy-ion applications, requiring comprehensive radiation protection design for operational safety. [Purpose] This study aims to develop a radiationsafe beam dump design ensuring compliance with operational dose limits during operation and minimizing postirradiation residual doses. [Methods] Firstly, the neutron yield characteristics of different target materials were analyzed using FLUKA Monte Carlo simulations to determine the optimal core material with low neutron production. Then, a composite structure beam dump was designed with polyethylene as the target core material, iron as the main shielding material, and borated polyethylene as the outer shielding layer. Finally, shielding performance was quantified via ambient dose equivalent rate mapping at critical locations, and residual dose decay kinetics were modeled for three operational scenarios: 1-h, 1-d, and 1-w continuous irradiation at maximum beam intensity of $1 . 3 \times$ $1 0 ^ { 1 0 }$ protons per second. [Results] The computational results show that the maximum ambient dose equivalent rates at the rear and transverse sides of the beam dump are $4 . 2 \mathrm { m S v { \cdot h } ^ { - 1 } }$ and $3 . 2 ~ \mathrm { m S v { \cdot h } ^ { - 1 } }$ respectively, both below the design limit of $5 . 5 \mathrm { m S v ^ { \cdot } h ^ { - 1 } }$ . Compared to traditional graphite core, polyethylene demonstrates approximately $7 5 \%$ lower upstream dose while maintaining equivalent downstream shielding performance. Analysis of residual dose under the
+
+three operational scenarios shows consistent decay patterns, with all cases reaching the dose constraint of $2 . 5 ~ \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 }$ after 2~3 h cooling time. [Conclusions] The polyethylene-core composite beam dump design provides effective radiation protection for the XiPAF facility upgrade, with significantly reduced neutron backscattering compared to conventional graphite targets. The residual radioactivity analysis indicates that facility access can be safely permitted within 2~3 h after beam shutdown for all typical operational scenarios. These results provide practical reference for radiation protection design of beam dumps at similar intermediate-energy proton accelerator facilities.
+
+Key words Beam dump, Radiation shielding, Radioactivity, Monte-Carlo simulation
+
+西安 $2 0 0 \mathrm { M e V }$ 质 子应 用装 置(Xi'an 200 MeVProton Application Facility，XiPAF）是为宇航器件的空间单粒子效应研究而建设的一台加速器装置，在“十四五”期间，XiPAF计划升级改造为一台质子/重离子通用实验装置［1‒2］。为了确保人员、设备和环境安全，该类加速器装置的辐射防护问题不可忽视，其中束流垃圾桶在辐射防护中扮演着至关重要的角色。束流垃圾桶可以吸收废弃的束流，在原有建筑
+
+屏蔽墙的基础上形成叠加屏蔽结构，从而提升总体屏蔽效能，同时避免了束流直接照射到屏蔽墙体后对墙体及周围设备材料造成的活化。如图1所示，束流垃圾桶位于XiPAF装置高能输运线及辐照终端的末尾，在加速器停机之后，此处将是实验人员出入最频繁的区域，因此研究设计XiPAF束流垃圾桶并评估其残余放射性水平，对于该装置的辐射安全具有重要意义。
+
+![](images/0825e8cd2954d995342f4f9af4c15b90997047d4e9cfa9f22d6032dd10d35ed5.jpg)  
+图1 XiPAF质子辐照终端布局示意图  
+Fig.1 Layout diagram of the XiPAF proton irradiation terminal
+
+本文将对常用的屏蔽材料的屏蔽性能进行对比分析，提出束流垃圾桶的材料及结构，通过蒙特卡罗模拟进行屏蔽计算和验证，并评估不同运行时间停机后，靶芯中产生的放射性核素种类及活度。研究结果可以为中能质子加速器束流垃圾桶的设计及人员辐射防护提供参考。
+
+# 1 设计需求
+
+根据XiPAF重离子升级工程的设计指标［2］ ，装置既能引出最高能量为 $2 0 0 \mathrm { M e V }$ 的质子，也能引出最高能量约 $1 0 \mathrm { M e V } { \cdot } \mathrm { u } ^ { - 1 }$ 的重离子，考虑到质子具有更强的穿透能力，且质子流强比重离子流强高3个量级，从辐射防护角度分析，质子的辐射屏蔽需求占主导地位。质子打靶束流强度最大为 $1 . 3 \times 1 0 ^ { 1 0 }$ PPS
+
+（Protons Per Second），对应的束流功率小于 1 W，远小于采用自然冷却的最大功率上限，因此不必考虑热量沉积问题。另外，目前国内对于束流垃圾桶自身的屏蔽效果，还没有相关规范，中国散裂中子源的束流垃圾桶在设计时，参考日本原子能研究所（Japan Atomic Energy Research Institute，JAERI）$3 \mathrm { G e V }$ 储存环质子束流垃圾桶的设计指标，其要求屏蔽体外 $1 \mathrm { m }$ 深度里的土壤剂量率在 $5 . 5 \mathrm { m S v ^ { \cdot } h ^ { - 1 } }$ 以下［3］。考虑到XiPAF的束流能量和强度均低于上述装置，束流垃圾桶的尺寸及建设成本相对可控，根据辐射防护的最优化原则，本文在设计束流垃圾桶时采用更保守的剂量限值，即在束流垃圾桶外侧边沿的剂量率限值为 $5 . 5 \mathrm { m S v ^ { \cdot } h ^ { - 1 } }$ 。
+
+# 2 屏蔽设计及计算
+
+# 2.1 设计思路
+
+质子作为带电粒子，其在材料中的射程是较为固定的。质子轰击靶材料会产生多种次级粒子，尤其是与靶材料原子核反应产生的次级中子和次级γ光子，这些中性粒子穿透能力强，是瞬发辐射场屏蔽的主要对象［4‒5］。对于能量高于约 $1 0 \mathrm { M e V }$ 的质子加速器，次级中子在瞬发辐射场中做主要贡献［6］。根据公开文献可以看出，国内外加速器装置中束流垃圾桶的屏蔽设计主要基于经验，没有固定的范式［3，7‒10］。本文根据XiPAF束流的参数及辐射场特点，在设计中遵循以下4个要素：
+
+1）束流垃圾桶采用复合结构，由靶芯材料、主体屏蔽材料及外围屏蔽材料组成，且几何形状在束流径向是对称的；  
+2）靶芯材料直接吸收质子束流，应选择次级中子产额低的材料；  
+3）主体屏蔽材料为密度较大的金属材料，用于在有限体积内慢化高能次级中子，同时对次级γ光子有较好的屏蔽效果；  
+4）外围屏蔽材料应对慢化后的中子有较好的屏蔽性能。
+
+前人虽然提出一些关于屏蔽计算的经验公
+
+式［6］ ，但是对于复杂几何结构以及多种材料组合的情况，利用公式计算则不太准确，此时蒙特卡罗模拟的方法则更具优势。蒙特卡罗模拟软件FLUKA（FLUktuierende KAskade）基于粒子与物质相互作用的模拟计算，被广泛应用于高能物理、空间辐射、放射治疗、辐射屏蔽计算、感生放射性分析等多个领域［11］。本文中的蒙特卡罗模拟工作主要基于FLUKA开展。
+
+# 2.2 材料选择
+
+靶芯吸收了绝大部分束流能量，其材料遴选需兼顾低次级中子产额与低活化特性。中子产额的定义为平均每个质子入射靶材料产生的中子个数，利用FLUKA计算中子产额，产额值为靶材料外表面出射的中子数量。其中靶的形状为圆柱体，其高度为质子射程，而圆柱半径为质子射程的横向岐离，这样设置的目的是尽量减少次级中子与靶材料的进一步 反 应 。 首 先 使 用 SRIM（Stopping and Range ofIons in Matter）程序［12］ 可以快速得到 $1 0 { \sim } 2 0 0 \mathrm { M e V }$ 质子几种常见屏蔽材料（聚乙烯、石墨、铝、铁、铜、铅）中的射程（表1）及横向岐离（表2），作为FLUKA模拟计算中的几何模型参数。在FLUKA计算中，设置质子垂直入射靶材料的圆柱底面中心，使用USRBDX计数卡得到出射到圆柱体外的中子产额（图2）及中子能谱分布（图3）。
+
+表1 不同能量质子在几种材料中的射程  
+Table 1 Projected range data of protons at different energies in various materials   
+
+<table><tr><td rowspan="2">质子能量
+Proton energy / MeV</td><td colspan="6">不同材料中的质子射程
+Projected range data of protons in various materials / mm</td></tr><tr><td>聚乙烯 Polyethylene</td><td>石墨 Graphite</td><td>铝 Aluminum</td><td>铁 Iron</td><td>铜 Copper</td><td>铅 Lead</td></tr><tr><td>10</td><td>1.18</td><td>0.683</td><td>0.623</td><td>0.257</td><td>0.242</td><td>0.298</td></tr><tr><td>30</td><td>8.66</td><td>4.92</td><td>4.33</td><td>1.72</td><td>1.60</td><td>1.83</td></tr><tr><td>50</td><td>21.9</td><td>12.4</td><td>10.8</td><td>4.23</td><td>3.91</td><td>4.34</td></tr><tr><td>70</td><td>40.2</td><td>22.7</td><td>19.6</td><td>7.65</td><td>7.06</td><td>7.70</td></tr><tr><td>100</td><td>76.3</td><td>42.9</td><td>36.8</td><td>14.3</td><td>13.2</td><td>14.1</td></tr><tr><td>200</td><td>258</td><td>145</td><td>123</td><td>47.2</td><td>43.3</td><td>45.5</td></tr></table>
+
+同时将 $3 0 \mathrm { M e V }$ 质子入射几种材料的中子产额计算值与文献［13］的参考数据进行了对比，如表3所示，可以看出模拟计算结果与前人的参考结果取得较好的一致性，当中子最低能量阈值取1 MeV时，最大偏差小于 $20 \%$ ，由于模拟计算与文献［13］的靶尺寸不一致，且文献［13］中实验测量的中子能量大于 $2 { \sim } 3 \ \mathrm { M e V }$ ，对于低于该能量的中子，采用模拟计算值，因此认为FLUKA计算结果与文献［13］中的实验结果是基本相符的。
+
+由图2可以看出，中子产额与质子能量是正相关的。总体来看，质子入射聚乙烯的次级中子产额
+
+最少，其次是石墨，而金属靶材料的产额会更高。图3中，金属材料产生的高能次级中子数量低于石墨和聚乙烯，这部分对高能辐射屏蔽有一定贡献，但是考虑到金属靶芯带来的残余剂量将大于原子序数更低的石墨、聚乙烯等材料，因此靶芯材料应在石墨和聚乙烯中选择。由于 $2 0 0 \mathrm { M e V }$ 质子入射聚乙烯与石墨的次级中子能谱几乎相同，且前者的中子产额更低，因此选择聚乙烯作为靶芯材料。
+
+对于质子与靶芯作用产生的次级高能中子，其能量损失以非弹性散射为主，需要使用重元素材料快速消耗快中子的能量，考虑成本、工艺、生物毒性
+
+表2 不同能量质子在几种材料中的横向岐离  
+Table 2 Lateral straggling data of protons at different energies in various materials   
+
+<table><tr><td rowspan="2">质子能量
+Proton energy / MeV</td><td colspan="6">不同材料中的质子横向歧离
+Lateral straggling data of protons in various materials / mm</td></tr><tr><td>聚乙烯 Polyethylene</td><td>石墨 Graphite</td><td>铝 Aluminum</td><td>铁 Iron</td><td>铜 Copper</td><td>铅 Lead</td></tr><tr><td>10</td><td>0.028</td><td>0.018 9</td><td>0.026 8</td><td>0.016 2</td><td>0.016 5</td><td>0.037 1</td></tr><tr><td>30</td><td>0.195</td><td>0.128</td><td>0.173</td><td>0.099 6</td><td>0.098 9</td><td>0.200</td></tr><tr><td>50</td><td>0.482</td><td>0.315</td><td>0.417</td><td>0.236</td><td>0.233</td><td>0.452</td></tr><tr><td>70</td><td>0.872</td><td>0.567</td><td>0.743</td><td>0.417</td><td>0.41</td><td>0.778</td></tr><tr><td>100</td><td>1.62</td><td>1.05</td><td>1.37</td><td>0.761</td><td>0.745</td><td>1.38</td></tr><tr><td>200</td><td>5.24</td><td>3.37</td><td>4.32</td><td>2.38</td><td>2.32</td><td>4.17</td></tr></table>
+
+注：聚乙烯、石墨、铝、铁、铜、铅的密度分别为： $\mathrm { : 0 . 9 4 g \cdot c m ^ { - 3 } , 2 . 0 0 g \cdot c m ^ { - 3 } , 2 . 7 0 g \cdot c m ^ { - 3 } , 7 . 8 7 g \cdot c m ^ { - 3 } , 8 . 9 6 g \cdot c m ^ { - 3 } , 1 1 . 3 5 g \cdot c m ^ { - 3 } }$ Notes: The densities of polyethylene, graphite, aluminum, iron, copper, and lead are $0 . 9 4 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $2 . 0 0 \ \mathrm { ~ g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $2 . 7 0 ~ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $7 . 8 7 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $8 . 9 6 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , and $1 1 . 3 5 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , respectively
+
+![](images/26f224679421ab5518f3049dce577d6cc919876a58bcae4bf123681da2af5590.jpg)  
+图2 质子入射不同材料产生的次级中子（能量大于1 MeV）总产额（彩图见网络版）
+
+![](images/3e965f4228425f9b4892107042f98067e68c358cc5ccd8aab65b1ace93435322.jpg)  
+Fig.2 Total neutron yield (energy>1 MeV) per proton for different target materials (color online)   
+图3 $2 0 0 \mathrm { M e V }$ 质子入射不同材料产生的次级中子微分能谱（彩图见网络版）  
+Fig.3 Differential yield of neutrons emitted by different materials bombarded by 200 MeV protons (color online)
+
+等因素［14‒15］ ，选择铁作为主体屏蔽材料。在铁的外侧，设置对低能中子屏蔽效果较好的外围屏蔽材料，
+
+一般选择富含氢元素的物质，本文采用含 $\mathrm { B } _ { 4 } \mathrm { C }$ 质量分数为 $5 \%$ 的含硼聚乙烯材料，密度为 $1 . 0 1 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ 。由于 $^ { 1 0 } \mathrm { { B } }$ 具有较高的热中子俘获截面，聚乙烯添加$\mathrm { B } _ { 4 } \mathrm { C }$ 后，对低能中子的吸收效果更好。
+
+# 2.3 屏蔽计算
+
+文献［16］列举了质子打靶后次级中子角度分布，对于 $2 0 0 \mathrm { M e V }$ 质子打靶，其次级中子在前向最多，而在与束流轴垂直的径向是对称分布的，因此总体上采用圆柱形屏蔽材料，其中主体屏蔽材料前半部分开口，确保靶芯位于主体屏蔽材料的前半部分，如图4所示。根据束流管道尺寸和 $2 0 0 \mathrm { M e V }$ 质子射程，选择开口直径和靶芯直径为 $2 0 \mathrm { c m }$ ，靶芯厚度为$3 0 \mathrm { c m }$ 。
+
+利用 FLUKA 的 USRBIN 和 AUXSCORE 计数卡对束流垃圾桶的周围剂量当量值进行了计算。通过在计算模型中调整屏蔽材料的尺寸，观察剂量分布是否满足限值要求，最终确定束流垃圾桶的尺寸。经过屏蔽计算，确定主体屏蔽铁芯的直径为 $7 0 \mathrm { c m }$ ，厚度为 $9 0 \mathrm { c m }$ ，前后两侧面和径向侧面分别覆盖$3 0 \mathrm { c m }$ 和 $2 5 \mathrm { c m }$ 厚的含硼聚乙烯，所有屏蔽体的总重量约4.5t。图5为剂量分布彩图，图中分界线对应的剂量值为 $5 . 5 \mathrm { m S v \cdot h ^ { - 1 } }$ ，可以看到剂量分布呈现出从中心到周围逐渐衰减的特点。在束流垃圾桶尾部侧面（ $Z { = } 1 1 0 \mathrm { c m }$ 处）及横向侧面（ $\scriptstyle { R = 6 0 \mathrm { c m } }$ 处），由于束流损失带来的瞬时剂量率最大值分别为$4 . 2 \mathrm { m S v { \cdot h } ^ { - 1 } }$ 和 $3 . 2 \mathrm { m S v { \cdot } h ^ { - 1 } }$ ，满足设计指标，但是在束流入射的背向，剂量将明显超过限值，由于开口结构的存在，这是无法避免的。
+
+图6比较了质子、次级中子与次级光子所产生的剂量一维分布，其中横坐标为沿束流方向的位置，靶芯入射面在 $Z { = } 0 \mathrm { c m }$ 处，纵坐标为 $R { = } 1 0 \mathrm { c m }$ 内的剂量平均值，可以看出在靶芯处，总剂量呈现Bragg峰状，说明此处剂量主要由质子能量沉积贡献，而在靶
+
+表 3 $3 0 \mathrm { M e V }$ 质子入射不同材料的中子产额值  
+Table 3 Total neutron yield of different materials bombarded by 30 MeV protons   
+
+<table><tr><td rowspan="2">靶材料
+Target material</td><td colspan="6">本文计算数据 Data calculated in this study</td><td colspan="4">文献[13]参考数据 Ref. [13] data</td></tr><tr><td>厚度
+Thickness
+/mm</td><td>半径
+Radius
+/mm</td><td>密度
+Density
+/g·cm-3</td><td>产额1)
+Yield 1)
+/n·p-1</td><td>产额2)
+Yield 2)
+/n·p-1</td><td>产额3)
+Yield 3)
+/n·p-1</td><td>厚度
+Thickness
+/mm</td><td>半径
+Radius
+/mm</td><td>密度
+Density
+/g·cm-3</td><td>产额
+Yield
+/n·p-1</td></tr><tr><td>石墨
+Graphite</td><td>4.92</td><td>0.128</td><td>2.00</td><td>9.59×10-4</td><td>1.09×10-3</td><td>1.09×10-3</td><td>9</td><td>10</td><td>1.70</td><td>1.14×10-3</td></tr><tr><td>铁
+Iron</td><td>1.72</td><td>0.0996</td><td>7.87</td><td>1.15×10-2</td><td>1.54×10-2</td><td>1.54×10-2</td><td>3</td><td>10</td><td>7.86</td><td>9.90×10-3</td></tr><tr><td>铜
+Copper</td><td>1.6</td><td>0.0989</td><td>8.96</td><td>1.24×10-2</td><td>1.69×10-2</td><td>1.69×10-2</td><td>3</td><td>10</td><td>8.93</td><td>1.21×10-2</td></tr><tr><td>铅
+Lead</td><td>1.83</td><td>0.2</td><td>11.35</td><td>1.44×10-2</td><td>2.55×10-2</td><td>2.55×10-2</td><td>3</td><td>10</td><td>11.34</td><td>1.73×10-2</td></tr></table>
+
+注：产额1)、产额2)、产额3)对应的中子最低能量阈值分别为 $1 \mathrm { M e V , 1 \ k e V , 1 \ e V }$   
+Notes: The threshold neutron energies for yield 1), yield 2), and yield 3) are 1 MeV, 1 keV, and 1 eV, respectively
+
+![](images/6722795d8a246d19f9f4cbfe7135fcb5000fffedbce044d3b9275ddc01322d6e.jpg)
+
+![](images/9310a46b98d7bd8853b43e11f51a68a0393a406c4feb883a21e00e4123f7e197.jpg)  
+图4 束流垃圾桶三维模型剖面视图(a)及主体尺寸(b)
+
+![](images/098231b4799d103f060a3aca591a46ab414746767eb9c5ffc7951aefcdea23be.jpg)  
+Fig.4 Cross-sectional view of beam dump 3D model (a) and main dimensions (b)   
+图5 束流垃圾桶瞬发辐射剂量当量率计算分布（彩图见网络版）  
+Fig.5 Calculated ambient dose equivalent rates in the dump for prompt radiation (color online)
+
+芯前侧和后侧，总剂量值主要由中子贡献。
+
+为了验证靶芯材料的选择，在模拟计算中，将靶芯材料替换为石墨，保持几何形状不变。图7对比了两种靶芯材料的一维剂量分布。可以明显看出$2 0 0 \mathrm { M e V }$ 质子在两种靶芯材料中与射程相当的Bragg峰，在Bragg峰之后，初级质子的能量沉积快
+
+![](images/fbfdfcaeee4f957f4aea169dea57627abf0fb6f4ec82966ac0d03a1177c9e2bf.jpg)  
+图6 质子和次级粒子沿束流轴的剂量当量率分布（彩图见网络版）  
+Fig.6 Ambient dose equivalent rate along the beam axis for protons and secondary particles (color online)
+
+速衰减至零，后端剂量由次级粒子贡献，两种靶芯材料的束流垃圾桶尾部的剂量是相当的。同时可以看出，在径向，聚乙烯靶芯的屏蔽效果略优于石墨。值
+
+得注意的是，在束流垃圾桶轴向前侧，使用聚乙烯靶芯的剂量仅约为石墨靶芯的1/4，这是由于靶原子质量增大而导致中子的背散射作用增强［17］。因此对于
+
+$2 0 0 \mathrm { M e V }$ 质子加速器的束流垃圾桶，选择聚乙烯作为靶芯材料，与石墨材料相比，能够大幅减少背散射剂量，有利于降低辐照终端的瞬时次级辐射。
+
+![](images/ad8da96dbc4e8f03bc8b6134911a3ec8fb41162ba233ec059f75709b83198a83.jpg)
+
+图7 不同靶芯材料的剂量当量率分布（彩图见网络版） (a) 轴向，(b) 径向  
+Fig.7 Ambient dose equivalent rate distributions for different core materials (color online)   
+![](images/7d9e993a99cbdf80d4436fcadcb0ca3cecdb722e44075e58579553e5b60114f4.jpg)  
+(a) Along the beam axis, (b) Along the radial direction
+
+# 3 残余剂量评估
+
+中能质子加速器在运行期间由于束流损失而产生瞬时辐射，这些束流粒子与各个部件材料相互作用会使材料活化，导致在加速器停机之后仍存在残余辐射，这是加速器停机之后的检修、换样等工作人员需防护的重要对象［8］。而束流垃圾桶是束流损失最集中的元件，同时位于XiPAF辐照终端的下游，因此需评估其残余辐射水平，特别是束流垃圾桶入口位置处。
+
+使 用 FLUKA 的 IRRPROFI、DCYTIMES、DCYSCORE等输入卡组合，可以方便地设置束流损失率、辐照时间、冷却时间等关键参数。设置质子束流能量为 $2 0 0 \mathrm { M e V }$ ，束流损失率为 $1 . 3 \times 1 0 ^ { 1 0 }$ （每秒粒子数），图8给出了连续照射1 d并冷却不同时间之后，束流垃圾桶周围的残余剂量率分布，图中分界线对应的剂量值为 $2 . 5 \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 }$ 。可以看出，随着冷却时间的增加，残余剂量变低，并且残余辐射主要存在束流垃圾桶的入口处。
+
+![](images/017e1b5e9c747bf56abe1d3732479e746651d6d0a7c3e82f99d706674bb5ff36.jpg)
+
+![](images/c358627467beaeded4efdb545b26973c8bc7d5739bd199d150a5ee51d547b6f3.jpg)  
+图8 连续运行1 d后不同冷却时间的束流垃圾桶周围剂量当量率分布（彩图见网络版）  
+Fig.8 Ambient dose equivalent rates around the beam dump for several cooling times after 1 d of continuous operation (color online)
+
+本研究进一步选取以束流垃圾桶入口平面（ $Z =$ $- 4 0 \mathrm { c m } )$ ）上、 $. R { = } 1 0 \mathrm { c m }$ 内面积作为剂量评估点，分别计算连续辐照 $1 \mathrm { h } , 1 \mathrm { d } , 1 \mathrm { w }$ 之后残余剂量的衰减，如图9所示。计算结果显示，三种工况下剂量衰减至XiPAF的剂量管理约束值 $( 2 . 5 \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 } )$ ）所需的冷却时间均大约为 $2 { \sim } 3 \mathrm { ~ h ~ }$ 。在停束后的2 h内，三种工况的剂量衰减趋势基本一致，而随着冷却时间的增加，辐照时间更长的工况将残留更高的剂量，这种趋势特征归因于辐照时间、冷却时间与放射性核素半衰期的相对关系。
+
+根据核反应中放射性核素的生成规律［18］，易得：
+
+$$
+A = N _ {s} \sigma I \left(1 - 2 ^ {- \frac {t _ {0}}{T _ {1 / 2}}}\right) \cdot 2 ^ {- \frac {t _ {c}}{T _ {1 / 2}}} \tag {1}
+$$
+
+式中： $A$ 为放射性活度； $N _ { \mathrm { s } }$ 为单位面积靶上的靶核数； $\sigma$ 为质子与靶原子核反应产生某种放射性核素的平均截面；I为束流强度； $T _ { 1 / 2 }$ 为放射性核素的半衰期； $t _ { 0 } \cdot t _ { \mathrm { c } }$ 分别为辐照时间和冷却时间。当束流种类、能量、靶材料不变时，式（1）中的因子均为常量，式（1）中括号项即为辐照 $t _ { 0 }$ 时间后的该放射性核素的饱和程度，当辐照5个半衰期后，饱和程度约达到$9 7 \%$ 。使用FLUKA的RESNUCLE计数卡得到三种
+
+![](images/76e6da6a46a46a0c6875597978aa5fd33760fed9497eacdb03e91f3b23056b1a.jpg)  
+图9 束流垃圾桶入口处残余剂量率随冷却时间的衰减（彩图见网络版）  
+Fig.9 Residual dose rate as a function of cooling time at the dump entrance (color online)
+
+工况下，冷却 $3 0 \mathrm { { m i n } }$ 后，在聚乙烯靶芯中产生的主要放射性核素，如表4所示，计算结果与式（1）的规律是相符的，由于聚乙烯材料由C、H元素组成，因此产生的放射性核素种类数量较少。
+
+表4 三种工况的靶芯主要放射性核素活度  
+Table 4 Activity of main radionuclides produced in the dump core under three operational scenarios   
+
+<table><tr><td rowspan="2">放射性核素 Radionuclide</td><td rowspan="2">半衰期 Half-life</td><td colspan="2">t0=1 h</td><td colspan="2">t0=1 d</td><td colspan="2">t0=1 w</td></tr><tr><td>活度 Activity / Bq</td><td>占比 Proportion / %</td><td>活度 Activity / Bq</td><td>占比 Proportion / %</td><td>活度 Activity / Bq</td><td>占比 Proportion / %</td></tr><tr><td>3H</td><td>12.3 y</td><td>1.04×103</td><td>0.000</td><td>2.50×104</td><td>0.010</td><td>1.75×105</td><td>0.063</td></tr><tr><td>7Be</td><td>53.1 d</td><td>1.19×105</td><td>0.053</td><td>2.85×106</td><td>1.097</td><td>1.92×107</td><td>6.948</td></tr><tr><td>11C</td><td>20.4 min</td><td>2.24×108</td><td>99.927</td><td>2.57×108</td><td>98.876</td><td>2.57×108</td><td>92.972</td></tr><tr><td>13N</td><td>10.0 min</td><td>4.35×104</td><td>0.019</td><td>4.48×104</td><td>0.017</td><td>4.48×104</td><td>0.016</td></tr></table>
+
+由于残余放射性是由各种放射性核素整体贡献的，其中活度占比比较大的核素有7Be和 $^ { 1 1 } { \cal C }$ ，在图9中，前 $^ { 2 \mathrm { ~ h ~ } }$ 冷却时间内的剂量衰减主要由占比最大的 $^ { 1 1 } { \cal C }$ 衰变贡献，且三种工况下 $^ { 1 1 } { \cal C }$ 的生成数量均接近饱和，因此前半段衰减趋势较一致，而在后面更长的冷却时间段内，衰减趋势主要由长寿命核素主导，且长寿命核素的生成数量随着辐照时间增加而不断增加，因此辐照时间越长，后期残余剂量越高，且衰减越慢。
+
+# 4 结语
+
+本文根据XiPAF束流参数（最高能量 $2 0 0 \mathrm { M e V } .$ 、最大引出束流强度 $1 . 3 \times 1 0 ^ { 1 0 }$ （每秒粒子数）），对束流垃圾桶的屏蔽设计及残余放射性进行了深入研究。采用一种便于加工制造的复合结构，其中选择聚乙
+
+烯作为靶芯材料，与传统使用的石墨相比，聚乙烯具有中子产额低、活化水平低的优势。通过FLUKA模拟计算，得到束流垃圾桶周围的瞬时剂量率小于$5 . 5 \mathrm { m S v ^ { \cdot } h ^ { - 1 } }$ ，满足设计指标。对两种靶芯材料进行对比计算，其主要差异为，在束流垃圾桶前向，使用聚乙烯靶芯所产生的中子剂量比石墨靶芯降低了约$7 5 \%$ ，在单粒子效应辐照终端具有独特的优势。
+
+最后评估了束流垃圾桶产生的残余剂量，计算了三种不同辐照时间产生的残余剂量衰减及主要放射性核素产生情况，计算结果与公式规律吻合较好。这三种工况覆盖了XiPAF装置绝大部分应用场景，可以为停机之后人员进入终端区域的辐射安全提供数据参考。
+
+作者贡献声明 王迪负责计算模型建立，程序运行，结果分析，文章撰写；陈伟负责方案指导与文章审
+
+阅；吕伟负责机械设计及图纸绘制、项目的监督；闫逸花、于俊英参与论文结果分析及工程指导；王敏文参与文章审阅及项目的管理；王忠明负责总体技术指导、获取研究经费及行政、技术支持。
+
+# 参考文献
+
+1 王忠明, 陈伟, 邱孟通, 等. 西安 $2 0 0 \ \mathrm { M e V }$ 质子应用装置的 建 设 及 调 试 [J]. 现 代 应 用 物 理 , 2021, 12(3): 13 –26, 42.  
+WANG Zhongming, CHEN Wei, QIU Mengtong, et al. Construction and commissioning of Xi'an 200 MeV proton application facility[J]. Modern Applied Physics, 2021, 12(3): 13–26, 42.   
+2 王忠明, 王敏文, 闫逸花, 等. 西安 $2 0 0 \ \mathrm { M e V }$ 质子应用装置开放运行情况及下一步升级改造计划[J]. 现代应用物理, 2024, 15(4): 14–23. DOI: 10.12061/j.issn.2095-6223.2024.040402.  
+WANG Zhongming, WANG Minwen, YAN Yihua, et al. Current status and upgrade plan of Xi'an $2 0 0 \ \mathrm { M e V }$ proton application facility[J]. Modern Applied Physics, 2024, 15 (4): 14 – 23. DOI: 10.12061/j. issn. 2095-6223.2024. 040402.   
+3 吴青彪, 王庆斌. 用FLUKA程序模拟设计中国散裂中子源的束流垃圾桶结构[J]. 清华大学学报(自然科学版), 2007, 47(S1): 996 – 1000. DOI: 10.16511/j. cnki.qhdxxb.2007.s1.023.  
+WU Qingbiao, WANG Qingbin. Simulation and design of beam trash can structure of spallation neutron source in China with FLUKA program[J]. Journal of Tsinghua University (Science and Technology), 2007, 47(S1): 996 –1000. DOI: 10.16511/j.cnki.qhdxxb.2007.s1.023.   
+4 张刚, 敬罕涛, 朱东辉, 等. CSNS简化版实验缪子源的辐射和屏蔽设计[J]. 核技术, 2021, 44(9): 090501. DOI:10.11889/j.0253-3219.2021.hjs.44.090501.  
+ZHANG Gang, JING Hantao, ZHU Donghui, et al. Radiation and shielding design on the simplified experimental muon source at CSNS[J]. Nuclear Techniques, 2021, 44(9): 090501. DOI: 10.11889/j.0253- 3219.2021.hjs.44.090501.   
+5 朱益楠, 林作康, 郁海燕, 等. 基于蒙特卡罗几何分裂减方差技巧的AB-BNCT治疗室屏蔽模拟分析[J]. 核技术 , 2025, 48(1): 010202. DOI: 10.11889/j. 0253-3219.2025.hjs.48.230415. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.230415.  
+ZHU Yinan, LIN Zuokang, YU Haiyan, et al. Simulation analysis of AB-BNCT treatment room shielding based on
+
+Monte Carlo geometric splitting variance reduction technique[J]. Nuclear Techniques, 2025, 48(1): 010202. DOI: 10.11889/j. 0253-3219.2025. hjs. 48.230415. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.230415.   
+6 Fasso A. Radiation protection for particle accelerator facilities[J]. Health Physics, 2005, 88(2): 175. DOI: 10.1097/00004032-200502000-00009.   
+7 Blaha J, La Torre F P, Silari M, et al. Long-term residual radioactivity in an intermediate-energy proton linac[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2014, 753: 61–71. DOI: 10.1016/ j.nima.2014.03.058.   
+8 徐翀, 李武元, 徐俊奎, 等. HIAF高能辐照终端感生放射性[J]. 原子核物理评论, 2018, 35(2): 165–171.  
+XU Chong, LI Wuyuan, XU Junkui, et al. Induced radioactivity at high-energy irradiation terminal of HIAF [J]. Nuclear Physics Review, 2018, 35(2): 165–171.   
+9 杨博. 强流重离子加速器装置(HIAF)感生放射性及其影响研究[D]. 兰州: 中国科学院近代物理研究所, 2023.DOI: 10.27560/d.cnki.gkjwc.2023.000031.  
+YANG Bo. Study on induced radioactivity of HIAF and its influence[D]. Lanzhou: Institute of Modern Physics, Chinese Academy of Sciences, 2023. DOI: 10.27560/d. cnki.gkjwc.2023.000031.   
+10 鄂得俊, 黄礼明, 刘昌奇, 等. 大连先进光源束流垃圾桶屏蔽设计及热工分析[J]. 强激光与粒子束, 2024, 36(1):150–155.  
+E Dejun, HUANG Liming, LIU Changqi, et al. Dalian Advanced Light Source beam dump radiation shielding design and thermal analysis[J]. High Power Laser and Particle Beams, 2024, 36(1): 150–155.   
+11 Ballarini F. The FLUKA code: overview and new developments[J]. EPJ Nuclear Sciences & Technologies, 2024, 10: 16. DOI: 10.1051/epjn/2024015.   
+12 SRIM - the stopping and range of ions in matter[EB/OL]. [2024-12-13]. http://www/srim.org.   
+13 Nakamura T, Fujii M, Shin K. Neutron production from thick targets of carbon, iron, copper, and lead by 30- and 52-MeV protons[J]. Nuclear Science and Engineering, 1983, 83(4): 444–458. DOI: 10.13182/nse83-a18648.   
+14 王豫庆, 李多宏, 张荣华, 等. 热中子屏蔽性能测试平台设 计 优 化 及 影 响 因 素 分 析 [J]. 核 技 术 , 2024, 47(9):090202. DOI: 10.11889/j.0253-3219.2024.hjs.47.090202.  
+WANG Yuqing, LI Duohong, ZHANG Ronghua, et al. Design optimization and influencing factor analysis of
+
+performance testing platform for thermal neutron shielding[J]. Nuclear Techniques, 2024, 47(9): 090202. DOI: 10.11889/j.0253-3219.2024.hjs.47.090202.   
+15 王博宇, 张栋栋, 陆地, 等. 医用X射线屏蔽机理及柔性 防 护 材 料 的 屏 蔽 特 性 研 究 [J]. 核 技 术 , 2025, 48(6): 060202. DOI: 10.11889/j.0253-3219.2025.hjs.48.240260. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.240260. WANG Boyu, ZHANG Dongdong, LU Di, et al. Shielding mechanism of medical X-ray and the shielding characteristics of flexible protective materials[J]. Nuclear Techniques, 2025, 48(6): 060202. DOI: 10.11889/j.0253- 3219.2025. hjs. 48.240260. CSTR: 32193.14. hjs. CN31- 1342/TL.2025.48.240260.   
+16 Agosteo S, Magistris M, Mereghetti A, et al. Shielding data for 100 – 250 MeV proton accelerators: double differential neutron distributions and attenuation in
+
+concrete[J]. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2007, 265(2): 581 – 598. DOI: 10.1016/j. nimb.2007.09.046.   
+17 朱金辉, 左应红, 商鹏, 等. 典型屏蔽材料的中子反射、透射及吸收特性模拟[J]. 现代应用物理, 2017, 8(3): 8–15. DOI: 10.12061/j.issn.2095-6223.2017.030202.  
+ZHU Jinhui, ZUO Yinghong, SHANG Peng, et al. Simulation of neutron reflection, transmission and absorption performance of typical shielding materials[J]. Modern Applied Physics, 2017, 8(3): 8 – 15. DOI: 10. 12061/j.issn.2095-6223.2017.030202.   
+18 卢希庭. 原子核物理[M]. 2版. 北京: 原子能出版社,2000.  
+LU Xiting. Nuclear physics[M]. 2nd ed. Beijing: Atomic Press, 2000.

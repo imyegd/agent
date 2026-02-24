@@ -1,0 +1,9 @@
+# （上接06页）
+
+[8] XIE C Y, ALAZEMI H, GHANI N. Rerouting in Advance Reservation Networks [J]. Computer Communications, 2012, 35 (12): 1411-1421.   
+[9] ALAZEMI H M K, GU F, XIE C Y, et al. Advance Reservation in Distributed Multidomain Networks [J].IEEE Systems Journal, 2015, 9 (3): 775-784.   
+[10] FAZLOLLAHI N, STAROBINSKI D. Distance Vector-based Advance Reservation with Delay Performance Guarantees [J].Theory of Computing Systems, 2017, 60 (2) : 194-221.   
+[11] CIVANLAR S, PARLAKISIK M, TEKALP A M, et al. A QoS-enabled Open flow ENVIRONMENT for Scalable Video Streaming [C]/2010 IEEE Globecom Workshops.Miami: IEEE,
+
+2010: 351-356.   
+[12] ZHANG X, WANG T. Elastic and Reliable Bandwidth Reservation Based on Distributed Traffic Monitoring and Control [J]. IEEE Transactions on Parallel and Distributed Systems, 2022, 33 (12): 4563-4580.

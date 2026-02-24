@@ -1,0 +1,18 @@
+# 3.3 焦点稳定性测量实验
+
+本文设计的电子直线加速器X射线焦点尺寸测量仪，能够测量电子直线加速器的焦点尺寸，同时监测焦点位置，从而实现对焦点稳定性的评估。
+
+使用该测量仪，对 $2 \mathrm { M e V } . 6 \mathrm { M e V }$ 和 $9 \mathrm { M e V }$ 三种不同能量的驻波电子直线加速器进行焦点稳定性测试。实验中，狭缝的有效宽度为 $w = 0 . 3 \ \mathrm { m m }$ ，采样频率为 $N = 6 0$ （平移步距 $d = 0 . 1 \ \mathrm { m m }$ ，测量装置的扫描总长度为 $6 \mathrm { m m } )$ ），每隔 $2 \mathrm { m i n }$ 进行一次焦点测量。通
+
+过高斯拟合方法，确定波峰的位置，并观察各次测量波峰位置的相对变化，以评估 $3 0 ~ \mathrm { { m i n } }$ 内的焦点稳定性。最终测量结果如图15所示。
+
+实验结果表明，电子直线加速器的焦点在测量过程中大部分时间保持稳定，偏移量均在 $0 . 1 \mathrm { m m }$ 以内，符合系统误差的容许范围。然而，个别时刻焦点偏移可达 $0 . 6 \mathrm { m m }$ ，可能与电子束的不稳定性以及实验条件的波动有关。
+
+![](images/752f5658d977b608fb468e96017f555a10d18f2da8f5ed9311e79716c32bb28b.jpg)
+
+![](images/1d06f6f09f31810993300b3da64301815fa3373947ce72d6a34cc4d1a108a6a7.jpg)
+
+![](images/4bf100702fbb50b214c5bf6caef620dcd4456b5dd3d7fc1f05a64c4b4d6720a0.jpg)  
+图15 三种电子直线加速器X射线焦点尺寸测量仪测量焦点稳定性结果  
+(a) 2 MeV，(b) 6 MeV，(c) 9 MeV   
+Fig.15 Focal spot stability measurement results of three electron linear accelerators using the developed X-ray focal spot size measuring instrument (a) 2 MeV, (b) 6 MeV, (c) 9 MeV

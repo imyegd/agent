@@ -1,0 +1,9 @@
+: 1798−1809.   
+Fengbin Tu, Zihan Wu, Yiqi Wang, et al. 16.1 MuITCIM: A[33] 28nm $2 . 2 4 \mu \mathrm { J } /$ Token  Attention-Token-Bit  Hybrid  Sparse Digital  CIM-Based  Accelerator  for  Multimodal Transformers[C]//2023 IEEE International Solid-State Circuits Conference. Piscataway: IEEE, 2023: 248−250.   
+Manuel  Le  Gallo,  Abu  Sebastian,  Roland  Mathis,  et  al.[34] Mixed-Precision  in-Memory  Computing[J].  Nature Electronics, 2018, 1: 246−253.   
+丁文隆, 汪承宁, 童薇. 基于自选尾数压缩的高能效浮点[35]忆阻存内处理系统 [J]. 计算机研究与发展, 2022, 59(3):
+
+533−552.   
+Zhong  Sun.  Analog  Matrix  Computing  with  Resistive[36] Memory:  Circuits  and  Theory[C]//2022 International Symposium on VLSI Technology, Systems and Applications. Piscataway: IEEE, 2022: 1−2.   
+Zhichuang  Liang,  Yunlei  Zhao.  Number  Theoretic[37] Transform  and  Its  Applications  in  Lattice-based Cryptosystems:  A  Survey[EB/OL].  (2022−11−24)[2025− 09−17]. https://arxiv.org/pdf/2211.13546.   
+Dai  Li,  Akhil  Pakala,  Kaiyuan  Yang.  MeNTT:  A  Compact[38] and

@@ -1,0 +1,4 @@
+Learning Optimizing  Compiler  for  Computing-In-Memory[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022, 41(6): 1674−1686.   
+秦忠宇. 面向存算一体 AI 加速器的端到端编译器设计及[21]优化 [D]. 武汉：华中科技大学, 2025.  
+Wenyu  Sun,  Jinshan  Yue,  Yifan  He,  et  al.  A  Survey  of[22] Computing-in-Memory  Processor:  From  Circuit  to Application[J].  IEEE Open Journal of the Solid-State Circuits Society, 2023, 4: 25−42.   
+Xiaochen  Peng,  Shanshi  Huang,  Hongwu  Jiang,  et  al.[23] DNN+NeuroSim

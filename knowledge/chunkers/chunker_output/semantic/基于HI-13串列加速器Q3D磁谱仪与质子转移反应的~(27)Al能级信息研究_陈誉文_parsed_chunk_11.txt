@@ -1,0 +1,11 @@
+![](images/23d56c256110dc05f6d565456835d638c1c3f53fa5753265368921f2d4cfe0e0.jpg)
+
+![](images/419d77dea6daf81d01ef5fe4c176cd3a3d3fa4ed7469b924ab2c90851ad78ef4.jpg)  
+图 1    实验室系 $6 ^ { \circ }$ 下的焦平面位置谱  
+Fig. 1    Focal-plane position spectrum at $6 ^ { \circ }$ in laboratory system
+
+一般，在确定入射道与出射道光学势时，常采用 Woods-Saxon 形式的光学势拟合实验角分布。拟 合 时 通 常 关 注 光 学 势 的 主 导 体 积 项 ， 而DWBA 计算中表面项、自旋轨道耦合项等可能具有物理意义的项或许会导致理论与实验结果有差异。为消除这一潜在影响，本研究在 DWBA 计算中同时采用 Woods-Saxon 形式光学势与单折叠势（single-folding potential，SFP）进行对比验证。单折叠势基于折叠模型计算，其核心思想是将靶核的复杂结构“折叠”成一个等效的平均场势，其需
+
+要两个基本输入量：有效核-核相互作用势与描述靶核的单体密度矩阵。折叠过程通过卷积两个核的单体密度矩阵元获得折叠势[9-10]。
+
+单折叠势可表示为：

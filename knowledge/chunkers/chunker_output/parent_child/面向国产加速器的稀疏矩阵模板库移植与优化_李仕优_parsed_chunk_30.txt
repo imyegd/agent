@@ -1,0 +1,9 @@
+器，需要根据其硬件特性对硬件指令相关模版和
+
+数据读写索引等方面进行针对性修改，才能完成适配工作。本文的移植方案兼容了原 CUTLASS-Sparse
+
+库中的设备层接口，因此对于使用者而言，仍然保证了模板库接口的灵活性。
+
+![](images/77dd5425cf7c6e3cf1e0b9ff4a4c9401941fcca52c50ffbf34486d6a59f50e26.jpg)  
+图 6 移植实现  
+Fig.6 The implementation of transplantation

@@ -1,0 +1,5 @@
+f Education, Chongqing University,
+
+Chongqing 400044, China)
+
+Abstract [Background] The dimensions and positional stability of X-ray focal spots produced by electron linear accelerators significantly influence the quality of non-destructive testing (NDT) imaging and are critical determinants of spatial resolution in radiographic imaging. The conventional "sandwich" method recommended by International Electrotechnical Commission (IEC) 62976: 2021 standards involves complex procedures and cannot achieve rapid

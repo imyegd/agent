@@ -1,0 +1,9 @@
+# 1.4 CUTLASS-Sparse
+
+CUTLASS-Sparse实现了一种基于Blocked-ELL稀疏矩阵存储格式的 SpMM 算法（B-SpMM）。图 3展示了 B-SpMM 的计算过程，给定稀疏矩阵值数组（Blocked-ELL 格式的分块大小设定为 2）、列块索引数组和稠密矩阵，对矩阵进行划分矩阵分块（大小为 $2 \times 2 ^ { \cdot }$ ），K 方向作为 B-SpMM 的累加维度。在B-SpMM 的计算过程中，线程块沿着累加维度迭代遍历所有的矩阵分块，利用 Tensor Core 完成矩阵分块的乘累加计算，迭代遍历过程中结合列块索引数组跳过白色方格所表示的不需要参与计算的数据。累加维度遍历完成后得到的累加结果为输出矩阵的一个子矩阵，所有线程块遍历累加维度结束后得到
+
+完整的输出矩阵。
+
+![](images/7bd4966e8d358c45299c9adb4cd117c3bd261179c44f6d0e90f48c074e32933c.jpg)  
+图 3 B-SpMM 算法计算过程  
+Fig.3 The computation process of B-SpMM al

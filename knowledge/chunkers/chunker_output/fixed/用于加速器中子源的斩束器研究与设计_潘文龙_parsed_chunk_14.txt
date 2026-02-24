@@ -1,0 +1,9 @@
+流所需偏转电压会略高于设计值，因此在实际生产中电压上限要有余量。这些问题在最终设备加工调试中可以调节偏转电压参数及空间电荷补偿度进行调整。
+
+# 参考文献：
+
+[1] 李帅,  孟献才,  钱玉忠. 紧凑型电感耦合加速器中子源控制系统设计[J]. 工业控制计算机, 2025, 38（4）：4-5,8. （Li  Shuai,  Meng  Xiancai,  Qian  Yuzhong.Design of compact inductively coupled accelerator neutron source control system[J]. Industrial Control Computer, 2025, 38（4）: 4-5,8）  
+[2] 傅世年, 梁天骄, 陈和生. BNCT 中子源的研发现况与展望[J]. 科学通报, 2022, 67（14）：1471-1478. （Fu Shinian, Liang Tianjiao, Chen Hesheng. Status andoutlook: research and development on the neutron source for BNCT[J]. Chinese Science Bulletin, 2022, 67（14）: 1471-1478）  
+[3] Siegel R L, Kratzer T B, Giaquinto A N. Cancer statistics[J]. CA: A Cancer Journal for Clinicians, 2025, 75（1）: 10-45.   
+赵文静,  尹周一,  王裕新,  等. 2024 美国癌症统计报告解读及中美癌症流行情况对比[J]. 肿瘤防止研究, 2024, 51（8）：630-641. （Zhao  Wenjing,  Yin[4]Zhouyi, Wang Yuxin, et al. Interpretation on cancer statistics, 2024 and comparison of cancer prevalence between China and America[J]. Cancer Research onPrevention and Treatment, 2024, 51（8）: 630-641）  
+[5] 罗全勇,  朱瑞森. 硼

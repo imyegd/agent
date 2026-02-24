@@ -1,0 +1,13 @@
+![](images/653173313aefb28ebc07a6e664a3a88f6f544526cdffc5e3c7e145542d4c10fa.jpg)  
+(c) envelope when $\eta { = } 0 . 4$ for (a)
+
+![](images/af9ea14e307d8798fbe0670ba19f0d05e337c26855a4ee2f55954e4e1aaff8dc.jpg)  
+(d) envelope when $\eta { = } 0 . 4$ for (b)   
+Fig. 10    The envelope schematic diagram and the focusing structure schematic diagram of the numerical simulation for long-distance transportation when $\eta = 0 . 4$   
+图  10 $\eta = 0 . 4$ 时数值模拟长距离传输时的包络示意图以及聚焦结构示意图。
+
+稳定性。为了验证我们的结论，采用TraceWin进行多粒子模拟验证，所使用的条件为：束流分布为K-V分布、质子束动能为 $1 0 \mathrm { M e V } ,$ 、初始粒子数为 100000、初始归一化发射度均为 $0 . 2 \pi { \cdot } \mathrm { m m { \cdot } m r a d }$ 。图 11所示为周期结构和双周期结构多粒子模拟得到的包络图，粒子在实空间入口和出口的分布如图 12所示，可以看出出口时束核周围弥漫了很多粒子。
+
+# 2.3   空间电荷效应对共振的影响
+
+结合粒子束核模型及庞加莱截面，我们发现对于发射度主导的束流和空间电荷主导的束流，引起的共振类型

@@ -1,0 +1,22 @@
+上述一系列物理设计与工程优化，将使CY-CIAE-100不仅能更好地为BRIF项目的核心驱动器助力核物理研究，也为我国高功率紧凑型回旋加速器的发展积累了宝贵的技术。
+
+# 2.3 50 MeV 回旋加速器及中能质子辐照设施
+
+# 1）设施简介
+
+50MeV回旋加速器(CYCIAE-50)及中能质子辐照设施是为中国科学院空间科学研究中心研制的一套质子辐照装置[40],主要用于开展光电器件位移损伤及大规模集成电路质子单粒子效应的地面模拟试验,为科学卫星载荷及国产光电器件的设计研制提供技术支撑。CYCIAE-50是整套系统
+
+![](images/92ca89a768b21d1c2cd823ab07625442e2c7ba9692641e9f856efc82a01a2641.jpg)  
+图11 新设计的中心区结构  
+Fig. 11 Newly designed structure of central region
+
+的核心，采用紧凑型直边扇结构，加速 $\mathrm{H}^{-}$ 离子束并通过剥离膜引出 $50\mathrm{MeV},10\mu \mathrm{A}$ 质子束流。加速器直径约 $3.2\mathrm{m}$ 、高 $3.5\mathrm{m}$ 、总重约 $80\mathrm{t}$ ，主要参数如表3所列[40-41]。
+
+表 3 CYCIAE-50 的主要参数  
+Table 3 Main parameters of CYCIAE-50
+
+<table><tr><td>指标</td><td>参数</td><td>指标</td><td>参数</td></tr><tr><td>束流能量</td><td>30~50 MeV</td><td>离子源流强</td><td>5 mA</td></tr><tr><td>流强</td><td>1 nA~10 μA</td><td>粒子回旋频率</td><td>约16 MHz</td></tr><tr><td>加速粒子</td><td>H-</td><td>高频频率</td><td>约65.4 MHz</td></tr><tr><td>磁场强度</td><td>最大1.6T</td><td>加速电压</td><td>约50 kV</td></tr><tr><td>加速器尺寸</td><td>φ3.5 m×2.5 m</td><td>总功率</td><td>约200 kW</td></tr><tr><td>离子源能量</td><td>30 keV</td><td></td><td></td></tr></table>
+
+CYCIAE-50同样基于宽径向范围调变梯度设计，主磁铁采用四磁极、深谷区结构，四次谐波加速，加速器整机如图12所示。磁极直径 $2.0\mathrm{m}$ ，磁回轭直径 $3.2\mathrm{m}$ 。单个磁极张角最大 $50^{\circ}$ ，磁气隙高度 $40\sim 32\mathrm{mm}$ 。最大磁场约 $1.6\mathrm{T}$ 。加速器采用侧边镶条结构实现主磁场垫补，主磁铁部件加工精度(轮廓度)好于 $0.05\mathrm{mm}$
+
+CYCIAE-50采用剥离膜引出[42]，并通过可沿径向前后移动的剥离膜实现了可调的引出束流能量。剥离膜采用厚度 $120\sim 150~\mu \mathrm{g} / \mathrm{cm}^2$ 的碳膜，剥离靶最小可达半径 $0.7\mathrm{m}$ ，剥离膜旋转角可调范

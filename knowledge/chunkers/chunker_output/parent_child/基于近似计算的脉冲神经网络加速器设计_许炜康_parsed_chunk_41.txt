@@ -1,0 +1,9 @@
+td>7.68</td><td>0.43</td><td>38.80</td><td>100.0</td></tr></table>
+
+表 6 近似精度与完整精度的指标比较  
+
+<table><tr><td>数据集</td><td>准确率
+(完整精度)/%</td><td>准确率
+(近似精度)/%</td></tr><tr><td>MNIST</td><td>98.44</td><td>94.97</td></tr><tr><td>FMNIST</td><td>87.77</td><td>82.85</td></tr><tr><td>DVS</td><td>91.11</td><td>86.34</td></tr><tr><td>SHD</td><td>65.48</td><td>60.52</td></tr></table>
+
+实验结果表明，在采用add8u_2LL近似加法器后，AxSpike在功耗方面减少了 $37.32\%$ ，在面积方面达成了 $31.26\%$ 的优化。虽然在精度上有所降低（例如，在MNIST数据集上从 $98.44\%$ 下降至 $94.97\%$ ），但AxSpike依旧保持着

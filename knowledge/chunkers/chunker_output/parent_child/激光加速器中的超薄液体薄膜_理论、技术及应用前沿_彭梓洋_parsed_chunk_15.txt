@@ -1,0 +1,3 @@
+![](images/0ea13fed404d369b6ffbe996576304e833052fda18c0f3c4418cf7b040e32509.jpg)  
+图2(a)实验中三元液相运动黏度和表面张力相图[18];(b)表面张力接近但运动黏度不同的四种混合液沿中轴线的厚度分布[18];(c)中轴线上某固定点处厚度作为雷诺数和韦伯数的函数[18];(d)中轴线上 $r = 1\mathrm{mm}$ 处在不同方位角上的厚度[18]  
+Figure 2 (a) Phase diagram of kinematic viscosity and surface tension of the ternary liquid mixtures in the experiment[18]; (b) thickness along the central axis for mixtures with similar surface tension but different kinematic viscosity[18]; (c) thickness at a fixed point on the central

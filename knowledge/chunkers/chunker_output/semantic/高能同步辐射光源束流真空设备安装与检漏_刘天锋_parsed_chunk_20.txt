@@ -1,0 +1,10 @@
+JACoW, 2017: TUPAB068   
+[3] Wang X H, Celli A, Kramer S, et al. Vacuum technology for diffraction-limited storage rings [J]. Journal of Vacuum Science & Technology A, 2020, 38(3): 030801   
+[4] Mao Y S, He P, Dong H Y, et al. Vacuum system development of HEPS [R]. Beijing: Institute of High Energy Physics, Chinese Academy of Sciences, 2023   
+[5] Santana M M, Kunst S R, Araujo R G O, et al. Leak detection and localization in the large vacuum system of Sirius [J]. Journal of Vacuum Science & Technology A, 2020, 38(3): 033202   
+[6] Ishibashi T, Tanaka H, Suzuki Y, et al. Residual gas analysis and beam conditioning at the SuperKEKB positron ring [J]. Vacuum, 2021, 189: 110223   
+[7] Wang J, Li Y, Zhang H, et al. Dynamic pressure analysis and gas desorption in the SSRF storage ring [J]. Nuclear Instruments and Methods in Physics Research A, 2018, 884: 1-5   
+[8] Wang J W, Liu J G. Engineering practice of leak detection in complex ultra-high vacuum systems[J]. Vacuum, 2020, 57(4): 23-28 (王建伟, 刘建国. 复杂超高真空系统泄漏检测的工程实 践[J]. 真空, 2020, 57(4): 23-28 (in Chinese))   
+[9] Redhead P A. The physical basis of ultrahigh vacuum [J]. Journal of Vacuum Science & Technology A, 1999, 17(4): 2036-2046   
+[10] G ó mez-Gofi J, Garc í a-Sarre ó n A, Martinez-Lopez Y, et al. Photon stimulated desorption modeling for the FCC-ee vacuum system [J]. Journal of Vacuum Science & Technology A, 2022, 40(2): 023201   
+[11] Dong HY, He P, Li Q, et al. Vacuum system of the HEPS storage ring [J]. Vacuum, 2024, 61(3): 1-12

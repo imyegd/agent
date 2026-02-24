@@ -1,0 +1,3 @@
+ere  performed  on  low-energy  proton  beams  (normalized  RMS  emittance:  0.2–0.4 π·mm·mrad). The particle–core model was used to compare halo formation mechanisms between quasi-periodic and
+
+double-period  structures,  with  two-dimensional  and  three-dimensional  models  verifying  key  findings. [Results] For weak  space-charge  effects  (high $\eta$ ), $\sigma _ { 0 }$ can  exceed $9 0 ^ { \circ }$ without  degrading  beam  quality;  strong  space-charge  effects (low η)  induce  resonances  and  em

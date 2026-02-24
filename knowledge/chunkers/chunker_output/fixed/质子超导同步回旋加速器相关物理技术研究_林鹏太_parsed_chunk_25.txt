@@ -1,0 +1,3 @@
+lations optimize the regenerator structural parameters, and beam extraction dynamics are analyzed computationally. Results demonstrate that with the regenerator, the reference particle maintains vertical stability even when its radial turn separation exceeds $1 . 5 \mathrm { { c m } }$ at the extraction radius. This study provides valuable references for the design of superconducting synchrocyclotrons.
+
+Key words: superconducting synchrocyclotron; proton therapy; regenerator extraction system design; main magnet design

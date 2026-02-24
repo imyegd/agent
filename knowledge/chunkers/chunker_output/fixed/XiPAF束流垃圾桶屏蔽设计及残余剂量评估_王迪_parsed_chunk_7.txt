@@ -1,0 +1,8 @@
+靶材料外表面出射的中子数量。其中靶的形状为圆柱体，其高度为质子射程，而圆柱半径为质子射程的横向岐离，这样设置的目的是尽量减少次级中子与靶材料的进一步 反 应 。 首 先 使 用 SRIM（Stopping and Range ofIons in Matter）程序［12］ 可以快速得到 $1 0 { \sim } 2 0 0 \mathrm { M e V }$ 质子几种常见屏蔽材料（聚乙烯、石墨、铝、铁、铜、铅）中的射程（表1）及横向岐离（表2），作为FLUKA模拟计算中的几何模型参数。在FLUKA计算中，设置质子垂直入射靶材料的圆柱底面中心，使用USRBDX计数卡得到出射到圆柱体外的中子产额（图2）及中子能谱分布（图3）。
+
+表1 不同能量质子在几种材料中的射程  
+Table 1 Projected range data of protons at different energies in various materials   
+
+<table><tr><td rowspan="2">质子能量
+Proton energy / MeV</td><td colspan="6">不同材料中的质子射程
+Projected range data of protons in various materials / mm</td></tr><tr><td>聚乙烯 Polyethylene</td><td>石墨 Graphite</td><td>铝 Aluminum</td><td>铁 Iron</td><td>铜 Copper</td><td>铅 Lead</td></tr><tr><td>10</td><td>1.18</td><td>0.683</td><td>0.623</td><td>0.257</td><td>0.242</td><td>0.298</td></tr><tr><td>30</td><td>8.66</td><td>4.92</td><td>4.33</td><td>1.72</td><td>1.60</td><td>1.83</td></tr><tr><td>50</td><td>21.9</td><td>12.4</td><td>10.8</td><td>4.23</td><td>3.91</td><td>4.34</td></tr><tr><td>70</td><td>40.2</td>

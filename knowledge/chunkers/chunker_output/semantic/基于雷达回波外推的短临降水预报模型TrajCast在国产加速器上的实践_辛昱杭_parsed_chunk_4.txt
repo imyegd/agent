@@ -1,0 +1,5 @@
+专刊：国产算力新力量，助力科学计算应用新发展
+
+Special Issue: New Domestic Computing Power Empowers the Development of Scien⁃ tific Computing Applications
+
+# 基于雷达回波外推的短临降水预报模型TrajCast在国产加速器上的实践

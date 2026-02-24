@@ -1,0 +1,3 @@
+y-efficient reconfigurable architecture for RNNs using dynamically adaptive approximate computing [J]. IEICE Electronics Express, 2017, 14(15): Article ID 20170637.   
+[12] HO N-M, MANOGARAN E, WONG W-F, et al. Efficient floating point precision tuning for approximate computing[C]//Proceedings of the 22nd Asia and South Pacific Design Automation Conference, 2017:63-68.   
+[13] YANG T X, UKEZONO T, SATO T. A low-power yet high-speed configurable adder for approximate computing[C]//Proceedings of the 2018 IEE

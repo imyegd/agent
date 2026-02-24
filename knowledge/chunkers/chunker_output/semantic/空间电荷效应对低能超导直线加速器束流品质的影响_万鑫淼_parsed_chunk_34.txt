@@ -1,0 +1,5 @@
+![](images/33b9a1f63a2d33ea44c3b42ab33ddbee103152eceb7300ea203e10b8d1050847.jpg)  
+Fig. 16    Peanut-like distribution of particles in the phase space   
+图 16    粒子在相空间的类花生分布图
+
+的影响更大。通过多粒子模拟实验结果如图 19所示，可以看出，束核外面有一圈弥漫的粒子。

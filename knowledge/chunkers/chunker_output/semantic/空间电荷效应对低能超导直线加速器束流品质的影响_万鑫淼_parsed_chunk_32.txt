@@ -1,0 +1,17 @@
+![](images/8f3d085c4a64a0520fa4024dc70bec37e776943b891ead0f6ecce26af51505a7.jpg)
+
+![](images/fd5f7103f2c9ecf1b7e7c6144da31398d4fc2d2384800bd4ba4034a551bf46ef.jpg)  
+Fig. 13    Beam current dominated by emittance undergoes 4∶1 resonance $\gamma = 0 . 7 2$ ), and the beam current dominated by space charge undergoes 2∶1 resonance $( \eta = 0 . 6 9$ )
+
+![](images/9507543bc06d2c24f863cbf83d814bf01decd9715580a1516110bc5a55f1873c.jpg)  
+图 13    发射度主导的束流发生 4∶1 共振 $( \eta = 0 . 7 2 )$ )，空间电荷主导的束流发生 2∶1 共振 $( \eta = 0 . 6 9 )$ )  
+Fig. 14    Motion trajectory of the particle and the envelope, this particle is located on the 2∶1 resonance island in Figure 13(b).   
+图 14    粒子与包络的运动轨迹, 这个粒子位于图 13(b) 2∶1 共振岛上
+
+![](images/ff42e7112f87b994758221c5734cbd6a8cdb941a19dbe959607e78b91397df21.jpg)  
+(a) transverse, $\scriptstyle \eta = 0 . 6 9$ , $\sigma _ { 0 \mathrm { s } } { = } 8 5 . 8 ^ { \circ }$
+
+![](images/ae8b65cfbce24c6e4f223d059f540e61e040b891d7eb04eaef8d12a278e1c743.jpg)  
+(b) longitudinal, $\scriptstyle \eta = 0 . 6 9$ , $\sigma _ { 0 \mathrm { s } } { = } 8 5 . 8 ^ { \circ }$   
+Fig. 15    Transverse and longitudinal envelope spectrum analysis   
+图 15    横向包络和纵向包络的频谱分析

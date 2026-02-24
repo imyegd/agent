@@ -1,0 +1,29 @@
+# 中国自主知识产权重离子放射治疗设备的研发与应用进展
+
+孟万斌，叶延程，李小军，马文君，朱芳芳
+
+（甘肃省武威肿瘤医院 甘肃 武威 733000）
+
+摘 要 ：重离子放射治疗凭借精准剂量分布与强效肿瘤杀伤优势 成为全球癌症治疗领域的前沿技术 中国自主知识产权重离子放射治疗设备研发历经数十年攻关 从1993年中国科学院近代物理研究所提出“重离子治癌”构想到2020年在甘肃省武威肿瘤医院投入临床使用 再到2025年已在武威 兰州 杭州 莆田等多地建成重离子治疗中心 国产装置累计治疗病例超2 000例 适应证拓展至50余种肿瘤 打破了国外长期技术垄断 实现了从技术跟跑到部分领跑的跨越 全文聚焦重离子放射治疗设备研发关键历程与临床应用进展 系统梳理从研发设想提出到产业化落地的关键节点 按时间脉络总结重离子放射治疗设备在不同阶段的应用场景与推广成果 为中国高端医疗装备领域的技术迭代与产业布局提供参考
+
+主题词 ：重离子 ；放射治疗设备 ；自主知识产权 ；碳离子
+
+中图分类号 ： R730.55 文献标识码 ：A
+
+Research and Application Progress on Heavy Ion Radiotherapy Equipment with Independent Intellectual Property Rights in China
+
+MENG Wanbin ， YE Yancheng ， LI Xiaojun ， MA Wenjun ， ZHU Fangfang
+
+（ Gans u Wuwe i Cancer Hosp ital Wuwe i 733000 China ）
+
+Abstract ： Heavy ion radiotherapy has emerged as a cutting-edge technology in global cancer treatment due to its precise dose distribution and potent tumor-cell killing capability. The development of heavy ion radiotherapy equipment with China ’ s independent intellectual property rights has involved decades of dedicated efforts. From the initial concept of “heavy ion cancer therapy ” proposed by the Institute of Modern Physics Chinese Academy of Sciences in 1993 to its clinical implementation at Gansu Wuwei Cancer Hospital in 2020 ， and further expansion by 2025 ， treatment centers have been established in multiple locations including Wuwei ， Lanzhou ， Hangzhou ， and Putian. Domestically developed systems have cumulatively treated over 2 000 pa - tients ， with clinical indications extended to more than 50 tumor types. This progress has broken the long-term foreign technological monopoly marking a transition from technological catch-up to partial leadership in the field. This paper reviews key milestones in the equipment ’ s development and clinical application ， systematically outlines critical stages from conceptualization to industri - alization and summarizes application scenarios and promotion outcomes across different phases. It aims to provide a reference for technological iteration and industrial planning in China ’ s high-end medical equipment sector.
+
+Subject words ： heavy ion ； radiotherapy equipment ； independent intellectual property rights ；carbon ion
+
+重离子放射治疗代表了当代肿瘤放射治疗的技术前沿 与常规放射治疗相比 重离子束具有独特的物理学与生物学优势 重离子在穿越组织时能量沉
+
+积较低， 而在射程末端形成尖锐的布拉格峰（Braggpeak） 实现对肿瘤细胞的“定点爆破”［1］ 同时 其高线性能量传输 （ linear energy transfer ， LET ） 特性能够有效诱发难以修复的DNA双链断裂 对乏氧肿瘤细胞也具有强大杀伤力 为放射抵抗性肿瘤提供了新途径［2］ 这些特性使重离子放射治疗成为精准肿瘤
+
+治疗体系中的重要组成部分。
+
+中国重离子放射治疗设备的研发始于20世纪九十年代 1993年 中国科学院近代物理研究所率先提出“重离子治癌”研究构想 启动了自主技术探索的历程 为突破国外的技术封锁与专利壁垒 中国科研团队开创性地采用了“回旋注入 $^ +$ 同步主加速”的技术路线 替代国际主流的直线注入方案 显著降低了系统复杂性与建设成本 经过数十年持续攻关 首台完全自主知识产权的医用重离子加速器于2020年3月26日在甘肃省武威肿瘤医院正式投入临床使用标志着中国实现了该领域“从0到1”的突破 成为全球第4个掌握重离子临床治疗能力的国家［3］ 目前国产重离子放射治疗设备已进入产业化推广与多中心布局阶段 武威 兰州 杭州 莆田等地的重离子治疗中心相继投入运行 武汉装置即将启用 南京 长春 济南等多个城市也已启动建设 重离子放射治疗临床治疗病例累计超过2 000例 适应证从初期的7种拓展至50余种 覆盖头颈 胸腹 盆腔等多部位肿瘤［4］ 技术迭代持续推进 新一代普惠型医用重离子加速器采用纵向立式紧凑设计 在惠州启动建设 为重离子放射治疗技术向中小城市推广奠定了基础本文旨在系统梳理中国自主知识产权重离子放射治疗设备的研发历程 核心技术突破 临床应用成效与产业发展现状 总结其在打破国际垄断 降低成本建立标准等方面的经验 为未来技术优化与行业推广提供参考

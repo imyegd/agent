@@ -1,0 +1,5 @@
+# 参考文献：
+
+[1] 李帅,  孟献才,  钱玉忠. 紧凑型电感耦合加速器中子源控制系统设计[J]. 工业控制计算机, 2025, 38（4）：4-5,8. （Li  Shuai,  Meng  Xiancai,  Qian  Yuzhong.Design of compact inductively coupled accelerator neutron source control system[J]. Industrial Control Computer, 2025, 38（4）: 4-5,8）  
+[2] 傅世年, 梁天骄, 陈和生. BNCT 中子源的研发现况与展望[J]. 科学通报, 2022, 67（14）：1471-1478. （Fu Shinian, Liang Tianjiao, Chen Hesheng. Status andoutlook: research and development on the neutron source for BNCT[J]. Chinese Science Bulletin, 2022, 67（14）: 1471-1478）  
+[3] Sieg

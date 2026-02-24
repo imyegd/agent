@@ -1,0 +1,10 @@
+RRAAMSfacility［J］NuclearInstrumentsandMethodsinPhysicsResearchSectionB：Beam Interactionswith Materialsand Atoms， 2023， 536（18）：
+
+144－153  
+［12］ WatanabeT，FujitaN，MatsubaraA，etal．Preliminaryreportonsmall-massgraphitizationforradiocarbondatingusingEA-AGE3aJAEA-AMS-TONO［J］．GeochemicalJournal，2021，55（4）：277－281  
+［13］ 何建华，曹辉辉，王宗礼．自动石墨合成系统（AGE-3）制样方法［J］．实验技术与管理，2021，38（7）：55－58  
+HeJianhua，CaoHuihui，WangZongli．Samplepreparationmethodoautomaticgraphite synthesissystem（AGE-3）［J］．ExperimentaTechnologyandManagement，2021，38（7）：55－58  
+［14］ WackerL，NemecM，Bourquin J．A revolutionarygraphitisationsystem：Fullyautomated，compactandsimple［J］．NuclearInstrumentandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2010，268（7－8）：931－934  
+［15］张慧，王小明，庞义俊，等．基于加速器质谱测量的14C呼气试验样品制备方法研究［J］．同位素，2017，30（2）：89－94  
+ZhangHui，WangXiaoming，PangYijun，etal．Samplepreparationforbreathtes $^ { 1 4 } \mathrm { C }$ tracerforacceleratormassspectrometry［J］．JournaofIsotopes，2017，30（2）：89－94  
+［16］ OrsovszkiG，RinyuL．Flame-sealedtub

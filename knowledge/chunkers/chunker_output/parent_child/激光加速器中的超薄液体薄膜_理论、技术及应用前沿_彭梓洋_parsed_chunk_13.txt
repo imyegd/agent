@@ -1,0 +1,6 @@
+)$ 描述了黏性效应的角分布特征，而
+
+表 1 北京大学LST表征系统特征参数总结  
+Table 1 Summary of parameters of the LST characterization system at Peking university   
+
+<table><tr><td>表征子系统</td><td>测量范围</td><td>精度</td><td>空间分辨</td><td>液膜典型结果</td><td>时间稳定性@10 min</td></tr><tr><td>厚度</td><td>0.01~50 μm</td><td>±1%</td><td>5~30 μm</td><td>0.25~10 μm</td><td>&lt;1%</td></tr><tr><td>平整度</td><td>~50 nm/μm</td><td>±0.1 nm/μm</td><td>3 μm</td><td>RMS 1 nm (@5 μm×5 μm) (RMS@5 μm×5 μm)</td><td>&lt;1%</td></tr><tr><td>法线指向</td><td>~25 mrad</td><td>0.2

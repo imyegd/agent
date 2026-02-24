@@ -1,0 +1,3 @@
+roximate computing[C]//Proceedings of the 2018 IEEE International Symposium on Circuits and Systems, 2018: 1-5.   
+[14] 龚宇，王丽萍，王佑，等.近似计算新范式在深度学习加速系统中的应用及研究进展[J].电子与信息学报，2023,45(9)：3098-3108.GONG Yu,WANG Liping,WANG You,etal.Appli cation and research progress of approximate computing as a new computing paradigm in AI acceleration systems[J].Journal of Electronics & Information Technology,2023,45(9):3098-3108.  
+[15] MRAZEK V, HRBACEK R, VASICEK Z, et al. EvoApprox8b: Library of approximate adders and multipl

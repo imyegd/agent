@@ -1,0 +1,4 @@
+庆大学, 2007.  
+CHEN Gang. Study on high energy X-ray ICT Data acquisition System (DAS) [D]. Chongqing: Chongqing University, 2007.   
+23 王永泉, 杨朝旭, 周淳, 等. 应用LabVIEW软件开发的气体绝缘金属封闭开关设备声振联合检测系统[J]. 西安交通大学学报, 2021, 55(6): 131–140.  
+WANG Yongquan, YANG Chaoxv, ZHOU Chun, et al. The sound and vibration joint detection system of gas insulated metal enclosed switchgear is developed by using LabVIEW software[J]. Journal of Xi'an Jiaotong University, 2021, 55(6): 131–140.

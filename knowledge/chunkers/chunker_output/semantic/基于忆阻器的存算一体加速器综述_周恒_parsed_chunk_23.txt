@@ -1,0 +1,6 @@
+533−552.   
+Zhong  Sun.  Analog  Matrix  Computing  with  Resistive[36] Memory:  Circuits  and  Theory[C]//2022 International Symposium on VLSI Technology, Systems and Applications. Piscataway: IEEE, 2022: 1−2.   
+Zhichuang  Liang,  Yunlei  Zhao.  Number  Theoretic[37] Transform  and  Its  Applications  in  Lattice-based Cryptosystems:  A  Survey[EB/OL].  (2022−11−24)[2025− 09−17]. https://arxiv.org/pdf/2211.13546.   
+Dai  Li,  Akhil  Pakala,  Kaiyuan  Yang.  MeNTT:  A  Compact[38] and  Efficient  Processing-in-Memory  Number  Theoretic Transform  (NTT)  Accelerator[J].  IEEE Transactions on Very Large Scale Integration Systems,  2022,  30(5): 579−588.   
+Peng  Yao,  Huaqiang  Wu,  Bin  Gao,  et  al.  Fully  Hardware-[39] Implemented  Memristor  Convolutional  Neural  Network[J]. Nature, 2020, 577: 641−646.   
+[40] Weier Wan, Rajkumar Kubendran, Clemens Schaefer, et al.

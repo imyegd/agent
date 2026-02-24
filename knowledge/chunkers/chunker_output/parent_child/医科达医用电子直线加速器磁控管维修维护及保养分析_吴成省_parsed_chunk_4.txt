@@ -1,0 +1,7 @@
+trol of temperature and humidity. In order to effectively optimize the performance of the magnetron and provide reference for the maintenance and upkeep of the medical electron linear accelerator in radiation therapy in the future
+
+Key words: Elekta, medical electronic linear accelerator, magnetron, repair and maintenance
+
+DOI:10.15971/j.cnki.cmsdi.2025.18.050
+
+现如今随着医疗行业环境的变化，医疗技术也随之进入到新时期，在此期间各项医疗技术与设备得到更新，提高了国内放射治疗技术水平，而且该技术的精准度也有很大程度地提升。医科达品牌的医用直线加速器是目前业内应用比较多的一种放射治疗设备，此设备内部有高剂量率能量模块以及六维床自动定位系统等，实现了放射治疗水

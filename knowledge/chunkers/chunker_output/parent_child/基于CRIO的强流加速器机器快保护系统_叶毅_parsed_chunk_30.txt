@@ -1,0 +1,3 @@
+na Academy of Engineering Physics. Emergency automatic brake control system and method of initiation:CN201610103072.8[P]. 2016-05-11.)  
+[10] 宋海峰,张敏,张蓉,等 . 基于 cRIO 的时序控制软件架构设计[J]. 太赫兹科学与电子信息学报, 2015,13(4):619-624. (SONG Haifeng,ZHANG Min,ZHANG Rong,et al. Architecture of time sequence control software design based on cRIO[J]. Journal of Terahertz Science and Electronic Information Technology, 2015,13(4):619-624.) DOI:10.11805/TKYDA201504.0619.   
+[11] 陈树学,刘萱 . LabVIEW 宝典[M]. 北京:电子工业出版社, 2011. (CHEN Shuxue,L

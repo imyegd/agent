@@ -1,0 +1,13 @@
+束流轨道的畸变。在轨道校正后采用粒子追踪方法进行束流传输线的动力学模拟，评估传输线的传输
+
+![](images/4d828b00e9d154c2e624597d706a825ece0d4aed259bc93d145478870547ff74.jpg)
+
+![](images/592393ddb106cdff2915e9fabed881ad57b9a4bffccecd3cd7e5d9300ac4223e.jpg)  
+图6 轨道畸变RMS校正后频度分布图 (a) 水平，(b) 垂直  
+Fig.6 Frequency distribution of RMS orbit distortion after correction (a) Horizontal, (b) Vertical
+
+效率。束流传输线起始点的粒子参数由储存环束流参数及分支线交接点处的束流光学参数确定，设置200个随机误差种子，使用10 000个宏粒子进行粒
+
+![](images/957cb6f2460bd7af94289b6931ff895a19df63660dac3614430628aef82f0cb1.jpg)
+
+![](images/f

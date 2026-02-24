@@ -1,0 +1,9 @@
+# 2 相关工作
+
+本文的研究重点是脉冲神经网络的高效实现与近似计算的交叉范畴，致力于实现功耗更低的脉
+
+冲神经网络加速器硬件。
+
+在脉冲神经网络的高效实现层面，ES-HRAGHIAN等人[3]通过拓展PyTorch的功能，结合其GPU加速的张量计算能力，将脉冲神经网络引入高效计算领域。他们所开发的snnTorch，还通过无缝集成预先设计的脉冲神经元模型，极大地提升了脉冲神经网络的计算效率。ES-HRAGHIAN等人[4]在Python层级实现了一个SNN模拟器，通过在多个数据集，如MNIST（Modified National Institute of Standards and Technology）[5]，FMNIST（FashionMNIST）[6]，DVS(DVS128 Gesture)[7]和SHD(Spiking HeidelbergDigits)[8]上进行测试，验证了脉冲神经网络在图像识别等任务中的卓越性能。
+
+在硬件加速方面，MODARESI等人[9]借助开源的EDA(Electronic Design Automation)工具和PDK(Process Design Kit)，在SkyW

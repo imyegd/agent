@@ -1,0 +1,11 @@
+计算出所需屏蔽体的厚度值。同时根据标准 GBZ201.2—2011 中的对于主射束、散射线和漏射线的计算公式也可以得出所需屏蔽体的厚度，考虑到 Halcy-on 型直线加速器在主射束方向的自屏蔽结构，将主射束的屏蔽厚度减去自屏蔽结构的等效屏蔽厚度得出基于经验公式计算出的屏蔽体厚度，并将 2 种方法计算出的屏蔽厚度进行对比分析。
+
+$$
+X = T V L \times \log \left(\frac {\dot {H} _ {m}}{\dot {H} _ {c}}\right) \tag {1}
+$$
+
+其中 $X$ 为屏蔽体的厚度 $\mathrm { . m m } )$ ， TVL 为屏蔽材料的什值层厚度（mm）， $\dot { H } _ { m }$ 为屏蔽体外剂量率的测量结果导出值 $\mathbf { \Pi } _ { \mathrm { \tiny { ( \mathfrak { A } G y / h ) } } }$ ， $\dot { H } _ { c }$ 屏蔽体外剂量率控制目标值（ $\cdot \mu \mathrm { G y } / \hslash )$ 。
+
+# 2    结果及数据分析
+
+2.1    平面剂量场分布    本次剂量场分布共测量了3 个平面剂量场，水平高度分别为 0.5、1.1 和 $1 . 7 \mathrm { m }$ 。其中 $1 . 1 \mathrm { m }$ 高度为 Halcyon 治疗等中心点所在高度。机房辐射水平剂量最高在剂量中心处为 $5 . 5 2 0 ~ \mathrm { G y } /$ ${ 5 4 0 } \mathrm { M U }$ ，距离机头约 $6 . 5 \mathrm { m }$ 处剂量为 $1 2 . 2 \mu \mathrm { G y } / 5 4 0 \mathrm { M U } .$ 。总体辐射水平在 $1 2 . 2 \mu \mathrm { G y } / 5 4 0 \ M \mathrm { U } \mathrm { \sim } 5 . 5 2 0 \mathrm { G y } / 5 4 0 \mathrm { M U }$ 范围内，大部分测量点数据处于 $1 0 0 { \sim } 1 0 0 0 ~ \mu \mathrm { G y / }$ ${ 5 4 0

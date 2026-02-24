@@ -1,0 +1,18 @@
+，我们从纳维-斯托克斯方程出发，通过严格的理论推导建立了精确描述液膜厚度分布的数学模型[18]：
+
+$$
+h = \frac {q _ {j} ^ {2} (\phi) \sin \theta}{r} \left[ 1 + a (\phi) \frac {\nu r}{Q} \right], \tag {1}
+$$
+
+其中，形状因子 $a(\phi)$ 描述了黏性效应的角分布特征，而
+
+表 1 北京大学LST表征系统特征参数总结  
+Table 1 Summary of parameters of the LST characterization system at Peking university   
+
+<table><tr><td>表征子系统</td><td>测量范围</td><td>精度</td><td>空间分辨</td><td>液膜典型结果</td><td>时间稳定性@10 min</td></tr><tr><td>厚度</td><td>0.01~50 μm</td><td>±1%</td><td>5~30 μm</td><td>0.25~10 μm</td><td>&lt;1%</td></tr><tr><td>平整度</td><td>~50 nm/μm</td><td>±0.1 nm/μm</td><td>3 μm</td><td>RMS 1 nm (@5 μm×5 μm) (RMS@5 μm×5 μm)</td><td>&lt;1%</td></tr><tr><td>法线指向</td><td>~25 mrad</td><td>0.2 mrad</td><td>25 μm</td><td>\</td><td>±1.5 mrad (FWHM)</td></tr><tr><td>空间位置</td><td>~1 mm</td><td>±2 nm</td><td>20 μm</td><td>\</td><td>±1 μm (FWHM)</td></tr></table>
+
+![](images/1eb6d87ffa50a527c9473357f73782b43acc3f915e26643eab4237f1810b4412.jpg)
+
+![](images/412534db25250d34ec7d0bc1d4f838d192374f08cc0fbff9d685cca2123e74fd.jpg)
+
+![](i

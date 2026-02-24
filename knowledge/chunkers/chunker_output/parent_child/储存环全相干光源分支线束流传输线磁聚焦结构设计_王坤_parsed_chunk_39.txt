@@ -1,0 +1,4 @@
+畸变RMS校正后频度分布图 (a) 水平，(b) 垂直  
+Fig.15 Frequency distribution of RMS orbit distortion after correction with consideration of dispersion introduced by the kicker and septum (a) Horizontal, (b) Vertical
+
+由以上结果可得，采用考虑冲击磁铁和切割铁引入的色散后的束流传输线磁聚焦结构设计，束流传输线轨道校正方案可以有效校正束流轨道的畸变。在轨道校正后设置200个随机误差种子，使用10 000个宏粒子进行粒子追踪模拟计算。粒子追踪结果表明，在设置真空管道尺寸 $\pm 1 7 . 5 \ \mathrm { m m }$ 、磁铁元件安装误差和磁场误差的情况下，束流传输线的传输效率可达 $100 \%$ 。束流传输线方案的工程实施重难点是引出注入的高重频冲击磁铁。考虑冲击磁铁的踢角稳定性，当踢角偏差 $1 0 . 9 \%$ 时会造成束流丢失。为了对束流传输线进行更工程化的评估，我们计算了传输线的束流清晰区。束流清晰区由16倍

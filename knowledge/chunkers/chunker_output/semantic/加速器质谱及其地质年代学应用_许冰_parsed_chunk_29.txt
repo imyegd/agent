@@ -1,0 +1,21 @@
+$$
+N _ {2 6} = \frac {P _ {2 6} (0)}{\varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {2 6} t _ {\mathrm {b}}} \tag {18}
+$$
+
+$$
+N _ {1 0} = \frac {P _ {1 0} (0)}{\varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} \tag {19}
+$$
+
+因此，对于两个或两个以上宇宙成因核素测量，其核素比值随时间变化为：
+
+$$
+R _ {\mathrm {A B}} \left(t _ {\mathrm {b}}\right) = \frac {C _ {\mathrm {A}} \left(t _ {\mathrm {b}}\right)}{C _ {\mathrm {B}} \left(t _ {\mathrm {b}}\right)} = R _ {\mathrm {A B}} (0) \mathrm {e} ^ {- t _ {\mathrm {b}} \left(\lambda_ {\mathrm {A}} - \lambda_ {\mathrm {B}}\right)} \tag {20}
+$$
+
+则埋藏年龄为：
+
+$$
+t _ {\mathrm {b}} = - \ln \left(\frac {R _ {\mathrm {A B}} \left(t _ {\mathrm {b}}\right)}{R _ {\mathrm {A B}} (0)}\right) / \left(\lambda_ {\mathrm {A}} - \lambda_ {\mathrm {B}}\right) \tag {21}
+$$
+
+公式（20）～（21）中， $R _ { \mathrm { A B } }$ 是两核素 $C _ { \mathrm { { A } } }$ 和 $C _ { \mathrm { B } }$ 的比值，而 $t _ { \mathrm { b } }$ 是埋藏年龄， $\lambda _ { \mathrm { ~ A ~ } }$ 和 $\lambda _ { \mathrm { ~ B ~ } }$ 是两核素的衰变常数； $R _ { \mathrm { A B } } ( 0 )$ 和 $R _ { \mathrm { A B } } \left( \mathrm { \Delta } t _ { \mathrm { b } } \right)$ ）分别是起始时间和测得时间的核素比值。

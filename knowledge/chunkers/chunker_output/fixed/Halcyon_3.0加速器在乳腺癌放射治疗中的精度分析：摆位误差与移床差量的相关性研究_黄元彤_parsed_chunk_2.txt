@@ -1,0 +1,11 @@
+与Halcyon加速器移床差量之间存在具有统计学意义但关联强度有限（ $\mathrm { R } { < } 0 . 5$ ， $P { < } 0 . 0 5$ ）的正相关，且基于此的预测模型性能不佳（ $\mathrm { \ A U C { < } 0 . 7 }$ ）；这些结果共同提示，移床差量对摆位误差的影响有限，并非决定性因素。
+
+关 键 词：乳腺癌 摆位误差 Halcyon3.0 放射治疗 最佳截断值
+
+# Precision Analysis of Halcyon 3.0 Accelerator in Breast Cancer Radiotherapy: A Correlation Study Between Setup Errors and Couch Shifts
+
+HUANG Yuan-tong1 XU Qing1* LI Qian-yong1 TANG Tian-ci2   
+1 Department of Radiotherapy Center, Fudan University Shanghai Cancer Center; Department of Oncology, Shanghai Medical College, Fudan University (Shanghai 200032)   
+2 Radiotherapy Department, Eye & ENT Hospital, Fudan University (Shanghai 201100)
+
+Abstract: Objective: To investigate the relationship between setup errors and couch shifts in breast cancer patients treated with the Halcyon 3.0 accelerator. Methods: A retrospective analysis was conducted on 200 breast cancer patients treated at the Radiation Therapy Center of Fudan University Shanghai Cancer Center between October 2023 and March 2024. Cone-beam

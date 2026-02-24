@@ -1,0 +1,4 @@
+b4.jpg)
+
+![](images/52bc2d94f9648aeea6eea3a88594cf873598b391574c58a51fc6c75c9b341f75.jpg)  
+图2 CORDIC算法坐标旋转图

@@ -1,0 +1,11 @@
+最终计算出 $I_{d} 、 I_{q}$ 的结果如式（13）所示，即 $I_{\alpha} 、 I_{\beta}$ 作用了一个旋转矩阵，写成矩阵形式：
+
+$$
+\left[ \begin{array}{l} I _ {d} \\ I _ {q} \end{array} \right] = \left[ \begin{array}{c c} \cos \theta_ {i} & \sin \theta \\ - \sin \theta & \cos \theta \end{array} \right] \left[ \begin{array}{l} I _ {\alpha} \\ I _ {\beta} \end{array} \right] \tag {13}
+$$
+
+也就是说坐标系 $d - q$ 是始终跟着转子旋转的， $I_{d}$ 、 $I_{q}$ 是不变的两个值，这个坐标系下两个控制量都被线性化了。
+
+# 2.2.3 反Park变换
+
+反park变换就是将坐标系 $d - q$ 分解为坐标系 $\alpha -\beta$ ，如图8所示。

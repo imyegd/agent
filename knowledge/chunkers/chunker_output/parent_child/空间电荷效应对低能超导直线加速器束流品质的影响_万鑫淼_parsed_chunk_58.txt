@@ -1,0 +1,9 @@
+小周期结构传输的束流发生 4∶1 和 1∶1 共振 $( \eta = 0 . 4 8 )$
+
+![](images/0c1c1d5df7bb6374266296fd72f02c7588c0f091b1a4803c37d2de7daacbfb6e.jpg)  
+(a) transverse, $\eta { = } 0 . 4 8$ , $\sigma _ { 0 s } { = } 1 0 2 ^ { \circ }$ , 7 micro periods
+
+![](images/64cbf6c322f68dd770b9083da7b49c703ad8bd18105d218e470d93eeb2fd3124.jpg)  
+(b) longitudinal, $\eta { = } 0 . 4 8$ , $\sigma _ { 0 \mathrm { s } } { = } 1 0 2 ^ { \circ }$ , 7 micro periods
+
+![](images/a3fcb1e79491a9eb7c68bc873009f845460cc92423084abe1a6545fe6b7092ce.jpg)

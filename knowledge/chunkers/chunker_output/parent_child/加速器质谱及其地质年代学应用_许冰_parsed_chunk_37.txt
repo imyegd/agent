@@ -1,0 +1,7 @@
+C s } ^ { + }$ 需从狭缝加速引出，通过透镜系统聚焦于样品表面。而现代离子源的离子发生器和样品位于同一空间中，其离子发生器是热金属钽（Ta）离子发生器。图 2是NEC生产的新一代 SNICSⅡ型 Cs溅射离子源的示意图。其金属 Cs通过加热炉加热气化，撞击热离子发生器，被离子化形成 $\mathrm { C s } ^ { + }$ ；另外，一部分气化的Cs原子在样品表面凝结，形成一层 Cs原子层，从而减小样品表面的工作能，有助于样品的原子和离
+
+![](images/daf2a78a65255a3aa30b16dfd118aee3ad53d629c5b49cad9145c4a0b47dee79.jpg)  
+图 1 中国科学院地质与地球物理研究所 6.0MV加速器质谱  
+Fig.1 The6.0MVacceleratormassspectrometeratInstituteofGeologyandGeophysics，ChineseAcademyofSciences
+
+子的溅射。样品位于负电位，因此 ${ \mathrm { C s } } ^ { + }$ 被加速并聚焦撞击样品表面，溅射出

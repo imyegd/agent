@@ -1,0 +1,6 @@
+$ ，计算高铼酸根的回初始高铼酸根含量收率，高铼酸根的回收率在 $6 9 . 7 \% \sim 8 1 . 4 \%$ ，与文献利用PEG树脂及活性炭纤维柱的结果接近［8，22］。与氧化铝法相比［5］，本方法显著提升了分离高锝酸根的效率，三组实验产物中钼的含量均低于 $1 \%$ 。
+
+图4　联合使用氧化铝柱和TEVA柱的钼锝（铼）分离方法：（a）氧化铝柱吸附；（b） TEVA树脂分离流程示意图  
+Figure 4 Design of the simulation separation idea formolybdenum-rhenium：（a） Schematic diagram of the aluminacolumn and adsorption process；（b） Schematic diagramof the TEVA resin separation process.  
+![](images/9bcc9c484e23baf94ae97fec19b4d9564f7dd75d000fea482fe8bc5885958762.jpg)  
+$\textcircled{1}$ -注射器； $\t

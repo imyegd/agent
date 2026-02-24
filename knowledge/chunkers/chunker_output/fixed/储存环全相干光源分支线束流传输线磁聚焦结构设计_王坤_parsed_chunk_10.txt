@@ -1,0 +1,10 @@
+误差包含了表中所有误差类型。为了便于分析磁铁偏移误差、旋转误差和电源纹波的影响，方案此处误差设置不包含BPM读数误差和校正铁设置误差。传输线轨道校正方案在进行误差分析时，磁铁元件按设置的误差强度生成误差。在实际中如发现个别磁铁元件误差较大，则可通过准直和优化降低其误差，因此高斯分布的误差做了 $3 \sigma$ 截断。
+
+传输线束流校正方案按储存环束流参数及分支 线交接点处的束流光学参数，生成水平发射度为 1 nmrad，耦合度为0.01的初始粒子。方案在设置
+
+表1 磁铁元件误差强度设置  
+Table 1 Error strength of magnet   
+
+<table><tr><td>磁铁类型</td><td>误差类型</td><td>误差强度</td></tr><tr><td>Magnet type</td><td>Error type</td><td>Error strength</td></tr><tr><td>四极铁</td><td>Shift / mm</td><td>0.05</td></tr><tr><td>Quadrupole</td><td>Tilt / mrad</td><td>0.1</td></tr><tr><td></td><td>Current ripple / 10-6</td><td>100</td></tr><tr><td>二极铁</td><td>Shift / mm</td><td>0.1</td></tr><tr><td>Bend</td><td>Tilt / mrad</td><td>0.1</td></tr><tr><td></td><td>Current ripple / 10-6</td><td>100</td></tr></table>
+
+200个随机误差种子的各项误差后，进行粒子追踪模拟。之后方案分别读取BPM处的水平和垂直方向轨道数据并分析，得到轨道畸变RMS（Root MeanSquare）校正前的结果，如图3和图4所示。从图中可以看出，水平方向轨道畸变 $2 0 0 { \sim } 1 8 0 0 ~ { \mu } \mathrm { m }$ （均值$8 5 1 . 8 ~ \mu \mathrm { m }$ ，方差 $3 9 6 . 5 ~ \mu \mathrm { m } \lambda$ ），垂直方向轨道畸变 $5 0 0 \s

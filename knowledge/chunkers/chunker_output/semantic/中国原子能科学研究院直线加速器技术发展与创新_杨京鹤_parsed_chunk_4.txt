@@ -1,0 +1,11 @@
+accelerators. The high-intensity proton linear accelerator has broken through the construction of multipulse mode experimental platforms and superconducting technology. This paper further explores the future technological trends and strategic directions of the linear accelerator of CIAE, with the aim of continuing to lead innovation and meeting the urgent needs of the rapid development of national nuclear technology in the new era.
+
+Key words: electron linear accelerator; proton linear accelerator; accelerating structure; accelerator technology
+
+直线加速器作为核技术应用的核心装备，在物质结构与材料、核物理等科研领域以及工业无损检测、医疗灭菌、材料改性等应用领域具有不可替代的战略价值。作为我国核科学技术的发祥地，中国原子能科学研究院（简称原子能院）在直线加速器的研究、开发与应用领域发挥着至关重要的作用。从首台自主设计的 $30\mathrm{MeV}$ 电子直线加速器到型谱化的电子直线加速器研发体系以及强流质子直线加速器的技术创新发展，75年来，原子能院的直线加速器发展历程映射了我国核工业从实验室研究到产业化应用，从技术封锁到自主创新的完整轨迹。原子能院不仅推动了核技术的国防应用，更使“看不见的核技术”成为服务国民经济的重要力量。
+
+本文系统梳理原子能院电子直线加速器的研发进程、技术演进脉络与创新体系以及强流质子直线加速器的技术突破，揭示其对国家战略与民生发展的重大意义。
+
+# 1 原子能院电子直线加速器研发历程
+
+电子直线加速器是研究开发历史最早的加速器类型之一，通过电磁场在直线轨道上对带电粒子进行加速以达到所需的高能量。随着20世纪40年代后微波技术的快速发展，采用射频微波场加速电子的直线加速器在核科学与技术领域发挥了重要作用，性能上飞跃式发展，应用领域迅速拓展到高能物理科研和多种中低能应用。原子能院是我国中低能电子直线加速器的重要研发基地。从首台 $30\mathrm{MeV}$ 电子直线加速器的诞生，到 $10\mathrm{MeV} / 20\mathrm{kW}$ 高能大功率电子辐照加速器的工业化应用，再到无损检测加速器的海外出口，原子能院电子直线加速器的研发历程不仅是一部自力更生的创新史，更见证了我国核技术从依赖进口到全球输出的跨越。

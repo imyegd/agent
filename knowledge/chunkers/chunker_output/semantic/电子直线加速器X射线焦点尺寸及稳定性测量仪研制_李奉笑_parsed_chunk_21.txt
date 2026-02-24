@@ -1,0 +1,3 @@
+![](images/5b61c1d5d1913c3197952f8ff8319b9eaf25a4e49456828ae53f3946ba4e7811.jpg)  
+图11 上位机软件界面截图  
+Fig.11 Screenshot of the software interface in host computer

@@ -1,0 +1,3 @@
+for  Processing-In-Memory Architectures[J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2023, 42(11): 4112−4125.   
+Kaizhong Qiu, Zhenhua Zhu, Yi Cai, et al. MNSIM-TIME:[29] Performance Modeling Framework for Training-In-Memory Architectures[C]//2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems.  Piscataway: IEEE, 2021: 1−4.   
+Geng Yuan, Payman Behnam, Zhengang Li, et al. FORMS:[30] Fine-grained  Polarized  ReRAM-based  In-situ  Com

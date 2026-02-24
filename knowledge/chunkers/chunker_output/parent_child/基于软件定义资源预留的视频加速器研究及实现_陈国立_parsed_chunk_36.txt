@@ -1,0 +1,6 @@
+E Computer and Communications Societies (Cat. No.00CH37064). Tel Aviv: IEEE, 2000: 118-127   
+[7] LIN Y Y, WU Q S. Complexity Analysis and Algorithm Design for Advance Bandwidth Scheduling in Dedicated Networks [J].IEEE/ACM Transactions on Networking, 2013, 21 (1): 14-27. (下转11页)
+
+表 4 终端实验平均统计结果  
+
+<table><tr><td>实验指标</td><td>普通终端结果</td><td>关键终端结果</td></tr><tr><td>上报次数</td><td>47</td><td>134</td></tr><tr><td>剩余电量/%</td><td>51</td><td>50</td></tr><tr><td>立即成功率/%</td><td>79</td><td>82</td></tr><tr><td>迟后成功率/%

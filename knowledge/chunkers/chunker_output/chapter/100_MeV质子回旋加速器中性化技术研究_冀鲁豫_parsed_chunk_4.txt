@@ -1,0 +1,44 @@
+# 2 用于中性束剥离的薄剥离膜方案研究
+
+# 2.1 剥离膜厚度和中性化率
+
+电荷转移碰撞是束流中性化的核心机制，粒子束和靶粒子碰撞后发生电荷转移，改变电荷状态。发生电荷转移碰撞的概率用截面 $\sigma$ 表示，碰撞时粒子可能得到或失去 1 个或多个电子， $\sigma _ { i j }$ 为电荷态 i 的粒子碰撞后成为电荷态 $j$ 的粒子的截面。以负氢离子中性化为例， $\sigma _ { - 1 0 }$ 表示负氢离子碰撞后成为氢原子的截面。
+
+对于分子数密度为 $n$ 的靶，定义靶分子数线密度 t：
+
+$$
+t = \int_ {0} ^ {L} n \mathrm {d} x \tag {1}
+$$
+
+其中， $L$ 为距离。对于氢的中性化，已知 $\mathrm { H } ^ { + }$ 、 $\mathrm { H } ^ { 0 }$ 和$\mathrm { H } ^ { - } \ 3$ 种电荷态初始束流成分占比分别为 $F _ { 1 } , F _ { 0 }$ $F _ { 0 }$ 和$F _ { - 1 }$ ，以及电荷转移碰撞截面。则可通过微分方程组计算束流成分随靶分子数线密度的变化[10]：
+
+$$
+\left\{ \begin{array}{l} \frac {\mathrm {d} F _ {0}}{\mathrm {d} t} = \sigma_ {1 0} F _ {1} - \left(\sigma_ {0 1} + \sigma_ {0 - 1}\right) F _ {0} + \sigma_ {- 1 0} F _ {- 1} \\ \frac {\mathrm {d} F _ {1}}{\mathrm {d} t} = - \left(\sigma_ {1 0} + \sigma_ {1 - 1}\right) F _ {1} + \sigma_ {0 1} F _ {0} + \sigma_ {- 1 1} F _ {- 1} \\ \frac {\mathrm {d} F _ {- 1}}{\mathrm {d} t} = \sigma_ {1 - 1} F _ {1} + \sigma_ {0 - 1} F _ {0} - \left(\sigma_ {- 1 1} + \sigma_ {- 1 0}\right) F _ {- 1} \end{array} \right. \tag {2}
+$$
+
+且有：
+
+$$
+F _ {0} + F _ {1} + F _ {- 1} = 1 \tag {3}
+$$
+
+本方案中剥离膜材料选用碳，在高能量粒子与电荷转移靶碰撞的情况下，粒子与靶材料之间的电子获得截面几乎可忽略不计。因此，假定$\sigma _ { 0 - 1 } , \sigma _ { 1 0 }$ $\sigma _ { 1 0 }$ 和 $\sigma _ { 1 - 1 }$ 均为 0。对于 $1 0 0 \mathrm { M e V }$ 能量的负氢离子束，相关的 $\sigma _ { - 1 0 \setminus } \sigma _ { - 1 1 }$ $\sigma _ { - 1 0 }$ 和 $\sigma _ { 0 1 }$ 截面数据尚未直接测量。基于 Webber 和 Hojvat [11] 在 $2 0 0 \ \mathrm { M e V }$ 下的测量结果，并结合截面与相对论速度参数 $\beta$ 的平方呈反比的关系，推算出在 $1 0 0 \ \mathrm { M e V }$ 时的相关截面数据，列于表 2。实验测量的 $\sigma _ { - 1 1 }$ 远小于 $\sigma _ { - 1 0 }$ 和$\sigma _ { 0 1 }$ ，在计算中忽略不计。
+
+表 2 $\mathbf { 1 0 0 M e V }$ 负氢离子和碳剥离膜的碰撞截面  
+Table 2 Collision cross-section of 100 MeV H− ions with carbon stripping foils   
+
+<table><tr><td rowspan="2">截面类型</td><td colspan="2">截面/10-18cm2</td></tr><tr><td>200 MeV测量数据</td><td>100 MeV推算结果</td></tr><tr><td>σ-10</td><td>1.56 ± 0.14</td><td>2.73 ± 0.24</td></tr><tr><td>σ01</td><td>0.60 ± 0.10</td><td>1.05 ± 0.17</td></tr></table>
+
+剥离膜的厚度通常用质量厚度 T 表示，它和t的关系为：
+
+$$
+T = \frac {t}{N _ {\mathrm {A}}} M \tag {4}
+$$
+
+其中： $N _ { \mathrm { A } }$ 为阿伏伽德罗常数； $M$ 为摩尔质量。由式（2）、（5）和表 2 的截面数据，计算负氢离子束通过不同质量厚度剥离膜后的束流成分占比，结果如图 2 所示。中性化率一般使用中性化后中性束的束流成分占比表示，在 100 MeV 负氢离子束单
+
+![](images/51adfeb7456bf4f4f72c1982d3a102fe5f9572c0a7b44811cea60870db53206c.jpg)  
+图 2    单次剥离的剥离膜质量厚度与束流成分占比关系  
+Fig. 2    Dependence of stripped beam fraction on foil mass thickness with single-pass stripping
+
+次通过碳剥离膜的条件下，中性化率最大值为$5 5 . 9 5 \%$ ，对应的剥离膜质量厚度为 $1 1 . 1 6 \mu \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 。

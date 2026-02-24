@@ -1,0 +1,5 @@
+using (3He, d) or (d, n) transfer reactions, the (7Li, $^ { 6 } \mathrm { H e } )$ )  reaction  system  offers  unique  advantages.  It  provides  complementary  constraints  to  other experimental  studies  and  can  help  resolve  discrepancies,  particularly  for  uncertain  level  information. Future work will employ this reaction to investigate energy levels of additional key nuclides.
+
+Key words: Al abundance; DWBA method; proton transfer reaction
+
+$^ { 2 7 } \mathrm { A l }$ 是唯一稳定 Al 同位素，作为一个奇质子核，其基

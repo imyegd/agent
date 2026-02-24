@@ -1,0 +1,14 @@
+06</td><td>1.21</td><td>0.75</td><td>17.5</td><td>1.85</td><td>0.80</td></tr><tr><td>28Si+6Li</td><td>27</td><td>141</td><td>1.15</td><td>0.91</td><td>15.0</td><td>1.91</td><td>0.81</td></tr></table>
+
+$^ { 2 7 } \mathrm { A l }$ 的谱因子通过下式得到：
+
+$$
+(\mathrm {d} \sigma / \mathrm {d} \Omega) _ {\exp} = S _ {7 \mathrm {L i}} S _ {2 7 \mathrm {A l}} (\mathrm {d} \sigma / \mathrm {d} \Omega) _ {\mathrm {D W B A}} \tag {3}
+$$
+
+其中， $( \mathrm { d } \sigma / \mathrm { d } \varOmega ) _ { \mathrm { D W B A } }$ 和 $( \mathrm { d } \sigma / \mathrm { d } \varOmega ) _ { \mathrm { e x p } }$ 分别表示通过DWBA计算和实验测得的微分截面。根据以往的研究结果， $S _ { \mathrm { \Delta \ v _ { L i } } }$ 的值为 $0 . 4 2 ^ { [ 6 - 7 ] }$ ，由此再对比理论和实验的角分布可得到 $S _ { ^ { 2 7 } \mathrm { A l } }$ 的值。最终的谱因子由前文提到的 6 套光学势组合平均得到，详细结果列于表2。表 3 列出了 3 个激发态对应的转移角动量与谱因子。
+
+表 2 不同光学势组合得到的谱因子结果  
+Table 2 Spetroscopic factor from different sets of OMP parameters   
+
+<table><tr><td rowspan="2">激发态能量/ MeV</td><td colspan="7">不同光学势组合得到的谱因子</td></tr><tr><td>Set1</td><td>Set2</td><td>Set3<

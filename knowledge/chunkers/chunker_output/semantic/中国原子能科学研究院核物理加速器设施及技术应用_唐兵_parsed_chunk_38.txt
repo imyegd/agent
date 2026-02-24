@@ -1,0 +1,13 @@
+Bulletin of Life Sciences, 2010, 22(2): 197-201 (in Chinese).   
+[135] 董克君, 陈志刚, 何明, 等. 加速器质谱测量 $^{53}\mathrm{Mn}$ 及其在地球科学中的应用[J]. 原子核物理评论, 2011, 28(1): 78-82.  
+DONG Kejun, CHEN Zhigang, HE Ming, et al. Accelerator mass spectrometry measurement of $^{53}\mathrm{Mn}$ and its applications in earth sciences[J]. Nuclear Physics Review, 2011, 28(1): 78-82 (in Chinese).   
+[136] 任收麦, 孟婧瑶, 林源贤, 等. 敦煌盆地早更新世沉积物粒度分析、 ${}^{36}\mathrm{Cl}$ 定年及其构造隆升意义[J]. 吉林大学学报: 地球科学版, 2011, 41(5): 1380-1388.  
+REN Shoumai, MENG Jingyao, LIN Yuanxian, et al. Grain size analysis and $^{36}\mathrm{Cl}$ dating of early Pleistocene sediments of Dunhuang basin, tectonic uplift implication[J]. Journal of Jilin University: Earth Science Edition, 2011, 41(5): 1380-1388(in Chinese).   
+[137] 王祥高, 秦松梅, 何明, 等. 用 ${ }^{26} \mathrm{Al}-\mathrm{AMS}$ 技术研究铝在大鼠脑中的生物代谢动力学[C]/第三届全国核技术与应用学术研讨会会议资料文集. [出版地不详]: [出版者不详], 2012.  
+[138]窦亮,何明,杨旭冉,等.加速器质谱测量 $^{14}\mathrm{C}$ 与 $^{41}\mathrm{Ca}$ 在生物代谢研究中的应用[J].生命科学,2013,25(6):626-631.  
+DOU Liang, HE Ming, YANG Xuran, et al. Applications of $^{14}\mathrm{C}$ and $^{41}\mathrm{Ca}$ in the AMS measurement for biological metabolism[J]. Chinese Bulletin of Life Sciences, 2013, 25(6): 626-631(in Chinese).   
+[139]窦亮, 何明, 董克君, 等. 加速器质谱测量岩石样品中 $^{41}\mathrm{Ca}$ 的初步研究[J]. 原子能科学技术, 2013, 47(12): 2322-2326.  
+DOU Liang, HE Ming, DONG Kejun, et al. Preliminary study of $^{41}\mathrm{Ca}$ -AMS measurement in rock samples[J]. Atomic Energy Science and Technology, 2013, 47(12): 2322-2326(in Chinese).   
+[140] 秦松梅, 蓝小渐, 王祥高, 等. 26Al-AMS 核分析方法研究铝在大鼠体内的代谢动力学和生物利用度的初步结果[M//中国核学会. 中国核科学技术进展报告(第三卷)—中国核学会 2013 年学术年会论文集第 9 册 (核医学分卷、核技术工业应用分卷). [出版地不详]: [出版者不详], 2013: 112-115.  
+[141] 谢林波, 李奇, 王世联, 等. 大气颗粒物中 ${ }^{129} \mathrm{I}$ 的加速器质谱测量[J]. 原子能科学技术, 2014, 48(9): 1675-1680.  
+XIE Linbo, LI Qi, WANG Shilian, et al. Measurement of $^{129}\mathrm{I}$ in atmospheric particulate matter by accelerator mass spectrometry[J]. Atomic Energy Science and

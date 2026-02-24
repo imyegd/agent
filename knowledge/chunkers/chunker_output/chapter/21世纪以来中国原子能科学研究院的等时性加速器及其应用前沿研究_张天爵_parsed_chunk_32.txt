@@ -1,0 +1,76 @@
+# 参考文献：
+
+[1] LAWRENCE E O, LIVINGSTON M S. Apparatus for the multiple acceleration of light ions to high speed[J]. Phys Rev, 1932, 40: 19.   
+[2] 张天爵, 樊明武, 安世忠, 等. CIAE 回旋加速器及应用综述[J]. 原子能科学技术, 2020, 54(增刊): 275-292. ZHANG Tianjue, FAN Mingwu, AN Shizhong, et al. Review of cyclotrons and their applications at CIAE[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 275-292(in Chinese).   
+[3] CRADDOCK M K, SYMON K R. Cyclotrons and fixed-field alternating-gradient accelerators[J]. Reviews of Accelerator Science and Technology, 2008, 1(1): 65-97.   
+[4] 谢家麟. 加速器与科技创新[M]. 北京: 清华大学出版社, 2000.  
+[5] CALABRETTA L, MÉOT F. Cyclotrons and FFG accelerators as drivers for ADS[J]. Reviews of Accelerator Science and Technology, 2000, 8: 77-97.   
+[6] ISHI Y. Status report on KURNS FFAG facility[R]. [S.1.]: [s.n.], 2018.   
+[7] ZHANG Tianjue, FU Wei, WANG Chuan. Method for obtaining strong focusing of isochronous accelerator by varying magnetic field gradient in large radial range: U.S., 12295091[P]. 2025-05-06.   
+[8] ZHANG T, LI M, LV Y, et al. 52 kW CW proton beam
+
+production by CYCIAE-100 and general design of high average power circular accelerator[J]. Nucl Instrum Methods Phys Res B, 2020, 468: 60-64.   
+[9] 张天爵, 贾先禄, 宋国芳, 等. 型谱化高流强质子回旋加速器自主研发及创新应用[J]. 科学通报, 2023, 68(16): 2029-2036.  
+ZHANG Tianjue, JIA Xianlu, SONG Guofang, et al. Independent research and development and innovative applications of high-intensity proton cyclotrons toward serialization[J]. Chinese Science Bulletin, 2023, 68(16): 2029-2036(in Chinese).   
+[10] ZHANG T, WANG C, YIN Z, et al. The beam commissioning of SC cyclotron-based proton therapy system with fast energy selection and precise gantry[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 438-445.   
+[11] 张天爵. 等时性加速器的新发展: 轻量化、超紧凑、高功率[C]/中国物理学会、中国核学会粒子加速器分会第十二次全国会员代表大会暨学术交流会. 北京: 中国物理学会, 2024.  
+[12] 张天爵. 超紧凑多用途超导回旋加速器[C]/中国核学会核医学分会 2024 年学术年会. 北京: 中国核学会核医学分会, 2024.  
+[13] ZHANG T, FU W, WANG C, et al. Innovative research and development activities on high energy and high current isochronous proton accelerator[J]. Journal of Instrumentation, 2023, 18(3): P03022.   
+[14] LI P, ZHANG T, JIA X, et al. Development of bunching system for high intensity cyclotron at CIAE[J]. Journal of Nuclear Science and Technology, 2022, 59(11): 1370-1374.   
+[15] ZHANG T, LI Z, CHU C. CYCIAE-100, a 100 MeV H-cyclotron for RIB production[J]. Nucl Instrum Methods Phys Res B, 2007, 261(1/2): 1027-1031.   
+[16] ZHANG Tianjue, AN Shizhong, BIAN Tianjian, et al. A new solution for cost effective, high average power (2 GeV, 6 MW) proton accelerator and its R&D activities[C]/22nd International Conference on Cyclotrons and their Applications (CYC2019). Cape Town: [s. n.], 2019.   
+[17] BAARTMAN R A. Intensity limitations in compact $\mathsf{H}^-$ cyclotrons[C]/Proceedings of 14th International Conference on Cyclotrons and Their Applications (CYCLOTRONS 95). Cape Town: [s. n.], 1995.   
+[18] ADAM S. Calculation of space charge effects in isochronous cyclotrons[J]. IEEE Transactions on Nuclear Science, 2007, 32(5): 2507-2509.   
+[19] KOSCIELNIAK S R, ADAM S R. Simulation of space
+
+charge dominated beam dynamics in an isochronous AVF cyclotron[C]//Proceedings of International Conference on Particle Accelerators. USA: IEEE, 1993: 3639-3641.   
+[20] YANG Jianjun, ZHANG Tianjue, LIN Yuzheng, et al. High performance computation on beam dynamics problems in high intensity compact cyclotrons[C]/Special Issue on the First Chinese Particle Accelerator Conference (2010). [S.1]: [s.n.], 2010.   
+[21] YANG J J, ADELMANN A, HUMBEL M, et al. Beam dynamics in high intensity cyclotrons including neighboring bunch effects: Model, implementation, and application[J]. Physical Review Special Topics: Accelerators and Beams, 2010, 13(6): 064201.   
+[22] ZHANG T, LU Y, ZHONG J, et al. Design, construction, installation, mapping, and shimming for a 416-ton compact cyclotron magnet[J]. IEEE Transactions on Applied Superconductivity, 2016, 26(4): 4101605.   
+[23] 毕远杰. 强流回旋加速器中束流损失和辐射场研究[D]. 北京: 清华大学, 2011.  
+[24] WANG C, ADELMANN A, YIN Z G, et al. Dark current and multipacting capabilities in OPAL: Model benchmarks and applications[J]. Proceedings of ICAP, 2012. doi:10.48550/arXiv.1208.6577.   
+[25] ADELMANN A, YANG J J, CONRAD J M, et al. Beam dynamics simulation for the high intensity DAEδALUS cyclotrons[J]. Nucl Instrum Methods Phys Res A, 2013, 704: 84-91.   
+[26] BAUMGARTEN C, SEIDEL M, ADELMANN A, et al. Production of a 1.3 MW proton beam at PSI[C]//Proceedings of IPAC'10. Kyoto, Japan: [s. n.], 2010.   
+[27] 宋国芳, 张天爵, 贾先禄, 等. 小型医用回旋加速器工程化、标准化技术研究[J]. 原子能科学技术, 2019, 53(9): 1665-1669.  
+SONG Guofang, ZHANG Tianjue, JIA Xianlu, et al. Technology research on engineering and standardization of small medical cyclotron[J]. Atomic Energy Science and Technology, 2019, 53(9): 1665-1669(in Chinese).   
+[28] ZHANG T, YANG J. The beam commissioning of BRIF and future cyclotron development at CIAE[J]. Nucl Instrum Methods Phys Res B, 2016, 376: 434-439.   
+[29] ZHANG T, CUI B, LV Y. BRIF: From the first proton beam to RIB production[J]. Nucl Instrum Methods Phys Res B, 2020, 463: 123-127.   
+[30] ZHANG T, LV Y, WEI S, et al. Isotope production by the high current proton beam of CYCIAE-100[J]. Nucl Instrum Methods Phys Res B, 2020, 463: 119-122.   
+[31] ZHANG Tianjue, YANG Jianjun, YAO Hongjuan.
+
+Physics problem study for A 100 MeV, 500 microamp $\mathrm{H}^-$ beam compact cyclotron[C]//ICAP09. San Francisco: [s.n], 2009.   
+[32] ZHANG T, YAO H, YANG J, et al. The beam dynamics study for the CYCIAE-100 cyclotron[J]. Nucl Instrum Methods Phys Res A, 2012, 676: 90-95.   
+[33] ZHANG T, WANG C, ZHONG J, et al. Investigation for the vertical focusing enhancement of compact cyclotron by asymmetrical shimming bar[J]. Nucl Instrum Methods Phys Res B, 2011, 269(24): 2968-2971.   
+[34] LI M, ZHONG J, CUI T, et al. Application and development of a method to shim the isochronous field in small cyclotrons[J]. IEEE Transactions on Applied Superconductivity, 2016, 26(4): 4101504.   
+[35] YIN Zhiguo, ZHAO Z, WEI S, et al. Design, construction and commissioning of the 100 kW RF amplifier for cyciae-100[C]/The 19th International Conference on Cyclotrons and Their Applications. Lanzhou: [s. n.], 2010.   
+[36] YIN Z, FU X, JI B, et al. Digital control in LLRF system for CYCIAE-100 cyclotron[J]. Nucl Instrum Methods Phys Res A, 2016, 819: 33-36.   
+[37] YAO H, ZHANG T, LU Y, et al. Matching from $\mathrm{H}^-$ multicusp source to central region of a 100 MeV compact cyclotron for high current injection[J]. Review of Scientific Instruments, 2008, 79(2): 02C708.   
+[38] ZHANG T, AN S, LV Y, et al. mA beam acceleration efforts on 100 MeV H $^{-}$ cyclotron at CIAE[J]. Nucl Instrum Methods Phys Res B, 2017, 406: 250-255.   
+[39] LIU Jingyuan, ZHANG Tianjue, SONG Guofang, et al. Beam dump development for high power proton and electron beam[C]/23rd International Conference on Cyclotrons and Their Applications. Beijing: JACoW Publishing, 2022.   
+[40] 张天爵, 吕银龙, 王川, 等. 中国原子能科学研究院回旋加速器创新与发展60年[J]. 原子能科学技术, 2019, 53(10): 2023-2030.  
+ZHANG Tianjue, LYU Yinlong, WANG Chuan, et al. 60 years of innovation and development for cyclotron at CIAE[J]. Atomic Energy Science and Technology, 2019, 53(10): 2023-2030(in Chinese).  
+[41] LUY Yinlong, AN Shizhong, JI Bin, et al. Design and construction progress of cyclotron based proton irradiation facility for space science[C]/22nd International Conference on Cyclotrons and Their Applications. Cape Town: JACoW Publishing, 2019: 230-232.   
+[42] AN Shizhong, LYU Yinlong, XIE Huidong, et al. The design and simulation on the extraction system for CYCI
+
+AE-50[C]/22nd International Conference on Cyclotrons and Their Applications. Cape Town: JACoW Publishing, 2019: 35-38.   
+[43] WEI S M, AN S Z, GUAN L L, et al. A 50 MeV proton beam line design[C]//22nd International Conference on Cyclotrons and Their Applications. Cape Town: JACoW Publishing, 2019: 45-47.   
+[44] ZHANG L, LI H, XU Z, et al. Radiation hardness of an $\alpha$ -Ga $_2$ O $_3$ nanorod array/FTO solar-blind photodetector against the 50-MeV proton beam[J]. IEEE Transactions on Nuclear Science, 2024, 71(7): 1365-1369.   
+[45] FU X, YIN Z, FONG K, et al. LLRF controller for high current cyclotron-based BNCT system[J]. IEEE Transactions on Nuclear Science, 2021, 68(10): 2452-2458.   
+[46] Predictions of the future cancer incidence and mortality burden worldwide up until 2050[EB/OL]. https://gco.iarc.fr/tomorrow/en/dataviz/trends?multiple_populations=1&populations=900_160.   
+[47] ZHANG T, WANG C, LI M, et al. Developments for 230 MeV superconducting cyclotrons for proton therapy and proton irradiation[J]. Nucl Instrum Methods Phys Res B, 2017, 406: 244-249.   
+[48] ZHANG T, LI M, WANG C, et al. Investigation and quantitative simulation of beam physics for 230 MeV SC cyclotron under construction at CIAE[J]. Nucl Instrum Methods Phys Res B, 2020, 468: 8-13.   
+[49] ZHANG T, LI M, WANG C, et al. Magnetic field measurement, shimming and processing for 230 MeV superconducting cyclotron main magnet[J]. IEEE Transactions on Applied Superconductivity, 2020, 30(4): 4101205.   
+[50] YIN Z, JI B, FU X, et al. Design of RF system for CYCIAE-230 superconducting cyclotron[J]. Nucl Instrum Methods Phys Res A, 2017, 854: 25-30.   
+[51] WANG Chuan, YIN Zhiguo, ZHANG Tianjue, et al. The commissioning of a 230 MeV superconducting cyclotron CYCIAE-230[C]/23rd Int Conf Cyclotrons Appl (CY-CLOTRONS 2022). Beijing: JACoW Publishing, 2022.   
+[52] SONG Q, HE A, ZHAO B, et al. Design and tuning of a fast beam energy selection control system for CYCIAE-230 cyclotron beamline[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 692-698.   
+[53] YIN Z, XIONG R, GUO Q, et al. Online parameter identification and control in the commissioning of nozzle for CIAE proton therapy system[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 462-468.
+
+[54] GIKAL B N, BOGOMOLOV S L, DMITRIEV S N, et al. DUBNA cyclotrons: Status and plans[J]. ICFA Beam Dyn Newslett, 2005, 37: 44-50.   
+[55] D'AGOSTINO G, CALABRETTA L, KLEEVEN W, et al. A central region upgrade of the K800 superconducting cyclotron at INFN-LNS[J]. Journal of Physics: Conference Series, 2019, 1350(1): 012099.   
+[56] DUCKITT W D, CONRADIE J L, van NIEKERK M J, et al. The design and implementation of a broadband digital low-level RF control system for the cyclotron accelerators at iThemba LABS[J]. Nucl Instrum Methods Phys Res A, 2018, 895: 1-9.   
+[57] RADOVINSKY A, MINERVINI J V, MILLER C E, et al. Superconducting magnets for ultra light and magnetically shielded, compact cyclotrons for medical, scientific, and security applications[J]. IEEE Transactions on Applied Superconductivity, 2014, 24(3): 1-5.   
+[58] UEDA H, ISHIYAMA A, NOGUCHI S, et al. Conceptual design of compact HTS cyclotron for RI production[J]. IEEE Transactions on Applied Superconductivity, 2019, 29(5): 1-5.   
+[59] CALABRETTA L, MÉOT F. Cyclotrons and FFAG accelerators as drivers for ADS[J]. Reviews of Accelerator Science and Technology, 2015, 8: 77-97.   
+[60] ZHANG Tianjue, FU Wei, WANG Chuan, et al. Recent progress of research and development for the cost-effective, energy-efficient proton accelerator CYCIAE-2000 [C]/Proceedings of CYC2022. Beijing: JACoW Publishing, 2022.   
+[61] 周洪吉, 付伟, 王川, 等. 2 GeV 等时性加速器散焦磁铁的 $1:4$ 比例模型线圈低温系统研制[J]. 原子能科学技术, 2025, 59(1): 231-238. ZHOU Hongji, FU Wei, WANG Chuan, et al. Development of $1:4$ scale model coil cryogenic system of defocus magnet for 2 GeV accelerator[J]. Atomic Energy Science and Technology, 2025, 59(1): 231-238(in Chinese).   
+[62] 裴士伦, 殷治国, 张天爵, 等. 用于 $2\mathrm{GeV}$ 固定场交变梯度质子加速器的高品质因数、高分路阻抗波导型高频腔设计[J]. 原子能科学技术, 2020, 54(8): 1519-1524. PEI Shilun, YIN Zhiguo, ZHANG Tianjue, et al. Design on high quality factor and high shunt impedance waveguide-type RF cavity for $2\mathrm{GeV}$ FFAG proton accelerator [J]. Atomic Energy Science and Technology, 2020, 54(8): 1519-1524(in Chinese).

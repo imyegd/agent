@@ -1,0 +1,3 @@
+16ad2fcdf2240d4b754da845d0301b72eb007361dfa938c46af3cf.jpg)  
+图3 ffmpeg启动参数  
+图4 ffplay启动参数

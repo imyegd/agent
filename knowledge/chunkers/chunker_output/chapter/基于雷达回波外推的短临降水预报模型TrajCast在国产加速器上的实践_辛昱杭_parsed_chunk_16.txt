@@ -1,0 +1,65 @@
+# 利益冲突说明
+
+所有作者声明不存在利益冲突关系。
+
+# 参考文献
+
+[1] SUN J. Convective- scale assimilation of radar data:
+
+progress and challenges[J]. Quarterly Journal of the Royal Meteorological Society, 2005, 131(613): 3439- 3463.   
+[2] SEO D J, SMITH J A. Radar-based short-term rainfall prediction[J]. Journal of Hydrology, 1992, 131(1- 4): 341-367.   
+[3] LECUN Y, BENGIO Y, HINTON G. Deep learning[J]. nature, 2015, 521(7553): 436-444.   
+[4] 许小峰. 从物理模型到智能分析——降低天气预报不确定性的新探索[J]. 气象, 2018, 3 (3): 341-350.  
+[5] LECUN Y, BOTTOU L, BENGIO Y, et al. Gradientbased learning applied to document recognition[J]. Proceedings of the IEEE, 1998, 86(11): 2278-2324.   
+[6] HE K, ZHANG X, REN S, et al. Deep residual learning for image recognition[C]//IEEE Conference on Computer Vision and Pattern Recognition, 2016: 770- 778.   
+[7] MEDSKER L R, JAIN L, et al. Recurrent neural networks[J]. Design and Applications, 2001, 5(64-67): 2.   
+[8] 韩丰, 龙明盛, 李月安, 等. 循环神经网络在雷达临近预报中的应用[J]. 应用气象学报, 2019, 30(1): 61-69.  
+[9] HOCHREITER S, SCHMIDHUBER J. Long shortterm memory[J]. Neural computation, 1997, 9(8): 1735-1780.   
+[10] CHUNG J, GULCEHRE C, CHO K, et al. Empirical evaluation of gated recurrent neural networks on sequence modeling[J]. arXiv preprint arXiv:1412.3555, 2014.   
+[11] WANG Y, LONG M, WANG J, et al. Predrnn: Recurrent neural networks for predictive learning using spatiotemporal lstms[C]// Advances in neural information processing systems, 2017, 30: 879-888.   
+[12] SØNDERBY C K, ESPEHOLT L, HEEK J, et al. Metnet: A neural weather model for precipitation forecasting[J]. arXiv preprint arXiv:2003.12140, 2020.   
+[13] SHI X, GAO Z, LAUSEN L, et al. Deep learning for precipitation nowcasting: A benchmark and a new model[C]// Advances in neural information processing systems, 2017, 30: 5617-5627.   
+[14] SIAM M, VALIPOUR S, JAGERSAND M, et al. Convolutional gated recurrent networks for video segmentation[C]// IEEE international conference on image processing (ICIP), 2017: 3090-3094.
+
+[15] XIONG A, LIU N, LIU Y, et al. QpefBD: a benchmark dataset applied to machine learning for minutescale quantitative precipitation estimation and forecasting[J]. Journal of Meteorological Research, 2022, 36(1): 93-106.   
+[16] 丁金才. 天气预报评分方法评述[J]. 南京气象学院学报, 1995, 18(1): 143-150.  
+[17] 唐文苑, 周庆亮, 刘鑫华, 等. 国家级强对流天气分类预报检验分析[J]. 气象, 2017, 43(1): 67-76.  
+[18] LI S, ZHAO Y, VARMA R, et al. Pytorch distributed: Experiences on accelerating data parallel training[J]. arXiv preprint arXiv:2006.15704, 2020.   
+[19] MICIKEVICIUS P, NARANG S, ALBEN J, et al. Mixed precision training[J]. arXiv preprint arXiv: 1710.03740, 2017.   
+[20] 刘娜, 熊安元, 张强, 等. 强对流天气人工智能应用训练基础数据集构建[J]. 应用气象学报, 2021, 32(5): 530-541.  
+[21] VAN DER WALT S, COLBERT S C, VAROQUAUX G. The numpy array: a structure for efficient numerical computation[J]. Computing in science & engineering, 2011, 13(2): 22-30.   
+[22] PASZKE A, GROSS S, MASSA F, et al. Pytorch: An imperative style, high- performance deep learning library[C]// Advances in neural information processing systems, 2019, 32: 8024-8035.   
+[23] https://nvidia.github.io/apex/[EB/OL].   
+[24] WOO W C, WONG W K. Operational application of optical flow techniques to radar- based rainfall nowcasting[J]. Atmosphere, 2017, 8(3): 48.   
+[25] https://www.nvidia.cn/data-center/tesla-p100/[EB/OL].   
+[26] https://www.nvidia.cn/data-center/v100/[EB/OL].
+
+[27] SERGEEV A, DEL BALSO M. Horovod: fast and easy distributed deep learning in tensorflow[J]. arXiv preprint arXiv:1802.05799, 2018.
+
+收稿日期：2025年2月27日
+
+辛昱杭，国家气象信息中心先进计算室，工程师，研究方向为人工智能气象应用.
+
+本文中承担工作为TrajCast方案设计实现与在GPU上的实验。
+
+XIN Yuhang is an engineer at the Advanced Computing Division of the National Meteorological Information
+
+Center. His research direction is the application of artificial intelligence in meteorology.
+
+In this paper, he is responsible for the design and implementation of the TrajCast scheme and experiments on GPU.
+
+E-mail: xinyj@cma.gov.cn
+
+![](images/33494481326ff734a10d78c185abde2557d8a9b6463df1d7e96afc8706c3e48f.jpg)
+
+赵春燕，国家气象信息中心先进计算室，正高级工程师，研究方向为气象智能应用支撑技术，本文中承担工作为方案及评测方法总体设计。
+
+ZHAO Chunyan is a senior engineer at the Advanced Computing Division of the National Meteorological Infor-
+
+![](images/ddd083ee8207774e7f9833f87ddc4b9220400210a04af924d7ed5767dd2ff014.jpg)
+
+mation Center. Her research direction is the supporting technology for meteorological intelligent applications.
+
+In this paper, she is responsible for the overall design of the scheme and evaluation methods.
+
+E-mail: zhaocy@cma.gov.cn

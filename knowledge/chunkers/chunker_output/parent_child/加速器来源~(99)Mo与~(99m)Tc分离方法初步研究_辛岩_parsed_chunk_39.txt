@@ -1,0 +1,1 @@
+r><tr><td>2</td><td>0.028</td><td>8.142</td><td>0.34</td><td>81.4</td></tr><tr><td>3</td><td>0.016</td><td>6.968</td><td>0.23</td><td>69.7</td></tr></table>

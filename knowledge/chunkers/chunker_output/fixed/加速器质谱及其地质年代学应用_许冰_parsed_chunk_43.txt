@@ -1,0 +1,14 @@
+6} = \left(N _ {2 6, \text {i n h}} + P _ {2 6} \left(N _ {1 0} \mathrm {e} ^ {\lambda_ {1 0} t _ {\mathrm {b}}} - N _ {1 0, \text {i n h}}\right) / P _ {1 0}\right) \mathrm {e} ^ {- \lambda_ {2 6} t _ {\mathrm {b}}} \rightarrow
+$$
+
+$$
+N _ {2 6} = \left(N _ {2 6, \text {i n h}} + R _ {\text {i n t}} \left(N _ {1 0} \mathrm {e} ^ {\lambda_ {1 0} t _ {\mathrm {b}}} - N _ {1 0, \text {i n h}}\right) \mathrm {e} ^ {- \lambda_ {2 6} t _ {\mathrm {b}}} \rightarrow \right.
+$$
+
+$$
+N _ {2 6} = R _ {\text {i n t}} N _ {1 0} \mathrm {e} ^ {- (\lambda_ {2 6} - \lambda_ {1 0}) t _ {\mathrm {b}}} + \left(N _ {2 6, \text {i n h}} - R _ {\text {i n t}} N _ {1 0, \text {i n h}}\right) \mathrm {e} ^ {- \lambda_ {2 6} t _ {\mathrm {b}}} \tag {24}
+$$
+
+公式（24）表明，如果测量具有相同埋藏年龄的
+
+样品，测量获得的 $^ { 1 0 } \mathrm { { B e } }$ e和 $^ { 2 6 } \mathrm { A l }$ l浓度具有线性关系，斜率为 $R _ { \mathrm { i n t } } \mathbf { e } ^ { - ( \lambda _ { 2 6 } - \lambda _ { 1 0 } ) t _ { \mathrm { b } } [ 5 9 ] }$ ，且过点 $N _ { 2 6 , \mathrm { i n h } }$ ， $N _ { \

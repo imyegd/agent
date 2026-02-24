@@ -1,0 +1,23 @@
+lambda_ {1 0}} \left(1 - \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}}\right) \tag {17}
+$$
+
+因此，通过测量样品中 $^ { 1 0 } \mathrm { { B e } }$ 和 $^ { 2 6 } \mathrm { A l }$ l浓度，以及得到这两种核素在研究区的产率及其随深度的变化，根据公式（16）和（17）就可以得到埋藏年龄 $\left( \mathbf { \sigma } _ { t _ { \mathrm { b } } } \right)$ ）和侵蚀速率。如果样品埋藏足够深且埋藏时间较短（不是远大于核素的半衰期），其埋藏后产率可以忽略不计；另外，在暴露阶段，如果侵蚀速率足够大，侵蚀过程中核素衰变的核素数可以忽略不计（一般情况下满足），则公式（16）和（17）简化为：
+
+$$
+N _ {2 6} = \frac {P _ {2 6} (0)}{\varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {2 6} t _ {\mathrm {b}}} \tag {18}
+$$
+
+$$
+N _ {1 0} = \frac {P _ {1 0} (0)}{\varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} \tag {19}
+$$
+
+因此，对于两个或两个以上宇宙成因核素测量，其核素比值随时间变化为：
+
+$$
+R _ {\mathrm {A B}} \left(t _ {\mathrm {b}}\right) = \frac {C _ {\mathrm {A}} \left(t _ {\mathrm {b}}\right)}{C _ {\mathrm {B}} \left(t _ {\mathrm {b}}\right)} = R _ {\mathrm {A B}} (0) \mathrm {e} ^ {- t _ {\mathrm {b}} \left(\lambda_ {\mathrm {A}} - \lambda_ {\mathrm {B}}\right)} \tag {20}
+$$
+
+则埋藏年龄为：
+
+$$
+t _ {\mathrm {b

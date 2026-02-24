@@ -1,0 +1,3 @@
+# 4　基于 LabVIEW 的 OPI 程序设计
+
+CRIO系统采集、分析、处理完的数据，以EPICS PV的形式在以太网发布。用户操作界面、数据浏览、报警管 理、数 据 存 档 功 能 在OPI组 件 实 现，如 图3所 示。OPI由 远 程 计 算 机 担 任，OPI软 件 可 采 用 由 美 国 物 理 学 会(American Physical Society，APS)、美国散裂中子源(Spallation Neutron Source，SNS)、德国电子同步加速器中心(Deutsches Elektronen Synchrotron，DESY)等研究机构联合开发的控制系统组件(Control System Studio，CSS)软件开发，也可采用LabVIEW作为基本开发环境，通过CaLab工具和EPICS进行数据交换。CaLab是德国亥姆赫兹柏林中心推出的一款绿色开源接口软件，是加速器领域EPICS和LabVIEW的接口最常用的工具之一；CaLab接口使用 EPICS base 库、CaLab 库以及 3 个子 VI 共同完成 EPICS 与 LabVIEW 的数据交互功能。LabVIEW 和

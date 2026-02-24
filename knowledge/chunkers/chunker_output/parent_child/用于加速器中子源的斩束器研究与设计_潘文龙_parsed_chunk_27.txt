@@ -1,0 +1,7 @@
+thrm {m}} (\tau + t _ {1} - t _ {2}) \\ \tau_ {1} = t _ {1} + \tau \frac {\varphi \tau}{\frac {\varphi_ {\mathrm {m}}}{t _ {2}} \frac {1}{2} \left(t _ {2} ^ {2} - t _ {1} ^ {2}\right) + \varphi_ {\mathrm {m}} (\tau + t _ {1} - t _ {2})} \end{array} \right. \tag {6}
+$$
+
+（2）当 $t _ { 2 } - t _ { 1 } > \tau$
+
+$$
+\left\{ \begin{array}{l} \int_ {t _ {1}} ^ {t _ {1} + \tau} \varphi \mathrm {d} t = \frac {\varphi_ {\mathrm {m}}}{t _ {2}} \frac {1}{2} \left(\left(t _ {1} + \tau\right) ^ {2} - t _ {2} ^ {2}\right) \\

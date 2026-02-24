@@ -1,0 +1,11 @@
+构的束流匹配，如图 9 所示，其中 $S _ { 1 } { = } 0 . 2 \ : \mathrm { m }$ ， $S _ { 2 } { = } 0 . 4 ~ \mathrm { m }$ ， $L _ { 1 } { = } 0 . 1 6 ~ \mathrm { m }$ ,， $L _ { 2 } { = } 0 . 2 3 ~ \mathrm { m }$ 。
+
+![](images/461e6c331b1433d398ab20698f1dd3c5c3067397614162c2a50e39bbefa9f155.jpg)
+
+![](images/a2757cf8a1c46247d76c151467e7e5f99042957503b7e7aa311772b18446feea.jpg)
+
+![](images/0dcedeaa429ac3393332ab68818ea76404a92618ab2b9c258950d82470b9c7ba.jpg)  
+cryomodule  
+RF cavity
+
+![](images/c8c3af809737747a04f10dcbc125e5865153

@@ -1,0 +1,5 @@
+需的数据排布要求；Li 等人[14]提出了一种新的存储格式 SR-BCRS（Strided Row-major BlockCompressed Row Storage），该存储格式可以将低精度整数数据进行压缩，使得低精度整数数据的排布符合 Tensor Core 计算的数据排布要求，实现了一种低精度整数 SpMM 算法；Okanovic 等人[13]通过将块压缩稀疏行（BCSR）稀疏矩阵存储格式[22]的相似的行聚集在一起来显著减少 Tensor Core 计算块的数量，并利用异步数据加载等方法进一步提升算法的性能；Zhao 等人[6]通过数据相似性重排序和负载均衡等方法来优化基于 Tensor Core 的 SpMM 算法。
+
+在 SpMM 数学库层面，国产加速器平台的SPARSE 数学库仅支持基于通用计算核心方式的SpMM 算法，未能支持 Tensor Core 参与计算；而NVIDIA 推出的 cuSPARSE 和 cuSPARSELt 提供了基于 Tensor Core 的 SpMM 算法，其中 cuSPARSELt要求稀疏矩阵的数据排布规律遵循 2:4 稀疏模式。
+
+上述基于 Tensor Core

@@ -1,0 +1,11 @@
+} , Z , t } )$ 、 $\mathrm { T } ( \mathrm { E _ { L } , Z , t } )$ 是高低能对应的透视度：
+
+$$
+\mathrm {T} (\mathrm {E}, \mathrm {Z}, \mathrm {t}) = \frac {\int_ {0} ^ {\mathrm {E M}} \mathrm {P} (\mathrm {E}) \exp (- \mu (\mathrm {Z} , \mathrm {E}) \mathrm {t}) \mathrm {d E}}{\int_ {0} ^ {\mathrm {E M}} \mathrm {P} (\mathrm {E}) \mathrm {d E}} \tag {8}
+$$
+
+式中，P(E) 涉及探测器能量相应函数以及 $\pmb { \times }$ 光源能谱分布函数， $\mu$ (Z,E) 是质量衰减系数，t 是质量厚度， $\mathsf { E } _ { \mathsf { M } }$ 是能谱最高能量。
+
+优化前后的物质识别 $a$ 曲线散点图对比如图 3，局部放大如图 4。
+
+![

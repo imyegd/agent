@@ -1,0 +1,21 @@
+8$ , $\sigma _ { 0 \mathrm { s } } { = } 1 0 2 ^ { \circ }$ , 7 micro periods
+
+![](images/a3fcb1e79491a9eb7c68bc873009f845460cc92423084abe1a6545fe6b7092ce.jpg)  
+(c) transverse, $\scriptstyle \eta = 0 . 4 8$ , $\sigma _ { 0 \mathrm { s } } { = } 1 0 2 ^ { \circ }$ , 5 micro periods
+
+![](images/c2a6271ae6b8bbd57f3dfcafe502685e88716f18762aeb25b377e627d62892cc.jpg)  
+(d) longitudinal, $\eta { = } 0 . 4 8$ , $\sigma _ { 0 \mathrm { s } } { = } 1 0 2 ^ { \circ }$ , 5 micro periods
+
+![](images/6d7e951e60c4b24643fe2b2da15fab088881d0fe4e99df6ba9ad9b815bce64fe.jpg)  
+Fig. 18    Envelope spectrum analysis   
+图 18    包络频谱分析  
+(a) 7 micro periods
+
+![](images/36b3274e7092a497080d82e5b01b05ccc06f9b9bcf89c86d76e9c7ead593f357.jpg)  
+(b) 5 micro periods   
+Fig. 19    Distribution of particles at the same position in the phase space   
+图 19    同一位置处粒子在相空间的分布图。
+
+# 3    总结与展望
+
+本研究通过理论解析、数值计算与多粒子模拟相结合的方法，系统探究了低能超导直线加速器中空间电荷效应影响束流品质的两个关键问题，主要获得以下结论：（1）关于 $\sigma _ { 0 }$ 动态演化与包络稳定性：首次揭示了 $\sigma _ { 0 }$ 在加速过程中局部突破 $9 0 ^ { \circ

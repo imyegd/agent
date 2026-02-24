@@ -1,0 +1,6 @@
+参数，控制 $\sigma _ { 0 }$ 在拐点附近的下降速率。各聚焦方案的具体参数详见表1。图1 则展示了五种不同方案下 $\sigma _ { 0 }$ 的演变轨迹。
+
+表 $1 \phantom { 0 } \sigma _ { 0 }$ 的具体参数  
+Table 1    Specific parameters of logistic functions for $\pmb { \sigma _ { 0 } }$   
+
+<table><tr><td>scheme</td><td>max σ0(°)</td><td>min σ0(°)</td><td>A1</td><td>A2</td><td>x0</td><td>p</td></tr><tr><td>①</td><td>120</td><td>40</td><td>120</td><td>29.8312</td><td>26.3333</td><td>1.87755</td></tr><tr><td>②</td><td>110</td><td>40</td><td>110</td><td>31.1023</td><td>26.3333</td

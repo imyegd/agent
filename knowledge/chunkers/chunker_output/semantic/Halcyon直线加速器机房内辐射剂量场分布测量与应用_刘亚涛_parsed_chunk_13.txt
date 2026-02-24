@@ -1,0 +1,7 @@
+# 3    讨　论
+
+本研究的核心目标是通过热释光剂量计（TLD）来测量 Halcyon 型加速器在放疗过程中的辐射剂量场分布，尤其是在 5.4 Gy 中心剂量时，深入探讨整个
+
+![](images/213021d52f11c25bd0a5a3e37033a9e77274c92dae8dbcd2f5e752ffd6baa9fe.jpg)
+
+![](images/0db6320bb01b57756cfd020e902f21dd1722db522d2dd5d6d6c716bf8bab4db9.jpg)

@@ -1,0 +1,10 @@
+# 3.2  MLC 旋转中心（Spoke Shot）
+
+图 2 左侧是在 Spoke Shot 测试的 EPID 的成像结果，
+
+![](images/6eef24fe4fedf4a21f4dd3e47f3de0e37c0f1e059a3421b6d01adac5e8f52456.jpg)
+
+![](images/f0933be0ca2bf503efbfba740a309b5c49472bb9d8cb891c884f6b1183dbdd8b.jpg)  
+图2  各射束中轴线形成的最小内切圆
+
+右侧是 $0 ^ { \circ }$ 机架角下准直器角度为 $0 ^ { \circ }$ 、 $5 0 ^ { \circ }$ °、 $1 0 0 ^ { \circ }$ 、$1 5 0 ^ { \circ }$ 、 $2 0 0 ^ { \circ }$ 、 $2 5 0 ^ { \circ }$ °的各射束中轴线的最小内切圆。软件分析得出，各射束最小内切圆的直径为 $0 . 1 5 \mathrm { m m }$ ，小于项目的容差值 1mm。

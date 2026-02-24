@@ -1,0 +1,5 @@
+$$
+X = T V L \times \log \left(\frac {\dot {H} _ {m}}{\dot {H} _ {c}}\right) \tag {1}
+$$
+
+其中 $X$ 为屏蔽体的厚度 $\mathrm { . m m } )$ ， TVL 为屏蔽材料的什值层厚度（mm）， $\dot { H } _ { m }$ 为屏蔽体外剂量率的测量结果导出值 $\mathbf { \Pi } _ { \mathrm { \tiny { ( \mathfrak { A } G y / h ) } } }$ ， $\dot { H } _ { c }$ 屏蔽体外剂量率控制目标值（ $\cdot \mu \mathrm { G y } / \hslash )$ 。

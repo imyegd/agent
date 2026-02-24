@@ -1,0 +1,6 @@
+# Chinese)
+
+[13]Gao Jie.CEPC Technical Design Report: Accelerator[J].Radiation Detection Technology and Methods,2024,8(1):1-1105.   
+[14]中 国 科 学 院 高 能 物 理 研 究 所 ,中 国 科 学 院 理 化 技 术 研 究 所 .一 种 超 导 加 速 器 余 热 回 收 利 用 平台:202310851744.3[P].2023-10-20.  
+Institute of High Energy Physics, Technical Institute of Physics and Chemistry, Chinese Academy of Sciences.A Waste Heat Recovery and Utilization Technical Platform for Superconducting Accelerators:202310851744.3[P].2023-10-20.(in Chinese)   
+[15]周文,刘守英,郑红亮,等.专题笔谈

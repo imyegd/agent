@@ -1,0 +1,11 @@
+# 2 CUTLASS-Sparse 的移植
+
+# 2.1 移植流程
+
+CUTLASS-Sparse 的移植流程如图 5 所示。移植流程共分为四个阶段：在第一阶段，使用国产加速器平台的运行时（runtime）接口替换 NVIDIA 平台的运行时接口，并且由于国产加速器与 NVIDIAGPU 硬件架构的区别，需要将线程束（warp）大小
+
+调整为国产加速器中线程调度的最小单位 64；在第二和第三阶段，实现数据访问模块、数据计算模块和 结 果 写 回 模 块 的 适 配 ， 这 些 模 块 的 适 配 是CUTLASS-Sparse 移植工作的重点，下文将重点介绍这些模块的适配工作；在第四阶段，将移植后的CUTLASS-Sparse 与 CPU 验证程序进行结果对比，若误差在精度范围内，则正确性验证通过，完成移植工作。
+
+![](images/2ac304e18cf769c6be9845bd3a8c1d6b3f5e83316939f5a5eac6fb38fd235ba1.jpg)  
+图 5 移植流程图  
+Fig.5 The flowchart of transplantation

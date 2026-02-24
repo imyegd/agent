@@ -1,0 +1,21 @@
+二维模型研究结果显示，相较于准周期结构，双周期结构更易产生束晕现象，其中2∶1 共振仍是束晕形成的主要原因。采用三维模型进一步研究纵向因素的影响时发现，三维束团纵向尺寸的变化会显著改变束核电荷密度分布，这一现象成为束晕形成的新机制。此外，高阶共振也在很大程度上促进了束晕的形成。研究还揭示了小周期结构数（N）与共振概率呈负相关关系。
+
+关键词： 低能超导直线加速器；空间电荷效应；双周期结构；束流品质；包络稳定性；粒子-束核模型；束晕
+
+中图分类号： $0 5 7 2 . 2 1 ^ { + } 1$
+
+文献标志码：   A
+
+doi: 10.11884/HPLPB202638.250112
+
+# Influence of space-charge-effect on beam quality in the low-energy superconducting linac
+
+Wan Xinmiao，   Ren Zhiqiang，   Liao Wenlong，   Luo Xiaobao，   Chang Xuankai，
+
+Zhu Yandong，   Tao Deqiang，   Li Zhihui
+
+（The Key Laboratory of Radiation Physics and Technology of Ministry of Education, Institute of Nuclear Science
+
+and Technology, Sichuan University, Chengdu 610065, China）
+
+Abstract：     [Background] Envelope  instabilities  and  halo  formation  are  critical  challenges  limiting  beam quality  in  space-charge-dominated  beams  of  low-energy  superconducting  proton  linear  accelerators.  The  dynamic evolution of focusing parameters during acceleration and the intrinsic role of double-period focusing str

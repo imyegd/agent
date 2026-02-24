@@ -1,0 +1,11 @@
+# 1    材料与方法
+
+1.1    探测器    探测器采用 LiF 热释光剂量计（ther-
+
+moluminescence dosimter, TLD） [12-13] 进行辐射场布点测量，主要是考虑 TLD 剂量计体积小、灵敏度适宜、可重复使用、衰退小、组织等效性好特别适合多点布点测量 [14-15]。本次研究用 TLD 探测器在中国计量院直线加速器上模拟实际照射条件进行刻度，刻度主要参数为：6 MV 光子，0.1、1、2 Gy。刻度射线及能量与实际照射射线及能量一致，同射线同能量不同剂量的刻度实验表明 TLD 具有良好的剂量线性，因此，刻度实验得到的刻度系数可用于 Halcyon 直线加速器周围辐射剂量场监测。
+
+1.2    加速器机房内布置及辐射场测量点选取    本研究选用 Halcyon 型直线加速器[16]，其 “环形”机架安装于封闭的空间内，物理治疗孔径直径和源轴距均为100 cm，X 射线能量固定为 6 MV，等中心处最大射野 $2 8 \ : \mathrm { c m } \times 2 8 \ : \mathrm { c m }$ ，装配双层多叶准直器（multi-leafcollimator，MLC），在主束区方向设置有 $1 7 2 \mathrm { m m } 3 \%$ 的锑铅合金和 $1 0 \mathrm { m m }$ 钢板的自屏蔽结构，加速器坐北朝南放置在机房内，治疗床朝向迷路方向，该加速器所在机房的平面图见图 1。
+
+![](images/b2bd34502c34d708de37766bb8483f4cb7a48401a3d1e6551db7afbd1a5c9cd8.jpg)  
+图 1    Halcyon 直线加速器机房平面图  
+Figure 1    Floor plan of the Halcyon linear accelerator treatment room

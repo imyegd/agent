@@ -1,0 +1,5 @@
+volves complex procedures and cannot achieve rapid and repetitive measurement of focal spot positional stability. [Purpose] This study aims to develop a slit translation scanning method and a dedicated measurement instrument for determining the X-ray focal spot size and stability of electron linear accelerators. [Methods] Firstly, a comprehensive hardware system was developed comprising four
+
+冲击波物理与爆轰物理全国重点实验室开放基金(No.2024CXPJGFJJ06411)、国家自然科学基金面上项目(No.12175026)、重庆市研究生科研创新项目(No.CYB240015)资助
+
+第一作者：李奉笑，男，1995年

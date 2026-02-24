@@ -1,0 +1,14 @@
+［J］．EarthScienceFrontiers，2002，9（3）：41－48  
+［13］孔屏．宇宙成因核素埋藏年龄法：原理及应用［J］．第四纪研究，2012，32（3）：388－393KongPing．Cosmogenicnuclideburialdating：Theoryandapplication［J］．QuaternarySciences，2012，32（3）：388－393  
+［14］ HouX．Applicationo $^ { 1 2 9 } \mathrm { I }$ Iasanenvironmentaltracer［J］．JournaloRadioanalyticalandNuclearChemistry，2004，262（1）：67－75  
+［15］ WirsigC，Ivy-OchsS，NakiAkçar，etal．Combinedcosmogenic$^ { 1 0 } \mathrm { { B e } }$ e，insitu $^ { 1 4 } \mathrm { C }$ and $3 6$ 6ClconcentrationsconstrainHolocenehistoryanderosiondepthofGruebenglacier（CH）［J］．SwissJournaloGeosciences，2016，109（3）：379－388  
+［16］ YoungNE，LampJ，KoffmanT，etal．DeglaciationofcoastalsouthwesternSpitsbergen dated with in situ cosmogenic $1 0$ Beand $^ { 1 4 } \mathrm { C }$ measurements［J］．JournalofQuaternaryScience，2018，33（7）：763－776  
+［17］ SynalHA，WackerL．AMSmeasurementtechniqueafter30years：Possibilitiesand limitationsoflow energy systems［J］．NucleaInstrumentsand Methodsin PhysicsResearch Section B：BeamInteractionswithMaterialsandAtoms，2010，268（7－8）：701－707  
+［18］ SynalHA．Developments in acceleratormass spectrometry［J］InternationalJournalofMassSpectrometry，2013，349－350：192－202doi：10．1016／j．ijms．2013．05．008  
+［19］何明，包轶文，苏胜勇，等．小型加速器质谱系统研制及分析技术研究［J］．原子核物理评论，2020，37（3）：784－790HeMing， Bao Yiwen， Su Shengyong etal．DevelopmenttheminiaturizedAMSsystem anditsanalysistechnique［J］．NucleaPhysicsReview，2020，37（3）：784－790  
+［20］ 姜山．我国加速器质谱仪器技术在国际上的地位［J］．质谱学报，2021，42（5）：672－680JiangShan．InternationalstatusoftheChineseAMS instrumentechnique［J］．JournalofChineseMassSpectrometrySociety，2021，42（5）：672－680  
+［21］何明，赵庆章，张文慧，等．加速器质谱及其小型化技术［J］原子核物理评论，2022，39（1）：54－64HeMing，ZhaoQingzhang，ZhangWenhui，etal．Acceleratormassspectrometryanditsminiaturizationtechnology［J］．NuclearPhysicReview，2022，39（1）：54－64  
+［22］沈洪涛，陈定雄，张国峰，等．国产小型加速器质谱仪及其应用前景［J］．原子核物理评论，2023，40（2）：257－263Shen Hongtao， Chen Dingxiong， Zhang Guofeng， et al．Thehomemadecompactacceleratormassspectrometryanditsapplication［J］．NuclearPhysicsReview，2023，40（2）：257－263  
+［23］ ZhangH，YuB，SongL，etal．Preliminaryprogressreporton10Beand $^ { 2 6 } \mathrm { A l }$ lsamplepreparationattheIHEG，CAGSAMSlaboratory［J］NuclearInstrumentsandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2023，535：38－42．doi：10．1016／j．nimb．2022．11．020  
+［24］KleinM，GottdangA，MousDJW．High-curren $^ { 1 4 } \mathrm { C }$ measurementsonanHVE 1MV AMSsystem［J］．Radiocarbon，2013，55（2）：224－230  
+［25］HeinemeierJ，OlsenJ，KleinM，etal．ThenewextendedHVE1MV multi-elementAMSsystemforlowbackgroundinstalledattheAarhus

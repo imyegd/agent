@@ -1,0 +1,18 @@
+（t）足够短，暴露过程中核素衰变量可以忽略不计；2）埋藏足够深，埋藏后产率可以忽略不计。在满足上述两个条件下，公式（16）和（17）变为
+
+$$
+N _ {1 0} = \left(N _ {1 0, \text {i n h}} + P _ {1 0} t _ {\mathrm {e}} \mathrm {e} ^ {- Z / \Lambda_ {\mathrm {i}}} \right) \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} \rightarrow t _ {\mathrm {e}} \mathrm {e} ^ {- Z / \Lambda_ {\mathrm {i}}} =
+$$
+
+$$
+\left(N _ {1 0} \mathrm {e} ^ {\lambda_ {1 0} t _ {\mathrm {h}}} - N _ {1 0, \text {i n h}}\right) / P _ {1 0} \tag {22}
+$$
+
+$$
+N _ {2 6} = \left(N _ {2 6, \text {i n h}} + P _ {2 6} t _ {\mathrm {e}} \mathrm {e} ^ {- Z / A _ {\mathrm {i}}}\right) \mathrm {e} ^ {- \lambda_ {2 6} t _ {\mathrm {b}}} \tag {23}
+$$
+
+公式 （22）～（23）中， $N _ { \mathrm { 1 0 , i n h } }$ 和 $N _ { 2 6 , \mathrm { i n h } }$ 为 继 承 组分， $P _ { \mathrm { ~ i ~ } } t _ { \mathrm { ~ e ~ } } \mathrm { e } ^ { - Z / A _ { \mathrm { ~ i ~ } } }$ i为埋藏前最后一次暴露过程中产生的核素量（atoms／g）， $Z$ 是质量深度 $( \mathbf { \Delta g } / \mathbf { c m } ^ { 2 }$ ）。将公式（22）带入公式（23），得到如下：
+
+$$
+N _ {2 6} = \left(N _ {2 6, \text {i n h}} + P _ {2 6} \

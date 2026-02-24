@@ -1,0 +1,8 @@
+# 2 基于SDN多控制器资源预留算法设计
+
+网络拓扑和链路资源抽象成有向图 $G = (V, E, B)$ , 其中 $V$ 为节点集合, 包括节点和终端节点, $E$ 为节点之间的链路集合, $B$ 为网络链路的额定可用带宽集合。这里, $V$ 包含两种节点: 终端和交换机节点。如果链
+
+路 $e$ 从节点 $u$ 到 $v$ ，那么 $e = (u, v) \in E$ 。链路 $e$ 的可用带宽定义为 $b_{e} \in B$ 。
+
+$$
+\begin{array}{l} \begin{array}{c c c c c c} T _ {1} & T _ {2} & \dots & T _ {j} & \dots & T _ {m} \end{array} \\ B = \vdots \left[ \begin{array}{c c c c c c} B _ {1 1} & B _ {1 2} & \dots & B _ {1 j} & \dots & B _ {1 m} \\ B _ {2 1} & B _ {2 2} & \dots & \vdots & \dots & B _ {2 m} \\

@@ -1,0 +1,9 @@
+向持续发挥平台价值，成为我国低能重离子加速技术持续演进的重要支撑节点。
+
+# 参考文献：
+
+[1] Yang Yao, Zhai Yuhan, Jiang P Y, et al. Commissioning progress of LEAF at IMP[J]. Journal of Physics: Conference Series, 2020, 1401: 012019.   
+[2] Yang  Jiancheng,  Xia  Jiawen,  Xiao  Guoqing,  et  al. High  intensity  heavy  ion  accelerator  facility  (HIAF)  in  China[J]. Nuclear  Instruments  and  Methods  in Physics Research Section B: Beam Interactions with Materials and Atoms, 2013, 317: 263-265.   
+[3] Zhao H W, Sun L T, Guo J W, et al. Superconducting ECR ion source: from 24-28 GHz SECRAL to 45 GHz fourth generation ECR[J]. Review of Scientific Instruments, 2018, 89: 052301.   
+[4] Yang Yao, Tian Ruixia, Zhai Yuhan, et al. Development of a beam energy adjustment system after a Radio-Frequency-Quadrupole[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2022, 1039: 167095.   
+[5] Yang Yao, Zhai Yuhan, Tian Ruixia, et al. Longitudinal emittance measurement for an externa

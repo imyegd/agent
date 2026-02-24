@@ -1,0 +1,4 @@
+![](images/eb466319d81d254135f6271fe3549c92cace7658001a4cd25d79d21e5562de8f.jpg)
+
+![](images/4173596e28a5ebc3708b93401729e4ca90804f7e726d3f4ca2f9ff0453028d11.jpg)  
+图3 轨道畸变RMS校正前频度分布图 (a) 水平，(b) 垂直 Fig.3 Frequency distribution of RMS orbit distortion before correction (a) Horizontal, (b) Vertical

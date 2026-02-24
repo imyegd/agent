@@ -1,0 +1,13 @@
+![](images/db1b63fe964f3ace5b9517a5e6d4c709b24dc040e598153f0d431b11994289e8.jpg)
+
+![](images/66db645f3615a0dda315e663c4688e8de244c27a395919d0a5a5a804bf6ef1ab.jpg)  
+图14 考虑冲击磁铁和切割铁引入色散后200个误差种子产生的畸变校正后的水平(a)和垂直(b)轨道图（彩图见网络版）
+
+![](images/b886cac766287089e47e767b026bd8737a44bc45317a2909cfe2131d88d82db2.jpg)  
+Fig.14 Horizontal (a) and vertical (b) orbit distortion after orbit correction with 200 seeds with consideration of dispersion introduced by the kicker and septum (color online)
+
+![](images/3bc751de4bffc6afb06b03e95c4d19681b7da7be1d1423aa25ede7a68d5bad6e.jpg)  
+图15 考虑冲击磁铁和切割铁引入色散后的轨道畸变RMS校正后频度分布图 (a) 水平，(b) 垂直  
+Fig.15 Frequency distribution of RMS orbit distortion after correction with consideration of dispersion introduced by the kicker and septum (a) Horizontal, (b) Vertical
+
+由以上结果可得，采用考虑冲击磁铁和切割铁引入的色散后的束流传输线磁聚焦结构设计，束流传输线轨道校正方案可以有效校正束流轨道的畸变。在轨道校正后设置200个随机误差种子，使用10 000个宏粒子进行粒子追踪模拟计算。粒子追踪结果表明，在设置真空管道尺寸 $\pm 1 7 . 5 \ \mathrm { m m }$ 、磁铁元件安装误差和磁场误差的情况下，束流传输线的传输效率可达 $100 \%$ 。束流传输线方案的工程实施重难点是引出注入的高重频冲击磁铁。考虑冲击磁铁的踢角稳定性，当踢角偏差 $1 0 . 9 \%$ 时会造成束流丢失。为了对束流传输线进行更工程化的评估，我们计算了传输线的束流清晰区。束流清晰区由16倍的束斑尺寸，轨道偏差和色散影响综合计算得出。束流传输线设置 $\beta$ 放大因子为 $2 , \eta$ 放大因子为1.2，得到束流清晰区为水平方向约 $\pm 4 . 7 2 \ \mathrm { m m }$ ，垂直方向约 $\pm 0 . 6 1 \ \mathrm { m m }$ ，束流清晰区可以满足束流传输要求。

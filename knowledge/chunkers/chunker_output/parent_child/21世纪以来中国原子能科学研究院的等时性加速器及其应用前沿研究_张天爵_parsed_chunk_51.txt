@@ -1,0 +1,5 @@
+ameters of CYCIAE-14B   
+
+<table><tr><td>指标</td><td>参数</td><td>指标</td><td>参数</td></tr><tr><td>束流能量, MeV</td><td>14.6</td><td>安匝数, AT</td><td>47 490</td></tr><tr><td>流强, mA</td><td>&gt;1</td><td>注入能量, keV</td><td>40</td></tr><tr><td>加速/引出粒子</td><td>H-/H+</td><td>磁极张角, (°)</td><td>约52</td></tr><tr><td>最大磁场, T</td><td>约1.8</td><td>高頻率, MHz</td><td>~73</td></tr><tr><td>磁极直径, cm</td><td>50</td><td>谐波数</td><td>4</td></tr></table>
+
+计提供准确输入；根据新的磁场分布和更大的空间，设计新的、有冷却功能和更大接收度的中心区，提高了注入效率；高频系统改为两个完全独立的高频回路，双高频发射机馈入；1/4波

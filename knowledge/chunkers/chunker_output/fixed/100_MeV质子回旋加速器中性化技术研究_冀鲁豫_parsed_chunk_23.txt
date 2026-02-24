@@ -1,0 +1,12 @@
+under different stripping foil inclination angles   
+![](images/fe6f54f04e59b46ad847787babb0f996ece22a28a7290a08f9e933a23a0cfeb4.jpg)  
+a— 水平方向；b— 竖直方向
+
+焦。CYCIAE-100 目前采用 $6 0 ^ { \circ }$ 方位角的引出方案[19]，为抑制多圈剥离导致的质子束水平方向发射度增长，将剥离靶方位角调整至 $5 9 ^ { \circ }$ ，并引入 $1 5 ^ { \circ } { }$ 的剥离膜与束流夹角，增强水平方向的磁场聚焦能力。在该剥离靶参数条件下，剥离后的氢原子束和质
+
+子束的束流参数的拟合均方根值列于表 5。结果表明，氢原子束的束流分布在优化前后无显著差异，质子束的分布变化明显：优化前呈水平方向尺寸大、竖直方向小的椭圆分布；优化后水平方向尺寸显著减小，竖直方向增大，束流分布更接近圆
+
+表 5 剥离后的氢原子和质子束流参数  
+Table 5 Parameters of stripped $\mathbf { H } ^ { 0 }$ and $\mathbf { H } ^ { + }$ beam   
+
+<table><tr><td>参数</td><td>优化前H0</td><td>优化后H0</td><td>优化前H+</td><td>优化后H+</td></tr><tr><td>水平方向发射度,π·mm·mrad</td><td>2.44</td><td>2.45</td><td>2.13</td><td>2.16</td></tr><tr><td>水平方向束流包络,mm</td><td>2.50</td><td>2.47</td><td>4.25</td><td>2.71</td></tr><tr><td>水平方向束散角,mrad</td><td>1.07</td><td>1.06</td><td>1.01</td><td>0.92</td></tr><tr><td>竖直方向发射度,π·mm·mrad</td><td>1.11</td><td>1.11</td><td>1.12</td><td>1.11</td></tr><tr><td>竖直方向束流包络,mm</td><td>2.26</td><td>2.26</td><t

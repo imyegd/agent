@@ -1,0 +1,5 @@
+Beam dump development for high power proton and electron beam[C]/23rd International Conference on Cyclotrons and Their Applications. Beijing: JACoW Publishing, 2022.   
+[40] 张天爵, 吕银龙, 王川, 等. 中国原子能科学研究院回旋加速器创新与发展60年[J]. 原子能科学技术, 2019, 53(10): 2023-2030.  
+ZHANG Tianjue, LYU Yinlong, WANG Chuan, et al. 60 years of innovation and development for cyclotron at CIAE[J]. Atomic Energy Science and Technology, 2019, 53(10): 2023-2030(in Chinese).  
+[41] LUY Yinlong, AN Shizhong, JI Bin, et al. Design and construction progress of cyclotron based proton irradiation facility for space science[C]/22nd International Conference on Cyclotrons and Their Applications. Cape Town: JACoW Publishing, 2019: 230-232.   
+[42] AN Shizhong, LYU Yinlong, XIE Huidong, et al. The design and simulation on the extraction system for CYCI

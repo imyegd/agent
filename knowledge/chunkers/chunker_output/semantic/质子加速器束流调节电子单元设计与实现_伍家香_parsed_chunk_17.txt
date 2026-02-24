@@ -1,0 +1,4 @@
+![](images/2c090d8dc8ad27da4cbea38376ea88e0db428b04e13ab1e5ed1048f2cde1269b.jpg)  
+图5 IPC软件架构
+
+宽的信号。

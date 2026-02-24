@@ -1,0 +1,3 @@
+nducting cyclotron at INFN-LNS[J]. Journal of Physics: Conference Series, 2019, 1350(1): 012099.   
+[56] DUCKITT W D, CONRADIE J L, van NIEKERK M J, et al. The design and implementation of a broadband digital low-level RF control system for the cyclotron accelerators at iThemba LABS[J]. Nucl Instrum Methods Phys Res A, 2018, 895: 1-9.   
+[57] RADOVINSKY A, MINERVINI J V, MILLER C E, et al. Superconducting magnets for ultra light and magnetically shielded, compact cyclotrons for medical, scientific, and secu

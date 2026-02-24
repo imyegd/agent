@@ -1,0 +1,13 @@
+# 利益冲突说明
+
+所有作者声明不存在利益冲突关系。
+
+# 参考文献
+
+[1] SUN J. Convective- scale assimilation of radar data:
+
+progress and challenges[J]. Quarterly Journal of the Royal Meteorological Society, 2005, 131(613): 3439- 3463.   
+[2] SEO D J, SMITH J A. Radar-based short-term rainfall prediction[J]. Journal of Hydrology, 1992, 131(1- 4): 341-367.   
+[3] LECUN Y, BENGIO Y, HINTON G. Deep learning[J]. nature, 2015, 521(7553): 436-444.   
+[4] 许小峰. 从物理模型到智能分析——降低天气预报不确定性的新探索[J]. 气象, 2018, 3 (3): 341-350.  
+[5] LECUN Y, BOTTOU L, BEN

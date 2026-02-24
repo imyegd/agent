@@ -1,0 +1,6 @@
+56-62   
+27 Bush J W M, Hasha A E. On the collision of laminar jets: fluid chains and fishbones. J Fluid Mech, 2004, 511: 285-310   
+28 Li R, Ashgriz N. Characteristics of liquid sheets formed by two impinging jets. Phys Fluids, 2006, 18: 087104   
+29 Lu J, Corvalan C M. Influence of viscosity on the impingement of laminar liquid jets. Chem Eng Sci, 2014, 119: 182-186   
+30 Majumdar N, Tirumkudulu M S. Dynamics of radially expanding liquid sheets. Phys Rev Lett, 2018, 120: 164501   
+31 Morrison J T, Feister

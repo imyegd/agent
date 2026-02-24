@@ -1,0 +1,18 @@
+# 2.3 RayerKnife 准直器
+
+在 2023年 “第二届中国放射外科论坛”上，
+
+江苏瑞尔医疗介绍了一款基于多关节机器人平台的 立 体 定 向 放 射 治 疗 系 统 RayerKnife。RayerKnife
+
+是对标 CyberKnife开发的一款立体定向放射治疗设备，配备12组锥形孔准直器，一次可安装3组不同规格的准直器并在治疗过程中进行自动切换，提高了计划设计及执行的灵活性，兼顾了计划质量和执行效率。12组锥形孔准直器的成野规格为$5 . 0 \ \mathrm { m m }$ 、 $7 . 5 \ \mathrm { m m }$ 、 $1 0 . 0 \ \mathrm { m m }$ 、 $1 2 . 5 \mathrm { ~ m m }$ 、 $1 5 . 0 \ \mathrm { m m }$ 、$2 0 . 0 \ \mathrm { m m }$ 、 $2 5 . 0 \ \mathrm { m m }$ 、 $3 0 . 0 \ \mathrm { m m }$ 、 $3 5 . 0 \ \mathrm { m m }$ 、 $4 0 . 0 \ \mathrm { m m }$ 、$5 0 . 0 \ \mathrm { m m }$ 和 $6 0 . 0 \ \mathrm { m m }$ ，结构如图 13所示。各规格准直器的半影数据如表4所示，照射野性能指标不低于 CyberKnife。
+
+![](images/a52264e6bea699f0292f455d744e927bb9fc3b5b20e60899ce9639e6cb0597e9.jpg)
+
+![](images/06bcd6a44d1d1555fca8fe66b4a06656666df4f2e2451bb9072418e93cb8de94.jpg)
+
+![](images/23091042420dc772735c3ceefc965cbe8789f3739ca9523339cf688a631678df.jpg)  
+图 13 RayerKnife 的锥形孔准直器
+
+表 4 RayerKnife 锥形孔准直器半影  
+
+<table><tr><td rowspan="2">项目</td><td colspan="12">成野规格（mm）</td></tr><tr><td>5.0</td><td>7.5</td><td>10.0</td><td>12.5</td><td>15.0</td><td>20.0</td><td>25.0</td><td>30.0</td><td>35.0</td><td>40.0</td><td>50.0</td><td>60.0</td></tr><tr><td>RayerKnife准直器半影（mm）</td><td>1.8</td><td>1.9</td><td>2.1</td><td>2.2</td><td>2.2</td><td>2.4</td><td>2.5</td><td>2.6</td><td>2.7</td><td>2.8</td><td>3.1</td><td>3.5</td></tr></table>

@@ -1,0 +1,8 @@
+# 参考文献：
+
+[1]瞿少成，陈婵，童金．基于ARM的加速器平均流强的数据采集系统[J].电子测量技术，2012,35(3):117-119.  
+[2] 宋睿. 基于嵌入式 EPICS 的重离子加速器束流损失监测系统设计[D]. 兰州: 兰州大学, 2020.  
+[3] 钟黎明. 紧凑型 THz-FEL 束流测量与优化研究 [D]. 武汉: 华中科技大学, 2022.  
+[4] 郑侠,管锋平,温立鹏,等. $230\mathrm{MeV}$ 超导回旋加速器束流测量装置的设计研究[J].真空，2021，58(4):54-57.  
+[5] WEN L P, GUAN F P, XIE H D. Radial probe installation and experiment for the CRM cyclotron [J]. Annual Report of China Institute of Atomic Energy, 2009, 129(1): 62-63.   
+[6] 李鹏, 邱瑞阳, 李芳, 等. 中国散裂中子源直线加速器束流流强测量系统[J]. 强激光与粒子束, 2018, 30(7)

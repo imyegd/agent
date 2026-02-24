@@ -1,0 +1,25 @@
+文章编号：1007-130X(2025)10-1737-08
+
+# 基于近似计算的脉冲神经网络加速器设计
+
+许炜康，孙 岩，张建民
+
+（国防科技大学计算机学院，湖南长沙410073）
+
+摘要：脉冲神经网络(SNN)实现了对生物神经更为接近的模拟，其高能效的特性极为适用于边缘和终端计算场景。然而，在对功耗高度敏感的应用中，进一步降低功耗依旧是一个至关重要的任务。近似计算通过引入一定的误差来简化设计，为容错应用的高能效硬件设计带来了新的契机。对将近似计算应用于SNN加速器的方法进行了探索，首先，针对SNN的应用特点展开分析与实验，总结出SNN加速器中大量加法器输入数据的分布特性。基于此特性，提出一种针对应用敏感的近似运算部件误差评估指标AARE。依据AARE指标以及提出的最优近似加法器选择策略，能够针对特定应用选择更为合适的近似运算部件。在此基础上，利用开源的EDA工具和PDK实现了一种基于近似计算的SNN硬件加速器AxSpike，并使用snnTorch开发了相应的模拟器。实验结果表明，AxSpike加速器能够实现 $37.32\%$ 的功耗节约以及 $31.26\%$ 的面积节省，精度仅下降3.47个百分点，极大提高了SNN硬件加速器的能效比。
+
+关键词：近似计算；脉冲神经网络；硬件加速器；高能效；低功耗
+
+中图分类号：TP183
+
+文献标志码：A
+
+doi:10.3969/j.issn.1007-130X.2025.10.003
+
+# A spiking neural network accelerator based on approximate computing
+
+XU Weikang, SUN Yan, ZHANG Jianmin
+
+(College of Computer Science and Technology, National University of Defense Technology, Changsha 410073, China)
+
+Abstract: Spiking neural network (SNN) achieves a closer simulation of biological neurons, and their high energy efficiency makes them exceptionally suitable for edge and end-dev

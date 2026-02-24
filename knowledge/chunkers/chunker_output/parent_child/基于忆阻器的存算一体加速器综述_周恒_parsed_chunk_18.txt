@@ -1,0 +1,8 @@
+IM-MLC针对各自的存算一体架构和自定义的指令集设计了编译器。然而，PUMA需手动部署神经网络，编程接口不友好，扩展性差，PIMCOMP 和 CIM-MLC 支持开放神
+
+![](images/708f1759c54f5c05b90c2566659f132adc84ab2ace57fe3cd0b02f130b01b455.jpg)  
+图3    面向神经网络的存算一体编译器
+
+经网络交换（open neural network exchange, ONNX）接入，但 ONNX转换存在性能损失和算子不兼容的问题。
+
+TC-CIM作为一个全自动端到端编译器[19]，能够自动识别神经网络应用中的 VMM操作并将其映射到存算一体加速器上，但其前提假设为内存充足，忽略了内存资源受限场景。此外，该编译器前端支持的领域专用 语 言 （ domain  specific  language,  DSL） 为 TC（ tensorcomprehensions），需重写网络，开发成本高。OOC 同样是一个全自动端到端编译器[20]，其基于 MLIR（multi-level intermediate representatio

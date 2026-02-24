@@ -1,0 +1,4 @@
+统的研究[D]. 中北大学 ,2017.  
+[6] Hubbell, J. H.,& Seltzer, S.M.. *Tables of X-Ray Mass Attenuation Coefficients and Mass Energy-Absorption Coefficients from 1 keV to 20 MeV for Elements $Z = 1$ to 92 and 48 Additional Substances of Dosimetric Interest*[J].NISTIR，5632   
+[7] 项安,陈瑞焘.双能X射线检测技术的能谱滤波参数优化设计 [J]. 同济大学学报 ,2014,42(9)：1432-1436.  
+[8] 李清华 , 李荐民 , 王学武等 . 重叠材料的高能 X 射线双能成像识别技术 [J]. 清华大学学报 ,2008,48(8):1256-1259.

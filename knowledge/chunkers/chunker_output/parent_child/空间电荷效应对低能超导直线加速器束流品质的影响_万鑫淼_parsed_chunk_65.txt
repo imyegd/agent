@@ -1,0 +1,3 @@
+esonances  and  instabilities  in  high-intensity  linear  accelerators[J]. Journal  of  the  Korean  Physical  Society, 2018, 72（12）: 1523-1530.   
+[5] Lund  S  M,  Bukh  B. Stability  properties  of  the  transverse  envelope  equations  describing  intense  ion  beam  transport[J]. Physical  Review  Special  Topics - Accelerators and Beams, 2004, 7: 024801.   
+[6] Ikegami  M. Particle–core  analysis  of  beam  halo  formation  in  anisotropic  beams[J]. Nuclear  Instruments  and  Methods  in  Physics  Re

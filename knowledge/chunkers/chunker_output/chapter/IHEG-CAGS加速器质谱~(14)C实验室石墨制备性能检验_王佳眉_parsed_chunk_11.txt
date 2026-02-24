@@ -1,0 +1,37 @@
+# 参考文献（References）：
+
+［1］ LibbyW F，Anderson E C，Arnold JR．Agedetermination by
+
+radiocarboncontent：World-wideassayofnaturalradiocarbon［J］Science，1949，109（2827）：227－228  
+［2］ BolandiniM A，MariaD D，HaghipourN，etal．Towardsonlinerampedoxidation（ORO）－AMSforthermaldissectionandseriaradiocarbonanalysisofcomplexorganicmatter［J］．Radiocarbon，2025，67（3）：471－486  
+［3］延澳，白占魁，刘诺，等．新疆阿拉套山湿地晚全新世沉积环境演化：多指标记录［J］．第四纪研究，2025，45（3）：708－720  
+YanAo，BaiZhankui，LiuNuo，etal．LateHolocenesedimentary environmentalevolutionoftheAlatauMountainwetlandinXinjiang recordedbymultipleindicators［J］．QuaternarySciences，2025， 45（3）：708－720   
+［4］ NaraFW， Watanabe T， Lougheed B C， et al． Alternativradiocarbonage-depthmodelfrom LakeBaikalsediment：ImplicationforpasthydrologicalchangesforlastglacialtotheHolocene［J］Radiocarbon，2024，66（6）：1940－1957  
+［5］刘起，侯小琳．阿克量级放射性同位素分析的加速器质谱分析技术及其进展［J］．分析测试学报，2024，43（10）：1525－1535  
+LiuQi， Hou Xiaolin．Progressofacceleratormassspectrometrtechnologyfordeterminationofradioisotopesatatto-gram level［J］JournalofInstrumentalAnalysis，2024，43（10）：1525－1535  
+［6］李冀，李永项．西安发现唐代双峰驼［J］．第四纪研究，2023，43（3）：878－883  
+LiJi，LiYongxiang．BactriancameloftheTangDynastyfromXi,an［J］．QuaternarySciences，2023，43（3）：878－883  
+［7］王玉杰，姜文英，杨肖肖，等．海南岛东寨港地区 3.9万年以来沉积物粒度特征及其环境意义［J］．第四纪研究，2024，44（5）：1362－1370  
+WangYujie，JiangWenying，YangXiaoxiao，etal．Environmenta changesoverthe last39ka as reconstructed from grain size characteristicsofsedimentsinDongzhaigangharbor，HainanIsland ［J］．QuaternarySciences，2024，44（5）：1362－1370   
+［8］ SantosGM，XuXM．Bagoftricks：Asetoftechniquesandotheresourcestohelp $^ { 1 4 } \mathrm { C }$ laboratorysetup，sampleprocessing，andbeyond［J］．Radiocarbon，2017，59（3）：785－801  
+［9］HeatonTJ，BardE，RamseyCB，etal．Radiocarbon：AkeytraceforstudyingEarth,sdynamo，climatesystem，carboncycle，andSu［J］．Science，2021，374（6568）：707－718  
+［10］XuXM，TrumboreSE，ZhengSH，etal．Modifyingasealedtube zincreduction method forpreparation ofAMS graphitetargets： Reducingbackground and attaining high precision［J］．Nuclear Instrumentsand Methodsin PhysicsResearch Section B：Beam InteractionswithMaterialsandAtoms，2007，259（1）：320－329   
+［11］UchidaM，MantokuK，KobayashiT，etal．UltrasmallmassAMS $^ { 1 4 } \mathrm { C }$ samplepreparationandanalysesatNIES-TERRAAMSfacility［J］NuclearInstrumentsandMethodsinPhysicsResearchSectionB：Beam Interactionswith Materialsand Atoms， 2023， 536（18）：
+
+144－153  
+［12］ WatanabeT，FujitaN，MatsubaraA，etal．Preliminaryreportonsmall-massgraphitizationforradiocarbondatingusingEA-AGE3aJAEA-AMS-TONO［J］．GeochemicalJournal，2021，55（4）：277－281  
+［13］ 何建华，曹辉辉，王宗礼．自动石墨合成系统（AGE-3）制样方法［J］．实验技术与管理，2021，38（7）：55－58  
+HeJianhua，CaoHuihui，WangZongli．Samplepreparationmethodoautomaticgraphite synthesissystem（AGE-3）［J］．ExperimentaTechnologyandManagement，2021，38（7）：55－58  
+［14］ WackerL，NemecM，Bourquin J．A revolutionarygraphitisationsystem：Fullyautomated，compactandsimple［J］．NuclearInstrumentandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2010，268（7－8）：931－934  
+［15］张慧，王小明，庞义俊，等．基于加速器质谱测量的14C呼气试验样品制备方法研究［J］．同位素，2017，30（2）：89－94  
+ZhangHui，WangXiaoming，PangYijun，etal．Samplepreparationforbreathtes $^ { 1 4 } \mathrm { C }$ tracerforacceleratormassspectrometry［J］．JournaofIsotopes，2017，30（2）：89－94  
+［16］ OrsovszkiG，RinyuL．Flame-sealedtubegraphitizationusingzincathesolereductionagent：PrecisionimprovementofEnvironMICADAS$^ { 1 4 } \mathrm { C }$ measurementsongraphitetargets［J］．Radiocarbon，2015，57（5）：979－990  
+［17］ ScottEM，CookGT，NaysmithP，etal．Learningfrom thewoodsamplesinICS，TIRI，FIRI，VIRIandSIRI［J］．Radiocarbon，2019，61（5）：1293－1304  
+［18］CaoHH，WangZ L，HeJH，etal．PerformanceandintercomparisontestsoftheMICADASattheradiocarbonlaboratoryoLanzhouUniversity，China［J］．Radiocarbon，2023，65（1）：41－50  
+［19］WackerL，BonaniG，FriedrichM，etal．MICADAS：Routineandhigh-precisionradiocarbondating［J］．Radiocarbon，2010，52（2）：252－262  
+［20］徐超，洪冰，彭海军，等．加速器质谱 ${ } ^ { 1 4 } \mathrm { C }$ 样品制备中 Zn-TiH法石墨产率探讨［J］．同位素，2018，31（4）：248－255  
+XuChao，HongBing，PengHaijun，etal．Discussiononthegraphityieldof $\mathrm { Z n - T i H } _ { 2 }$ method in the preparation ofacceleratormasspectrometry $^ { 1 4 } \mathrm { C }$ sample［J］．JournalofIsotopes，2018，31（4）：248－255  
+［21］杨雪，郑勇刚，尹金辉．加速器 $^ { 1 4 } \mathrm { C }$ 制靶系统的研制及性能检验［J］．地震地质，2013，35（4）：930－934  
+Yang Xue， Zheng Yonggang， Yin Jinhui．Developments andperformancetestsofthenewAMSgraphitetargetline［J］．SeismologandGeology，2013，35（4）：930－934  
+［22］ VogelJS．RapidproductionofgraphitewithoutcontaminationfobiomedicalAMS［J］．Radiocarbon，1992，34（3）：344－350  
+［23］ ParkhomchukEV，PetrozhitskiyAV，IgnatovM M，etal．14CGIRsamplesinAMSGoldenValley：GraphitepreparationusingAGE-3andabsorption-catalytic setup［J］．Radiocarbon， 2024， 66（5）：1259－1269

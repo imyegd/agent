@@ -1,0 +1,7 @@
+# Precision Analysis of Halcyon 3.0 Accelerator in Breast Cancer Radiotherapy: A Correlation Study Between Setup Errors and Couch Shifts
+
+HUANG Yuan-tong1 XU Qing1* LI Qian-yong1 TANG Tian-ci2   
+1 Department of Radiotherapy Center, Fudan University Shanghai Cancer Center; Department of Oncology, Shanghai Medical College, Fudan University (Shanghai 200032)   
+2 Radiotherapy Department, Eye & ENT Hospital, Fudan University (Shanghai 201100)
+
+Abstract: Objective: To investigate the relationship between setup

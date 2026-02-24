@@ -1,0 +1,13 @@
+$$
+\begin{array}{l} f \left(x ^ {\prime}, \cdot\right) = \int_ {- \infty} ^ {+ \infty} f \left(x ^ {\prime}, y\right) d y \tag {5} \\ = \sigma_ {y} I _ {0} \sqrt {2 \pi} \exp \left(- \frac {x ^ {\prime 2}}{2 \sigma_ {x} {} ^ {2}}\right) \\ \end{array}
+$$
+
+最终使用采集到的X射线强度离散序列 $S ( \boldsymbol { x } ^ { \prime } )$ 来拟合X射线强度实际分布 $f ( x ^ { \prime } , \cdot )$ ，利用半高宽法求出 $X$ 方向的焦点尺寸。同理，也可以求出Y方向的焦点尺寸。
+
+# 2 电子直线加速器X射线焦点尺寸测量仪的设计
+
+电子直线加速器X射线焦点尺寸测量系统主要包括4个部分：狭缝装置、高能X射线探测与采集系统、机械扫描运动系统和上位机控制台，如图5所示。
+
+![](images/60167c9bb41dc51a6da6b92fcbce0d345b0304846870bb30b9d78f8b8cab5490.jpg)  
+图5 电子直线加速器X射线焦点尺寸测量仪总体方案框图  
+Fig.5 Block diagram of the overall scheme of the X-ray focal spot size measuring instrument for electron linear accelerator

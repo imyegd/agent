@@ -1,0 +1,6 @@
+\Lambda_ {i}} (2) \\ \end{array}
+$$
+
+公式（1）和（2）中， $N _ { \mathrm { i n h } }$ 是继承浓度，其可能来自以前暴露的继承组分或非宇宙成因组分； $P$ 是核素的产率，下角 $i$ i指示核素不同产生路径（散裂、热中子、介子俘获、快介子）； $\rho$ 是样品覆盖层的密度； $\boldsymbol { A } _ { i }$ 是射线的衰减长度，指在岩石和沉积物等物质中，由于散射和吸收作用使射线通量减少 $\mathrm { e } ^ { - 1 }$ 所需的厚度，取值范围在 $1 2 0 \sim 1 7 0 ~ \mathrm { g / c m } ^ { 2 }$ ，对于密度为 $2 . 7 \ \mathrm { g } / \mathrm { c m } ^ { 3 }$ 的岩石，取值范围在 $4 5 \sim 6 5 ~ \mathrm { c m }$ ； $\lambda$ 是核素的衰变常数，其是半衰期的倒数与 ln2的乘积。
+
+Fig.5 Theeffectofcalibrationcurvevariationso

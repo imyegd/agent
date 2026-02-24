@@ -1,0 +1,19 @@
+Lambda_ {i}}\right)\right) \right] \right. (6) \\ T _ {\exp} = \ln \left[ N _ {\cos} (0, T _ {\exp}) / \sum \left(P _ {i} (0)\right) \right] (7) \\ \end{array}
+$$
+
+在自然条件下，地表在暴露过程中存在侵蚀，这将降低样品中宇成核素在矿物中的累积，或将受射线屏蔽的新鲜物质随侵蚀暴露地表［44］ 。因此，由公式（7）计算得到的暴露年龄是最小暴露年龄。如果侵蚀量可以确定或估算，并且假设具有稳定的侵蚀速率 ${ \bf \Xi } ( \varepsilon )$ ），那么公式（4）～（7）可以与校正系数结合应用，获得暴露年代［44］ 。在暴露时间较小，侵蚀量 $( < 1 0 \ \mathrm { c m } \ )$ ）和散裂（spallation）占主导产率的情况下，侵蚀校正系数 $( f _ { \varepsilon } )$ ）可以用公式（8）进行估算，其中 $\varLambda _ { s p }$ 是导致散裂方式产生核素射线的衰减长度。
+
+$$
+f _ {\varepsilon} = 1 + \left(\varepsilon \rho T _ {\exp} / 2 \Lambda_ {\mathrm {s p}}\right) \tag {8}
+$$
+
+则公式（4）～（7）的暴露年龄侵蚀校正后为：
+
+$$
+T _ {\text {e x p - c o r}} = f _ {\varepsilon} \times T _ {\text {e x p}} \tag {9}
+$$
+
+侵蚀校正的通用公式为：
+
+$$
+\begin{array}{l} N _ {\text {t o t a l}} (t, z) = N _ {\text {i n h}} (z) \mathrm {e} ^ {- \lambda t} + \\ \sum_ {i} \frac {P _ {i} (z)}{\lambda + \rho \varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \rho \left(z _ {0} - \varepsilon t\right) / \Lambda_ {i}} \left(1 - \mathr

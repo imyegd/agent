@@ -1,0 +1,11 @@
+s of linear collimation tolerance characteristics of optical elements in tandem accelerator[J]. Atomic Energy Science and Technology, 1985, 19(4): 440-445(in Chinese).   
+[22] 曹清喜, 关遐令. 变梯度倾斜场加速管的简化场型公式[J]. 强激光与粒子束, 1992, 4(1): 93-100.   
+CAO Qingxi, GUAN Xialing. The formula of simplified field configuration of a inclined field tube with variable gradient[J]. High Power Laser and Particle Beams, 1992, 4(1): 93-100(in Chinese).   
+[23] 秦久昌, 关遐令, 杨丙凡, 等. HI-13 串列加速器的改进[J]. 核技术, 1992(6): 329-334.  
+QIN Jiuchang, GAUN Xialing, YANG Bingfan, et al. Improvements of the HI-13 tandem accelerator[J]. Nuclear Techniques, 1992(6): 329-334(in Chinese).   
+[24] 李涛, 关遐令. HI-13 串列加速器头部电场改进计算[J]. 原子能科学技术, 1993, 27(5): 396-400.  
+LI Tao, GUAN Xialing. The modification of the terminal electrostatic field of HI-13 Tandem Accelerator [J]. Atomic Energy Science and Technology, 1993, 27(5): 396-400(in Chinese).   
+[25] 秦久昌, 关遐令, 扬丙凡, 等. HI-13 串列加速器的改
+
+进[J].核物理动态，1994,11(2):22-26.  
+QIN Jiuchang, GUAN Xialing, YANG Bingfan, et al.

@@ -1,0 +1,7 @@
+sions but also enables dynamic monitoring of positional changes, offering significant advantages over traditional methods for enhancing NDT imaging quality assessment.
+
+Key words Electron linear accelerator, Focus size, Stability, Measuring instrument
+
+电子直线加速器是工业计算机断层扫描（Computed Tomography，CT）、数 字 射 线 检 测（Digital Radiography，DR）等无损检测成像系统的核心部件，已广泛应用于航空航天、国防军工、石油化工、交通运输等行业的大型构件和装备的缺陷检测和质量评估，以及海关大型集装箱货物检测系统。电子直线加速器X射线焦点尺寸是影响工业CT、DR等无损检测系统空间分辨率和成像质量等关键性能指标的主要因素之一，焦点尺寸越小，位置稳定性越好，成像的空间分辨率越高［1‒4］。
+
+目前，常规的电子直线加速器X射

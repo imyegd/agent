@@ -1,0 +1,5 @@
+制造提供了坚实的理论基础。
+
+表 3 优化蒸发口参数长时间镀膜仿真结果
+
+<table><tr><td>变量名称(单位)</td><td>沉积2min</td><td>沉积30min</td><td>沉积60min</td></tr><tr><td>最大膜厚/nm</td><td>303</td><td>4520</td><td>9040</td></tr><tr><td>最小膜厚/nm</td><td>288</td><td>4410</td><td>8829</td></tr><tr><td>最大束流强度/(1E-5Torr)</td><td>7.58</td><td>7.58</td><td>7.58</td></tr><tr><td>最小束流强度/(1E-5Torr)</td><td>2.26</td><td>2.26</td><td>2.26</td></tr><tr><td>膜厚不均匀性/%</td><td>±2.54</td><td>±1.23</td><td>±1.23</td></tr></table>

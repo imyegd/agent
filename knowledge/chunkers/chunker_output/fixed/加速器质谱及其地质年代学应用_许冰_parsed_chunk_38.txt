@@ -1,0 +1,26 @@
+响较小。
+
+一种情况是，样品长期暴露在稳定地球表面，其起始产率 $( P _ { i } ( 0 )$ ）和侵蚀速率 ${ \bf \Xi } ( \bf \Lambda _ { \varepsilon } \delta )$ ）达到平衡状态，则样品中宇宙成因核素埋藏前的浓度 $| N _ { i }$ ）为：
+
+$$
+N _ {i} = \frac {P _ {i} (0)}{\lambda_ {i} + \rho \varepsilon / \Lambda_ {i}} \tag {13}
+$$
+
+具体到 $^ { 1 0 } \mathrm { { B e } }$ e和 $^ { 2 6 } \mathrm { A l }$ l：
+
+$$
+N _ {2 6} = \frac {P _ {2 6} (0)}{\lambda_ {2 6} + \rho \varepsilon / \Lambda_ {i}} \tag {14}
+$$
+
+$$
+N _ {1 0} = \frac {P _ {1 0} (0)}{\lambda_ {1 0} + \rho \varepsilon / \Lambda_ {i}} \tag {15}
+$$
+
+另外，如果样品埋藏深度不够，埋藏后还会产生新的宇宙成因核素，则埋藏后的核素浓度变化为：
+
+$$
+N _ {2 6} = \frac {P _ {2 6} (0)}{\lambda_ {2 6} + \rho \varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {2 6} t _ {b}} + \frac {P _ {2 6} (z)}{\lambda_ {2 6}} \left(1 - \mathrm {e} ^ {- \lambda_ {2 6} t _ {b}}\right) \tag {16}
+$$
+
+$$
+N _ {1 0} = \frac {P _ {1 0} (0)}{\lambda_ {1 0} + \rho \varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} + \frac {P _ {1 0} (z)}{\lambda_ {1 0}} \left(1 - \mathrm {e} ^ {- \lambda_

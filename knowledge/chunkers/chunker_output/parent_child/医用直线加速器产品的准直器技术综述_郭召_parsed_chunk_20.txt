@@ -1,0 +1,7 @@
+$ ，最高速度 $6 0 \ \mathrm { m m / s }$ ，下层光栅最小投影宽度 $4 \ \mathrm { m m }$ ，最高速度 $5 0 \ \mathrm { m m / s }$ 。这种正交布置形式在凹多边形或岛状靶区的适形精度上有一定优势。
+
+![](images/d2afabd4512250ac25621f519c5068f3a5c3ccc50729fb06f6fbc2ff10bbc526.jpg)  
+图 7 Acculeaf 多叶光栅
+
+![](images/7de85fe20f9ccfd632acf117a65f1b379f387aa5ec971cd87758e5e3788e60fd.jpg)  
+图 8 雷泰医疗的双层正交多叶光栅

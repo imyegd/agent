@@ -1,0 +1,17 @@
+[17] 曹清喜, 关遐令, 王荣文, 等. 倾斜场加速管的物理设计方法[J]. 原子能科学技术, 1980, 14(5): 536-546.  
+CAO Qingxi, GUAN Xialing, WANG Rongwen, et al. Physical design method of inclined field accelerating tube[J]. Atomic Energy Science and Technology, 1980, 14(5): 536-546(in Chinese).   
+[18] 曹清喜, 关遐令. 脉冲束在三维均匀倾斜场中的传输[J]. 原子能科学技术, 1981, 15(1): 19-28.  
+CAO Qingxi, GUAN Xialing. Propagation of pulse beam in three-dimensional uniform inclined field[J]. Atomic Energy Science and Technology, 1981, 15(1): 19-28(in Chinese).   
+[19] 关遐令. HI-13 串列加速器的光学特性[J]. 核科学与工程, 1983, 5(3): 281-285.  
+GUAN Xialing. Optical characteristics of the HI-13 tandem accelerator[J]. Chinese Journal of Nuclear Science and Engineering, 1983, 5(3): 281-285(in Chinese).   
+[20] 关遐令, 曹清喜, 张洁. 串列加速器束流的纵向输运特性分析[J]. 原子能科学技术, 1985, 19(4): 434-439.  
+GUAN Xialing, CAO Qingxi, ZHANG Jie. Analysis of longitudinal beam transport characteristics in tandem accelerators[J]. Atomic Energy Science and Technology, 1985, 19(4): 434-439(in Chinese).   
+[21] 关遐令. 串列加速器光学元件线性准直公差特性分析 [J]. 原子能科学技术, 1985, 19(4): 440-445.  
+GUAN Xialing. Analysis of linear collimation tolerance characteristics of optical elements in tandem accelerator[J]. Atomic Energy Science and Technology, 1985, 19(4): 440-445(in Chinese).   
+[22] 曹清喜, 关遐令. 变梯度倾斜场加速管的简化场型公式[J]. 强激光与粒子束, 1992, 4(1): 93-100.   
+CAO Qingxi, GUAN Xialing. The formula of simplified field configuration of a inclined field tube with variable gradient[J]. High Power Laser and Particle Beams, 1992, 4(1): 93-100(in Chinese).   
+[23] 秦久昌, 关遐令, 杨丙凡, 等. HI-13 串列加速器的改进[J]. 核技术, 1992(6): 329-334.  
+QIN Jiuchang, GAUN Xialing, YANG Bingfan, et al. Improvements of the HI-13 tandem accelerator[J]. Nuclear Techniques, 1992(6): 329-334(in Chinese).   
+[24] 李涛, 关遐令. HI-13 串列加速器头部电场改进计算[J]. 原子能科学技术, 1993, 27(5): 396-400.  
+LI Tao, GUAN Xialing. The modification of the terminal electrostatic field of HI-13 Tandem Accelerator [J]. Atomic Energy Science and Technology, 1993, 27(5): 396-400(in Chinese).   
+[25] 秦久昌, 关遐令, 扬丙凡, 等. HI-13 串列加速器的改

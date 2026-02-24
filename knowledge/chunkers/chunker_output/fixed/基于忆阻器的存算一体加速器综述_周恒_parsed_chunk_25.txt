@@ -1,0 +1,8 @@
+kala,  Kaiyuan  Yang.  MeNTT:  A  Compact[38] and  Efficient  Processing-in-Memory  Number  Theoretic Transform  (NTT)  Accelerator[J].  IEEE Transactions on Very Large Scale Integration Systems,  2022,  30(5): 579−588.   
+Peng  Yao,  Huaqiang  Wu,  Bin  Gao,  et  al.  Fully  Hardware-[39] Implemented  Memristor  Convolutional  Neural  Network[J]. Nature, 2020, 577: 641−646.   
+[40] Weier Wan, Rajkumar Kubendran, Clemens Schaefer, et al.
+
+A  Compute-in-Memory  Chip  Based  on  Resistive  Random-Access Memory[J]. Nature, 2022, 608: 504−512.   
+Seungchul Jung, Hyungwoo Lee, Sungmeen Myung, et al. A[41] Crossbar Array of Magnetoresistive Memory Devices for in-Memory Computing[J]. Nature, 2022, 601: 211−216.   
+DeepSeek-AI, Daya Guo, Dejian Yang, et al. DeepSeek-R1:[42] Incentivizing  Reasoning  Capability  in  LLMs  via Reinforcement  Learning[EB/OL].  (2025−01−22)[2025−09− 17].https://arxiv.org/abs/2501.12948.   
+Manuel  Le  Gallo,  Riduan  Khaddam-Aljameh,  Milos[43] Stanisavljevic,  et  al.  A  64-core  Mixed

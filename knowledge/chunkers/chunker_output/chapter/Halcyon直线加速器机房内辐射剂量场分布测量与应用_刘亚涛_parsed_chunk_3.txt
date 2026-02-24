@@ -1,0 +1,32 @@
+# 1    材料与方法
+
+1.1    探测器    探测器采用 LiF 热释光剂量计（ther-
+
+moluminescence dosimter, TLD） [12-13] 进行辐射场布点测量，主要是考虑 TLD 剂量计体积小、灵敏度适宜、可重复使用、衰退小、组织等效性好特别适合多点布点测量 [14-15]。本次研究用 TLD 探测器在中国计量院直线加速器上模拟实际照射条件进行刻度，刻度主要参数为：6 MV 光子，0.1、1、2 Gy。刻度射线及能量与实际照射射线及能量一致，同射线同能量不同剂量的刻度实验表明 TLD 具有良好的剂量线性，因此，刻度实验得到的刻度系数可用于 Halcyon 直线加速器周围辐射剂量场监测。
+
+1.2    加速器机房内布置及辐射场测量点选取    本研究选用 Halcyon 型直线加速器[16]，其 “环形”机架安装于封闭的空间内，物理治疗孔径直径和源轴距均为100 cm，X 射线能量固定为 6 MV，等中心处最大射野 $2 8 \ : \mathrm { c m } \times 2 8 \ : \mathrm { c m }$ ，装配双层多叶准直器（multi-leafcollimator，MLC），在主束区方向设置有 $1 7 2 \mathrm { m m } 3 \%$ 的锑铅合金和 $1 0 \mathrm { m m }$ 钢板的自屏蔽结构，加速器坐北朝南放置在机房内，治疗床朝向迷路方向，该加速器所在机房的平面图见图 1。
+
+![](images/b2bd34502c34d708de37766bb8483f4cb7a48401a3d1e6551db7afbd1a5c9cd8.jpg)  
+图 1    Halcyon 直线加速器机房平面图  
+Figure 1    Floor plan of the Halcyon linear accelerator treatment room
+
+测量布点采用空间矩阵方式布点，测量布点现场图见图 2（a）所示，以等中心点高度 $1 . 1 \mathrm { m }$ 为中间高度，上下分别增减 $0 . 6 \mathrm { m }$ ，即分别在 0.5、1.1 和 $1 . 7 \mathrm { m }$ 3 个平面布点，每个平面上间隔 $0 . 5 \mathrm { m }$ 按网格布点，部分点布置在机身上，每个点布放 3 片探测器，布点示意图如图 2（b）所示，共布点 234 处。
+
+1.3    加速器出束条件    在设备出束选用 6 MV X 射线（FFF）模式，最大剂量率为 $8 0 0 \mathrm { M U / m i n }$ ，照射野调整至最大 $2 8 . 0 0 \mathrm { c m } \times 2 8 . 0 0 \mathrm { c m }$ 。机架从 $0 ^ { \circ }$ 开始，顺时
+
+![](images/f697f88fa83dcc824b1c2c65c43e6cb3708a08b7d3dd59bf97b3abc48032c71a.jpg)  
+注：（a）测点布点现场图；（b）测量布点示意图。
+
+![](images/864f7efdcbb47267c69be1fac969b847404c4d5607a254b7899b381db3d067eb.jpg)  
+图 2   测量布点现场图和示意图  
+Figure 2    A photo of the treatment room and a schematic diagram of the measurement points
+
+针旋转，每隔 $1 0 ^ { \circ }$ 出束 $1 5 \mathrm { M U }$ ，共出束 ${ 5 4 0 } \mathrm { M U }$ 。出束时机房的环境条件为：温度是 $2 3 . 1 \mathrm { ~ ‰ ~ }$ ，湿度是 $51 \%$ ，气压是 $1 0 1 . 4 \mathrm { k P a }$ ，排风口风速 $2 . 6 \mathrm { m } / \mathrm { s }$ 。
+
+1.4    加速器机房屏蔽防护计算比较    根据实测辐射场的结果，得出无屏蔽体情况下墙外剂量率数据 $\dot { H } _ { m }$ ，结合屏蔽体外剂量率控制目标值，根据公式（1）可以计算出所需屏蔽体的厚度值。同时根据标准 GBZ201.2—2011 中的对于主射束、散射线和漏射线的计算公式也可以得出所需屏蔽体的厚度，考虑到 Halcy-on 型直线加速器在主射束方向的自屏蔽结构，将主射束的屏蔽厚度减去自屏蔽结构的等效屏蔽厚度得出基于经验公式计算出的屏蔽体厚度，并将 2 种方法计算出的屏蔽厚度进行对比分析。
+
+$$
+X = T V L \times \log \left(\frac {\dot {H} _ {m}}{\dot {H} _ {c}}\right) \tag {1}
+$$
+
+其中 $X$ 为屏蔽体的厚度 $\mathrm { . m m } )$ ， TVL 为屏蔽材料的什值层厚度（mm）， $\dot { H } _ { m }$ 为屏蔽体外剂量率的测量结果导出值 $\mathbf { \Pi } _ { \mathrm { \tiny { ( \mathfrak { A } G y / h ) } } }$ ， $\dot { H } _ { c }$ 屏蔽体外剂量率控制目标值（ $\cdot \mu \mathrm { G y } / \hslash )$ 。

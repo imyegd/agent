@@ -1,0 +1,11 @@
+展以及核医疗创新应用的需求，发展空间大、潜在社会经济效益突出。 $230\mathrm{MeV}\sim 2\mathrm{GeV}$ 的超导等时性加速器，包括等时性回旋加速器和CWFFA加速器，发展迅速。基
+
+于低温和高温超导技术的等时性加速器，已取得阶段性重要成果，已建成我国首台 $230\mathrm{MeV}$ 超导回旋加速器并在10余个空天科技研究单位得到应用，研究成果已转化用于癌症的质子治疗；正在研制和预研的3台等时性加速器，分别代表超轻型、超紧凑和高功率的3个前沿发展方向，在全球等时性加速器及其应用领域有广泛的影响力。
+
+衷心感谢TRIUMF、PSI、INFN-LNS以及国内外回旋加速器领域专家的长期支持；近期与Martin Grossmann、Antonio Caruso、Ken Fong和姚红娟、杨建俊、储诚节、钟俊晴、李明博士的有益讨论和电子邮件沟通；特别感谢G.Dutto、W.Joho、P.Sigg、L.Calabretta、R.Baartman、Y.Bylinskii等专家对100MeV紧凑型强流回旋加速器和2GeV高功率等时性加速器设计和建造所做出的贡献，G.Dutto因回旋加速器国际合作的突出贡献获得中国政府友谊奖。
+
+# 参考文献：
+
+[1] LAWRENCE E O, LIVINGSTON M S. Apparatus for the multiple acceleration of light ions to high speed[J]. Phys Rev, 1932, 40: 19.   
+[2] 张天爵, 樊明武, 安世忠, 等. CIAE 回旋加速器及应用综述[J]. 原子能科学技术, 2020, 54(增刊): 275-292. ZHANG Tianjue, FAN Mingwu, AN Shizhong, et al. Review of cyclotrons and their applications at CIAE[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 275-292(in Chinese).   
+[3] CRADDOCK M K, SYMON K R. Cyclotrons and fixed-field alternating-gradient accelerators[J].

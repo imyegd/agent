@@ -1,0 +1,1 @@
+率</td></tr><tr><td>直径/半高宽</td><td>束流尺寸σx, σy</td><td>打靶斑均匀性、功率密度</td></tr><tr><td>灰度分布</td><td>强度分布函数f(r)</td><td>能量沉积分布</td></tr><tr><td>质心位置</td><td>束流偏移 Δx, Δy</td><td>对准误差、场不对称</td></tr></table>

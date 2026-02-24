@@ -1,0 +1,5 @@
+urnal on Emerging Technologies in Computing Systems, 2022, 18(4): 1−50.   
+Mohsen  Imani,  Saransh  Gupta,  Yeseong  Kim,  et  al.[12] FloatPIM:  In-Memory  Acceleration  of  Deep  Neural Network Training with High Precision[C]//2019 ACM/IEEE 46th Annual International Symposium on Computer Architecture. Piscataway: IEEE, 2019: 802−815.   
+Minh S. Q. Truong, Eric Chen, Deanyone Su, et al. RACER:[13] Bit-Pipelined  Processing  Using  Resistive  Memory[C]// MICRO-54: 54th Annual IEEE/ACM International
+
+Symposi

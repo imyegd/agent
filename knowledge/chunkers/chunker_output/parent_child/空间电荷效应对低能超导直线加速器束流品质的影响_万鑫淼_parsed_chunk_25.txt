@@ -1,0 +1,11 @@
+6c7fddc1428dee9b7eba965ae8132def7a3808391bc4e86026bf059cdeb4.jpg)  
+(b) solenoid   
+Fig. 4    Beam outlet emittance (ε) corresponding to different focusing schemes and different $\eta$   
+图 4    不同聚焦方案与不同 $\eta$ 所对应的束流出口发射度。
+
+很明显，在螺线管和双组合四极透镜聚焦通道之间，束流的质量存在显著差异。对于双组合四极透镜通道，当 $\eta$ 为 0.7和 0.6，采用聚焦方案 $\textcircled{1}$ 时，束流出口处的发射度最大。而对于螺线管， $\eta$ 和聚焦方案似乎对束流质量没
+
+![](images/2cd05e05ffa365933d38f13976c9c36859505e249e6f3d91dbde6381585afb00.jpg)  
+(a) quadrupole doublet
+
+![](images/d32e43c0eecf52a4b4abeb09e347b12c

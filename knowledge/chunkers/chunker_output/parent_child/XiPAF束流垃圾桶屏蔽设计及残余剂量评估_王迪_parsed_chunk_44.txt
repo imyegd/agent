@@ -1,0 +1,6 @@
+# 参考文献
+
+1 王忠明, 陈伟, 邱孟通, 等. 西安 $2 0 0 \ \mathrm { M e V }$ 质子应用装置的 建 设 及 调 试 [J]. 现 代 应 用 物 理 , 2021, 12(3): 13 –26, 42.  
+WANG Zhongming, CHEN Wei, QIU Mengtong, et al. Construction and commissioning of Xi'an 200 MeV proton application facility[J]. Modern Applied Physics, 2021, 12(3): 13–26, 42.   
+2 王忠明, 王敏文, 闫逸花, 等. 西安 $2 0 0 \ \mathrm { M e V }$ 质子应用装置开放运行情况及下一步升级改造计划[J]. 现代应用物理, 2024, 15(4): 14–23. DOI: 10.12061/j.issn.2095-6223.2024.040402.  
+WANG Zhongming, WANG Minwen, YAN Yihua, et al. Current statu

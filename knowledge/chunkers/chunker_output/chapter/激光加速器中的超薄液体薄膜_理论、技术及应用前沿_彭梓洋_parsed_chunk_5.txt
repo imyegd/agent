@@ -1,0 +1,32 @@
+# 4 总结与展望
+
+超薄液体薄膜靶技术为高重频激光加速中的靶材
+
+表 2 国际上超薄液膜制备水平总结  
+Table 2 Summary of the state-of-the-art in ultra-thin liquid sheet preparation internationally   
+
+<table><tr><td>单位</td><td>制备方法</td><td>最薄厚度</td><td>喷嘴尺寸D(μm)</td><td>归一化厚度(h/D)</td></tr><tr><td>北京大学[16]</td><td>射流对撞法</td><td>238 nm</td><td>50</td><td>4.76</td></tr><tr><td>美国空军研究实验室[31]</td><td>射流对撞法</td><td>450 nm</td><td>30</td><td>15</td></tr><tr><td>塞格德大学[32]</td><td>射流对撞法</td><td>182 nm</td><td>11</td><td>16.5</td></tr><tr><td>帝国理工学院[33]</td><td>收束喷嘴</td><td>1.02 μm</td><td>69.8×18.4(D=24.1)</td><td>20.9</td></tr><tr><td>西点军校[34]</td><td>收束喷嘴</td><td>250 nm</td><td>260×30(D=48.8)</td><td>10.4</td></tr></table>
+
+![](images/f3a3f5bca4a8c731c0de3b6352af7b2c8892fed8c59f0ce6ec50a1d55cb11498.jpg)  
+图4 液膜真空循环系统示意图
+
+![](images/6cee5cf3151599522ec2a98b3590eb63b891669e2121566b8870537d035759c7.jpg)  
+Figure 4 Schematic diagram of LST vacuum circulation system   
+(b)
+
+![](images/ae34aeff00af008fc41d02061b3dbf9670b5f8658d399178950fb7777572c57a.jpg)
+
+![](images/718039b584dc0e022d0d3e7e5bf42ab0700d3f011497e2c65f1ab7a146f3afce.jpg)  
+(c)   
+图5 刀边成像法测量焦点源尺寸. (a) 实验设置; (b) IP板刀边成像; (c) 刀边扩散函数和线扩散函数的拟合  
+Figure 5 Measurement of focal spot size using the knife-edge imaging method. (a) Experimental setup; (b) knife-edge image on the IP plate; (c) fitting of the edge spread function and the line spread function
+
+瓶颈提供了极具前景的解决方案。本文系统介绍了北京大学在液膜靶制备、原位表征与厚度理论等方面的系列创新工作：(1) 研发了集成厚度、平整度、位置与指向性测量的原位在线表征系统，实现了液膜关键参数的实时监控与精准解析；(2) 通过三元液相方法建立了包含黏性效应的厚度分布理论模型，为液膜厚度的主动调控奠定了理论基础，并在国际上率先制备出归
+
+一化厚度低于5的超薄液膜，推动了液膜厚度进入百纳米级范畴；(3) 基于飞秒激光实现了液膜高重频打靶，将其用于激光粒子加速器和激光等离子体光源的研究。
+
+尽管液膜靶研究已取得显著进展，未来仍面临诸多挑战与发展机遇。首先，推动液膜靶在激光质子治疗、中子源、辐射光源等领域的应用示范，加速其从实验室走向实际应用是核心目标；其次，进一步减薄液
+
+膜厚度并提高其稳定性, 发展针对亚 $100 \mathrm{~nm}$ 液膜的制备技术对于激光加速器的高能输出具有重要意义; 最后, 加强跨学科合作, 探索液膜在化学合成、生物成像、能源材料等新兴领域的应用潜力. 可以预见, 随着
+
+液膜制备技术的不断突破与理论模型的日益完善，超薄液体薄膜靶将在高重频激光加速器及相关前沿领域发挥越来越重要的作用，为小型化、高性能加速器和先进光源的发展提供关键技术支持。

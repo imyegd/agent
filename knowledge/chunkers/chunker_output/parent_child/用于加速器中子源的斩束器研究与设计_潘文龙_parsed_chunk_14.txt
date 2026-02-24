@@ -1,0 +1,10 @@
+# 1.2   斩束器电磁学模拟
+
+斩束器电磁学模拟 CST Studio Suite软件，束流动力学模拟采用 TraceWin软件，程序参数根据本套加速器中子源低能束流传输线提供参数，束流参数如表 1所示。其中 $E$ 表示能量、I 为流强、duty 为束流占空比、ε为束流发射度、 $\alpha$ 与 $\beta$ 为束流 TWISS参数。
+
+斩束器设计偏转距离 $H { = } 1 9 . 5 ~ \mathrm { c m }$ ， $L ^ { \prime }$ 取 $4 0 ~ \mathrm { m m }$ ，根据束流模拟结果选定极板间距 $d { = } 6 0 ~ \mathrm { m m }$ ，极板宽度为 $8 0 ~ \mathrm { m m }$ ，
+
+表  1    束 流 参 数  
+Table 1    Parameters of beam current   
+
+<table><tr><td>E/keV</td><td>I/mA</td><td>duty/%</td><td>ε/(π·mm·mrad)</td><td>α</td><td>β/(mm·π-1·mrad

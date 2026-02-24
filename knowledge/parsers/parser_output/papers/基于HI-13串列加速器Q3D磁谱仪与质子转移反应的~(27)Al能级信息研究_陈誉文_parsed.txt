@@ -1,0 +1,159 @@
+# 基于 HI-13 串列加速器 Q3D 磁谱仪与质子转移反应的27Al 能级信息研究
+
+陈誉文1，李云居1,*，郭　冰1,*，颜胜权1，董　超1，张　扬1，张玉强1，田竣文1，李家英豪1， 曹富强1，南　巍1，侯江林1，朱铭浩1，张智程1，郭昌鑫1，陈　晨1，蒋宇辰1， 李志宏1，王友宝1，曾　晟1，谌阳平1，柳卫平1,2
+
+（1. 中国原子能科学研究院 核物理研究所，北京　102413；2. 南方科技大学，广东 深圳　518055）
+
+摘要：27Al激发态的能级信息在核结构、核天体等领域有重要意义，但目前国际上对其高激发态的能级研究有限，许多能级的自旋宇称等信息仍具争议。本工作依托中国原子能科学研究院的 HI-13串列加速器和高精度 Q3D磁谱仪，测量了质子转移反应 $\mathrm { ^ { 2 6 } M g ( ^ { 7 } L i , ^ { 6 } H e ) ^ { 2 7 } A l }$ 的角分布。通过角分布数据结合扭曲波玻恩近似（DWBA）方法与 FRESCO 程序提取了 $7 ~ 8 5 8 , \ : 8 \ : 3 2 4 , \ : 9 \ : 0 8 0 \ : \mathrm { k e V }$ 激发态的质子谱因子，确定了 3个态的转移角动量和宇称。对于 $9 0 8 0 \mathrm { k e V }$ 激发态，通过对角分布的分析，提出了与国际核数据中心所收录的不同的自旋宇称。
+
+关键词：Al丰度；DWBA方法；质子转移反应
+
+中图分类号：TL11
+
+文献标志码：A
+
+文章编号：1000-6931（2025）00-0001-05
+
+doi：10.7538/yzk.2025.youxian.0328
+
+# Study on 27Al Energy Level Information Based on Q3D Spectrograph at HI-13 Tandem Accelerator and Proton Transfer Reactions
+
+CHEN Yuwen1,  LI Yunju1,*,  GUO Bing1,*,  YAN Shengquan1,  DONG Chao1,  ZHANG Yang1,
+
+ZHANG Yuqiang1,  TIAN Junwen1,  LI Jiayinghao1,  CAO Fuqiang1,  NAN Wei1,  HOU Jianglin1,
+
+ZHU Minghao1,  ZHANG Zhicheng1,  GUO Changxin1,  CHEN Chen1,  JIANG Yuchen1,
+
+LI Zhihong1,  WANG Youbao1,  ZENG Sheng1,  SHEN Yangping1,  LIU Weiping1,2
+
+(1. Department of Nuclear Physics, China Institute of Atomic Energy, Beijing 102413, China;
+
+2. Southern University of Science and Technology, Shenzhen 518055, China)
+
+Abstract: $^ { 2 7 } \mathrm { A l }$ is  the  only  stable  isotope  of  aluminum,  is  an  odd-proton  nucleus.  The  energy  level information of its ground and excited states helps test the predictive power of nuclear models, such as the  shell  model  and  collective  models  (e.g.,  rotational  and  vibrational  models).  Its  level  transition properties also provide insights into the collective and single-particle behavior of nucleons, aiding in the understanding of nuclear deformation. On the other hand, Al plays a significant role in other fields, such
+
+as nuclear astrophysics and gamma-ray astronomy. Studying nuclear reactions involving $^ { 2 7 } \mathrm { A l }$ requires a thorough understanding of its excited-state level structure, particularly near the reaction threshold, it is now crucial to determine the spectroscopic information of $^ { 2 7 } \mathrm { A l }$ , such as spin-parity assignments. In this work, the angular distributions of the proton transfer reaction $^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 6 } H e ) ^ { 2 7 } A l }$ were measured using the HI-13 Tandem Accelerator and a high-precision Q3D magnetic spectrograph. Previous international studies  have  rarely  investigated  the  (7Li, 6He)  transfer  reaction  system.  This  reaction  provides  unique capabilities  for  populating  excited  states  that  are  difficult  to  measure  via  other  transfer  reactions  or direct reactions. Furthermore, our research group’s accumulated experimental results using this reaction system have consistently demonstrated both its reliability and unique scientific merit. In the same time, this also marks the first measurement of this reaction using the indirect proton-transfer method with $^ \mathrm { 7 L i }$ , providing  complementary  data  to  previous  results  obtained  via 3He  proton  transfer  and  direct measurements.  Importantly,  this  approach  may  populate  excited  states  in $^ { 2 7 } \mathrm { A l }$ that  are  inaccessible through conventional $^ 3 \mathrm { H e }$ -induced reactions, representing a significant exploratory study of $^ { 2 7 } \mathrm { A l }$ excited states. Additionally, elastic scattering measurements were conducted for the entrance channel to extract the  optical  potential  in  the  Woods-Saxon  form.  To  eliminate  other  potential  influences,  single-folded potentials were also employed to fit the angular distributions of the entrance channel as a cross-check. For  the  exit  channel,  since  no  elastic  scattering  data  were  measured  in  this  experiment,  two  sets  of elastic scattering angular distributions from neighboring nuclei in the literature were used for extraction. Through  the  aforementioned  approach,  potential  influences  of  optical  potential  selection  on  the  final results have been minimized. The final uncertainty in the optical potential was determined by averaging the  results  from  multiple  sets  of  optical  potentials.  By  analyzing  the  angular  distributions  with  the distorted  wave  Born  approximation  (DWBA)  method  and  FRESCO  code,  the  proton  spectroscopic factors  for  three  states  were  extracted  and  their  transferred  angular  momenta  and  parities  were determined. For the excited state at $9 0 8 0 \mathrm { k e V }$ , the analysis of the angular distributions suggests a spinparity  assignment  that  differs  from  the  one  listed  in  the  National  Nuclear  Data  Center.  Compared  to conventional direct measurements and indirect approaches using (3He, d) or (d, n) transfer reactions, the (7Li, $^ { 6 } \mathrm { H e } )$ )  reaction  system  offers  unique  advantages.  It  provides  complementary  constraints  to  other experimental  studies  and  can  help  resolve  discrepancies,  particularly  for  uncertain  level  information. Future work will employ this reaction to investigate energy levels of additional key nuclides.
+
+Key words: Al abundance; DWBA method; proton transfer reaction
+
+$^ { 2 7 } \mathrm { A l }$ 是唯一稳定 Al 同位素，作为一个奇质子核，其基态核激发态的能级信息有助于人们检测壳模型、集体模型（如转动和振动模型）的预测能力，它的能级跃迁特性也有助于人们研究核子的集体和单粒子行为，帮助理解原子核的形变问题。另一方面，Al 在其他领域，如核天体、伽马天文学也有重要的意义[1]，人们对其参与的核反应进行研究也要求对 $^ { 2 7 } \mathrm { A l }$ 尤其在阈值附近的激发态能级信息有充分的了解。
+
+但目前对 $^ { 2 7 } \mathrm { A l }$ 质子发射阈上的研究较少，许多重要能级的自旋、宇称等信息都尚未确定或是
+
+可能有误。在距今较早的研究中，对 $^ { 2 7 } \mathrm { A l }$ 能级信息的了解主要依赖于 $^ { 2 4 } \mathrm { M g } (  { \mathrm { a } } ,  { \mathbf { p } } \gamma ) ^ { 2 7 } \mathrm { A l }$ 反 应 [ 2 ] ，$^ { 2 7 } \mathrm { A l }$ 对质子和 $\mathfrak { a }$ 粒子的非弹性散射[3-4] 及一些质子转移反应体系如 $\mathrm { ( ^ { 3 } H e , d ) }$ 转移与 $^ { ( \mathrm { d } , \mathrm { n } ) }$ 转移[5]，尚未有基于 $( ^ { 7 } \mathrm { L i } , ^ { 6 } \mathrm { H e } )$ 转移的实验研究。根据这些实验结果来看，目前对高能级的认识仍不足。以往国际上的研究中较少涉及 $( ^ { 7 } \mathrm { L i } , ^ { 6 } \mathrm { H e } )$ 转移反应体系，通过该反应能布居一些其他转移反应或是直接反应难以测量的激发态，具有独特的研究价值，借助中国原子能科学研究院的 HI-13 串列加速器以及高精度 Q3D 磁谱仪，可对 $^ { 2 7 } \mathrm { A l }$ 的能级信息做进一步
+
+的研究。
+
+本次实验中采取 $\mathrm { ( ^ { 7 } L i , ^ { 6 } H e ) }$ 体系对27Al的3个近阈激发态进行测量，结合扭曲波玻恩近似（DWBA）分析，拟合得到入射道的 Woods-Saxon 形式的光学势参数，对能级的自旋宇称进行约束，与以往文献的数据进行对比和检验，同时结合已有精确数据的7Li质子谱因子[6-7]，计算对应的27Al质子谱因子。
+
+# 1 实验测量
+
+实验在北京HI-13串列加速器的Q3D磁谱仪[8]上完成。实验中使用 100 enA、 $4 2 \mathrm { M e V }$ 的7Li 束流轰击厚度 $4 4 ~ { \mu \mathrm { g } } / { \mathrm { c m } } ^ { 2 }$ 的 $^ { 2 6 } \mathrm { M g }$ 金属靶，并用丰度$9 5 \%$ 的天然 $^ { 2 4 } \mathrm { M g }$ 靶分析本底影响。束流归一依靠位于 $0 ^ { \circ }$ 位置的可移动法拉第筒。同时在 $3 0 ^ { \circ }$ 处放置了 ΔE-E 计数器监测弹性散射事件，其也作为小角度测量的相对归一标准。出射粒子通过固定立体角为 $3 . 2 6 ~ \mathrm { m s r }$ 的 Q3D 磁谱仪聚焦分析后，由焦平面探测器阵列测量，该阵列包含 6 组 X4 硅探测器，每组有效探测长度 $7 5 ~ \mathrm { m m }$ ，最小位置分辨率$0 . 4 ~ \mathrm { m m }$ ，探测器以 $5 5 ~ \mathrm { m m }$ 间距安装于高精度移动
+
+平台。通过 $6 5 ~ \mathrm { m m }$ 位移可覆盖 $7 9 0 ~ \mathrm { m m }$ 焦平面范围，两次位移测量获得的光谱可拼接为完整谱图。更多类似实验配置可参阅组内以前的工作[9-14]。本次实验在 $3 ^ { \circ } \leqslant \theta _ { \mathrm { l a b } } \leqslant 1 5 ^ { \circ }$ 范围内以 $1 ^ { \circ }$ 为间隔测量$^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 6 } H e ) ^ { 2 7 } A l }$ 反应在阈能附近 3 个态的微分截面，并在 $1 0 ^ { \circ } \leqslant \theta _ { \mathrm { l a b } } \leqslant 4 0 ^ { \circ }$ 范围内以 $1 ^ { \circ }$ 为间隔测量$^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 7 } L i ) ^ { 2 6 } M g }$ 弹性散射微分截面以获取入射道光学势参数。
+
+# 2 数据分析
+
+图1示出了在实验室系 $6 ^ { \circ }$ 下的焦平面位置谱。由于靶面存在一定的氧化层，所以实验中也存在来自 $^ { 1 6 } \mathrm { O } ( ^ { 7 } \mathrm { L i } , ^ { 6 } \mathrm { H e } ) ^ { 1 7 } \mathrm { F }$ 的干扰，但如图1所示，通过Q3D磁谱仪可将来自 $^ { 1 6 } \mathrm { O } ( ^ { 7 } \mathrm { L i } , ^ { 6 } \mathrm { H e } ) ^ { 1 7 } \mathrm { F }$ 和 $^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 6 } H e ) ^ { 2 7 } A l }$ 反应的事件分开。同时结合了明显的 $^ { 1 7 } \mathrm { F }$ 基态位置和运动学模拟，可清楚分辨出阈值附近的多个激发态，来自各激发态的事件已标识在图中。所有角度下的激发态角分布如图 2 所示，另外也测量了 $^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 7 } L i ) ^ { 2 6 } M g }$ 弹性散射角分布以获取入射道光学势参数，其结果展示在图3中。
+
+![](images/23d56c256110dc05f6d565456835d638c1c3f53fa5753265368921f2d4cfe0e0.jpg)
+
+![](images/419d77dea6daf81d01ef5fe4c176cd3a3d3fa4ed7469b924ab2c90851ad78ef4.jpg)  
+图 1    实验室系 $6 ^ { \circ }$ 下的焦平面位置谱  
+Fig. 1    Focal-plane position spectrum at $6 ^ { \circ }$ in laboratory system
+
+一般，在确定入射道与出射道光学势时，常采用 Woods-Saxon 形式的光学势拟合实验角分布。拟 合 时 通 常 关 注 光 学 势 的 主 导 体 积 项 ， 而DWBA 计算中表面项、自旋轨道耦合项等可能具有物理意义的项或许会导致理论与实验结果有差异。为消除这一潜在影响，本研究在 DWBA 计算中同时采用 Woods-Saxon 形式光学势与单折叠势（single-folding potential，SFP）进行对比验证。单折叠势基于折叠模型计算，其核心思想是将靶核的复杂结构“折叠”成一个等效的平均场势，其需
+
+要两个基本输入量：有效核-核相互作用势与描述靶核的单体密度矩阵。折叠过程通过卷积两个核的单体密度矩阵元获得折叠势[9-10]。
+
+单折叠势可表示为：
+
+$$
+U (r) = \int U _ {\mathrm {N T}} (| R + r |) \rho_ {\mathrm {N}} (r) \mathrm {d} r \tag {1}
+$$
+
+其中： $\rho _ { \mathrm { N } } ( r )$ 为入射粒子质心系中位置 $r$ 处的核子（质子或中子）密度分布； $U _ { \mathrm { N T } } ( | R + r | )$ 为自由核子与靶核之间的相互作用。入射道和出射道的光学势均采用 JLMB 模型[16] 计算，并通过单折叠势拟合弹性散射角分布（图 3）。为进行对比，还拟合
+
+![](images/79dcd1ffc1a72be38c3cd7a0793dee5fbe44099e78260d0df075f27f20532ddd.jpg)  
+图 2    使用 FRESCO 计算得到的角分布与实验角分布
+
+![](images/9a86e813404ef9e6ef354a79ce5fae1073eff88d01a8f9ee9e39a2ec52b6aa91.jpg)  
+Fig. 2    Angular distribution from FRESCO calculation and experiment   
+图 3    单折叠势（SFP）和 Woods-Saxon 势（OMP）的拟合结果  
+Fig. 3    Fitting results for single-folding potential and Woods-Saxon potential
+
+了两组 Woods-Saxon 形式的光学势参数。
+
+Woods-Saxon 形式的光学势如下：
+
+$$
+U (r) = - \left[ \frac {U _ {V}}{1 + \exp \left(\frac {r - R _ {\mathrm {R}}}{a _ {\mathrm {R}}}\right)} + \frac {\mathrm {i} W _ {V}}{1 + \exp \left(\frac {r - R _ {\mathrm {I}}}{a _ {\mathrm {I}}}\right)} \right] \tag {2}
+$$
+
+其中： $U _ { V }$ 和 $W _ { V }$ 分别为实部和虚部的势阱深度；$R _ { i } = r _ { i } A ^ { 1 / 3 }$ ， $A$ 为靶核的质量数； $r$ 和 $a$ 分别为弥散和半径参数，其下标 I 和 R 分别对应虚部及实部。从使用 Woods-Saxon 形式光学势与单折叠势的拟合结果来看，两者高度一致且与实验结果符合，证明光学势中其他项对DWBA计算的影响较小。
+
+出射道方面，选取了两组来自相近能量下的邻近核光学势 $^ { 2 7 } \mathrm { A l } + ^ { 6 } \mathrm { L i } ^ { [ 1 2 ] }$ 及 $^ { 2 8 } \mathrm { S i ^ { + } } ^ { 6 } \mathrm { L i ^ { [ 1 3 ] } }$ 。最终的角
+
+分布计算采用 DWBA 程序 FRESCO[14]，且半径和弥散使用了标准值 $r = 1 . 2 5 \ \mathrm { f m }$ ， $a = 0 . 6 5 \ \mathrm { f m }$ 。所有本次计算中的参数均列于表 1，同时图 2 展示了3个激发态的实验测量角分布与理论计算角分布。
+
+表 1 Woods-Saxon 势参数  
+Table 1 Woods-Saxon potential parameters   
+
+<table><tr><td>来源</td><td>Elab/MeV</td><td>VR</td><td>aR</td><td>rR</td><td>WI</td><td>aI</td><td>rI</td></tr><tr><td>入射道1</td><td>42</td><td>154.25</td><td>1.52</td><td>0.57</td><td>17.3</td><td>1.85</td><td>0.89</td></tr><tr><td>入射道2</td><td>42</td><td>196.79</td><td>1.48</td><td>0.58</td><td>19.8</td><td>1.79</td><td>0.89</td></tr><tr><td>27Al+6Li</td><td>34</td><td>206</td><td>1.21</td><td>0.75</td><td>17.5</td><td>1.85</td><td>0.80</td></tr><tr><td>28Si+6Li</td><td>27</td><td>141</td><td>1.15</td><td>0.91</td><td>15.0</td><td>1.91</td><td>0.81</td></tr></table>
+
+$^ { 2 7 } \mathrm { A l }$ 的谱因子通过下式得到：
+
+$$
+(\mathrm {d} \sigma / \mathrm {d} \Omega) _ {\exp} = S _ {7 \mathrm {L i}} S _ {2 7 \mathrm {A l}} (\mathrm {d} \sigma / \mathrm {d} \Omega) _ {\mathrm {D W B A}} \tag {3}
+$$
+
+其中， $( \mathrm { d } \sigma / \mathrm { d } \varOmega ) _ { \mathrm { D W B A } }$ 和 $( \mathrm { d } \sigma / \mathrm { d } \varOmega ) _ { \mathrm { e x p } }$ 分别表示通过DWBA计算和实验测得的微分截面。根据以往的研究结果， $S _ { \mathrm { \Delta \ v _ { L i } } }$ 的值为 $0 . 4 2 ^ { [ 6 - 7 ] }$ ，由此再对比理论和实验的角分布可得到 $S _ { ^ { 2 7 } \mathrm { A l } }$ 的值。最终的谱因子由前文提到的 6 套光学势组合平均得到，详细结果列于表2。表 3 列出了 3 个激发态对应的转移角动量与谱因子。
+
+表 2 不同光学势组合得到的谱因子结果  
+Table 2 Spetroscopic factor from different sets of OMP parameters   
+
+<table><tr><td rowspan="2">激发态能量/ MeV</td><td colspan="7">不同光学势组合得到的谱因子</td></tr><tr><td>Set1</td><td>Set2</td><td>Set3</td><td>Set4</td><td>Set5</td><td>Set6</td><td>总计</td></tr><tr><td>7.858</td><td>0.153</td><td>0.178</td><td>0.175</td><td>0.202</td><td>0.174</td><td>0.201</td><td>0.181(20)</td></tr><tr><td>8.952</td><td>0.017</td><td>0.022</td><td>0.021</td><td>0.025</td><td>0.011</td><td>0.025</td><td>0.020(2)</td></tr><tr><td>9.080</td><td>0.047</td><td>0.048</td><td>0.046</td><td>0.054</td><td>0.046</td><td>0.054</td><td>0.049(5)</td></tr></table>
+
+注：Set1 为 ${ \mathrm { S F P + } }$ 出射道 1 $^ { 2 7 } \mathrm { A l } + ^ { 6 } \mathrm { L i }$ ）；Set2 为 ${ \mathrm { S F P + } }$ 出射道2 $^ { 2 8 } \mathrm { S i } { + } ^ { 6 } \mathrm { L i }$ ）；Set3 为入射道 $1 +$ 出射道 1；Set4 为入射道 1+出射道 2；Set5 为入射道 $^ { 2 + }$ 出射道 1；Set6 为入射道 $^ { 2 + }$ 出射道 2
+
+对于 $7 8 5 8 \ \mathrm { k e V }$ 激发态，转移角动量 $l = 2$ ，自旋宇称 $3 / 2 ^ { + }$ ，与 NNDC 收录的结果一致。 $8 9 5 2 \mathrm { k e V }$ 激发态收录的候选自旋为 5/2 与 9/2，宇称为正，结果倾向于 $5 / 2 ^ { + }$ 。
+
+值得一提的是，根据 1970 年的 $^ { 2 6 } \mathrm { M g ( d , n ) ^ { 2 7 } A l }$ 实验的结果[5]，更高能的 $9 \ 0 8 0 \mathrm { k e V }$ 激发态的自旋宇称被指定为 $1 / 2 ^ { + }$ 。但从本次测量角分布和DWBA 计算来看，认为其更倾向于是一个 $l = 2$ 的转移而非 $l = 0$ 的转移，图 4 展示了两种转移角动
+
+表 3 转移角动量与对应的自旋宇称以及最终的谱因子  
+Table 3 Spin-parity values corresponding transferred orbital angular momentum and the final spectroscopic factor   
+
+<table><tr><td>EX/keV</td><td>Jπ</td><td>l</td><td>S</td></tr><tr><td>7858</td><td>3/2+</td><td>2</td><td>0.181(20)</td></tr><tr><td>8952</td><td>5/2+</td><td>2</td><td>0.020(2)</td></tr><tr><td>9080</td><td>5/2+</td><td>2</td><td>0.049(5)</td></tr></table>
+
+量对应的结果。根据计算结果，最终认为其自旋宇称为 $5 / 2 ^ { + }$ 。所有态的谱因子结果误差来源分别是光学势误差（由对应该激发态的 6 种光学势组合计算结果平均得到）、测量误差 $( 5 \% )$ ）以及 $^ \mathrm { 7 L i }$ 的谱因子误差（ $10 \%$ ）[6-7]，根据误差传递公式， $^ { 2 7 } \mathrm { A l }$ 谱因子的相对误差由下式得到：
+
+$$
+\epsilon_ {\mathrm {A l}} ^ {2} = \epsilon_ {\mathrm {L i}} ^ {2} + \epsilon_ {\mathrm {O M P}} ^ {2} + \epsilon_ {\mathrm {D}} ^ {2} \tag {4}
+$$
+
+![](images/ec717592991f8807bbce9b1e74276d957a6ba9d2b4878b0a60b25e01a052cf63.jpg)  
+图 4 $9 0 8 0 \mathrm { k e V }$ 激发态的角分布计算结果  
+Fig. 4    Calculated angular distribution of $9 0 8 0 \mathrm { k e V }$ state
+
+# 3 结语
+
+本次工作系首次通过 $^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 6 } H e ) ^ { 2 7 } A l }$ 转移反应对 $^ { 2 7 } \mathrm { A l }$ 的激发态进行研究，依托 HI-3 串列加速器和高精度 Q3D 磁谱仪装置对 3 个激发态的角分布完成测量，同时也获取了 $^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 7 } L i ) ^ { 2 6 } M g }$ 弹性散射角分布的数据并拟合得到相应的Woods-Saxon 形式的光学势参数。结合 DWBA 程序FRESCO 对实验测得的角分布进行分析，通过转移角动量对 3 个激发态的自旋宇称做出约束，纠正了早期可能存在问题的实验结论，同时计算了3 个激发态相应的质子谱因子。与传统的直接测量及 $( ^ { 3 } \mathrm { H e } , \mathrm { d } )$ 、(d,n) 转移反应间接测量相比较，$( ^ { 7 } \mathrm { L i } , ^ { 6 } \mathrm { H e } )$ 体系具有其独特的优势，能与其他实验研究形成对照或是纠正，对某些尚未确定的能级信息做出约束，未来计划利用该反应对更多的重
+
+要核素如 $^ { 1 8 } \mathrm { O }$ 、 $^ { 2 6 } \mathrm { A l }$ 、 $^ { 2 7 } \mathrm { S i }$ 的能级信息进行研究。
+
+# 参考文献：
+
+ARCONES  A,  BARDAYAN  D  W,  BEERS  T  C,  et  al.［1］ White paper on nuclear astrophysics and low energy nuclear physics, Part 1: Nuclear astrophysics[J]. Progress in Particle and Nuclear Physics, 2017, 94: 1-67.   
+LICKERT  M,  BRENNEISEN  J,  GLATZ  F,  et  al. The［2］ structure  of 27Al[J]. Zeitschrift  für  Physik  A, 1988, 331(4): 409-432.   
+WESTERFELDT C R, MITCHELL G E, BILPUCH E G,［3］ et al. High resolution study of the $^ { 2 6 } \mathrm { M g } ( \boldsymbol { \mathsf { p } } , \boldsymbol { \mathsf { p } } )$ reaction[J]. Nuclear Physics A, 1978, 303(1/2): 111-120.   
+ENDT P M. Energy levels of［4］ $\scriptstyle A = 2 1 - 4 4$ nuclei (Ⅶ)[J]. Nuclear Physics A, 1990, 521: 1-400.   
+UZUREAU J, ADAM A, JOLY S. Étude des niveaux du［5］ noyau $^ { 2 7 } \mathrm { A l }$ par  la  réaction $^ { 2 6 } \mathrm { M g ( d , \ n ) ^ { 2 7 } A l [ J ] }$ . Nuclear Physics A, 1975, 250(1): 163-181.   
+LAPIKÁS  L,  WESSELING  J,  WIRINGA  R  B. Nuclear［6］ structure  studies  with  the 7Li(e,  e’p)  reaction[J]. Physical Review Letters, 1999, 82(22): 4404-4407.   
+LI  Zhihong,  LI  Ertao,  GUO  Bing,  et  al. First  measure-［7］ ment of the ${ } ^ { 2 } \mathrm { H } ( ^ { 6 } \mathrm { H e } , \mathrm { \Delta } ^ { 7 } \mathrm { L i } ) \mathrm { n }$ angular distribution and proton spectroscopic  factor  in 7Li[J]. The  European  Physical Journal A, 2010, 44(1): 1-5.   
+LI Zhichang, CHENG Yehao, YAN Chen, et al. Beijing［8］ Q3D  magnetic  spectrometer  and  its  applications[J]. Nuclear  Instruments  and  Methods  in  Physics  Research  A, 1993, 336(1-2): 150-161.   
+PANG D Y, YE Y L, XU F R. Application of the Bruy-［9］ eres  Jeukenne-Lejeune-Mahaux model  potential  to   composite  nuclei  with  a  single-folding  approach[J]. Physical Review C, 2011, 83(6): 064619.   
+XU Y P, PANG D Y. Toward a systematic nucleus nucle-［10］ us  potential  for  peripheral  collisions[J]. Physical  Review C, 2013, 87(4): 044605.   
+BAUGE E, DELAROCHE J P, GIROD M. Lane-consis-［11］ tent,  semimicroscopic  nucleon-nucleus  optical  model[J]. Physical Review C, 2001, 63(2): 024607.   
+CIANGARU G, McGRATH R L, CECIL F E. A micro-［12］ scopic DWBA analysis of (6Li, 6He) reactions[J]. Nuclear Physics A, 1982, 380(1): 147-169.   
+VINEYARD M F, COOK J, KEMPER K W. Large-angle［13］ ${ } ^ { 6 } \mathrm { L i } ^ { 2 8 } \mathrm { S i }$ elastic and inelastic scattering at 27 and 34 MeV [J]. Nuclear Physics A, 1983, 405(2): 429-444.   
+THOMPSON I J. Coupled reaction channels calculations［14］ in  nuclear  physics[J]. Computer  Physics  Reports, 1988, 7(4): 167-212.

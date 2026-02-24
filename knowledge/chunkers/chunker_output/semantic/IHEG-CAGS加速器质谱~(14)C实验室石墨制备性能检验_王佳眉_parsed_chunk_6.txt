@@ -1,0 +1,9 @@
+够实现固体样品全自动燃烧和石墨化，通常用于制备土壤、植物残体或湖泊沉积物的总有机碳（TOC）石墨样品［12～13］ 。原始样品在 EA中通过 $1 6 ~ \mathrm { m l / m i n }$ 的 $\mathbf { 0 } _ { 2 }$ 燃 烧 $5 0 \ \mathrm { s }$ s，产 生 的 $\mathrm { C O } _ { 2 }$ 通 过 载 气 氦 气 （He，$1 8 0 ~ \mathrm { m l / m i n }$ ）运输，被吸附到AGE3的沸石分子筛捕集器上，随后通过加热沸石捕集器至 $4 2 0 \ \mathrm { { ^ \circ C } }$ 释放，并通过 He输送到指定的石墨化反应器；CHS2-AGE配置专为石墨化溶解性无机碳（DIC）或碳酸盐设计，CHS2-AGE比 EA-AGE更为复杂和耗时，水或碳酸盐样品在 CHS2中进行“氦气洗瓶 注酸 $\longrightarrow$ 洗针 酸化反应 $\longrightarrow$ 取样”一系列流程，耗时约 1.5～$2 . 0 \mathrm { ~ h ~ }$ ，然后 $\mathrm { C O } _ { 2 }$ 同样经吸附并释放到AGE3的反应器中进行石墨化；MCD-AGE针对气体样品的石墨化而设计，其操作相对简便，只需要陆续将装载$\mathrm { C O } _ { 2 }$ 气体的玻璃管装入波纹破管器，通入载气，破碎玻璃管释放气体，更换玻璃管并开始石墨化反应。一台AGE3配备了 7个独立运行的石墨化反应单元，反应单元可保留至多 $1 ~ \mathrm { m g C }$ 当量的 $\mathrm { C O } _ { 2 }$ 气体，多余的 $\mathrm { C O } _ { 2 }$ 通过分子筛被排出。为确保反应的一致性，标准样品的石墨化过程均以 $1 ~ \mathrm { m g C }$ 为标准，样品回收率 $> 9 2 \%$ 。每个单元由还原管及配套
+
+![](images/7b10f28b3af336b5f638e59c8b7820ffe279db6164b07ef960bd9d7c951fa090.jpg)  
+图 1 AMS－14C石墨化原理
+
+![](images/0dbe2cf6d742b012445cc45accc9d5a40f92c5cf24f536354faf1a656a76d66b.jpg)  
+Fig.1 GraphitizationmechanismofAMS $^ { 1 4 } \mathrm { C }$   
+图 2 AGE3系统的石墨化制备流程  
+Fig.2 GraphitizationprocessofAGE3system

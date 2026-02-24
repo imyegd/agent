@@ -1,0 +1,3 @@
+[15] ZHANG T, LI Z, CHU C. CYCIAE-100, a 100 MeV H-cyclotron for RIB production[J]. Nucl Instrum Methods Phys Res B, 2007, 261(1/2): 1027-1031.   
+[16] ZHANG Tianjue, AN Shizhong, BIAN Tianjian, et al. A new solution for cost effective, high average power (2 GeV, 6 MW) proton accelerator and its R&D activities[C]/22nd International Conference on Cyclotrons and their Applications (CYC2019). Cape Town: [s. n.], 2019.   
+[17] BAARTMAN R A. Intensity limitations in compact $\mathsf{H}^-$ cyclotrons[C]/Proceedin

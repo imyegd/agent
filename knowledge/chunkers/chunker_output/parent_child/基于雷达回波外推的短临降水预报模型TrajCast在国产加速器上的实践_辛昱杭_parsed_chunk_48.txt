@@ -1,0 +1,4 @@
+neural information processing systems, 2017, 30: 879-888.   
+[12] SØNDERBY C K, ESPEHOLT L, HEEK J, et al. Metnet: A neural weather model for precipitation forecasting[J]. arXiv preprint arXiv:2003.12140, 2020.   
+[13] SHI X, GAO Z, LAUSEN L, et al. Deep learning for precipitation nowcasting: A benchmark and a new model[C]// Advances in neural information processing systems, 2017, 30: 5617-5627.   
+[14] SIAM M, VALIPOUR S, JAGERSAND M, et al. Convolutional gated recurrent networks for video segmentation[C]

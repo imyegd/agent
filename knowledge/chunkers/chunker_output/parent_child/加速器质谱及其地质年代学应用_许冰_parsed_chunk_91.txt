@@ -1,0 +1,6 @@
+mbda_ {\mathrm {B}}\right) \tag {21}
+$$
+
+公式（20）～（21）中， $R _ { \mathrm { A B } }$ 是两核素 $C _ { \mathrm { { A } } }$ 和 $C _ { \mathrm { B } }$ 的比值，而 $t _ { \mathrm { b } }$ 是埋藏年龄， $\lambda _ { \mathrm { ~ A ~ } }$ 和 $\lambda _ { \mathrm { ~ B ~ } }$ 是两核素的衰变常数； $R _ { \mathrm { A B } } ( 0 )$ 和 $R _ { \mathrm { A B } } \left( \mathrm { \Delta } t _ { \mathrm { b } } \right)$ ）分别是起始时间和测得时间的核素比值。
+
+目前常用的，用于埋藏年龄的核素对包括$^ { 1 0 } \mathrm { B e } - ^ { 2 6 } \mathrm { A l }$ l， $^ { 1 4 } \mathrm { C } - ^ { 1 0 } \ma

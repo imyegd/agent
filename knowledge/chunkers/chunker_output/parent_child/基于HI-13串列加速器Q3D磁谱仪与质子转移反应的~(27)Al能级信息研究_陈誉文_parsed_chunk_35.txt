@@ -1,0 +1,5 @@
+# 参考文献：
+
+ARCONES  A,  BARDAYAN  D  W,  BEERS  T  C,  et  al.［1］ White paper on nuclear astrophysics and low energy nuclear physics, Part 1: Nuclear astrophysics[J]. Progress in Particle and Nuclear Physics, 2017, 94: 1-67.   
+LICKERT  M,  BRENNEISEN  J,  GLATZ  F,  et  al. The［2］ structure  of 27Al[J]. Zeitschrift  für  Physik  A, 1988, 331(4): 409-432.   
+WESTERFELDT C R, MITCHELL G E, BILPUCH E G,［3］ et al. High resolution study of the $^ { 2 6 } \mathrm { M g } ( \boldsymbol { \mathsf { p } } , \boldsymb

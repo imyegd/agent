@@ -1,0 +1,41 @@
+# 参考文献
+
+1 Jiao Y, Xu G, Cui X H, et al. The HEPS project[J]. Journal of Synchrotron Radiation, 2018, 25(6): 1611 – 1618. DOI: 10.1107/s1600577518012110.   
+2 Yang P H, Liu G W, Xu J H, et al. Design and comparison of hybrid multi-bend achromat lattices for HALF storage ring[J]. Nuclear Science and Techniques, 2023, 34(7): 107. DOI: 10.1007/s41365-023-01252-w.   
+3 Feng C, Zhao Z T. A storage ring based free-electron laser for generating ultrashort coherent EUV and X-ray radiation[J]. Scientific Reports, 2017, 7: 4724. DOI: 10. 1038/s41598-017-04962-5.   
+4 姜伯承, 唐传祥, 冯超, 等. 储存环全相干光源[J]. 强激光 与 粒 子 束 , 2022, 34: 104001. DOI: 10.11884/HPLPB202234.220047.  
+JIANG Bocheng, TANG Chuanxiang, FENG Chao, et al. Storage ring based coherent light sources[J]. High Power Laser and Particle Beams, 2022, 34: 104001. DOI: 10. 11884/HPLPB202234.220047.   
+5 Jiang B C, Feng C, Li C L, et al. A synchrotron-based kilowatt-level radiation source for EUV lithography[J]. Scientific Reports, 2022, 12: 3325. DOI: 10.1038/s41598- 022-07323-z.   
+6 Li C L, Feng C, Jiang B C. Extremely bright coherent synchrotron radiation production in a diffraction-limited storage ring using an angular dispersion-induced
+
+microbunching scheme[J]. Physical Review Accelerators and Beams, 2020, 23(11): 110701. DOI: 10.1103/ physrevaccelbeams.23.110701.   
+7 Li C, Jiang B, Feng C, et al. Lattice design for angular dispersion enhanced microbunching in storage rings[J]. Journal of Instrumentation, 2021, 16(3): P03004. DOI: 10.1088/1748-0221/16/03/p03004.   
+8 李昌亮. 基于电子储存环纵向相干辐射产生机制的研究[D]. 上海: 中国科学院上海应用物理研究所, 2021.  
+LI Changliang. Study on the generation mechanism of the longitudinal coherent radiation based on electron storage ring[D]. Shanghai: Shanghai Institute of Applied Physics, Chinese Academy of Sciences, 2021.   
+9 Han Y, Liu G, Li D. Magnet lattice design of the SSRF electron-beam transfer lines[J]. Nuclear Science and Techniques, 2006, 17(4): 193–197. DOI: 10.1016/s1001- 8042(06)60036-5.   
+10 韩毅昂. 上海光源束流输运线物理设计与技术方案优化的计算研究[D]. 上海: 中国科学院上海应用物理研究所, 2006.  
+HAN Yi'ang. Calculation study of physical design and technical scheme optimization for SSRF electron beam transfer lines[D]. Shanghai: Shanghai Institute of Applied Physics, Chinese Academy of Sciences, 2006.   
+11 Micheal B. Elegant: A flexible SDDS-compliant code for accelerator simulation[C]. Darmstadt, Germany: 6th International Computational Accelerator Physics Conference, ICAP2000, 2000.   
+12 Terebilo A. Accelerator toolbox for MATLAB[EB/OL]. [2021-05-01]. https://www. slac. stanford. edu/pubs/ slacpubs/8500/slac-pub-8732.pdf.   
+13 Wiedemann H. Particle accelerator physics[M]. Berlin, Heidelberg: Springer, 1993. DOI: 10.1007/978-3-662- 02903-9.   
+14 赵振堂. 先进X射线光源加速器原理与关键技术[M].上海: 上海交通大学出版社, 2021.  
+ZHAO Zhentang. Principles and key technologies of advanced X-ray light source accelerators[M]. Shanghai: Shanghai Jiao Tong University Press, 2021.   
+15 李冬国, 戴志敏, 徐洪杰. 储存环的闭合轨道畸变校正研究[J] 核技术, 1999, 22(8): 474–481.  
+LI Dongguo, DAI Zhimin, XU Hongjie. The study of closed orbit distortion correction in SSRF storage ring[J]. Nuclear Techniques, 1999, 22(8): 474–481.   
+16 后接, 刘桂民. 基于响应矩阵和SVD算法的输运线束流轨道校正[J]. 高能物理与核物理, 2006, 30(z1): 37–39.
+
+HOU Jie, LIU Guimin. Transport line orbit distortion correction based on response matrix and SVD algorithm [J]. High Energy Physics and Nuclear Physics, 2006, 30 (z1): 37–39.   
+17 Han Y, Hou J, Liu G, et al. Analysis of transmission efficiency of SSRF electron beam transfer lines[J]. Nuclear Science and Techniques, 2006, 17(2): 65 – 70. DOI: 10.1016/s1001-8042(06)60014-6.   
+18 Chung Y, Decker G, Evans K. Closed orbit correction using singular value decomposition of the response matrix [C]. Proceedings of 1993 IEEE Particle Accelerator Conference. 1993: 2263–2265.   
+19 肖邓杰, 乔予思, 储中明. 基于机器学习的轨道校正方法 [J]. 强 激 光 与 粒 子 束 , 2021, 33: 054004. DOI: 10.11884/HPLPB202133.200352.  
+XIAO Dengjie, QIAO Yusi, CHU Zhongming. Orbit correction based on machine learning[J]. High Power Laser and Particle Beams, 2021, 33: 054004. DOI: 10. 11884/HPLPB202133.200352.   
+20 李瑞淳, 张庆磊, 米清茹, 等. 机器学习在储存环轨道校正中的应用研究[J]. 强激光与粒子束, 2021, 33: 034007.DOI: 10.11884/HPLPB202133.200318.  
+LI Ruichun, ZHANG Qinglei, MI Qingru, et al. Application of machine learning in orbital correction of storage ring[J]. High Power Laser and Particle Beams, 2021, 33: 034007. DOI: 10.11884/HPLPB202133.200318.   
+21 邓超, 胡保进, 周梁缘, 等.合肥先进光源磁铁电源自优化控制器设计[J]. 核技术, 2025, 48(5): 050201. DOI: 10.
+
+11889/j.0253-3219.2025.hjs.48.240276. CSTR: 32193.14. hjs.CN31-1342/TL.2025.48.240276.   
+DENG Chao, HU Baojin, ZHOU Liangyuan, et al. Design of a self-optimizing magnet power supply controller for Hefei Advanced Light Facility[J]. Nuclear Techniques, 2025, 48(5): 050201. DOI: 10.11889/j.0253- 3219.2025. hjs. 48.240276. CSTR: 32193.14. hjs. CN31- 1342/TL.2025.48.240276.   
+22 王振伟, 许杭华, 郝子锐, 等. 基于激光康普顿散射的电子束参数测量方法[J]. 核技术, 2024, 47(11): 110203.DOI: 10.11889/j. 0253-3219.2024. hjs. 47.110203. CSTR:32193.14.hjs.CN31-1342/TL.2024.47.110203.  
+WANG Zhenwei, XU Hanghua, HAO Zirui, et al. The method of measuring electron beam parameters based on laser Compton scattering[J]. Nuclear Techniques, 2024, 47 (11): 110203. DOI: 10.11889/j. 0253-3219.2024. hjs. 47. 110203. CSTR: 32193.14. hjs. CN31-1342/TL. 2024.47. 110203.   
+23 邓又铭, 冷用斌, 周逸媚, 等.电子储存环逐束团诊断技术研究进展[J]. 核技术, 2024, 47(10): 100201. DOI: 10.11889/j.0253-3219.2024.hjs.47.100201. CSTR: 32193.14.hjs.CN31-1342/TL.2024.47.100201.  
+DENG Youming, LENG Yongbin, ZHOU Yimei, et al. Current status and latest developments in electron storage ring bunch-by-bunch beam diagnostic techniques[J]. Nuclear Techniques, 2024, 47(10): 100201. DOI: 10. 11889/j.0253-3219.2024.hjs.47.100201. CSTR: 32193.14. hjs.CN31-1342/TL.2024.47.100201.

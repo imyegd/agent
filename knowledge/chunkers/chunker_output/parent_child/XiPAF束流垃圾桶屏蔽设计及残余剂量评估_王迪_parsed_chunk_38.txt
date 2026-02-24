@@ -1,0 +1,8 @@
+unction of cooling time at the dump entrance (color online)
+
+工况下，冷却 $3 0 \mathrm { { m i n } }$ 后，在聚乙烯靶芯中产生的主要放射性核素，如表4所示，计算结果与式（1）的规律是相符的，由于聚乙烯材料由C、H元素组成，因此产生的放射性核素种类数量较少。
+
+表4 三种工况的靶芯主要放射性核素活度  
+Table 4 Activity of main radionuclides produced in the dump core under three operational scenarios   
+
+<table><tr><td rowspan="2">放射性核素 Radionuclide</td><td rowspan="2">半衰期 Half-life</td><td colspan="2">t0=1 h</td><td colspan="2">t0=1 d</td><td colspan="2">t0=1 w</td></tr><tr><td>活度 Activity / Bq</td><td>占比 Proport

@@ -1,0 +1,9 @@
+<table><tr><td>近似加法器</td><td>平均AARE</td><td>近似加法器</td><td>平均AARE</td></tr><tr><td>add8u_6PT</td><td>0.014</td><td>add8u_0NS</td><td>0.044</td></tr><tr><td>add8u_2AM</td><td>0.043</td><td>add8u_0NQ</td><td>0.169</td></tr><tr><td>add8u_6MZ</td><td>0.026</td><td>add8u_2LL</td><td>0.430</td></tr><tr><td>add8u_6P8</td><td>0.030</td><td>add8u_2J3</td><td>0.527</td></tr><tr><td>add8u_0NH</td><td>0.039</td><td>add8u_3RE</td><td>1.426</td></tr></table>
+
+AARE 不但考虑了输入数据数值大小的差异，还兼顾了这些数据出现的频率或概率分布。这
+
+使得其成为一个对应用具有更高敏感性的度量指标，有助于更好地理解和优化脉冲神经网络加法器的性能。
+
+对于选出的10个近似加法器，在应用最优近似加法器选择策略时，本文将AARE的阈值设定为0.5，并赋予AARE、功耗和面积不同的权重值。具体而言，AARE的权重（AAREWeight）设为1，功耗的权重（POWERWeight)设为2，面积的权重（AREAWeight)也设为2。基于这些权重计算出每个近似加法器的代价cost，如表3所示。
+
+Table 3 Cost of ten types of approximate adders 表 3 10 种近似加法器的 cost

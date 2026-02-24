@@ -1,0 +1,4 @@
+型加速器输入耦合器的研制[J]. 原子能科学技术, 2021, 55(3): 555-560. YANG Yu, ZHU Zhibin, WU Qingfeng, et al. Development of input coupler for $10 \mathrm{MeV} / 50 \mathrm{kW}$ Ridgetron accelerator[J]. Atomic Energy Science and Technology, 2021, 55(3): 555-560(in Chinese).  
+[6] 张立锋, 杨圣, 刘保杰, 等. 多能量档电子直线加速器用栅控电子枪电源研究[J]. 原子能科学技术, 2018, 52(12): 2302-2307. ZHANG Lifeng, YANG Sheng, LIU Baojie, et al. Study on power supply for grid-controlled electron gun of mul
+
+ti-energy electron linac[J]. Atomic Energy Science and Technology,

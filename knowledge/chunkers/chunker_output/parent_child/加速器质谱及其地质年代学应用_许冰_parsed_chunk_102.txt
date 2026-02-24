@@ -1,0 +1,11 @@
+_ {1 0} - N _ {1 0, \mathrm {p b}} \\ = \left(N _ {1 0, \text {i n h}}\right) \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} \tag {26} \\ \end{array}
+$$
+
+$$
+\begin{array}{l} N _ {2 6} = \left(N _ {2 6, \text {i n h}}\right) e ^ {- \lambda_ {2 6} t _ {\mathrm {b}}} + N _ {2 6, \mathrm {p b}} \rightarrow N _ {2 6} - N _ {2 6, \mathrm {p b}} \\ = \left(N _ {2 6, \text {i n h}}\right) \mathrm {e} ^ {- \lambda_ {2 6} t _ {\mathrm {b}}} \tag {27} \\ \end{array}
+$$
+
+由公式（26）和（27）得到：
+
+$$
+\begin{array}{l} \frac {

@@ -1,0 +1,14 @@
+中间高度，上下分别增减 $0 . 6 \mathrm { m }$ ，即分别在 0.5、1.1 和 $1 . 7 \mathrm { m }$ 3 个平面布点，每个平面上间隔 $0 . 5 \mathrm { m }$ 按网格布点，部分点布置在机身上，每个点布放 3 片探测器，布点示意图如图 2（b）所示，共布点 234 处。
+
+1.3    加速器出束条件    在设备出束选用 6 MV X 射线（FFF）模式，最大剂量率为 $8 0 0 \mathrm { M U / m i n }$ ，照射野调整至最大 $2 8 . 0 0 \mathrm { c m } \times 2 8 . 0 0 \mathrm { c m }$ 。机架从 $0 ^ { \circ }$ 开始，顺时
+
+![](images/f697f88fa83dcc824b1c2c65c43e6cb3708a08b7d3dd59bf97b3abc48032c71a.jpg)  
+注：（a）测点布点现场图；（b）测量布点示意图。
+
+![](images/864f7efdcbb47267c69be1fac969b847404c4d5607a254b7899b381db3d067eb.jpg)  
+图 2   测量布点现场图和示意图  
+Figure 2    A photo of the treatment room and a schematic diagram of the measurement points
+
+针旋转，每隔 $1 0 ^ { \circ }$ 出束 $1 5 \mathrm { M U }$ ，共出束 ${ 5 4 0 } \mathrm { M U }$ 。出束时机房的环境条件为：温度是 $2 3 . 1 \mathrm { ~ ‰ ~ }$ ，湿度是 $51 \%$ ，气压是 $1 0 1 . 4 \mathrm { k P a }$ ，排风口风速 $2 . 6 \mathrm { m } / \mathrm { s }$ 。
+
+1.4    加速器机房屏蔽防护计算比较    根据实测辐射场的结果，得出无屏蔽体情况下墙外剂量率数据 $\dot { H } _ { m }$ ，结合屏蔽体外剂量率控制目标值，根据公式（1）可以计算出所需屏蔽体的厚度值。同时根据标准 GBZ201.2—2011 中的对于主射束、散射线和漏射线的

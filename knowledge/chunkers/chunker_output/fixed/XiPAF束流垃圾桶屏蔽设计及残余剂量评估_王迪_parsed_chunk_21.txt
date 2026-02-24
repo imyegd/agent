@@ -1,0 +1,8 @@
+9/j.0253- 3219.2021.hjs.44.090501.   
+5 朱益楠, 林作康, 郁海燕, 等. 基于蒙特卡罗几何分裂减方差技巧的AB-BNCT治疗室屏蔽模拟分析[J]. 核技术 , 2025, 48(1): 010202. DOI: 10.11889/j. 0253-3219.2025.hjs.48.230415. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.230415.  
+ZHU Yinan, LIN Zuokang, YU Haiyan, et al. Simulation analysis of AB-BNCT treatment room shielding based on
+
+Monte Carlo geometric splitting variance reduction technique[J]. Nuclear Techniques, 2025, 48(1): 010202. DOI: 10.11889/j. 0253-3219.2025. hjs. 48.230415. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.230415.   
+6 Fasso A. Radiation protection for particle accelerator facilities[J]. Health Physics, 2005, 88(2): 175. DOI: 10.1097/00004032-200502000-00009.   
+7 Blaha J, La Torre F P, Silari M, et al. Long-term residual radioactivity in an intermediate-energy proton linac[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2014, 753: 61–71. DOI: 10.1016/ j.nima.2014.03.058.   
+8 徐翀, 李武元, 徐俊奎, 等. HIAF高能辐照终端感生放射性[J]. 原子核

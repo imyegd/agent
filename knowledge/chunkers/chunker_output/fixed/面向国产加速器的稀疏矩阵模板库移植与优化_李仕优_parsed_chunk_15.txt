@@ -1,0 +1,27 @@
+取的数据量为共享内存一次内存事务的最大数据量（128B）且覆盖了 32 个 bank，满足前文所述的无 bank 冲突的条件，解决了读共享内存的 bank 冲突问题。
+
+对于 M/N 主序矩阵，写入数据至共享内存时，各个线程需要写入连续的 8 个 FP16 数据至共享内存，线程束中连续的 8 个线程在逻辑上连续排布，因此线程束中连续的 8 个线程写入共享内存的数据量为共享内存一次内存事务的最大数据量（128B）且覆盖了 32 个 bank，不存在写共享内存的 bank 冲突问题。
+
+# 3.2 数据流水线优化策略
+
+移植后的 CUTLASS-Sparse 的数据流水线如图9 中的串行方案所示，全局内存数据加载与计算过程串行执行，并且全程中只有等待寄存器从共享内存中读取数据之后才能进行 Tensor Core 数据计算，导致数据读取延迟未能被掩藏。本研究使用数据预取和寄存器双缓冲策略对数据流水线进行优化。如图 9 中优化后方案所示，数据预取能够隐藏从全局内存读取数据所带来的延迟，而寄存器双缓冲能够隐藏从共享内存读取数据所带来的延迟，将数据读取和数据计算并行化，提高了数据流水线的并行度。
+
+G：Global Memory
+
+S：Shared Memory
+
+R：Registers
+
+C：Tensor Core Computation
+
+Sequential scheme   
+
+<table><tr><td>G→R</td><td>R→S</td><td>S→R</td><td>C</td><td>S→R</td><td>C</td><td>S→R</td><td>C</td><td>G→R</td><td>R→S</td><td>……</td></tr></table>
+
+Optimized scheme   
+
+<table><tr><td>G→R</td><td>R→S</td><td>S→R</td><td>C</td><td>S→R</td><td>C</td></tr><tr><td></td><td></td><td></td><td>S→R</td><td>C</td><td></td></tr><tr><td></td><td></td><td>G→R</td><td></td><td></td><td>R→S</td></tr></table>
+
+图 9 数据流水线的设计
+
+Fig.9 The d

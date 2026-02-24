@@ -1,0 +1,5 @@
+y} \right. \tag {9}
+$$
+
+$$
+\left\{ \begin{array}{l} \frac {x ^ {2}}{r _ {x} ^ {2} + \lambda} + \frac {y ^ {2}}{r _ {y} ^ {2} + \lambda} + \frac {\Delta z ^ {2}}{r _ {z} ^ {2} + \lambda} = 1 \\ I _ {i} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) = - \frac {\rho}{2 \varepsilon_ {0}} \int_ {\infty} ^ {\lambda} \frac {r _ {x} r _ {y} \gamma r _ {z}}{\xi + e _ {i} ^ {2}} \frac {d \xi}{\sqrt {\left(\xi + r _ {x} ^ {2}\right) \left(\xi + r _ {y} ^ {2}\right) \left(\xi + \gamma^ {2} r _ {z} ^ {2}\right)}} \end{

@@ -1,0 +1,17 @@
+144－153  
+［12］ WatanabeT，FujitaN，MatsubaraA，etal．Preliminaryreportonsmall-massgraphitizationforradiocarbondatingusingEA-AGE3aJAEA-AMS-TONO［J］．GeochemicalJournal，2021，55（4）：277－281  
+［13］ 何建华，曹辉辉，王宗礼．自动石墨合成系统（AGE-3）制样方法［J］．实验技术与管理，2021，38（7）：55－58  
+HeJianhua，CaoHuihui，WangZongli．Samplepreparationmethodoautomaticgraphite synthesissystem（AGE-3）［J］．ExperimentaTechnologyandManagement，2021，38（7）：55－58  
+［14］ WackerL，NemecM，Bourquin J．A revolutionarygraphitisationsystem：Fullyautomated，compactandsimple［J］．NuclearInstrumentandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2010，268（7－8）：931－934  
+［15］张慧，王小明，庞义俊，等．基于加速器质谱测量的14C呼气试验样品制备方法研究［J］．同位素，2017，30（2）：89－94  
+ZhangHui，WangXiaoming，PangYijun，etal．Samplepreparationforbreathtes $^ { 1 4 } \mathrm { C }$ tracerforacceleratormassspectrometry［J］．JournaofIsotopes，2017，30（2）：89－94  
+［16］ OrsovszkiG，RinyuL．Flame-sealedtubegraphitizationusingzincathesolereductionagent：PrecisionimprovementofEnvironMICADAS$^ { 1 4 } \mathrm { C }$ measurementsongraphitetargets［J］．Radiocarbon，2015，57（5）：979－990  
+［17］ ScottEM，CookGT，NaysmithP，etal．Learningfrom thewoodsamplesinICS，TIRI，FIRI，VIRIandSIRI［J］．Radiocarbon，2019，61（5）：1293－1304  
+［18］CaoHH，WangZ L，HeJH，etal．PerformanceandintercomparisontestsoftheMICADASattheradiocarbonlaboratoryoLanzhouUniversity，China［J］．Radiocarbon，2023，65（1）：41－50  
+［19］WackerL，BonaniG，FriedrichM，etal．MICADAS：Routineandhigh-precisionradiocarbondating［J］．Radiocarbon，2010，52（2）：252－262  
+［20］徐超，洪冰，彭海军，等．加速器质谱 ${ } ^ { 1 4 } \mathrm { C }$ 样品制备中 Zn-TiH法石墨产率探讨［J］．同位素，2018，31（4）：248－255  
+XuChao，HongBing，PengHaijun，etal．Discussiononthegraphityieldof $\mathrm { Z n - T i H } _ { 2 }$ method in the preparation ofacceleratormasspectrometry $^ { 1 4 } \mathrm { C }$ sample［J］．JournalofIsotopes，2018，31（4）：248－255  
+［21］杨雪，郑勇刚，尹金辉．加速器 $^ { 1 4 } \mathrm { C }$ 制靶系统的研制及性能检验［J］．地震地质，2013，35（4）：930－934  
+Yang Xue， Zheng Yonggang， Yin Jinhui．Developments andperformancetestsofthenewAMSgraphitetargetline［J］．SeismologandGeology，2013，35（4）：930－934  
+［22］ VogelJS．RapidproductionofgraphitewithoutcontaminationfobiomedicalAMS［J］．Radiocarbon，1992，34（3）：344－350  
+［23］ ParkhomchukEV，PetrozhitskiyAV，IgnatovM M，etal．14CGIRsamplesinAMSGoldenValley：GraphitepreparationusingAGE-3andabsorption-catalytic setup［J］．Radiocarbon， 2024， 66（5）：1259－1269

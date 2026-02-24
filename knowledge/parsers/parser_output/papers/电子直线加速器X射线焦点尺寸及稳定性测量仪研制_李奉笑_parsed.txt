@@ -1,0 +1,310 @@
+# 电子直线加速器X射线焦点尺寸及稳定性测量仪研制
+
+李奉笑 1,2 刘成峰 1,2 钟国威 1,2 杨 润 1,2 安 康 1,2 周日峰 1,2
+
+1（重庆大学光电技术及系统教育部重点实验室ICT研究中心 重庆 400044）
+
+2（重庆大学 工业CT无损检测教育部工程研究中心 重庆 400044）
+
+摘要 电子直线加速器 射线焦点的尺寸和位置稳定性对无损检测成像质量有重要影响，是决定 射线成像空间分辨率的主要因素之一。传统IEC 62976：2021标准推荐的“三明治”法测量过程复杂，且无法快速重复测量焦点位置稳定性。提出了狭缝平移扫描法来测量电子直线加速器X射线焦点尺寸和稳定性，并研制了测量仪，集成了机械扫描运动系统和高能X射线探测与采集系统等部分。该测量仪在不同型号和能量的电子直线加速器上进行了检测实验，实验结果表明：相对于“三明治”法，本测量仪速度快、重复性好，不仅能测量焦点尺寸，还可动态监测焦点位置变化，实现焦点稳定性测量。该测量仪对准确测量和评估电子直线加速器X射线焦点尺寸，提升无损检测成像质量具有重要意义。
+
+关键词 电子直线加速器，焦点尺寸，稳定性，测量仪器
+
+中图分类号 TL99
+
+DOI: 10.3724/j.0253-3219.2025.hjs.48.240464
+
+CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.240464
+
+# Development of a measurement instrument for the X-ray focal spot size and stability of electron linear accelerators
+
+LI Fengxiao1,2 LIU Chengfeng1,2 ZHONG Guowei1,2 YANG Run1,2 AN Kang1,2 ZHOU Rifeng1,2
+
+1(Key Laboratory of Optoelectronic Technology and Systems of the Ministry of Education, ICT Research Center, Chongqing University,
+
+Chongqing 400044, China)
+
+2(Engineering Research Center of Industrial Computed Tomography Nondestructive Testing, Ministry of Education, Chongqing University,
+
+Chongqing 400044, China)
+
+Abstract [Background] The dimensions and positional stability of X-ray focal spots produced by electron linear accelerators significantly influence the quality of non-destructive testing (NDT) imaging and are critical determinants of spatial resolution in radiographic imaging. The conventional "sandwich" method recommended by International Electrotechnical Commission (IEC) 62976: 2021 standards involves complex procedures and cannot achieve rapid and repetitive measurement of focal spot positional stability. [Purpose] This study aims to develop a slit translation scanning method and a dedicated measurement instrument for determining the X-ray focal spot size and stability of electron linear accelerators. [Methods] Firstly, a comprehensive hardware system was developed comprising four
+
+冲击波物理与爆轰物理全国重点实验室开放基金(No.2024CXPJGFJJ06411)、国家自然科学基金面上项目(No.12175026)、重庆市研究生科研创新项目(No.CYB240015)资助
+
+第一作者：李奉笑，男，1995年出生，2021年于重庆理工大学获硕士学位，现为博士研究生，研究领域为高能工业CT系统搭建及焦点测量通信作者：周日峰，E-mail：zhou65112401@cqu.edu.cn
+
+收稿日期：2024-11-18，修回日期：2025-06-24
+
+Supported by National Key Laboratory of Shock Wave Physics and Detonation Physics (No. 2024CXPJGFJJ06411), National Natural Science Foundation of China (No.12175026) and Chongqing Graduate Research Innovation Project (No.CYB240015)
+
+First author: LI Fengxiao, male, born in 1995, graduated from Chongqing University of Technology with a master's degree in 2021, doctoral student, focusing on high energy industrial CT system construction and focal spot measurement
+
+Corresponding author: ZHOU Rifeng, E-mail: zhou65112401@cqu.edu.cn
+
+Received date: 2024-11-18, revised date: 2025-06-24
+
+main components: a stainless steel slit device, a high-energy X-ray detection and acquisition system, a high-precision mechanical scanning system, and a host computer interface. Then, based on slit translation scanning, the measurement principle was established with the slit's stepwise move across the focal spot while X-ray intensity data at each position was recorded to obtain the intensity distribution. Finally, the complete system was experimentally tested on various electron linear accelerators including 2 MeV, 6 MeV, and 9 MeV systems, with comparative validation against the traditional "sandwich" method. [Results] The experimental results demonstrate that the measurement errors are within $1 0 \%$ compared to the "sandwich" method, with $X .$ -direction focal spot size of $1 . 9 5 ~ \mathrm { m m }$ versus $1 . 9 4 1 ~ \mathrm { m m }$ by the traditional method $0 . 5 \%$ error) and Y-direction size of $2 . 2 6 \ \mathrm { m m }$ versus 2.139 mm $5 . 6 \%$ error). The instrument enables rapid and repetitive measurements with excellent repeatability and successfully monitors focal spot position variations within $0 . 1 \ \mathrm { m m }$ during stability assessments. Individual instances show focal spot displacement reaching up to $0 . 6 \ \mathrm { m m }$ , indicating the instrument's capability to detect focal spot instabilities. [Conclusions] The developed measurement instrument in this study provides a fast, repeatable, and accurate method for X-ray focal spot size determination, not only quantifies focal spot dimensions but also enables dynamic monitoring of positional changes, offering significant advantages over traditional methods for enhancing NDT imaging quality assessment.
+
+Key words Electron linear accelerator, Focus size, Stability, Measuring instrument
+
+电子直线加速器是工业计算机断层扫描（Computed Tomography，CT）、数 字 射 线 检 测（Digital Radiography，DR）等无损检测成像系统的核心部件，已广泛应用于航空航天、国防军工、石油化工、交通运输等行业的大型构件和装备的缺陷检测和质量评估，以及海关大型集装箱货物检测系统。电子直线加速器X射线焦点尺寸是影响工业CT、DR等无损检测系统空间分辨率和成像质量等关键性能指标的主要因素之一，焦点尺寸越小，位置稳定性越好，成像的空间分辨率越高［1‒4］。
+
+目前，常规的电子直线加速器X射线焦点尺寸测量方法主要依据国际电工委员会（InternationalElectrotechnical Commission，IEC）62976：2021 标准的“三明治”法［5‒6］。然而，该传统方法依赖胶片曝光，需经过显影、定影及洗片等复杂流程，无法动态监测X射线焦点的位置稳定性。近年来，国内外研究团队针对电子直线加速器X射线焦点尺寸的测量提出了一些新方法。例如，Lutz等［7］采用层压束斑照相机测量8 MeV X射线的焦点尺寸；Munro等［8］、Jaffray等［9］结合CT重建技术及透射率测量，通过狭缝 在 不 同 横 向 和 角 度 位 置 表 征 焦 点 尺 寸 ；Loewenthal等［10］通过单个狭缝获取束轴各横向位置的狭缝图像，并利用高斯模型估算焦点尺寸；李成刚等［11］采用方孔编码成像法获取焦点尺寸及强度分布；陈浩等［12］使用钨-铜合金制成的狭缝替代小孔以测量焦点尺寸；李勤等［13］使用针孔法测量焦点尺寸，并定义了焦点形状因子以描述X光源的分布。上述方法也存在与“三明治”法类似的缺陷，操作流程复杂，并且尚未实现一体化测量仪器的研制。
+
+本文基于狭缝平移扫描法［14］设计了一种电子直线加速器X射线焦点尺寸测量仪，完成了狭缝装置、机械扫描运动系统、高能X射线探测与采集系统和上位机控制台的设计，并详细阐述了测量原理及相关软件与硬件的设计过程。利用该测量仪对$2 \mathrm { M e V } . 6 \mathrm { M e V } , 9 \mathrm { M e V }$ 等不同能量和型号的驻波电子直线加速器的焦点尺寸及其稳定性进行了测试，并与传统的“三明治”法进行了对比分析。
+
+# 1 焦点尺寸测量原理
+
+# 1.1 电子直线加速器X射线焦点尺寸的表征
+
+典型的驻波直线加速管如图1所示，主要由加速腔、耦合腔、电子束流通道和射线靶等部分构成［15‒17］。电子枪发射的电子束经过加速后，轰击射线靶，绝大部分电子能量转化为热能，而少部分则通过轫致辐射机制转化为高能X射线。电子束轰击靶表面产生X射线的区域，称为X射线焦点。
+
+焦点发出的X射线强度遵循高斯分布［18］ ，如图2（a）所示：
+
+$$
+f (x, y) = I _ {0} \cdot \exp \left(- \left(\frac {x ^ {2}}{2 \sigma_ {x} ^ {2}} + \frac {y ^ {2}}{2 \sigma_ {y} ^ {2}}\right)\right) \tag {1}
+$$
+
+式中： $x \cdot y$ 是焦点中心为坐标原点的坐标； $I _ { 0 }$ 为射线强度的最大值； $\sigma _ { x } , \sigma _ { y }$ 为二维高斯分布 $x \cdot y$ 方向的标准 差 。 一 般 采 用 半 高 宽（Full Width at HalfMaximum，FWHM）定义焦点尺寸［19］，如图 2（b）、（c）， $X$ 方向焦点大小为 $a _ { x } = \mathrm { F W H M } _ { x } = 2 \sqrt { 2 \mathrm { l n } 2 } \sigma _ { x } , Y$ 方向焦点大小为 $a _ { y } = \mathrm { F W H M } _ { y } = 2 \sqrt { 2 \mathrm { l n } 2 } \sigma _ { y } \mathrm { _ { \circ } }$ 。
+
+![](images/9d4429ed1b21d79098ea3402ced48d01f2765881224f454abad42a1226207faf.jpg)  
+图1 驻波电子直线加速器产生高能X射线示意图（彩图见网络版）
+
+![](images/172986f0f5b70e6d5d1ca616187099cea62625a828f94d361f63363424e1b68e.jpg)  
+Fig.1 Schematic diagram of high-energy X-ray generation by standing wave electron linear accelerator (color online)
+
+![](images/b3d7b570e9432ee37cd300257748134755a32a3114d4cb08654ce00208d75553.jpg)
+
+![](images/d37e98bb1ac43b7a96f5ba1026ed4300c517353ba175eb1c68b9745b34f3e0a0.jpg)  
+图2 焦点的X射线强度分布及焦点大小表征示意图（彩图见网络版）  
+Fig.2 Schematic representation of X-ray intensity distribution and focal spot size characterization (color online)
+
+# 1.2 狭缝平移扫描法测量原理
+
+狭缝平移扫描法测量电子直线加速器X射线焦点尺寸原理如图3所示。狭缝从焦点的一侧开始，按步进方式沿着水平方向（或垂直方向）逐步移动至另一侧。每当狭缝移动至一个新位置时，都会实时记录通过狭缝的X射线强度数据。通过这种方式，能够获取到焦点在该方向上的X射线强度分布，并形成离散的强度测量数据。基于该分布数据，进一步通过分析这些离散的X射线强度值，可以计算出该方向焦点的尺寸。
+
+![](images/34f75aa39598a19b4a64776a342dd4d5eb7b9d09b5509b003f7ac95960754756.jpg)  
+图3 狭缝平移扫描法原理图（彩图见网络版）  
+Fig.3 Schematic diagram of the slit translation scanning method (color online)
+
+狭缝对准加速器焦点时，焦点宽度w（狭缝有效宽度）区域发出的X射线穿过狭缝后由探测器接收，根据式（1），沿着狭缝方向对X射线强度进行积分，可以得出该区域发出的X射线穿过狭缝后被探测器接收的X射线强度为：
+
+$$
+\begin{array}{l} S \left(x ^ {\prime}\right) = I _ {0} \int_ {- \infty} ^ {+ \infty} \exp \left(- \frac {y ^ {2}}{2 \sigma_ {y} {} ^ {2}}\right) d y \int_ {x ^ {\prime}} ^ {x ^ {\prime} + w} \exp \left(- \frac {x ^ {2}}{2 \sigma_ {x} {} ^ {2}}\right) d x \\ = \sigma_ {y} I _ {0} \sqrt {2 \pi} \int_ {x ^ {\prime}} ^ {x ^ {\prime} + w} \exp \left(- \frac {x ^ {2}}{2 \sigma_ {x} {} ^ {2}}\right) d x \tag {2} \\ \end{array}
+$$
+
+式中： $x ^ { \prime }$ 是焦平面中的坐标； $w$ 表示有效狭缝宽度，其是在焦点处检测到的宽度，取决于狭缝长度l、狭缝宽度 $w _ { 0 }$ 和狭缝到焦点的距离 $h$ ，如图4所示。
+
+$$
+w = \left(\frac {2 h}{l} + 1\right) w _ {0} \tag {3}
+$$
+
+通过移动狭缝在 $[ - b , b ]$ 范围内对X射线强度进行采样，可以收集到离散序列：
+
+$$
+\left\{S \left[ x ^ {\prime} = \frac {(2 k - N) b}{N} \right] \right\} _ {k = 1, \dots , N} \tag {4}
+$$
+
+式中： $N$ 表示采样频率，采样间隔 $d = 2 b / N .$ 。通常，将 $^ { b }$ 设置为待测量焦点尺寸的两倍，这个采样序列可以很好地拟合出焦点在 $X$ 方向的X射线强度实际分布曲线［20］ 。
+
+![](images/0e075f29a149c69c41fca10457ed0c8a22baf48c5eb0f5b4a193fd38e7d3204f.jpg)  
+图4 狭缝有效宽度 $w$ 与狭缝长宽l及狭缝与焦点间距离h的关系示意图  
+Fig.4 Schematic diagram of the relationship among the effective slit width w, slit length l, and slit-to-focal point distance h
+
+$$
+\begin{array}{l} f \left(x ^ {\prime}, \cdot\right) = \int_ {- \infty} ^ {+ \infty} f \left(x ^ {\prime}, y\right) d y \tag {5} \\ = \sigma_ {y} I _ {0} \sqrt {2 \pi} \exp \left(- \frac {x ^ {\prime 2}}{2 \sigma_ {x} {} ^ {2}}\right) \\ \end{array}
+$$
+
+最终使用采集到的X射线强度离散序列 $S ( \boldsymbol { x } ^ { \prime } )$ 来拟合X射线强度实际分布 $f ( x ^ { \prime } , \cdot )$ ，利用半高宽法求出 $X$ 方向的焦点尺寸。同理，也可以求出Y方向的焦点尺寸。
+
+# 2 电子直线加速器X射线焦点尺寸测量仪的设计
+
+电子直线加速器X射线焦点尺寸测量系统主要包括4个部分：狭缝装置、高能X射线探测与采集系统、机械扫描运动系统和上位机控制台，如图5所示。
+
+![](images/60167c9bb41dc51a6da6b92fcbce0d345b0304846870bb30b9d78f8b8cab5490.jpg)  
+图5 电子直线加速器X射线焦点尺寸测量仪总体方案框图  
+Fig.5 Block diagram of the overall scheme of the X-ray focal spot size measuring instrument for electron linear accelerator
+
+# 2.1 狭缝装置
+
+狭 缝 装 置 由 两 块 尺 寸 为 $2 0 0 \ : \mathrm { m m } { \times } 8 0 \ : \mathrm { m m } { \times }$ $4 0 \mathrm { m m }$ 的不锈钢块构成，且中间通过刻槽加工形成一条宽度为 $2 0 { \sim } 1 0 0 ~ { \mu } \mathrm { m }$ 的狭缝，如图6所示。狭缝的具体尺寸及缝宽均通过仿真模拟分析获得。该狭缝装置能够有效地将焦点处产生的X射线强度进行空间离散化，从而提高后续焦点尺寸拟合的精度。通过该装置，后端探测器可以准确探测到进入狭缝
+
+的有效X射线强度，减少由于散射所带来的干扰。
+
+# 2.2 高能X射线探测与采集系统
+
+高能X射线探测与采集系统由高能X射线探测器和数据采集与控制电路板组成。为防止高能X射线对电路元器件造成损伤以及降低散射的影响，在电路板的上下方及探测器两侧均配置了辐射屏蔽。该系统能够有效测量透过狭缝的高能X射线强度，整个系统的构成如图7所示。
+
+![](images/f6aa2c3e7e4299bd1fc2adedd93a710f480287111b31f309f822757fbd1b9606.jpg)  
+图6 狭缝装置结构示意图  
+Fig.6 Structural diagram of the slit device
+
+高能X射线探测器采用一体化结构设计，由闪烁体与光电二极管直接耦合。当高能X射线照射到闪烁体时转换为可见光，可见光照射到光电二极管上，产生微弱的电流脉冲信号。该电流脉冲信号的
+
+幅度与高能X射线的强度成正比关系［21］ ，通过测量该电流脉冲信号的大小，可以测量出高能X射线的强度。
+
+对于微弱电流信号的采集，需先将电流信号进行积分转换为电压，然后再进行模数转换。最终选用数据转换器芯片DDC118作为该电路采集板的模数 转 换 器（Analog-to-Digital Converter，ADC）。DDC118 是德州仪器（Texas Instruments，TI）公司生产的8通道、20位电流输入模数转换器，集成了模数（Analog-to-Digital，A/D）转换器和积分放大电路，每个通道配备两路电荷积分电路，采用乒乓模式［22］进行信号采集，如图8所示。该系统最终在4和5状态下工作，实现微弱电流信号向数字信号的转换。
+
+![](images/830b0e1bd5dcfa6eb638d3e854bc6ae25cd988d73931ed7f69fca2d1db2d226f.jpg)  
+图7 高能X射线探测与采集系统构件图
+
+![](images/ec1e0dc528696ec3fbfca5393f2fff652938d06e884a21cd34cace8f6e3e20ab.jpg)  
+Fig.7 Snapshots of components of the high-energy X-ray detection and acquisition system   
+图8 DDC118乒乓模式的工作状态转化图  
+Fig.8 Working status conversion diagram of DDC118 ping-pong mode
+
+为实现数据的在线实时采集与处理，信号经模数转换器（ADC）转换后，发送现场可编程门阵列（Field-Programmable Gate Array，FPGA）进行进一步处理。FPGA 芯片选用 Altera 公司的 EP3C5E144A7，主要承担以下三项功能：1）控制DDC118的积分
+
+时序；2）处理DDC118转换后的数字信号；3）通过RS-485串行通信总线发送数字信号。
+
+FPGA固件包括以下模块：ADC数据接口、ADC积分状态控制、数据缓存程序及指令解析中心，如图9所示。
+
+![](images/dcca2900c9ac4b0e52d00fb3b09359ca08ffc6b299ac7c45d0f850080a45442d.jpg)  
+图9 FPGA固件设计框架  
+Fig.9 Framework diagram of FPGA firmware design
+
+在ADC内部，当一个积分器完成积分时，ADC采集的8个通道的20位数据将传输至FPGA。经过数据处理后，FPGA会为每组数据添加标签并存储，最终通过RS-485总线协议上传至上位机软件。上位机软件发送的指令首先存储在指令中心，随后进行解析，以控制ADC的采集次数、采集模式和增益设置等参数。
+
+# 2.3 机械扫描运动系统
+
+机械扫描运动系统由电动水平位移台、电动垂
+
+直升降台和运动控制器组成（见图10）。其中，电动水平位移台与垂直升降台具备优于 $0 . 0 1 \ \mathrm { m m }$ 的重复定位精度，有效确保了系统运行过程中的定位准确性与运动稳定性。将高能X射线探测与采集系统安装于该机械扫描运动系统上，可以实现对高能X射线强度的离散采样。该方案不仅提高了系统的稳定性和精确度，还确保了在高能X射线实验中的高分辨率数据获取，为后续分析提供可靠的实验基础。
+
+![](images/416b6f98faa85ea26e7bbee2aee0f106d8a211237567866b01e6422ae2b1ed8f.jpg)
+
+![](images/5ddaf25f6e43a897f31ef4eb9dc5bc3e94c7befbd69796bda87bf3c7d6d30812.jpg)  
+图10 机械扫描运动系统组成（彩图见网络版） (a)水平位移台，(b) 垂直升降台，(c)运动控制器  
+Fig.10 Components of the mechanical scanning motion system (color online)   
+(a) Horizontal translation stage, (b) Vertical lifting stage, (c) Motion controller
+
+# 2.4 上位机控制台
+
+上位机软件采用实验室虚拟仪器工程平台（Laboratory Virtual Instrument EngineeringWorkbench，LabVIEW）进行开发。LabVIEW以图形化编程为特点，提供了丰富的库和工具［23］。本上位机控制软件包括探测器控制模块、步进扫描模块、运动控制模块以及数据显示与存储模块，软件操作界面如图11所示。
+
+在上位机中，为高能X射线探测与采集系统设
+
+置初始同步参数，包括同步方式、频率、同步延迟时间、脉冲数、放大倍数及数据采集方式。通过执行采集命令，可以对当前位置的高能X射线强度进行实时测量，并在界面上显示获取到的强度值。
+
+利用上位机向机械扫描运动系统和高能X射线探测与采集系统发送步进扫描命令，初始时设置较大的扫描范围和较低的采样频率，以进行粗略测量。此步骤的主要目的是确定焦点中心的初步位置及其尺寸。
+
+![](images/5b61c1d5d1913c3197952f8ff8319b9eaf25a4e49456828ae53f3946ba4e7811.jpg)  
+图11 上位机软件界面截图  
+Fig.11 Screenshot of the software interface in host computer
+
+一旦确定了焦点中心及其尺寸，扫描范围将调整为焦点尺寸的4倍，同时提高采样频率，对焦点进行精确测量。扫描完成后，界面将显示该方向的焦点尺寸，且可将扫描数据保存以便后续分析。同样的方法可以测量出另一个方向的焦点尺寸。
+
+# 3 测量结果与分析
+
+# 3.1 焦点测量仪实验安装
+
+图12展示了用于测量驻波电子直线加速器X射线焦点尺寸和焦点稳定性的测量仪实验安装示意图。实验过程中，通过在控制室进行远程操作测量仪器，以实现对焦点在两个方向上的尺寸测量以及焦点稳定性评估。
+
+# 3.2 焦点尺寸测量实验
+
+本文设计的电子直线加速器X射线焦点尺寸测
+
+量仪，能够有效测量电子直线加速器的焦点尺寸。首先，使用该测量仪对 $9 \mathrm { M e V }$ 驻波电子直线加速器（型号ZCA-9/3000）进行焦点测量，然后再采用IEC62976：2021标准中的“三明治”法进行对比验证，以确保测量结果的准确性。
+
+“三明治”法通过胶片感光，经过显影和冲洗后，胶片上会形成多条黑白相间的条纹。使用黑度计或胶片扫描仪绘制条纹的灰度曲线，并统计黑度超过中心条纹黑度 $50 \%$ 的条纹数量，从而计算得到相应的焦点尺寸。
+
+在实验中，利用本文的焦点尺寸测量仪进行测量，狭缝的有效宽度为 $0 . 4 9 \mathrm { m m }$ ，采样频率设定为80（步距 $d = 0 . 1 \ \mathrm { m m }$ ），通过 $X , Y$ 方向的平移扫描测量出焦点尺寸。
+
+“三明治”法测得的焦点尺寸结果如图13所示，$X$ 方向和 Y 方向的焦点尺寸分别为 $1 . 9 4 1 ~ \mathrm { m m }$ 和$2 . 1 3 9 \mathrm { m m }$ 。
+
+![](images/23a7ae1ab4d893c054515ff9f6b0f667ffb7fd92860bb603f4ae8fd2b9869a57.jpg)
+
+![](images/8cee2a006900f21b4b467ecf2d24302b0bea553af5768b32fbf83cbb7635ff90.jpg)  
+图12 焦点测量仪实验安装示意图（彩图见网络版） (a) $X$ 方向扫描，(b)Y方向扫描  
+Fig.12 Experimental installation diagram of the focal spot measuring instrument (color online)   
+(a) $X .$ -direction scanning, (b) Y-direction scanning
+
+![](images/3b23e9a66bacc3bbeeb345d46a647f17c2a038b2ad0241f281ea7306a1ec4570.jpg)
+
+![](images/6ad9b23ff25be309d0bb69863795d81e95702fe0323dbff12d9695820fc54d43.jpg)
+
+![](images/f6335877b22280748ad07f85d303a50d33fef09b25dd03f53cc9c2064bdd1e64.jpg)
+
+![](images/960f45831dc4ed8fea948f03452645266900630f61ca302ffe0e1e348760d67d.jpg)  
+图13 “三明治”法测量焦点尺寸结果图（彩图见网络版）  
+Fig.13 Focal spot size measurement results using the "sandwich" method (color online)
+
+利用本文设计的电子直线加速器X射线焦点尺寸测量仪，测量该加速器在 $X$ 方向和Y方向的X射线焦点尺寸，测量结果如图14所示。 $X$ 方向和Y方
+
+向的焦点尺寸分别为 $1 . 9 5 \mathrm { m m }$ 和 $2 . 2 6 \mathrm { m m }$ 。与“三明治”法测得的结果相比， $X$ 方向的误差为 $0 . 5 \%$ ，而Y方向的误差为 $5 . 6 \%$ ，均在允许的测量误差范围内。
+
+![](images/27719b7aaffa6214126bf45b249e617946d1a78908aa8f7ace0f0c663d7eeef9.jpg)
+
+![](images/64a30c299763a1dc5bac6af8c3855c1c42c54262cae1c2be0a73776699dc9c95.jpg)  
+图14 电子直线加速器X射线焦点尺寸的测量仪测量结果  
+Fig.14 Results of focal spot size measured by the developed X-ray focal spot size measuring instrument for electron linear accelerator
+
+# 3.3 焦点稳定性测量实验
+
+本文设计的电子直线加速器X射线焦点尺寸测量仪，能够测量电子直线加速器的焦点尺寸，同时监测焦点位置，从而实现对焦点稳定性的评估。
+
+使用该测量仪，对 $2 \mathrm { M e V } . 6 \mathrm { M e V }$ 和 $9 \mathrm { M e V }$ 三种不同能量的驻波电子直线加速器进行焦点稳定性测试。实验中，狭缝的有效宽度为 $w = 0 . 3 \ \mathrm { m m }$ ，采样频率为 $N = 6 0$ （平移步距 $d = 0 . 1 \ \mathrm { m m }$ ，测量装置的扫描总长度为 $6 \mathrm { m m } )$ ），每隔 $2 \mathrm { m i n }$ 进行一次焦点测量。通
+
+过高斯拟合方法，确定波峰的位置，并观察各次测量波峰位置的相对变化，以评估 $3 0 ~ \mathrm { { m i n } }$ 内的焦点稳定性。最终测量结果如图15所示。
+
+实验结果表明，电子直线加速器的焦点在测量过程中大部分时间保持稳定，偏移量均在 $0 . 1 \mathrm { m m }$ 以内，符合系统误差的容许范围。然而，个别时刻焦点偏移可达 $0 . 6 \mathrm { m m }$ ，可能与电子束的不稳定性以及实验条件的波动有关。
+
+![](images/752f5658d977b608fb468e96017f555a10d18f2da8f5ed9311e79716c32bb28b.jpg)
+
+![](images/1d06f6f09f31810993300b3da64301815fa3373947ce72d6a34cc4d1a108a6a7.jpg)
+
+![](images/4bf100702fbb50b214c5bf6caef620dcd4456b5dd3d7fc1f05a64c4b4d6720a0.jpg)  
+图15 三种电子直线加速器X射线焦点尺寸测量仪测量焦点稳定性结果  
+(a) 2 MeV，(b) 6 MeV，(c) 9 MeV   
+Fig.15 Focal spot stability measurement results of three electron linear accelerators using the developed X-ray focal spot size measuring instrument (a) 2 MeV, (b) 6 MeV, (c) 9 MeV
+
+# 4 结语
+
+本文提出了狭缝平移扫描法来测量电子直线加速器X射线焦点尺寸和稳定性，并研制了电子直线加速器X射线焦点尺寸测量的一体化仪器，该测量仪通过上位机控制台，控制机械扫描运动系统和高能X射线探测与采集系统，实现电子直线加速器X射线焦点尺寸的测量。具有测量精度高、操作简便、测量速度快、重复性好等优点。该测量仪在不同型号和能量的电子直线加速器上进行了实验，实验结果表明，相对于传统“三明治”法，本测量仪速度快、重复性好，不仅能测量焦点尺寸，还可动态监测焦点位置变化，对准确测量和评估电子直线加速器X射线焦点尺寸，提升X射线无损检测成像质量具有重要意义。
+
+作者贡献声明 李奉笑负责仪器整体设计与调试，实验数据的采集与分析，文章大纲的起草及最终版本的修订工作；刘成峰负责仪器硬件电路设计及FPGA程序开发，文章初稿的撰写与修改，以及实验数据的处理；钟国威负责仪器软件界面设计，文章的审阅与修订；杨润负责仪器机械结构设计，并参与文章的审阅与修订工作；安康负责探测器设计；周日峰提出本测量方法，负责仪器总体设计、调试和测试，文章终稿的审阅和修改。
+
+# 参考文献
+
+1 Yeboah C. Characterization of linear accelerator X-ray source size using a laminated beam-spot camera[J]. Journal of Applied Clinical Medical Physics, 2011, 12(3): 178–182. DOI: 10.1120/jacmp.v12i3.3463.   
+2 唐利华, 张国光, 肖丹, 等. X射线与中子融合成像技术研究现状及展望[J]. 核技术, 2025, 48(1): 010001. DOI:10.11889/j.0253-3219.2025.hjs.48.240014. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.240014.
+
+TANG Lihua, ZHANG Guoguang, XIAO Dan, et al. Research status and prospect of combined X-ray and neutron imaging technology[J]. Nuclear Techniques, 2025, 48(1): 010001. DOI: 10.11889/j. 0253-3219.2025. hjs.48.240014. CSTR: 32193.14.hjs.CN31-1342/TL.2025. 48.240014.
+
+3 孙爱赟, 贾文宝, 黑大千, 等. 基于小型电子感应加速器的二维/三维X射线成像系统研制[J]. 核技术, 2024, 47(12): 120202. DOI: 10.11889/j. 0253-3219.2024. hjs. 47.120202. CSTR: 32193.14. hjs. CN31-1342/TL. 2024.47.120202.
+
+SUN Aiyun, JIA Wenbao, HEI Daqian, et al. Development of 2D/3D X-ray imaging system based on small size betatron[J]. Nuclear Techniques, 2024, 47(12): 120202. DOI: 10.11889/j.0253-3219.2024.hjs.47.120202. CSTR: 32193.14.hjs.CN31-1342/TL.2024.47.120202.
+
+4 张少东, 金宝亮, 张小东. 基于液闪EJ301研制的中子探测器的性能测试[J]. 核技术, 2024, 47(8): 080402. DOI:10.11889/j.0253-3219.2024.hjs.47.080402.
+
+ZHANG Shaodong, JIN Baoliang, ZHANG Xiaodong. Evaluation of self-developed neutron detector based on EJ301 liquid scintillator[J]. Nuclear Techniques, 2024, 47 (8): 080402. DOI: 10.11889/j. 0253-3219.2024. hjs. 47. 080402.
+
+5 IEC. Industrial non-destructive testing equipment - Electron linear accelerator: IEC 62976 Ed. 1.0 b: 2017[S]. International Electrotechnical Commission, 2017.
+
+6 国家质量监督检验检疫总局, 中国国家标准化管理委员会 . 无损检测用电子直线加速器: GB/T 20129—2015[S]. 北京: 中国标准出版社, 2016.  
+General Administration of Quality Supervision, Inspection and Quarantine of the People's Republic of China, Standardization Administration of the People's Republic of China. Electron linac for non-destructive
+
+testing: GB/T 20129—2015[S]. Beijing: Standards Press of China, 2016.   
+7 Lutz W R, Maleki N, Bjärngard B E. Evaluation of a beam-spot camera for megavoltage X rays[J]. Medical Physics, 1988, 15(4): 614–617. DOI: 10.1118/1.596214.   
+8 Munro P, Rawlinson J A, Fenster A. Therapy imaging: source sizes of radiotherapy beams[J]. Medical Physics, 1988, 15(4): 517–524. DOI: 10.1118/1.596295.   
+9 Jaffray D A, Battista J J, Fenster A, et al. X-ray sources of medical linear accelerators: Focal and extra-focal radiation [J]. Medical Physics, 1993, 20(5): 1417 – 1427. DOI: 10.1118/1.597106.   
+10 Loewenthal E, Loewinger E, Bar-Avraham E, et al. Measurement of the source size of a 6- and 18-MV radiotherapy linac[J]. Medical Physics, 1992, 19(3): 687 –690. DOI: 10.1118/1.596812.   
+11 李成刚, 邓建军, 李勤, 等. 一体化高能 X 射线参数测量装置设计及应用[J]. 核技术, 2011, 34(6): 433–436.LI Chenggang, DENG Jianjun, LI Qin, et al. Design andapplication of integrated high energy X-ray parametermeasurement device[J]. Nuclear technology, 2011, 34(6):433–436.  
+12 陈浩, 许州, 金晓, 等. 高能工业 CT 用新型 X 射线源焦 点测量[J]. 强激光与粒子束, 2004, 16(3): 390–394. CHEN Hao, XU Zhou, JIN Xiao, et al. Focal spot measurement with a new X-ray source for high energy industrial CT[J]. Intense Laser and Particle Beams, 2004, 16(3): 390–394.   
+13 李勤, 王毅, 刘云龙, 等. 针孔法测量X光源焦斑尺寸 [J]. 强激光与粒子束, 2021, 33: 044007. DOI: 10.11884/ HPLPB202133.200132. LI Qin, WANG Yi, LIU Yunlong, et al. The focal spot size of X-ray source was measured by pinhole method[J]. Intense Laser and Particle Beams, 2021, 33: 044007. DOI: 10.11884/HPLPB202133.200132.   
+14 宋文龙, 李奉笑, 安康, 等. 高能工业CT电子直线加速器焦点测量方法与装置研制[J]. 光学学报, 2023, 43(23): 341–348.SONG Wenlong, LI Fengxiao, AN Kang, et al.Development of focus measurement method and devicefor high energy industrial CT electron LINAC[J]. ActaOptica, 2023, 43(23): 341–348.  
+15 牟启航, 李杰成, 柳淘, 等. X波段2 MeV小焦点加速器 研制及应用[J]. 原子核物理评论, 2024, 41(1): 418–425. MOU Qihang, LI Jiecheng, LIU Tao, et al. Development and application of X-band 2 MeV small focus accelerator [J]. Nuclear Physical Review, 2024, 41(1): 418–425.
+
+16 王爱涛, 孟超, 康达, 等. 2 MeV-X波段小焦点加速管的研制及应用[J]. 医疗装备, 2023, 36(3): 10–12+19.  
+WANG Aitao, MENG Chao, KANG Da, et al. Development and application of 2 MeV-X band small focus accelerator tube[J]. Medical Equipment, 2023, 36 (3): $1 0 ^ { - } 1 2 { + } 1 9$ .   
+17 李诗琳, 杨京鹤, 范雨轩, 等. C波段9 MeV小焦点驻波电子直线加速结构设计[J]. 原子能科学技术, 2025, 59(1): 213–219.  
+LI Shilin, YANG Jinghe, FAN Yuxuan, et al. Design of Cband 9 MeV small focus standing wave electron linear acceleration structure[J]. Atomic Energy Science and Technology, 2025, 59(1): 213–219.   
+18 Li F X, Zhong G W, Yu H J, et al. Measuring size and stability of focal spot for linear accelerator in industrial CT by slit translation scanning method[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 1–7.   
+19 Gambaccini M, Cardarelli P, Taibi A, et al. Measurement of focal spot size in a $5 . 5 \mathrm { M e V }$ linac[J]. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2011, 269 (10): 1157–1165. DOI: 10.1016/j.nimb.2011.02.089.   
+20 Li F X, Zhong G W, Yu H J, et al. Measuring size and stability of focal spot for linear accelerator in industrial CT by slit translation scanning method[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 4506207. DOI: 10.1109/TIM.2024.3406806.   
+21 Bagramova A, Zhumadilov K, Endo S, et al. Gamma ray registration efficiency simulation of a HPGe detector with PHITS[J]. Journal of Radioanalytical and Nuclear Chemistry, 2025, 334(1): 381 – 387. DOI: 10.1007/ s10967-024-09839-2.   
+22 陈刚. 高能X射线ICT数据采集系统（DAS）的研究[D].重庆: 重庆大学, 2007.  
+CHEN Gang. Study on high energy X-ray ICT Data acquisition System (DAS) [D]. Chongqing: Chongqing University, 2007.   
+23 王永泉, 杨朝旭, 周淳, 等. 应用LabVIEW软件开发的气体绝缘金属封闭开关设备声振联合检测系统[J]. 西安交通大学学报, 2021, 55(6): 131–140.  
+WANG Yongquan, YANG Chaoxv, ZHOU Chun, et al. The sound and vibration joint detection system of gas insulated metal enclosed switchgear is developed by using LabVIEW software[J]. Journal of Xi'an Jiaotong University, 2021, 55(6): 131–140.

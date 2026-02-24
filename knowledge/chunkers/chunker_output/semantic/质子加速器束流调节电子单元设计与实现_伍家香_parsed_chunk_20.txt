@@ -1,0 +1,5 @@
+微分项可以写成：
+
+$$
+\frac {Y (z)}{X (z)} = \frac {K _ {d} \cdot \left(1 - z ^ {- 1}\right)}{T _ {s}} \tag {4}
+$$

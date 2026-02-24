@@ -1,0 +1,8 @@
+形成质子束进行引出。
+
+在常规的剥离引出中，采用厚度足够大的剥
+
+表 1 CYCIAE-100 的主要参数  
+Table 1 Main parameters of CYCIAE-100   
+
+<table><tr><td>参数</td><td>数值</td></tr><tr><td>离子源类型</td><td>多峰负氢</td></tr><tr><td>离子源流强,mA</td><td>&gt;5</td></tr><tr><td>离注入能量,keV</td><td>40</td></tr><tr><td>注入方式</td><td>螺旋静电偏转板轴向注入</td></tr><tr><td>Dee盒数</td><td>2</td></tr><tr><td>Dee盒张角,(°)</td><td>36</td></tr><tr><td>高频电压,kV</td><td>60~120</td></tr><tr><td>谐波数</td><td>4</td></tr><tr><td>高频频率,MHz</td><td>44.37</td></tr><tr><td>磁铁叶片数,对</td><td>4</td></tr><t

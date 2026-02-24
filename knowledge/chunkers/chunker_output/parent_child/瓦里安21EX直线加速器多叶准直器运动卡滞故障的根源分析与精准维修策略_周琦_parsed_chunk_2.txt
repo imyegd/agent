@@ -1,0 +1,7 @@
+# Root Cause Analysis and Precise Maintenance Strategy of Motion Jamming Fault of Multi Leaf Collimator in Varian 21EX Linear Accelerator
+
+ZHOU Qi
+
+(Lianjiang People's Hospital, Zhanjiang 524400)
+
+Abstract: Through the systematic analysis of mechanical structure, electrical control system and environmental factors, this paper deeply analyzes the motion jamming fault of the multi blade collimator of the Varian 21EX linear accelerator, and puts forward precise maintenance strategies, including cleaning, lubri

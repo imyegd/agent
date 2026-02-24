@@ -1,0 +1,5 @@
+of protons at different energies in various materials   
+
+<table><tr><td rowspan="2">质子能量
+Proton energy / MeV</td><td colspan="6">不同材料中的质子射程
+Projected range data of protons in various materials / mm</td></tr><tr><td>聚乙烯 Polyethylene</td><td>石墨 Graphite</td><td>铝 Aluminum</td><td>铁 Iron</td><td>铜 Copper</td><td>铅 Lead</td></tr><tr><td>10</td><td>1.18</td><td>0.683</td><td>0.623</td><td>0.257</td><td>0.242</td><td>0.298</td></tr><tr><td>30</td><td>8.66</td><td>4.92</td><td>4.33</td><td>1.72</td><td>1.60</td><

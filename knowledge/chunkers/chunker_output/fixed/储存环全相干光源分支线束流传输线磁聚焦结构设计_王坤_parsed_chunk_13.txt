@@ -1,0 +1,22 @@
+) 垂直  
+Fig.6 Frequency distribution of RMS orbit distortion after correction (a) Horizontal, (b) Vertical
+
+效率。束流传输线起始点的粒子参数由储存环束流参数及分支线交接点处的束流光学参数确定，设置200个随机误差种子，使用10 000个宏粒子进行粒
+
+![](images/957cb6f2460bd7af94289b6931ff895a19df63660dac3614430628aef82f0cb1.jpg)
+
+![](images/f371a7b1c2f7951f6de48adbe180ad72de2eb14557f43c9c27210bff32b2b1d7.jpg)  
+图7 轨道畸变RMS校正后分布图 (a) 水平，(b) 垂直  
+Fig.7 Distribution of RMS orbit distortion after correction (a) Horizontal, (b) Vertical
+
+子追踪模拟计算。粒子追踪结果表明，在设置真空管道尺寸 $\pm 1 7 . 5 \ \mathrm { m m }$ 、磁铁元件安装误差和磁场误差的情况下，束流传输线的传输效率可达 $1 0 0 \%$ 。
+
+![](images/41692c8c05069793acb72d3bba24d7cd56a0f81975197f76cfdcab980d15c393.jpg)
+
+![](images/eb8790c0eff457f224be5707ba7d13562af4e9b631b6f17a36931595afa88f59.jpg)  
+图8 200个种子的校正铁强度图（彩图见网络版） (a) 水平，(b) 垂直  
+Fig.8 Corrector strength with 200 seeds (color online) (a) Horizontal corrector, (b) Vertical corrector
+
+# 3 束流传输线引出注入段初步设计
+
+分支线束流传输线采用两台切割铁和两台冲击 磁铁组成的束流引出和注入方案。当束流从储存环 引出时，束流先由一台冲击磁铁踢出，再经过一台切 割铁（200 mrad）弯转，最终引出至传输线。当束流 从传输线注回储存环时，束流先经过一台切割铁 （20

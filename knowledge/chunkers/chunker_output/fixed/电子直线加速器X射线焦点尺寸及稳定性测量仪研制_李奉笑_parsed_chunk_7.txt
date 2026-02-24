@@ -1,0 +1,16 @@
+_ {y} ^ {2}}\right)\right) \tag {1}
+$$
+
+式中： $x \cdot y$ 是焦点中心为坐标原点的坐标； $I _ { 0 }$ 为射线强度的最大值； $\sigma _ { x } , \sigma _ { y }$ 为二维高斯分布 $x \cdot y$ 方向的标准 差 。 一 般 采 用 半 高 宽（Full Width at HalfMaximum，FWHM）定义焦点尺寸［19］，如图 2（b）、（c）， $X$ 方向焦点大小为 $a _ { x } = \mathrm { F W H M } _ { x } = 2 \sqrt { 2 \mathrm { l n } 2 } \sigma _ { x } , Y$ 方向焦点大小为 $a _ { y } = \mathrm { F W H M } _ { y } = 2 \sqrt { 2 \mathrm { l n } 2 } \sigma _ { y } \mathrm { _ { \circ } }$ 。
+
+![](images/9d4429ed1b21d79098ea3402ced48d01f2765881224f454abad42a1226207faf.jpg)  
+图1 驻波电子直线加速器产生高能X射线示意图（彩图见网络版）
+
+![](images/172986f0f5b70e6d5d1ca616187099cea62625a828f94d361f63363424e1b68e.jpg)  
+Fig.1 Schematic diagram of high-energy X-ray generation by standing wave electron linear accelerator (color online)
+
+![](images/b3d7b570e9432ee37cd300257748134755a32a3114d4cb08654ce00208d75553.jpg)
+
+![](images/d37e98bb1ac43b7a96f5ba1026ed4300c517353ba175eb1c68b9745b34f3e0a0.jpg)  
+图2 焦点的X射线强度分布及焦点大小表征示意图（彩图见网络版）  
+Fig.2 Schematic representation of X-ray intensity

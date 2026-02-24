@@ -1,0 +1,30 @@
+# 2.2 CyberKnife准直器
+
+最新的射波刀（CyberKnife）可以搭载3种类型的准直系统，并且可以自动进行切换，满足不同的治疗需求，如图10所示是搭载在CyberKnife上的3种准直系统。第一代准直系统Fixed由12个锥形孔准直器组成（照射野规格： $5 . 0 \ \mathrm { m m }$ 、 $7 . 5 \ \mathrm { m m }$ 、 $1 0 . 0 \ \mathrm { m m }$ 、$1 2 . 5 \mathrm { \ m m }$ 、 $1 5 . 0 \ \mathrm { m m }$ 、 $2 0 . 0 \ \mathrm {  m m }$ 、 $2 5 . 0 \ \mathrm { { m m } }$ 、 $3 0 . 0 \ \mathrm {  m m }$ 、$3 5 . 0 \mathrm { m m }$ 、 $4 0 . 0 \textrm { ~ } \textrm { m m }$ 、50.0 mm、 $6 0 . 0 \textrm { ~ } \textrm { m m }$ ）［28-29］，
+
+见图 11；第二代准直系统 Iris是一个照射野可自动切换的锥形孔准直器（照射野调整范围 $\Phi ^ { 5 \sim }$ $\Phi 6 0 \ \mathrm { m m }$ ）［30］ ；第三代准直系统InCise是一个小型MLC准直器（最大照射野 $1 1 5 \ \mathrm { m m } \times 1 0 0 \ \mathrm { m m }$ ）［31］。灵 活 精 确 的 准 直 系 统、精 准 的 图 像 引 导 及 运动 管 理 技 术、高 精 度 的 运 动 控 制 技 术 使 得CyberKnife成为开展立体定向放射治疗的重要手段 之 一。
+
+![](images/bb1a9ba11f818899d9e0d05d53d4754067c9e156ae2f306a3e613a4ca725ecc6.jpg)
+
+![](images/253eb9aa69323f5723a42853471c97cd86550e9b3fd675bf7a6f0ef577b66b96.jpg)
+
+![](images/c099cc17cedd7733100ec6c0ba340c797a5142344ff80c27a47160350c6a2cdf.jpg)  
+图10 射波刀的系列准直器 A为锥形孔准直器；B为Iris准直器；C为InCise准直器
+
+![](images/5ebe05633405fefd60147495af34a02b6f98bc1e210ca3b68403133cf315c027.jpg)
+
+![](images/1bee979e395062c3c1c643818e5a02e5c4709bf5f8cc11dfa90b5b50df881373.jpg)  
+图 11 射波刀的 Fixed 锥形孔准直器
+
+Fixed 和 Iris 都 属 于 锥 孔 形 准 直 器，其 中 Iris 是一款可以实现照射野自动连续切换的准直系统，可优先选择 $5 . 0 \ \mathrm { m m }$ 、 $7 . 5 \ \mathrm { m m }$ 、 $1 0 . 0 \ \mathrm { m m }$ 、 $1 2 . 5 \ \mathrm { m m }$ 、$1 5 . 0 \ \mathrm { m m }$ 、 $2 0 . 0 \ \mathrm { m m }$ 、 $2 5 . 0 \ \mathrm { m m }$ 、 $3 0 . 0 \ \mathrm { m m }$ 、 $3 5 . 0 \ \mathrm { m m }$ 、$4 0 . 0 \ \mathrm { m m }$ 、 $5 0 . 0 \ \mathrm { m m }$ 和 $6 0 . 0 \ \mathrm { m m }$ 这 12种规格，如 图 12所示是 Iris准直器的结构，由上下两层可调结构
+
+组成，每层包含 6组三棱柱结构，上下两层错开$3 0 ^ { \circ }$ 相位，形成一个 12棱边的近似圆形结构。Iris可以获得和 Fixed相近的照射野精度，两种准直器的半影比较如表 3所示，Iris可形成与 Fixed相同直径的近圆形照射野，二者半影接近，Fixed优于 Iris ［32］。
+
+![](images/e6628088d4ba9758755d21b586e7b212d7b6be4af2719f759dfa40b8e62dfbfe.jpg)
+
+![](images/4140b43a9876edbd9f62b2f4f1618b1b7f61a3247d67ed717820066259cc7563.jpg)  
+图12 射波刀的Iris锥形孔准直器 A为Iris准直器整体结构示意；B为Iris准直器成野示意
+
+表3 Fixed和Iris锥形孔准直器的半影比较（mm）  
+
+<table><tr><td rowspan="2">项目</td><td colspan="12">成野规格（mm）</td></tr><tr><td>5.0</td><td>7.5</td><td>10.0</td><td>12.5</td><td>15.0</td><td>20.0</td><td>25.0</td><td>30.0</td><td>35.0</td><td>40.0</td><td>50.0</td><td>60.0</td></tr><tr><td>Fixed准直器半影</td><td>2.0</td><td>2.4</td><td>2.6</td><td>2.6</td><td>2.8</td><td>2.8</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.5</td><td>3.5</td></tr><tr><td>Iris准直器半影</td><td>2.2</td><td>2.4</td><td>2.6</td><td>2.8</td><td>2.8</td><td>2.8</td><td>3.0</td><td>3.0</td><td>3.0</td><td>4.5</td><td>3.0</td><td>4.0</td></tr></table>

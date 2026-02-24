@@ -1,0 +1,10 @@
+/td><td>16.5</td></tr><tr><td>帝国理工学院[33]</td><td>收束喷嘴</td><td>1.02 μm</td><td>69.8×18.4(D=24.1)</td><td>20.9</td></tr><tr><td>西点军校[34]</td><td>收束喷嘴</td><td>250 nm</td><td>260×30(D=48.8)</td><td>10.4</td></tr></table>
+
+![](images/f3a3f5bca4a8c731c0de3b6352af7b2c8892fed8c59f0ce6ec50a1d55cb11498.jpg)  
+图4 液膜真空循环系统示意图
+
+![](images/6cee5cf3151599522ec2a98b3590eb63b891669e2121566b8870537d035759c7.jpg)  
+Figure 4 Schematic diagram of LST vacuum circulation system   
+(b)
+
+![](images/ae34aeff00af008fc41d02061b3dbf967

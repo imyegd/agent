@@ -1,0 +1,18 @@
+# 5 研究成效与结果
+
+# 5.1 摆位精度提升
+
+校准技术的应用使直线加速器 6D 治疗床自动摆位精度得到大幅提高。在 $X ,$ 、Y、Z 三个平移方向，校准前平均摆位误差为 $0 . 8 ~ \mathrm { m m }$ ，校准后降至 $0 . 2 ~ \mathrm { m m }$ 以内；Pitch、Roll、Yaw 三个旋转方向，校准前平均摆位误差为 $0 . 5 ^ { \circ }$ °，校准后降低至 $0 . 1 5 ^ { \circ }$ 以内。选取 10 组典型数据进行对比，具体情况如表1和图2所示。
+
+表1 校准前后典型摆位误差对比  
+Tab.1 Comparison of typical positioning errors before and after calibration
+
+<table><tr><td>方向</td><td>校准前误差均值</td><td>校准后误差均值</td></tr><tr><td>X平移</td><td>0.82 mm</td><td>0.18 mm</td></tr><tr><td>Y平移</td><td>0.79 mm</td><td>0.16 mm</td></tr><tr><td>Z平移</td><td>0.77 mm</td><td>0.15 mm</td></tr><tr><td>Pitch旋转</td><td>0.48°</td><td>0.13°</td></tr><tr><td>Roll旋转</td><td>0.51°</td><td>0.14°</td></tr><tr><td>Yaw旋转</td><td>0.49°</td><td>0.12°</td></tr></table>
+
+![](images/c446debbd3c559411a087d7e8122d95d61fceea740e23756a619cb048448b7ea.jpg)  
+图2 校准前后6D治疗床摆位误差对比图  
+Fig.2 Comparison of 6D treatment couch positioning errors before and after calibration
+
+# 5.2 治疗效果改善
+
+临床应用结果表明，使用校准后的 6D 治疗床进行放射治疗，能够显著优化肿瘤靶区剂量覆盖情况，有效降低周围正常组织受照剂量。研究对 50 例患者的治疗过程进行剂量监测，借助电离室矩阵和 EPID 等剂量验证设备进行测量分析。数据显示，与校准前相比，肿瘤靶区剂量达标率从$8 5 \%$ 提升至 $9 8 \%$ ，正常组织受照剂量超过安全阈值的病例数由 12 例减少到 3 例。以某肺癌患者为例，校准前肿瘤靶区最小剂量仅为处方剂量的 $82 \%$ ，校准后提升至 $9 5 \%$ ；肺部正常组织平均受照剂量从 18 Gy 降至 $1 2 { \mathrm { ~ G y ~ } }$ ，极大地降低了正常组织辐射损伤风险，显著提升了放射治疗的安全性和有效性  [5]。

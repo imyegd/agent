@@ -1,0 +1,7 @@
+# Radiation shielding design and residual radioactivity assessment for the beam dump at XiPAF
+
+WANG Di CHEN Wei LYU Wei YAN Yihua YU Junying WANG Minwen WANG Zhongming
+
+(National Key Laboratory of Intense Pulsed Radiation Simulation and Effect, Northwest Institute of Nuclear Technology, Xi'an 710024, China)
+
+Abstract [Background] The Xi'an $2 0 0 \ \mathrm { M e V }$ proton application facility (XiPAF) is planned for upgrade and transformation into a versatile experimental facility for both proton and heavy

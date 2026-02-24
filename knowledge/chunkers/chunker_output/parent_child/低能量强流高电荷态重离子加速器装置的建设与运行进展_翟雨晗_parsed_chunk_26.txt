@@ -1,0 +1,10 @@
+stronger than 1.0 emA
+
+![](images/35a69b784e5c2f277c2d8b57ac3c7adc2f87ab6e628a936503c2963d1415a825.jpg)  
+图  5    加 速 $^ { 1 6 } \mathrm { O } ^ { 6 \cdot }$ 流强大于 $1 . 0 \mathrm { e m A }$ 时的 RFQ 效率测量  
+(a) horizontal direction
+
+![](images/e48750e7dd0df7b06f19885f3f835b74bed825c164b46842289ed341537fb851.jpg)  
+(b) vertical direction   
+Fig. 6    Initial emittance measurement of a milliampere-class high-current ${ \mathrm { O } } ^ { 6 + }$ heavy ion beam   
+图 6    毫安级强流 $\mathrm { O ^ { 6 + } }$ 重离子束流的初始发射度

@@ -1,0 +1,40 @@
+# 1.2    物理模型
+
+为研究初始 $\sigma _ { 0 }$ 局部超越 $9 0 ^ { \circ }$ 时的横向束流动力学特性，本研究设计了 5种不同聚焦方案来模拟 $\sigma _ { 0 }$ 的演化规律。各方案中最大 $\sigma _ { 0 }$ 分别设置为 $1 2 0 ^ { \circ }$ 、 $1 1 0 ^ { \circ }$ 、 $1 0 0 ^ { \circ }$ 和 $9 0 ^ { \circ }$ ，旨在模拟存在不同梯度加速场时 $\sigma _ { 0 }$ 的变化趋势。加速梯度越大，对应的 $\sigma _ { 0 }$ 值越高。其中方案 $\textcircled{1}$ 对应最高加速梯度，方案 $\textcircled{4}$ 则对应最低加速梯度。此外，我们设计了一组对照组，也就是方案 $\textcircled{5}$ ，它的 $\sigma _ { 0 }$ 始终小于 $9 0 ^ { \circ }$ ，其他参数均和方案 $\textcircled{1}$ 相同。为避免束流对聚焦参数过度敏感，各方案在束流通过 80 个聚焦周期后， $\sigma _ { 0 }$ 最小值统一设定为 $4 0 ^ { \circ }$ 。为此，我们基于一个相移函数设定聚焦方案，该函数能更精确地描述 $\sigma _ { 0 }$ 的动态变化规律。该相移函数为
+
+$$
+\sigma_ {0} = A _ {2} + \frac {A _ {1} - A _ {2}}{1 + (x / x _ {0}) ^ {p}} \tag {5}
+$$
+
+式中：变量 $x$ 表征周期数； $A _ { 1 }$ 为上限参数，代表方案中设计的初始最大聚焦强度； $A _ { 2 }$ 是下限修正参数，用于微调$\sigma _ { 0 }$ 演化的基线，确保 80个周期后 $\sigma _ { 0 }$ 能稳定降至预设的相移值； $x _ { 0 }$ 代表拐点周期数，表征 $\sigma _ { 0 }$ 从快速变化转为缓慢趋近稳定值的临界周期位置； $p$ 代表变化速率参数，控制 $\sigma _ { 0 }$ 在拐点附近的下降速率。各聚焦方案的具体参数详见表1。图1 则展示了五种不同方案下 $\sigma _ { 0 }$ 的演变轨迹。
+
+表 $1 \phantom { 0 } \sigma _ { 0 }$ 的具体参数  
+Table 1    Specific parameters of logistic functions for $\pmb { \sigma _ { 0 } }$   
+
+<table><tr><td>scheme</td><td>max σ0(°)</td><td>min σ0(°)</td><td>A1</td><td>A2</td><td>x0</td><td>p</td></tr><tr><td>①</td><td>120</td><td>40</td><td>120</td><td>29.8312</td><td>26.3333</td><td>1.87755</td></tr><tr><td>②</td><td>110</td><td>40</td><td>110</td><td>31.1023</td><td>26.3333</td><td>1.87755</td></tr><tr><td>③</td><td>100</td><td>40</td><td>100</td><td>32.3734</td><td>26.3333</td><td>1.87755</td></tr><tr><td>④</td><td>90</td><td>40</td><td>90</td><td>33.6445</td><td>26.3333</td><td>1.87755</td></tr></table>
+
+![](images/1f4efd678e0ab06b2bed168c3598f2ed37f57c8617680b450ece599f947da1a0.jpg)  
+(a) scheme $\textcircled{1} ,$ ~ $\textcircled{4}$
+
+![](images/c9ba18ce18786e4e3e746f29dbcb866176d8e0d281ae171c350b537b7901ae61.jpg)  
+(b) scheme ①and⑤   
+Fig. 1 $\sigma _ { 0 }$ under different focusing schemes   
+图 1    不同聚焦方案对应的 $\sigma _ { 0 \mathrm { { c } } }$ 。
+
+选择螺线管和双组合四极透镜作为聚焦周期，对于螺线管， $\sigma _ { 0 }$ 与螺线管磁场强度 $B$ 、粒子动能 $T _ { \nu }$ 聚焦周期长σ0s ∝度 L 的关系可近似表示为： $L$ $\sigma _ { 0 s } \propto \frac { B \cdot L } { \sqrt { T } }$ ；对于双组合四极透镜， $\sigma _ { 0 } d$ 与四极透镜磁场梯度 $G _ { \nu }$ 、透镜有效长度 $L _ { \mathrm { l e n s } } .$ 、周期长度 L、粒子动量 $p$ 的关系可表示为 $\sigma _ { 0 } d \propto G L _ { \mathrm { l e n s } } L / p$ 。图 2 和图 3 给出了在二维和三维模拟时所用的周期聚焦结构。和二维不同的是，三维模拟采用的周期系统中加入了射频腔。
+
+![](images/9dc8ce430d4b00bf5ee1a8240fd4fa650eb4accdb47e52ed3adf09ed165aa8e8.jpg)  
+(a) solenoid
+
+![](images/32a7c5057a059400fdab52576ed322a0832b8846099108c7987804a4492bf5d8.jpg)  
+(b) doublet   
+Fig. 2    Periodic structure adopted in two-dimensional simulation
+
+![](images/4e4981cf1b7452c3973bade6437ae7f898318446cb0ff2715e09090392f98318.jpg)  
+图 2    二维模拟时采用的周期结构  
+(a) solenoid
+
+![](images/0e867cc3efa33402c11348804b93be382272a23a45b3e32d54da4187a99d022f.jpg)  
+(b) doublet   
+Fig. 3    Periodic structure adopted in three-dimensional simulation   
+图 3    三维模拟时采用的周期结构

@@ -1,0 +1,9 @@
+。所有角度下的激发态角分布如图 2 所示，另外也测量了 $^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 7 } L i ) ^ { 2 6 } M g }$ 弹性散射角分布以获取入射道光学势参数，其结果展示在图3中。
+
+![](images/23d56c256110dc05f6d565456835d638c1c3f53fa5753265368921f2d4cfe0e0.jpg)
+
+![](images/419d77dea6daf81d01ef5fe4c176cd3a3d3fa4ed7469b924ab2c90851ad78ef4.jpg)  
+图 1    实验室系 $6 ^ { \circ }$ 下的焦平面位置谱  
+Fig. 1    Focal-plane position spectrum at $6 ^ { \circ }$ in laboratory system
+
+一般，在确定入射道与出射道光学势时，常采用 Woods-Saxon 形式的光学势拟合实验角分布。拟 合 时 通 常 关 注 光 学 势 的 主 导 体 积 项 ， 而DWBA 计算中表面项、自

@@ -1,0 +1,5 @@
+# 参考文献
+
+1 Collaboration A. Observation of a new particle in the search for the standard model Higgs boson with the ATLAS detector at the LHC. Phys Rev X, 2012, 11: 021049   
+2 Holler M, Guizar-Sicairos M, Tsai E H R, et al. High-resolution non-destructive three-dimensional imaging of integrated circuits. Nature, 2017, 543: 402-406   
+3 Gonsalves A J, Nakamura K, Daniels J, et al. Petawatt laser guiding and electron beam acceleration to 8 GeV in a laser-heated capillary discharge waveguide. Phys Rev Lett, 20

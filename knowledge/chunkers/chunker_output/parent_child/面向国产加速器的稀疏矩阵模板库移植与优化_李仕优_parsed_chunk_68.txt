@@ -1,0 +1,4 @@
+ess, 2019: 231-240.   
+[10] ORTEGA G, VAZQUEZ F, GARCIA I, et al. FastSpMM: an efficient library for sparse matrix matrix product on GPUs[J]. The Computer Journal, 2014, 57(7): 968-979.   
+[11] YAMAGUCHI T, BUSATO F. Accelerating matrix multiplication with block sparse format and NVIDIA tensor cores[EB/OL]. [2025-06-03]. https://developer.nvidia.com/blog/accelerating-matrix-mul tiplication-with-block-sparse-format-and-nvidia-tensor-co res/.   
+[12] FLYMN P, YI X Y, SAULE E, et al. SpMM-bench: performance ch

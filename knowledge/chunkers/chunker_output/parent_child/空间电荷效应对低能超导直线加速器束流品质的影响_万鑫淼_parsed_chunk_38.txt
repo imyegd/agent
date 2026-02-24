@@ -1,0 +1,16 @@
+# 2    束晕形成机制
+
+# 2.1    理论模型
+
+对于束晕的理论研究，大多是基于 1985年提出的粒子束核模型[22]。将束核和单粒子看作两个整体，粒子的运动会受束核影响，但是束核不会受单粒子的影响。二维和三维对应的包络和单粒子的运动轨迹方程分别为[23-24]
+
+二维包络方程
+
+$$
+\frac {\mathrm {d} ^ {2} r}{\mathrm {d} s ^ {2}} + k (s) r - \frac {K}{r} - \frac {1 6 \varepsilon^ {2}}{\beta^ {2} \gamma^ {2} r ^ {3}} = 0 \tag {6}
+$$
+
+二维粒子运动方程
+
+$$
+\left\{ \begin{array}{l l} \frac {\mathrm {d} ^ {2} x}{\mathrm {d} s ^ {2}} + k (s) x - \frac {K}{r ^ {2}} x = 0 & (| x | \leqslant r) \\ \frac {\mathrm {d} ^ {2} x}{\mathrm {d} s ^ {2}} + k (s) x

@@ -1,0 +1,20 @@
+11348804b93be382272a23a45b3e32d54da4187a99d022f.jpg)  
+(b) doublet   
+Fig. 3    Periodic structure adopted in three-dimensional simulation   
+图 3    三维模拟时采用的周期结构
+
+# 1.3    二维模拟
+
+采用 TraceWin软件进行模拟仿真，并利用 PARTRAN 进行多粒子跟踪。在模拟中，质子束流的初始分布为 KV分布，初始动能为 $1 0 \mathrm { M e V }$ ，连续波束流在 $x { - } x ^ { \prime }$ 和 y-y′平面上的初始归一化均方根发射度均设置为 $0 . 2 \pi$ ·mm·mrad，粒子数设置为 100 000。将调谐因子 $\eta$ 的范围选择在 1.0到 0.6之间，以确保模拟能够很好地适应各种情况。这里，我们主要讨论与束流质量有关的参数，如束流出口的均方根发射度，如图 4所示。同时，采用 Vlasov-Poisson 理论得到不同条件下所对应的阻带范围进行分析，如图5所示。
+
+![](images/3d3665724c265d91611dc3b059f316a389f09b2214dd0d922a513be8e5c98bae.jpg)  
+(a) quadrupole doublet
+
+![](images/ca956c7fddc1428dee9b7eba965ae8132def7a3808391bc4e86026bf059cdeb4.jpg)  
+(b) solenoid   
+Fig. 4    Beam outlet emittance (ε) corresponding to different focusing schemes and different $\eta$   
+图 4    不同聚焦方案与不同 $\eta$ 所对应的束流出口发射度。
+
+很明显，在螺线管和双组合四极透镜聚焦通道之间，束流的质量存在显著差异。对于双组合四极透镜通道，当 $\eta$ 为 0.7和 0.6，采用聚焦方案 $\textcircled{1}$ 时，束流出口处的发射度最大。而对于螺线管， $\eta$ 和聚焦方案似乎对束流质量没
+
+![](images/2cd05e05ffa365933d38f13976

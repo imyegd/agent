@@ -1,0 +1,7 @@
+# Analysis of Automatic Positioning Accuracy and Calibration Techniques for a 6D Linear Accelerator Treatment Couch
+
+Zhu Qifen
+
+(Qianxinan People's Hospital, Xingyi, Guizhou, China, 562400)
+
+Abstract： This study analyzes the influencing factors of the automatic positioning accuracy of a 6D linear accelerator (LINAC) treatment couch. It discusses error measurement, calibration model construction, and calibration algorithm optimization, proposing an automatic positioning accuracy calibration technique based o

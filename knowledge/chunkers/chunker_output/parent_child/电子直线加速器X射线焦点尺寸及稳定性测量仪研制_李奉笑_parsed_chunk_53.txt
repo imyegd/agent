@@ -1,0 +1,4 @@
+23, 36 (3): $1 0 ^ { - } 1 2 { + } 1 9$ .   
+17 李诗琳, 杨京鹤, 范雨轩, 等. C波段9 MeV小焦点驻波电子直线加速结构设计[J]. 原子能科学技术, 2025, 59(1): 213–219.  
+LI Shilin, YANG Jinghe, FAN Yuxuan, et al. Design of Cband 9 MeV small focus standing wave electron linear acceleration structure[J]. Atomic Energy Science and Technology, 2025, 59(1): 213–219.   
+18 Li F X, Zhong G W, Yu H J, et al. Measuring size and stability of focal spot for linear accelerator in industrial CT by slit translation scanning method[J]. IEEE Transactions on Instrum

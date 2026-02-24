@@ -1,0 +1,7 @@
+mes 2 8 \ : \mathrm { c m }$ ，装配双层多叶准直器（multi-leafcollimator，MLC），在主束区方向设置有 $1 7 2 \mathrm { m m } 3 \%$ 的锑铅合金和 $1 0 \mathrm { m m }$ 钢板的自屏蔽结构，加速器坐北朝南放置在机房内，治疗床朝向迷路方向，该加速器所在机房的平面图见图 1。
+
+![](images/b2bd34502c34d708de37766bb8483f4cb7a48401a3d1e6551db7afbd1a5c9cd8.jpg)  
+图 1    Halcyon 直线加速器机房平面图  
+Figure 1    Floor plan of the Halcyon linear accelerator treatment room
+
+测量布点采用空间矩阵方式布点，测量布点现场图见图 2（a）所示，以等中心点高度 $1 . 1 \mathrm { m }$ 为中间高度，上下分别增减 $0 . 6 \mathrm { m }$ ，即分别在 0.5、1.1 和 $1 . 7 \mathrm { m }$ 3 个平面布点

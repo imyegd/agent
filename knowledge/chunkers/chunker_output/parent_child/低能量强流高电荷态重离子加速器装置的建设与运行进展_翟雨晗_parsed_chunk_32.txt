@@ -1,0 +1,2 @@
+$^ { 4 } \mathrm { H e } ^ { 2 + }$ beam resolution by silicon detector, the particle number ratio of H to He is approximately 1 to 10   
+图 8    硅探测器对 $\mathrm { H } _ { 2 } ^ { + }$ 和4He2+束流的分辨，H 和 He 粒子数比约为 1∶10

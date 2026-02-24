@@ -1,0 +1,15 @@
+# 参考文献：
+
+[1] 张依琳，梁玉珠，尹沐君，等. 移动边缘计算中计算卸载方案研究综述[J]. 计算机学报，2021，44（12）：2406-2430.  
+[2] 黄韬，刘江，汪硕，等. 未来网络技术与发展趋势综述[J]. 通信学报，2021，42（1）：130-150.  
+[3] 廖志文. 企业级视频会议服务质量保证系统资源预留技术研究 [D]. 广州：华南理工大学，2020.  
+[4] 张朝昆，崔勇，唐霭祎，等. 软件定义网络（SDN）研究进展 [J]. 软件学报，2015，26（1）：62-81.  
+[5] 雷秋燕，张治中，程方，等. 基于C-RAN的5G无线接入网架构[J]. 电信科学，2015，31（1）：112-121.  
+[6] GUÉRIN R A, ORDA A. Networks with Advance Reservations: The Routing Perspective [C]/Nineteenth Annual Joint Conference of the IEEE Computer and Communications Societies (Cat. No.00CH37064). Tel Aviv: IEEE, 2000: 118-127   
+[7] LIN Y Y, WU Q S. Complexity Analysis and Algorithm Design for Advance Bandwidth Scheduling in Dedicated Networks [J].IEEE/ACM Transactions on Networking, 2013, 21 (1): 14-27. (下转11页)
+
+表 4 终端实验平均统计结果  
+
+<table><tr><td>实验指标</td><td>普通终端结果</td><td>关键终端结果</td></tr><tr><td>上报次数</td><td>47</td><td>134</td></tr><tr><td>剩余电量/%</td><td>51</td><td>50</td></tr><tr><td>立即成功率/%</td><td>79</td><td>82</td></tr><tr><td>迟后成功率/%</td><td>0</td><td>13</td></tr><tr><td>呼叫成功率/%</td><td>79</td><td>95</td></tr></table>
+
+关键终端平均完成状态上报134次，普通终端平均为47次。关键终端上报呼叫状态，有效解决了呼叫状态不明确的问题；且通过在业务指令、语音中嵌入位置、电量等状态信息，确保状态信息顺利上报，提升了状态更新频率。尽管关键终端的上报频率更高，但两者的耗电量差异较小，说明该优化方案不会对终端耗电量产生较大影响，能够满足实际应用需求。

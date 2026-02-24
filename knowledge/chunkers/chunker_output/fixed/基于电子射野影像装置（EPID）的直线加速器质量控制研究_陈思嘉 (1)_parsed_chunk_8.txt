@@ -1,0 +1,13 @@
+且测量结果不受人员因素干扰。结合 Pylinac 等开源分析软件，EPID 质控流程实现了高度自动化。图像处理、特征提取和结果报告生成均可通过编程完成，并提高了数据分析的客观性和重复性。EPID 在检测 VMAT 等复杂治疗技术中，能够精确评估加速器在剂量率、机架速度和MLC运动速度持续变化时的控制能力，这些是传统静态测量方法难以全面覆盖的。
+
+# 参考文献：
+
+[1] 顾香莲 , 顾煜恺 , 龚卿 . 基于 NCC/T-RT 001-2019 质控指南进行医用加速器质控的研究 [J]. 中国医疗设备 , 2021, 36(7):5.  
+[2] 陈元华 , 李娟 , 胡伟刚等 . 医用电子直线加速器快速日检方法研究 [J]. 中国医疗器械杂志 ,2019,43(2):143-145,156.  
+[3] 陈诚 , 韩光 , 周晓艺等 . 电子射野影像装置在容积调强旋转放疗多叶准直器到位精度质控中的应用 [J]. 肿瘤防治研究 ,2015,42(3):261-265.  
+[4] 医用电子直线加速器质量控制检测规范 :WS 674-2020[S]. 2020.   
+[5] 国家肿瘤诊疗质控中心放疗质控专家委员会 , 赫捷 , 王绿化等 . 放射治疗质量控制基本指南 [J]. 中华放射肿瘤学杂志 ,2018,27(4):335-342.  
+[6] 赵辰凯 . 医用电子加速器质量控制测试研究 [J]. 中国设备工程 ,2025(5):201-203.  
+[7]Zhang H, Zhang B, Lasio G, Chen S, Nasehi Tehrani J. Assessing quality assurance of multi-leaf collimator using the structural similarity index. J Appl Clin Med Phys. 2024 Apr;25(4):e14288.   
+[8]Barnes M, Dipuglia A, Beeksma B, Lehmann J. Evaluation of the TrueBeam machine-performance-check (MPC): Collimator device check (CDC). J Appl Clin Med Phys. 2025 Jul;26(7):e70171.   
+[9]

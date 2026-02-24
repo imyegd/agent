@@ -1,0 +1,2 @@
+rm {r} 2} = \left(V _ {\beta} + \sqrt {3} V _ {\alpha}\right) / 2 \\ V _ {\mathrm {r} 3} = \left(- V _ {\beta} - \sqrt {3} V _ {\alpha}\right) / 2 \end{array} \right. \tag {15}
+$$

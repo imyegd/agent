@@ -1,0 +1,10 @@
+testing: GB/T 20129—2015[S]. Beijing: Standards Press of China, 2016.   
+7 Lutz W R, Maleki N, Bjärngard B E. Evaluation of a beam-spot camera for megavoltage X rays[J]. Medical Physics, 1988, 15(4): 614–617. DOI: 10.1118/1.596214.   
+8 Munro P, Rawlinson J A, Fenster A. Therapy imaging: source sizes of radiotherapy beams[J]. Medical Physics, 1988, 15(4): 517–524. DOI: 10.1118/1.596295.   
+9 Jaffray D A, Battista J J, Fenster A, et al. X-ray sources of medical linear accelerators: Focal and extra-focal radiation [J]. Medical Physics, 1993, 20(5): 1417 – 1427. DOI: 10.1118/1.597106.   
+10 Loewenthal E, Loewinger E, Bar-Avraham E, et al. Measurement of the source size of a 6- and 18-MV radiotherapy linac[J]. Medical Physics, 1992, 19(3): 687 –690. DOI: 10.1118/1.596812.   
+11 李成刚, 邓建军, 李勤, 等. 一体化高能 X 射线参数测量装置设计及应用[J]. 核技术, 2011, 34(6): 433–436.LI Chenggang, DENG Jianjun, LI Qin, et al. Design andapplication of integrated high energy X-ray parametermeasurement device[J]. Nuclear technology, 2011, 34(6):433–436.  
+12 陈浩, 许州, 金晓, 等. 高能工业 CT 用新型 X 射线源焦 点测量[J]. 强激光与粒子束, 2004, 16(3): 390–394. CHEN Hao, XU Zhou, JIN Xiao, et al. Focal spot measurement with a new X-ray source for high energy industrial CT[J]. Intense Laser and Particle Beams, 2004, 16(3): 390–394.   
+13 李勤, 王毅, 刘云龙, 等. 针孔法测量X光源焦斑尺寸 [J]. 强激光与粒子束, 2021, 33: 044007. DOI: 10.11884/ HPLPB202133.200132. LI Qin, WANG Yi, LIU Yunlong, et al. The focal spot size of X-ray source was measured by pinhole method[J]. Intense Laser and Particle Beams, 2021, 33: 044007. DOI: 10.11884/HPLPB202133.200132.   
+14 宋文龙, 李奉笑, 安康, 等. 高能工业CT电子直线加速器焦点测量方法与装置研制[J]. 光学学报, 2023, 43(23): 341–348.SONG Wenlong, LI Fengxiao, AN Kang, et al.Development of focus measurement method and devicefor high energy industrial CT electron LINAC[J]. ActaOptica, 2023, 43(23): 341–348.  
+15 牟启航, 李杰成, 柳淘, 等. X波段2 MeV小焦点加速器 研制及应用[J]. 原子核物理评论, 2024, 41(1): 418–425. MOU Qihang, LI Jiecheng, LIU Tao, et al. Development and application of X-band 2 MeV small focus accelerator [J]. Nuclear Physical Review, 2024, 41(1): 418–425.

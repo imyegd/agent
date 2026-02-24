@@ -1,0 +1,6 @@
+ger W, et al. Imaging properties of scintillation screens for high energetic ion beams [J]. IEEE Transactions on Nuclear Science, 2012, 59(5): 2301-2306.   
+[6] 陈佳洱. 加速器物理基础[M]. 北京: 北京大学出版社, 2012.  
+[7] 何铁，安力，刘猛，等. 基于光学成像的束流截面分布诊断系统[J]. 强激光与粒子束，2014，26(11)：6.  
+[8] Liang G, Shu F, Ma S, et al. Spiraling elliptic hollow beams with cross phase[J]. New Journal of Physics, 2023, 25(3): 033011.   
+[9] 朱文超，魏征宇，谢春杰，等. NFTHz 加速器束流横向截面尺寸测量系统研制[J]. 强激光与粒子束，2024(003)：036.  
+[10] MelihYildirim, FirstKacar. Adapting Lap

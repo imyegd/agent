@@ -1,0 +1,7 @@
+nstant pressure devices ( OCPDs) ． The methods include setting emergency constant pressure device( ECPD) ，PLC，communication modules and other components to detect the real-time working status of the OCPDs automatically． The ECPD matches the parameters of the failure OCPD to realize automatic switching． The results show that switching pressure fluctuation of all system are controlled within the allowable value，thereby realizing non-stop switching． Multi-loop constant water pressure system reduces the downtime and improves the reliability of proton and heavy ion accelerator，it is practical and has reference value for improving the design and operational reliability of multi loop circulating cooling w ater systems．
+
+Keywords: constant pressure device; proton and heavy ion; accelerator; cooling water; emergency equipment
+
+# 0 引言
+
+质子重离子加速器是应用于肿瘤放射治疗的大型医学装备，循环冷却水系统是其重要辅助设施，通过多层循环冷却水，将运行过程中产生的热量带走。 质子重离子加速器对循环冷却水可靠性有严格要求，循环水温度波动控制在 $\pm 0 . 5 \mathrm { { \mathrm { C } } }$ 以内［1］，压强波动控制在 $\pm 0 . 0 2 \ \mathrm { M P

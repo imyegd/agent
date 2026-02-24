@@ -1,0 +1,2 @@
+. Atomic Energy Science and Technology, 2025, 59(1): 231-238(in Chinese).   
+[62] 裴士伦, 殷治国, 张天爵, 等. 用于 $2\mathrm{GeV}$ 固定场交变梯度质子加速器的高品质因数、高分路阻抗波导型高频腔设计[J]. 原子能科学技术, 2020, 54(8): 1519-1524. PEI Shilun, YIN Zhiguo, ZHANG Tianjue, et al. Design on high quality factor and high shunt impedance waveguide-type RF cavity for $2\mathrm{GeV}$ FFAG proton accelerator [J]. Atomic Energy Science and Technology, 2020, 54(8): 1519-1524(in Chinese).

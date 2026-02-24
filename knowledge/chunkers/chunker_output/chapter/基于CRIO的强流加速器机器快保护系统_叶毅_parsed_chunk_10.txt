@@ -1,0 +1,7 @@
+# 3 CRIO 实现 EPICS 架构的 IOC 功能
+
+强流加速器控制系统采用EPICS架构，快保护系统作为控制系统的一部分需要和加速器主控OPI进行通信，同时接收OPI的远程控制，如图3所示。CRIO系统完成本地数据采集和数据处理的任务外，必须作为EPICS架构中的IOC部件将系统需要的数据信息以标准的EPICS PV的形式发布共享，才能被以太网中OPI客户端订阅，实现EPICS架构中CVS的功能；同时也必须充当EPICS CVC客户端，接收并解析以太网中标准的EPICS PV发布共享的数据信息，执行相应的操作。
+
+CRIO系统为实现EPICS架构中IOC的功能，利用LabVIEW的共享变量技术，在共享变量上封装EPICS通道
+
+访问机制来实现。NI 公司的 DSC 组件中封装了“EPICS Server I/O Server”的接口程序，该接口程序可运行在CRIO 系统的 RT 程序，实现对 EPICS PV 的定义、发布和订阅，使 CRIO 对外充当 EPICS 的 IOC 组件[12-14] 。

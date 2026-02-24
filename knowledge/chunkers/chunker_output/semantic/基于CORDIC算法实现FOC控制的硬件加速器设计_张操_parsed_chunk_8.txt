@@ -1,0 +1,17 @@
+![](images/7c1d6540c920788292adc0acb975b8b997ed1da58dd9871ed5662fe4189e35b4.jpg)
+
+![](images/52bc2d94f9648aeea6eea3a88594cf873598b391574c58a51fc6c75c9b341f75.jpg)  
+图2 CORDIC算法坐标旋转图
+
+# 1.2 伪旋转
+
+$OP$ 逆时针旋转 $\theta$ 角度之后，理应到达 $OQ$ 位置，根据三角函数关系，可得 $OQ$ 的长度（模）刚好是 $OR$ 的 $\cos \theta$ 倍，且相位一致，如图3所示。
+
+![](images/e762799bb4ef193ed611d1876e1ae672991497cbc62385f7aa4cc79d145118a2.jpg)  
+图3 伪旋转示意图
+
+因此，称 $OR$ 为伪旋转，并先计算伪旋转，再补偿模值。提取因数 $\cos \theta$ 后，方程可以改写为
+
+$$
+\left\{ \begin{array}{l} x _ {2} = x _ {1} \cos \theta - y _ {1} \sin \theta = \cos \theta \left(x _ {1} - y _ {1} \tan \theta\right) \\ y _ {2} = y _ {1} \cos \theta + x _ {1} \sin \theta = \cos \theta \left(y _ {1} + x _ {1} \tan \theta\right) \end{array} \right. \tag {2}
+$$

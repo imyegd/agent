@@ -1,0 +1,1 @@
+ty，能量选择 6 MV，最大剂量率 $6 0 0 ~ \mathrm { M U / m i n }$ ，剂量计算选择蒙特卡罗算法[10]，计算网格为 $2 \mathrm { m m } \times 2 \mathrm { m m } \times 2 \mathrm { m m }$ ，不确定度为 $1 \%$ 。

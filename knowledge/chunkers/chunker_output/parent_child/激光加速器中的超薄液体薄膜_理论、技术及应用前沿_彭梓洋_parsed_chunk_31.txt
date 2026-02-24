@@ -1,0 +1,3 @@
+ser-driven radiation sources and laser ion acceleration (in Chinese). High Power Laser Particle Beams, 2022, 34: 081003 [彭梓洋, 曹正轩, 高营, 等. 液体薄膜靶在激光驱动辐射源和激光离子加速中的应用. 强激光与粒子束, 2022, 34: 081003]   
+13 Streeter M J V, Glenn G D, DiIorio S, et al. Stable laser-acceleration of high-flux proton beams with plasma collimation. Nat Commun, 2025, 16: 1004   
+14 Stuhl L, Varmazyar P, Elekes Z, et al. Continuous high-yield fast neutron generation with few-cycle laser pulses at $10\mathrm{Hz}$ for applications. Phys Rev R

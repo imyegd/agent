@@ -1,0 +1,7 @@
+异步控制应用研究[J]. 强激光与粒子束, 2017,29(7):100-103. (GUO Fan, JIANG Wei, YANG Xinglin, et al. Applications of asynchronous slow devices control system based on EPICS[J]. High Power Laser and Particle Beams, 2017,29(7):100-103.) DOI:10.11884/HPLPB201729.170019.   
+[ 6 ] 张璟 . 托卡马克集成控制系统若干关键技术研究[D]. 武汉:华中科技大学, 2016. (ZHANG Jing. Research on several key technologies for Tokamak integrated control system[D]. Wuhan,China:Huazhong University of Science and Technology, 2016.) DOI:10.7666/d.D01077963.   
+[ 7 ] ZHANG Yuliang,JIN Dapeng,ZHU Peng,et al. The accelerator control system of CSNS[J]. Radiation Detection Technology and Methods, 2020,4(4):478-491.) DOI:10.1007/s41605-020-00203-y.   
+[ 8 ] 江孝国,杨兴林,蒋薇,等 . 基于 Marx 自激监测控制的闪光照相试验可靠性提高技术研究[J]. 强激光与粒子束, 2022,34(6): 84-89. (JIANG Xiaoguo,YANG Xinglin,JIANG Wei,et al. Technique study to improve radiographic-testing reliability basing on self-excitation of pulsed power system[J]. High Power Laser and Particle Beams, 2022, 34(6): 84-89.) DOI: 10.11884/HPLPB
+
+202234.210133.   
+[ 9 ]

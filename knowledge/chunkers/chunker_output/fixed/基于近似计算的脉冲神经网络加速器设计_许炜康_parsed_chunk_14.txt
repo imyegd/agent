@@ -1,0 +1,15 @@
+td>0.270</td></tr><tr><td>add8u_2LL</td><td>0.254</td><td>0.496</td><td>0.444</td><td>0.525</td></tr><tr><td>add8u_2J3</td><td>0.295</td><td>0.618</td><td>0.524</td><td>0.670</td></tr><tr><td>add8u_3RE</td><td>1.111</td><td>1.459</td><td>2.046</td><td>1.089</td></tr></table>
+
+基于这种平均化处理，本文计算了每个近似加法器的平均AARE值，如表2所示。在后续的分析和讨论中，将此平均AARE值作为主要参考指标，用于评估和优化脉冲神经网络中的加法器设计。
+
+Table 2 Average AARE of   
+ten types of approximate adders   
+表 2 10 种近似加法器的平均 AARE  
+
+<table><tr><td>近似加法器</td><td>平均AARE</td><td>近似加法器</td><td>平均AARE</td></tr><tr><td>add8u_6PT</td><td>0.014</td><td>add8u_0NS</td><td>0.044</td></tr><tr><td>add8u_2AM</td><td>0.043</td><td>add8u_0NQ</td><td>0.169</td></tr><tr><td>add8u_6MZ</td><td>0.026</td><td>add8u_2LL</td><td>0.430</td></tr><tr><td>add8u_6P8</td><td>0.030</td><td>add8u_2J3</td><td>0.527</td></tr><tr><td>add8u_0NH</td><td>0.039</td><td>add8u_3RE</td><td>1.426</td></tr></table>
+
+AARE 不但考虑了输入数据数值大小的差异，还兼顾了这些数据出现的频率或概率分布。这
+
+使得其成为一个对应用具有更高敏感性的度量指标，有助于更好地理解和优化脉冲神经网络加法器的性能。
+
+对于选出的10个近似加法器，在应用最优近似加法器选择策略时

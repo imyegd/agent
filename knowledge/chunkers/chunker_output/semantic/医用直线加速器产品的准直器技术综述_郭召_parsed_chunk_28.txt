@@ -1,0 +1,17 @@
+研究［J］. 中国设备工程, 2023(3): 131-133.  
+［7］ 胡立宏, 程瑞, 张倩, 等. 射波刀技术现状与发展及其临床应用［J］. 医疗卫生装备, 2015, 36(3): 110-112, 115.  
+［8］ Fürweger C, Prins P, Coskan H, et al. Characteristics and performance of the first commercial multileaf collimator for a robotic radiosurgery system［J］. Med Phys, 2016, 43(5): 2063.   
+［9］ Lafond C, Chajon E, Devillers A, et al. Impact of MLC leaf width on volumetric-modulated arc therapy planning for head and neck cancers［J］. J Appl Clin Med Phys, 2013, 14(6): 40-52.   
+［10］ Ouardy K E, Zerfaoui M, Herrassi Y, et al. Validation of monaco TPS for an ELEKTA synergy MLCi2: using gamma index for eElekta full package beams［J］. Materials Today: Proceedings, 2021, 45(8): 7685-7689.   
+［11］ Cranmer-Sargison G, Liu P Z Y, Weston S, et al. Small field dosimetric characterization of a new 160-leaf MLC［J］. Phys Med Biol, 2013, 58(20): 7343-7354.   
+［12］ Meyers S M, Balderson M J, Létourneau D. Evaluation of Elekta Agility multi-leaf collimator performance using statistical process control tools［J］. J Appl Clin Med Phys, 2019, 20(7): 100-108.   
+［13］ Yang R, Lamey M, Bartha L, et al. Automated conversion of Millennium-120 VMAT plans to HDMLC geometry: software development and treatment of first patients［J］. J Appl Clin Med Phys, 2022, 23(6): e13598.   
+［14］余权达, 郑雪. 瓦里安医用直线加速器多叶光栅故障分析和维修［J］. 中国医疗设备, 2021, 36(9): 179-183.  
+［15］ Bergman A M, Gete E, Duzenli C, et al. Monte Carlo modeling of HD120 multileaf collimator on Varian TrueBeam linear accelerator for verification of 6X and 6X FFF VMAT SABR treatment plans［J］. J Appl Clin Med Phys, 2014, 15(3): 4686.   
+［16］邓永锦, 欧阳斌, 王振宇, 等. Varian Novalis Tx医用直线加速器HD120 MLC漏透射特性的测定及其临床影响研究［J］. 中国医疗设备, 2018, 33(10): 49-53.  
+［17］ Lim T Y, Dragojević I, Hoffman D, et al. Characterization of the HalcyonTM multileaf collimator system［J］. J Appl Clin Med Phys, 2019, 20(4): 106-114.   
+［18］ Kim M M, Bollinger D, Kennedy C, et al. Dosimetric characterization of the dual layer MLC system for an O-ring linear accelerator［J］. Technology in Cancer Research & Treatment, 2019, 18: 1533033819883641.   
+［19］ Zhang K, Tian Y, Li M, et al. Performance of a multileaf collimator system for a 1.5T MR-linac［J］. Med Phys, 2021, 48(2): 546-555.   
+［20］ Cai B, Li H, Yang D, et al. Performance of a multi leaf collimator system for MR-guided radiation therapy［J］. Med Phys, 2017, 44(12): 6504-6514.   
+［21］ Price A T, Knutson N C, Kim T, et al. Commissioning a secondary dose calculation software for a 0.35 T MRlinac［J］. J Appl Clin Med Phys, 2022, 23(3): e13452.   
+［22］ Davies G A, Clowes P, McQuaid D, et al. An experimental comparison of conventional two-bank and novel four-bank dynamic MLC tracking［J］. Phys Med Biol, 2013, 58(5):

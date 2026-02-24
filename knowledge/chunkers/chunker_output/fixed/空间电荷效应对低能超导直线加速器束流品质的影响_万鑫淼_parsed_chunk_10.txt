@@ -1,0 +1,19 @@
+7901ae61.jpg)  
+(b) scheme ①and⑤   
+Fig. 1 $\sigma _ { 0 }$ under different focusing schemes   
+图 1    不同聚焦方案对应的 $\sigma _ { 0 \mathrm { { c } } }$ 。
+
+选择螺线管和双组合四极透镜作为聚焦周期，对于螺线管， $\sigma _ { 0 }$ 与螺线管磁场强度 $B$ 、粒子动能 $T _ { \nu }$ 聚焦周期长σ0s ∝度 L 的关系可近似表示为： $L$ $\sigma _ { 0 s } \propto \frac { B \cdot L } { \sqrt { T } }$ ；对于双组合四极透镜， $\sigma _ { 0 } d$ 与四极透镜磁场梯度 $G _ { \nu }$ 、透镜有效长度 $L _ { \mathrm { l e n s } } .$ 、周期长度 L、粒子动量 $p$ 的关系可表示为 $\sigma _ { 0 } d \propto G L _ { \mathrm { l e n s } } L / p$ 。图 2 和图 3 给出了在二维和三维模拟时所用的周期聚焦结构。和二维不同的是，三维模拟采用的周期系统中加入了射频腔。
+
+![](images/9dc8ce430d4b00bf5ee1a8240fd4fa650eb4accdb47e52ed3adf09ed165aa8e8.jpg)  
+(a) solenoid
+
+![](images/32a7c5057a059400fdab52576ed322a0832b8846099108c7987804a4492bf5d8.jpg)  
+(b) doublet   
+Fig. 2    Periodic structure adopted in two-dimensional simulation
+
+![](images/4e4981cf1b7452c3973bade6437ae7f898318446cb0ff2715e09090392f98318.jpg)  
+图 2    二维模拟时采用的周期结构  
+(a) solenoid
+
+![](images/0e867cc3efa33402c11348804b93be382272a23a45b3e32d54da4187a99d022f.jp

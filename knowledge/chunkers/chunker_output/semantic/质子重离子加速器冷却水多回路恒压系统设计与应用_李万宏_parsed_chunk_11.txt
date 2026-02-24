@@ -1,0 +1,19 @@
+# 1． 3 主要 PLC 程序
+
+PLC 程序包括自动切换、参数计算和故障报警等部分，其中，自动切换程序是本系统的核心程序。 以 ECPD切换到 RF CWS 的 PLC 梯形图为例，如图 3 所示，对系统切换工作原理说明如下。
+
+![](images/e5f889838116fb807732bf6410f054fadec317ee0cc1c1bdd640ed59bc639a0d.jpg)  
+程序段1：RFCWS的切换条件判断程序
+
+![](images/de897f969ad36fc3b5befd3efa5e0a1dbe622b37a3d123bd0b4c818aa7705836.jpg)  
+程序段2：ECPD到RFCWS的切换程序  
+图 3 ECPD 切换到 RF CWS 的 PLC 程序
+
+1) 自动切换包含两个程序段，即 “程序段 1: RF CWS的切换条件判断程序 “和 “程序段 2: ECPD 到 RF CWS 的
+
+切换程序” 。 程序段 1 用于判断 RF CWS 的工作状态是否满足切换条件，程序段 2 用于驱动阀门等部件完成自动切换 。
+
+2) 在程序段1 中，第1 步判断切换模式( switch_mode) ，当自动切换模式开启，即 switch_mode 为 1 执行下一步; 第 2步判断泄漏防灾信号( disaster) ，当 disaster 为 0 时执行下一步; 第 3 步判断当前 ECPD 的工作位置( work_p) ，当work_p 为0，即处于空闲状态时，执行下一步; 第 4 步，通过两个 $\mathrm { C M P } < > 1$ 比较器，判断是否收到 OCPD1 的故障信号。 因 OCPD1 内部包含 20 个以上的故障，所以采用两个$\mathrm { C M P } { < } { > } 1$ 比较器，分别存储 16 位二进制数据，如果任意一个不为 0，则系统判定 OCPD1 故障。 此外，采用一个$\mathrm { C M P } = = \mathrm { R }$ 比较器，判断 OCPD1 压强是否为 0。 如果满足上述 3 个条件中的任意一个，则将工作模式( work_mode)置为 1，即 ECPD 向 RF CWS 切换，并执行程序段 2。  
+3) 在程序段2 中，第1 步判断切换模式( switch_mode) ，当自动切换模式打开，即 switch_mode 为 1 执行下一步; 第 2步判断工作模式( work_mode) 是否为 1，如果为 1，则开始向 RF CWS 切换; 第 3 步将 OCPD 与 RF CWS 连接的阀门V3 关闭。 为了工作安全，将 V3_close 置 1 的同时，将 V3_open 信号置 0，所有涉及阀门开关的程序均采用这一方法; 第 4 步，当 V3_close 到位后，即 V3_close reach 为 1 后，通过两组比较器和减法器判断 ECPD 的运行压强与设定压强间的差值，当压强差值小于 $0 . 0 2 ~ \mathrm { M P a }$ 之后，执行下一步; 第 5 步，开启 ECPD 与 RF CWS 连接的阀门 V2，即 V2_open 置 1，同时 V2_close 置 0 。 当 V2 开到位，即 V2_openreach 为1 时，ECPD 进入自动运行状态，切换完成。
+
+# 1．4 定压装置位置落差补偿

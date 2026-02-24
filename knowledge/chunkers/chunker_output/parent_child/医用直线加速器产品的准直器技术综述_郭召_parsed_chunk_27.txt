@@ -1,0 +1,5 @@
+# 2.2 CyberKnife准直器
+
+最新的射波刀（CyberKnife）可以搭载3种类型的准直系统，并且可以自动进行切换，满足不同的治疗需求，如图10所示是搭载在CyberKnife上的3种准直系统。第一代准直系统Fixed由12个锥形孔准直器组成（照射野规格： $5 . 0 \ \mathrm { m m }$ 、 $7 . 5 \ \mathrm { m m }$ 、 $1 0 . 0 \ \mathrm { m m }$ 、$1 2 . 5 \mathrm { \ m m }$ 、 $1 5 . 0 \ \mathrm { m m }$ 、 $2 0 . 0 \ \mathrm {  m m }$ 、 $2 5 . 0 \ \mathrm { { m m } }$ 、 $3 0 . 0 \ \mathrm {  m m }$ 、$3 5 . 0 \mathrm { m m }$ 、 $4 0 . 0 \textrm { ~ } \textrm { m m }$ 、50.0 mm、 $6 0 . 0 \textrm { ~ } \textrm { m m }$ ）［28-29］，
+
+见图 11；第二

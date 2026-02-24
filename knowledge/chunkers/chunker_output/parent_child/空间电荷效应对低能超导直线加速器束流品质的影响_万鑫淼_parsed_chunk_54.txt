@@ -1,0 +1,1 @@
+始横纵向归一化发射度为 $0 . 2 \ \pi$ ·mm·mrad、$0 . 3 \pi { \cdot } \mathrm { m m { \cdot } m r a d }$ ，质子束动能为 $3 0 \mathrm { M e V }$ ，粒子数为 $1 0 0 0 0 0$ 。

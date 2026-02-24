@@ -1,0 +1,3 @@
+![](images/f371a7b1c2f7951f6de48adbe180ad72de2eb14557f43c9c27210bff32b2b1d7.jpg)  
+图7 轨道畸变RMS校正后分布图 (a) 水平，(b) 垂直  
+Fig.7 Distribution of RMS orbit distortion after correction (a) Horizontal, (b) Vertical

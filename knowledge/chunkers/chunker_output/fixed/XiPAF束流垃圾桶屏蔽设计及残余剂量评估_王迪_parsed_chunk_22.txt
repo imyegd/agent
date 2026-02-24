@@ -1,0 +1,9 @@
+058.   
+8 徐翀, 李武元, 徐俊奎, 等. HIAF高能辐照终端感生放射性[J]. 原子核物理评论, 2018, 35(2): 165–171.  
+XU Chong, LI Wuyuan, XU Junkui, et al. Induced radioactivity at high-energy irradiation terminal of HIAF [J]. Nuclear Physics Review, 2018, 35(2): 165–171.   
+9 杨博. 强流重离子加速器装置(HIAF)感生放射性及其影响研究[D]. 兰州: 中国科学院近代物理研究所, 2023.DOI: 10.27560/d.cnki.gkjwc.2023.000031.  
+YANG Bo. Study on induced radioactivity of HIAF and its influence[D]. Lanzhou: Institute of Modern Physics, Chinese Academy of Sciences, 2023. DOI: 10.27560/d. cnki.gkjwc.2023.000031.   
+10 鄂得俊, 黄礼明, 刘昌奇, 等. 大连先进光源束流垃圾桶屏蔽设计及热工分析[J]. 强激光与粒子束, 2024, 36(1):150–155.  
+E Dejun, HUANG Liming, LIU Changqi, et al. Dalian Advanced Light Source beam dump radiation shielding design and thermal analysis[J]. High Power Laser and Particle Beams, 2024, 36(1): 150–155.   
+11 Ballarini F. The FLUKA code: overview and new developments[J]. EPJ Nuclear Sciences & Technologies, 2024, 10: 16. DOI: 10.1051/epjn/2024015.   
+12 SRIM - the stopping and range of ions in matter[EB/OL]. [2024-12-13]. h

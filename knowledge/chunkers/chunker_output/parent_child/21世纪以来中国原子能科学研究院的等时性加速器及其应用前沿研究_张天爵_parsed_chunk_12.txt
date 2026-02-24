@@ -1,0 +1,17 @@
+_ {\mathrm {v}} = \sum_ {i = 0} ^ {n} b _ {i} r ^ {i} \tag {3}
+$$
+
+其中： $i$ 为径向磁场的阶数，可类比为同步加速器中的多极磁场； $a_{i},b_{i}$ 为磁场梯度调节系数。
+
+考虑一阶近似下，粒子沿轨道运动的方程为：
+
+$$
+u ^ {\prime \prime} + K (s) u = 0 \tag {4}
+$$
+
+其中： $u$ 为横向位移； $K(s)$ 为一个周期内的聚焦函数。
+
+进一步地，采用薄透镜近似，在式(2)、(3)具有一阶梯度的情况下，可以将峰谷区的径向、轴向传输矩阵写为：
+
+$$
+\boldsymbol {M} _ {x _ {\mathrm {p}, \mathrm {v}}} = \left| \begin{array}{c c} \cos (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) & \sin (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}

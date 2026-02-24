@@ -1,0 +1,5 @@
+4.25 mm (horizontal) $\times \ 1 . 5 9 \ \mathrm { m m }$ (vertical)  to $2 . 7 1 \ \mathrm { \ m m } { \times } 2 . 1 0 \ \mathrm { \ m m }$ ,  while  the  hydrogen  atom  beam  maintains  stable  dimensions  of $2 . 4 7 \ : \mathrm { m m } { \times } 2 . 2 6 \ : \mathrm { m m }$ .
+
+Key words: proton cyclotron; neutralization; beam dynamics; stripping foil
+
+空间碎片是指失效的人造航天物体及其分解产生的残骸。根据美国空间监测网的统计数据显示，近地空间存在着大量的空间碎片，这些碎片的数量不仅呈现持续增长趋势，其增长速度还在不断加快。碎片以 $7 . 8 ~ \mathrm { k m / s }$ 的第一宇宙速度高速运行，在与航天器发生碰撞时的相对速度最高

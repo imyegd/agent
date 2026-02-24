@@ -1,0 +1,15 @@
+$$
+\Gamma_ {e} = A _ {e} \left(p _ {e q} - p _ {v}\right) \sqrt {\frac {N _ {A}}{2 \pi M k _ {B} T}} \tag {1}
+$$
+
+式中, $p _ { e q }$ 为饱和蒸汽压 $\mathrm { ( P a ) }$ , $p _ { \nu }$ 为出口压强 $\mathrm { ( P a ) }$ , $M$ 为分子质量 $\mathrm { ( k g / m o l ) }$ ), $N _ { A }$ 为阿伏伽德罗常数 $( \mathrm { m o l ^ { - 1 } } )$ ,$k _ { B }$ 为玻尔兹曼常数(J/K)。而由于在大尺寸衬底情况下, 分子束流从束源炉口到达衬底表面各点处距离不同, 其任一点处K分子通量大小 $\cdot N _ { K } ( \mathbf { m } ^ { 2 * } \mathbf { s } )$ 可由式(2)表示。
+
+$$
+N _ {K} = I _ {A} \left(\frac {r}{r _ {K}}\right) ^ {2} \cos \theta \cos (\theta + \varphi) \cos \delta \tag {2}
+$$
+
+式中, $r _ { \setminus } r _ { K }$ 分别为蒸发口到衬底中心点和任意一点K的距离, 单位为mm, $I _ { A }$ 为衬底中心点处束流大小,可由余弦出射定律确定, θ、 $\varphi$ 、 $\delta$ 分别为衬底中心点与 K 点、蒸发口与衬底中心点、蒸发口与 K 点的夹角, 单位为(°)。计算确定各点分子通量大小后可以从压强与分子通量的关系式求得衬底表面各点束流压强的大小分布, 压强P(Torr)与分子通量 $N _ { K }$ 的关系由式(3)给出。
+
+$$
+N _ {K} = \frac {P}{\sqrt {2 \pi M k _ {B} T _ {s}}} \tag {3}
+$$

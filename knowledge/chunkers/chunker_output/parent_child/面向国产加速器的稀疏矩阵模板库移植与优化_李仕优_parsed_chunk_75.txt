@@ -1,0 +1,8 @@
+way
+
+architecture[J]. Computer Engineering & Science, 2023, 45(10): 1754-1762.   
+[26] 姬晨晨, 陈永青, 韩孟之. 基于国产加速器的三维卷积 前向算子优化[J]. 计算机工程, 2025, 51(2): 250-258. JI C C, CHEN Y Q, HAN M Z. Optimization of 3D convolutional forward operators based on domestic accelerators[J]. Computer Engineering, 2025, 51(2): 250-258.   
+[27] 明刚, 张艳霞, 李旭胜, 等. 基于算子融合和向量化访存的大语言模型部署优化研究[C]//全国大模型与决策智能大会论文集. 中国杭州： 中国指挥与控制学会,
+
+2024:214-224.   
+MING G, ZHANG Y X, LI X S, et al. Optimization of large language model deployment based on ope

@@ -1,0 +1,5 @@
+内参矩阵：
+
+$$
+\left[ \begin{array}{l} x \\ y \\ w \end{array} \right] = \left[ \begin{array}{c c c} f _ {x} & 0 & c _ {x} \\ 0 & f _ {y} & c _ {y} \\ 0 & 0 & 1 \end{array} \right] \left[ \begin{array}{l} X \\ Y \\ Z \end{array} \right] \tag {4}
+$$

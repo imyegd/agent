@@ -1,0 +1,9 @@
+and indirect approaches using (3He, d) or (d, n) transfer reactions, the (7Li, $^ { 6 } \mathrm { H e } )$ )  reaction  system  offers  unique  advantages.  It  provides  complementary  constraints  to  other experimental  studies  and  can  help  resolve  discrepancies,  particularly  for  uncertain  level  information. Future work will employ this reaction to investigate energy levels of additional key nuclides.
+
+Key words: Al abundance; DWBA method; proton transfer reaction
+
+$^ { 2 7 } \mathrm { A l }$ 是唯一稳定 Al 同位素，作为一个奇质子核，其基态核激发态的能级信息有助于人们检测壳模型、集体模型（如转动和振动模型）的预测能力，它的能级跃迁特性也有助于人们研究核子的集体和单粒子行为，帮助理解原子核的形变问题。另一方面，Al 在其他领域，如核天体、伽马天文学也有重要的意义[1]，人们对其参与的核反应进行研究也要求对 $^ { 2 7 } \mathrm { A l }$ 尤其在阈值附近的激发态能级信息有充分的了解。
+
+但目前对 $^ { 2 7 } \mathrm { A l }$ 质子发射阈上的研究较少，许多重要能级的自旋、宇称等信息都尚未确定或是
+
+可能有误。在距今较早的研究中，对 $^ { 2 7 } \mathrm { A l }$ 能级信息的了解主要依赖于 $^ { 2 4 } \mathrm { M g } (  { \mathrm { a } } ,  { \mathbf { p } } \gamma ) ^ { 2 7 } \mathrm { A l }$ 反 应 [ 2 ] ，$^ { 2 7 } \mathrm { A l }$ 对质子和 $\mathfrak { a }$ 粒子的非弹性散

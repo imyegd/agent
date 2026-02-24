@@ -1,0 +1,3 @@
+HPLPB202133.200132. LI Qin, WANG Yi, LIU Yunlong, et al. The focal spot size of X-ray source was measured by pinhole method[J]. Intense Laser and Particle Beams, 2021, 33: 044007. DOI: 10.11884/HPLPB202133.200132.   
+14 宋文龙, 李奉笑, 安康, 等. 高能工业CT电子直线加速器焦点测量方法与装置研制[J]. 光学学报, 2023, 43(23): 341–348.SONG Wenlong, LI Fengxiao, AN Kang, et al.Development of focus measurement method and devicefor high energy industrial CT electron LINAC[J]. ActaOptica, 2023, 43(23): 341–348.  
+15 牟启航, 李杰成, 柳淘, 等. X波段2 MeV小焦点加速器 研制及应

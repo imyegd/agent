@@ -1,0 +1,6 @@
+埋藏年龄的
+
+样品，测量获得的 $^ { 1 0 } \mathrm { { B e } }$ e和 $^ { 2 6 } \mathrm { A l }$ l浓度具有线性关系，斜率为 $R _ { \mathrm { i n t } } \mathbf { e } ^ { - ( \lambda _ { 2 6 } - \lambda _ { 1 0 } ) t _ { \mathrm { b } } [ 5 9 ] }$ ，且过点 $N _ { 2 6 , \mathrm { i n h } }$ ， $N _ { \scriptscriptstyle { 1 0 , \mathrm { i n h } } } \ )$ ）。因此，通过测量多个样品，进行直线拟合，就能得到其斜率 $R _ { \mathrm { { m } } }$ ，进而获得其埋藏年龄：
+
+$$
+t _ {\mathrm {b}} = \ln \left(R _ {\mathrm {m}} / R _ {\mathrm {i n t}}\right) / \left(\lambda_ {2 6} - \lambda_ {1 0}\rig

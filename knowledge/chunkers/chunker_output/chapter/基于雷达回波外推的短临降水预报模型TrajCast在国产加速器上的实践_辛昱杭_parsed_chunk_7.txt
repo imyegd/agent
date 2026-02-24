@@ -1,0 +1,76 @@
+# 2.3 国产加速器移植优化方案
+
+基于上述构建的预报方案，在GPU部署短临降水预报模型代码运行环境，确保训练和推理程序运行无误后，在国产加速器上进行模型移植
+
+强降水过程CP_AH_201707010745,8:02样本数据(10个雷达参量+2个标签数据) $( 3 0 1 \times 3 0 1$ ）
+
+![](images/7569891890a9d106e3f61721c666aef79f275a23b52d3ae9bb26101d4bed177d.jpg)  
+组合反射率
+
+![](images/ab4e89957f87631256a6ec11569fb6dffadbb8baf56d4f0895ccf76f248dc0f6.jpg)  
+混合扫描反射率
+
+![](images/11c9323b918296fd193a8e4f012dc0d8394cf427be764d661e6d601c6e97e962.jpg)  
+回波顶高  
+CP_RADA_Z9556_20170701 0802_SA-ET
+
+![](images/789062b416ca4b1494a3034b13dfb7eb66f2194a3a5093a94ff859a8e9bc2ce5.jpg)  
+垂直液态水含量  
+CP_RADA_Z9556_20170701_ 0802_SA_VIL
+
+![](images/82f87dc6526740148e67e55e8c6aa094eec3286dd22e184cb45650637a4d5f45.jpg)  
+CP_RADA_Z9556_20170701_0802SA CAP20
+
+![](images/754d135161481ba10b6182a15076c1037ede1b14a55357146ed2645b3e2b192b.jpg)  
+CP_RADA_Z9556_20170701_ 0802 SA CAP30
+
+![](images/f1324cf75c90103349daf64a53f35db9678c4294b9422008ad40d861f86efe6e.jpg)  
+CP_RADA_Z9556_20170701 0802_SA_CAP40
+
+![](images/a5cbc136261b835c3425ffec89d6a53d3791a4585ce80baa761cdad29cb377d9.jpg)  
+CP_RADA_Z9556_20170701_ 0802_SA_CAP50
+
+![](images/95db9b681f61dd555dde7edf0366771d5ae14bfb5ff256bd0a29e25e4a1628c4.jpg)  
+CP_RADA_Z9556_20170701 0802_SA_CAP60
+
+![](images/396ceda994782546026b4049dda5cee97c19cd81b35a8d6b4b5ff9714ee76c07.jpg)  
+CP_RADA_Z9556_20170701 0802_SA_CAP70
+
+![](images/81732b073750f84f4ca6677efcb26f7cd544191a95bb8c5dc57090ec3e01dc41.jpg)  
+标签数据16分钟降水量标签(08:02-08:08)
+
+![](images/ec32e18c22753795a671799196f134e002b3f682976fd5739c4e1e80d63f9ac3.jpg)  
+标签数据26分钟降水发生范围(08:02-08:08)  
+图2 2017年安徽省某强降水过程逐6分钟数据分量  
+Fig.2 6-Minute Interval Data Components of a Heavy Rainfall Event in Anhui Province, 2017
+
+和性能优化。模型移植需适配国产加速器特性，在部署驱动和国产加速器ToolKit的基础上，安装对应版本的深度学习框架和第三方库，包括分布式训练框架、深度学习加速库等，通过国产加速器进行调用。
+
+使用 PyTorch Profiler [22]进行模型性能分析，统计算子使用GPU的时间消耗，找到需要优化的算子。在少量尝试性迭代中，发现卷积操作算 子 aten::miopen_convolution 的 CUDA 操作在
+
+GPU上执行的时间最多（见表1）。故需要针对模型中的二维卷积Conv2d和二维转置卷积Con-vTranspose2d等操作选择适当的方法进行性能优化。
+
+本文模型训练的性能优化采用混合精度（Mix Precision）方法[19]，通过对神经网络不同运算采用不同的数值精度运算的策略，FP16用于计算密集型操作，例如矩阵乘法、卷积等前向/反向传播计算；FP32用于精度敏感操作，例如权重
+
+表1 算子CUDA操作在GPU上执行的时间（前10）  
+Table 1 Execution time of CUDA kernel operations on the GPU (Top 10)   
+
+<table><tr><td>算子名称</td><td>说明</td><td>CUDA操作在GPU上执行的时间(s)</td></tr><tr><td>aten::miopen_convolution</td><td>卷积操作</td><td>11.143</td></tr><tr><td>aten::gridSampler_2d_backward</td><td>二维网格采样的反向传播</td><td>5.672</td></tr><tr><td>enumerate(Datalogger)</td><td>批量加载数据及索引</td><td>4.169</td></tr><tr><td>aten::copy_</td><td>复制张量</td><td>2.671</td></tr><tr><td>aten::gridSampler_2d</td><td>二维网格采样</td><td>2.192</td></tr><tr><td>aten::repeat</td><td>重复张量元素</td><td>2.151</td></tr><tr><td>aten::slice</td><td>张量切片</td><td>1.817</td></tr><tr><td>aten::miopen_convolution_backward_weight</td><td>卷积层权重的反向传播</td><td>1.755</td></tr><tr><td>aten::slice_backward</td><td>张量切片反向传播</td><td>1.362</td></tr><tr><td>aten::as_strided</td><td>创建指定步长的新视图张量</td><td>1.303</td></tr></table>
+
+更新、梯度累加、归一化层等需要高精度的操作，在保证精度持平、数值稳定的条件下，减少内存占用、提高计算和通讯效率。其计算流程如图3所示，模型权重以FP32存储，对于每次迭代：
+
+![](images/d7a9cc7fbb809e214e6ceca48bd80a898b70dc15d378b2a066862821e7ef7fff.jpg)  
+图3 FP32与FP16混合精度计算流程  
+Fig.3 Mixed precision calculation process using FP32 and FP16
+
+（1）将FP32的权重转换为FP16；  
+（2）在前向传播过程中，使用FP16的权重和激活函数进行计算，并将输出转换为FP32；  
+（3）计算损失函数，将FP32的损失乘以损失缩放因子，避免梯度下溢，同时将输出转换为FP16；  
+（4）在反向传播过程中，使用FP16的权重、
+
+激活函数和梯度进行计算；
+
+（5）将更新的FP16的梯度转换为FP32，并除损失缩放因子，还原被放大的梯度；  
+（6）若梯度不存在溢出，优化器对FP32的权重进行更新，否则跳过更新。
+
+本文使用深度学习加速库apex[23]实现混合精度训练，采用“O1”模式，即只对白名单中的操作采用FP16计算。使用默认的白名单，本文降水预报模型中的二维卷积Conv2d和二维转置卷积 ConvTranspose2d 等操作均在白名单中选择FP16计算，经过下文的实验验证，模型训练性能得到明显优化。

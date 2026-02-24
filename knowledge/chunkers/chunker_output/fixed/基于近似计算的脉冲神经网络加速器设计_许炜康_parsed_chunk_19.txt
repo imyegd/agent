@@ -1,0 +1,7 @@
+alysis of circuits for approximate computing [C] // Proceedings of the 2011 IEEE/ACM International Conference on Computer-Aided Design, 2011:667-673.   
+[3] ESHRAGHIAN J K, WARD M, NEFTCI E O, et al. Training spiking neural networks using lessons from deep learning[J]. Proceedings of the IEEE, 2023, 111 (9): 1016-1054.   
+[4] ESHRAGHIAN J K, LU W D. The fine line between dead neurons and sparsity in binarized spiking neural networks[J]. arXiv:2201.11915, 2022.   
+[5] LECUN Y, BOTTOU L, BENGIO Y, et al. Gradient-based learning applied to document recognition[J]. Proceedings of the IEEE, 1998, 86(11):2278-2324.   
+[6] XIAO H, RASUL K, VOLLGRAF R. Fashion-MNIST: A novel image dataset for benchmarking machine learning algorithms[J]. arXiv:1708.07747, 2017.   
+[7] AMIR A, TABA B, BERG D, et al. A low power, fully event-based gesture recognition system[C]//Proceedings of the 2017 IEEE Conference on Computer Vision and Pattern Recognition, 2017:7388-7397.   
+[8] CRAMER B, STRADMANN Y, SCHEMEML J, et al. The Heidelbe

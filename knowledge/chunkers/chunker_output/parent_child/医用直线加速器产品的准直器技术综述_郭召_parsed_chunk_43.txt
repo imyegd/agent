@@ -1,0 +1,3 @@
+><td>20.0</td><td>2.8</td><td>2.8</td><td>2.4</td><td>2.53</td></tr><tr><td>25.0</td><td>3.0</td><td>3.0</td><td>2.5</td><td>2.66</td></tr><tr><td>30.0</td><td>3.0</td><td>3.0</td><td>2.6</td><td>—</td></tr><tr><td>35.0</td><td>3.0</td><td>3.0</td><td>2.7</td><td>—</td></tr><tr><td>40.0</td><td>3.0</td><td>4.5</td><td>2.8</td><td>—</td></tr><tr><td>50.0</td><td>3.5</td><td>3.0</td><td>3.1</td><td>—</td></tr><tr><td>60.0</td><td>3.5</td><td>4.0</td><td>3.5</td><td>—</td></tr></table>
+
+注：SAD为源轴距。

@@ -1,0 +1,6 @@
+# 参考文献
+
+Lloyd SAM, Lim TY, Fave X, et al. TG-51 reference dosimetry for[1] the  Halcyon™:  a  clinical  experience[J]. J  Appl  Clin  Med  Phys, 2018, 19（4）: 98-102. DOI: 10.1002/acm2.12349.
+
+Huang  YY,  Liu  ZW. Dosimetric  performance  evaluation  of  the[2] Halcyon treatment platform for stereotactic radiotherapy: a pooled study[J]. Medicine (Baltimore), 2023, 102（36）: e34933. DOI: 10. 1097/MD.0000000000034933.   
+Wang GY, Zhu QZ, Zhu HL, et al. Clinical performance evaluation[3] of  O-Ring  Halcyon  Lin

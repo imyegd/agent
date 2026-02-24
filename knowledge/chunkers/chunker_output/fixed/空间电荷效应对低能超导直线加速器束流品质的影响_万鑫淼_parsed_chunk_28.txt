@@ -1,0 +1,5 @@
+[3] 袁建东,  马力祯,  何源,  等. 超导直线加速器准直方案设计[J]. 北京测绘, 2019, 33（3）：285-290. （Yuan  Jiandong,  Ma  Lizhen,  He  Yuan,  et  al. Design  ofalignment scheme for superconducting linear accelerator[J]. Beijing Surveying and Mapping, 2019, 33（3）: 285-290）  
+[4] Jeon  D  O. Classification  of  space-charge  resonances  and  instabilities  in  high-intensity  linear  accelerators[J]. Journal  of  the  Korean  Physical  Society, 2018, 72（12）: 1523-1530.   
+[5] Lund  S  M,  Bukh  B. Stability  properties  of  the  transverse  envelope  equations  describing  intense  ion  beam  transport[J]. Physical  Review  Special  Topics - Accelerators and Beams, 2004, 7: 024801.   
+[6] Ikegami  M. Particle–core  analysis  of  beam  halo  formation  in  anisotropic  beams[J]. Nuclear  Instruments  and  Methods  in  Physics  Research  Section  A: Accelerators, Spectrometers, Detectors and Associated Equipment, 1999, 435（3）: 284-296.   
+[7] Cheon Y L, Moon S H, Chung M, et al. Analysis on the stop band of fourth-order resonance in high-i

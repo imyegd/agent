@@ -1,0 +1,5 @@
+017, 43(1): 67-76.  
+[18] LI S, ZHAO Y, VARMA R, et al. Pytorch distributed: Experiences on accelerating data parallel training[J]. arXiv preprint arXiv:2006.15704, 2020.   
+[19] MICIKEVICIUS P, NARANG S, ALBEN J, et al. Mixed precision training[J]. arXiv preprint arXiv: 1710.03740, 2017.   
+[20] 刘娜, 熊安元, 张强, 等. 强对流天气人工智能应用训练基础数据集构建[J]. 应用气象学报, 2021, 32(5): 530-541.  
+[21] VAN DER WALT S, COLBERT S C, VAROQUAUX G. The numpy array: a structure for efficient numerical computation[J]. Computing in science & en

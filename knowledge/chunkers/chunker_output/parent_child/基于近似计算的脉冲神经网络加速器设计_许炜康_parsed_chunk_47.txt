@@ -1,0 +1,4 @@
+e learning algorithms[J]. arXiv:1708.07747, 2017.   
+[7] AMIR A, TABA B, BERG D, et al. A low power, fully event-based gesture recognition system[C]//Proceedings of the 2017 IEEE Conference on Computer Vision and Pattern Recognition, 2017:7388-7397.   
+[8] CRAMER B, STRADMANN Y, SCHEMEML J, et al. The Heidelberg spiking data sets for the systematic evaluation of spiking neural networks [J]. IEEE Transactions on Neural Networks and Learning Systems, 2020, 33(7):2744-2757.   
+[9] MODARESI F, GUTHAUS M, ESHRAG

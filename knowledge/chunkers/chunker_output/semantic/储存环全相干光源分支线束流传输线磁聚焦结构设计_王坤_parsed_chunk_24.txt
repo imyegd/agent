@@ -1,0 +1,13 @@
+![](images/20e09798367ea0487c65af4a2582ef205ba127703149c45e6261517a1b65b24d.jpg)
+
+![](images/77a4b79da60789f073b7f7b6baa0ccce0c35caa33990fe2aa82face4449af80e.jpg)  
+图9 校正铁强度RMS频度分布图 (a) 水平，(b) 垂直
+
+![](images/c1a44520324b30c6f281e6c37afec84c691b9fee40f047a431c4df8a0055e49b.jpg)  
+Fig.9 RMS corrector strength frequency distribution map (a) Horizontal, (b) Vertical
+
+![](images/5a06b89806b1ffc09c3ea85385d04f4790262a5c1bbe3065d6f75ec07f1c867c.jpg)  
+图10 校正后校正铁强度分布图 (a) 水平，(b) 垂直  
+Fig.10 Distribution of corrector strength after correction (a) Horizontal, (b) Vertical
+
+考虑冲击磁铁和切割铁引入的色散，当束流从储存环引出时，束流先由冲击磁铁踢出8 mrad角度，再经过一段 $3 \mathrm { m }$ 漂移节。色散函数在冲击磁铁处为$0 \mathrm { m }$ ，切割铁边缘处为 $0 . 0 2 6 \mathrm { m }$ 。此处束流光学参数要求为 $\beta _ { x } = 1 4 . 2 0 9 \mathrm { ~ m } , \beta _ { y } = 2 . 3 1 4 \mathrm { ~ m } , \alpha _ { x } = 0 , \alpha _ { y } = 0$ $ { a _ { x } } ^ { = } 0$ $a _ { y } = 0$ 。之后束流经过切割铁弯转 $2 0 0 \mathrm { \ m r a d }$ ，引出至传输线。经过3块二极铁后，水平色散函数降为 $_ { 0 \mathrm { m } }$ 。束流传输线的磁铁布局保持不变，仅调整四极铁的强度值来匹配束流光学。与此同时，能量调制-反调制段的束流光学保持不变，注入段与引出段对称布置。当束流从传输线注回储存环时，束流经过切割铁弯转到

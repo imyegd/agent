@@ -1,0 +1,8 @@
+和激光离子加速中的应用. 强激光与粒子束, 2022, 34: 081003]   
+13 Streeter M J V, Glenn G D, DiIorio S, et al. Stable laser-acceleration of high-flux proton beams with plasma collimation. Nat Commun, 2025, 16: 1004   
+14 Stuhl L, Varmazyar P, Elekes Z, et al. Continuous high-yield fast neutron generation with few-cycle laser pulses at $10\mathrm{Hz}$ for applications. Phys Rev Res, 2025, 7: 023137   
+15 Cavagna A, Eder M, Chowdhury E, et al. Continuous relativistic high-harmonic generation from a kHz liquid-sheet plasma mirror. Opt Lett, 2025, 50: 165   
+16 Peng Z, Cao Z, Liu X, et al. A comprehensive diagnostic system of ultra-thin liquid sheet targets. High Pow Laser Sci Eng, 2024, 12: e26   
+17 Macchi A, Borghesi M, Passoni M. Ion acceleration by superintense laser-plasma interaction. Rev Mod Phys, 2013, 85: 751-793   
+18 Peng Z, Liu X, Song Z Y, et al. Thickness model for viscous impinging liquid sheets. J Fluid Mech, 2025, 1014: R3   
+19 Cao Z, Peng Z, Shou Y, et al. Vibration and jitter of free-flowing thin liquid sheets a

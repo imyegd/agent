@@ -1,0 +1,3 @@
+$$
+\left\{ \begin{array}{l} I _ {a} + I _ {b} + I _ {c} i = 0 \\ I _ {\alpha} = I _ {a} - \cos \left(\frac {\pi}{3}\right) I _ {b} - \cos \left(\frac {2 \pi}{3}\right) I _ {c} \\ I _ {\beta} = \sin \left(\frac {\pi}{3}\right) I _ {b} - \sin \left(\frac {\pi}{3}\right) I _ {c} i \end{array} \right. \tag {11}
+$$

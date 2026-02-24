@@ -1,0 +1,3 @@
+Conclusion: This study found a significant yet weak positive correlation $( \mathrm { R } { < } 0 . 5$ , $P { < } 0 . 0 5$ ) between setup errors in breast cancer patients and couch shift discrepancies of the Halcyon accelerator. The predictive model based on this relationship showed poor performance (AUC<0.7). Collectively, these findings indicate that couch shift discrepancies have a limited, non-deterministic influence on setup errors.
+
+Key words: breast cancer, setup errors, Halcyon 3.0, radiotherapy,

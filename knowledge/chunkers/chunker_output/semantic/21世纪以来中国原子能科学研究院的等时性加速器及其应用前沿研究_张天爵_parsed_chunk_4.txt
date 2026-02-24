@@ -1,0 +1,37 @@
+区别于同步加速器，等时性加速器实现连续波加速，平均流强高。但受到整数共振线和轴向聚焦力的限制，能量难以提升。等时性加速器中粒子轨道半径随能量逐渐增大，如图1所示，难以采用传统的二极磁铁、四极磁铁、八极磁铁提供磁场聚焦，因此轴向聚焦以及调节色散的能力受限。为了在等时性回旋加速器中获得类似于同步加速器多极磁场的聚焦、消色散的效果，原子能院提出引入高阶径向磁场梯度以提升聚焦力，同时对横向振荡频率进行精细调节。例如，在等时性加速器主磁极宽径向范围内引入磁场一阶梯度、二阶梯度、三阶梯度，以实现类似于包括四极、六极、八极透镜的多极磁场增强聚焦、补偿色品、处理共振的作用[7]。
+
+等时性回旋加速器中心平面上的磁场分布可以表示为如下形式：
+
+![](images/367fd50320e9582536c3ddd493029dae61fc2d1a29cb1e8e46d76ab78c85aab1.jpg)  
+图1 整体型等时性回旋加速器的磁极结构  
+Fig. 1 Magnetic pole structure of isochronous cyclotron
+
+$$
+B = B _ {\mathrm {p}, \mathrm {v}} (1 + f \cos N \theta) \tag {1}
+$$
+
+其中， $B_{\mathrm{p,v}}$ 为径向分布函数，峰谷区对应的径向分布函数 $(B_{\mathrm{p}},B_{\mathrm{v}})$ 可以写为泰勒展开形式：
+
+$$
+B _ {\mathrm {p}} = \sum_ {i = 0} ^ {n} a _ {i} r ^ {i} \tag {2}
+$$
+
+$$
+B _ {\mathrm {v}} = \sum_ {i = 0} ^ {n} b _ {i} r ^ {i} \tag {3}
+$$
+
+其中： $i$ 为径向磁场的阶数，可类比为同步加速器中的多极磁场； $a_{i},b_{i}$ 为磁场梯度调节系数。
+
+考虑一阶近似下，粒子沿轨道运动的方程为：
+
+$$
+u ^ {\prime \prime} + K (s) u = 0 \tag {4}
+$$
+
+其中： $u$ 为横向位移； $K(s)$ 为一个周期内的聚焦函数。
+
+进一步地，采用薄透镜近似，在式(2)、(3)具有一阶梯度的情况下，可以将峰谷区的径向、轴向传输矩阵写为：
+
+$$
+\boldsymbol {M} _ {x _ {\mathrm {p}, \mathrm {v}}} = \left| \begin{array}{c c} \cos (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) & \sin (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) / \sqrt {k _ {\mathrm {p}, \mathrm {v}}} \\ - \sqrt {k _ {\mathrm {p}, \mathrm {v}}} \sin (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) & \cos (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) \end{array} \right| \tag {5}
+$$

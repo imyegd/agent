@@ -1,0 +1,7 @@
+6    Distribution evolution of particles in the phase space when $\boldsymbol { \mathsf { \Pi } } \boldsymbol { \mathsf { \Pi } }$ are 0.6 and 0.7 respectively, the focusing scheme is $\textcircled{1}$ , and the beam is transported along the doublet
+
+![](images/0e0e7833b7f049895b673d0e6e8ca216ed11f308f82294aeffc97689169b13fc.jpg)  
+图  6    当 $\eta$ 分别为 0.6 和 0.7，聚焦方案为 $\textcircled{1}$ ，束流沿双组合四极透镜传输时，粒子在相空间的分布演化  
+(a) quadrupole doublet
+
+![](images/b960999a99919d6459f55f1bf42cddb665a4500fbfffeecb8d1711b288

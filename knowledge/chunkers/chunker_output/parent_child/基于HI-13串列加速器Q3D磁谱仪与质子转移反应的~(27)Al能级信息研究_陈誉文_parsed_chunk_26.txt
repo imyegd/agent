@@ -1,0 +1,9 @@
+</td></tr><tr><td>28Si+6Li</td><td>27</td><td>141</td><td>1.15</td><td>0.91</td><td>15.0</td><td>1.91</td><td>0.81</td></tr></table>
+
+$^ { 2 7 } \mathrm { A l }$ 的谱因子通过下式得到：
+
+$$
+(\mathrm {d} \sigma / \mathrm {d} \Omega) _ {\exp} = S _ {7 \mathrm {L i}} S _ {2 7 \mathrm {A l}} (\mathrm {d} \sigma / \mathrm {d} \Omega) _ {\mathrm {D W B A}} \tag {3}
+$$
+
+其中， $( \mathrm { d } \sigma / \mathrm { d } \varOmega ) _ { \mathrm { D W B A } }$ 和 $( \mathrm { d } \sigma / \mathrm { d } \varOmega ) _ { \mathrm { e x p }

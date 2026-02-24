@@ -1,0 +1,7 @@
+nt substantial progress in China's ADS program and offer valuable reference for international peers advancing advanced nuclear technologies.
+
+Key words: accelerator-driven subcritical system; nuclear waste transmutation; China Initiative Accelerator-driven System; artificial intelligence
+
+传统热堆核电站面临铀资源利用率不足 $1\%$ 长寿命核废料处置周期超过10万年的行业瓶颈，加速器驱动次临界系统(ADS)通过次临界反应堆与外部中子源耦合，可将核废料放射性危害期缩短至数百年，并实现铀资源利用率大幅提升的目标，同时为核燃料闭式循环提供革命性方案。其“停机即停堆”的固有安全性，从原理上解决了临界反应堆的失控风险，对我国构建“安全、高效、可持续”的核能体系具有战略意义[1-2]
+
+21世纪初，中国原子能科学研究院（简称原子能院）

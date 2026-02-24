@@ -1,0 +1,8 @@
+2c50d0a978d20261eec1c072f2e8d70a292545ee58275e733a45c94ab9f8.jpg)
+
+图 5    初始粒子分布  
+Fig. 5    Initial particle distribution   
+![](images/b635988a4cdd151810c74f5b9030aceb87bcb2d7a0304ece224d5d1d9ed9916d.jpg)  
+a——径向相空间分布；b——轴向相空间分布；c——径向和轴向位置分布；d——纵向分布
+
+子的初始坐标如下：初始方位角 $\theta$ 为 $0 ^ { \circ }$ ；初始半径 $r _ { 0 }$ 为 $2 3 . 1 0 \mathrm { c m }$ ；初始径向动量 $p _ { r 0 }$ 为 $0 . 1 5 0 \mathrm { c m }$ ；初始高频相位 $\tau _ { 0 }$ 为 $0 ^ { \circ }$ ；初始轴向高度 $z _ { 0 }$ 为 $\mathrm { 0 ~ c m }$ ；初始轴向动量 $p _ { z 0 }$ 为 $_ { 0 \

@@ -1,0 +1,5 @@
+ting-gradient accelerators[J]. Reviews of Accelerator Science and Technology, 2008, 1(1): 65-97.   
+[4] 谢家麟. 加速器与科技创新[M]. 北京: 清华大学出版社, 2000.  
+[5] CALABRETTA L, MÉOT F. Cyclotrons and FFG accelerators as drivers for ADS[J]. Reviews of Accelerator Science and Technology, 2000, 8: 77-97.   
+[6] ISHI Y. Status report on KURNS FFAG facility[R]. [S.1.]: [s.n.], 2018.   
+[7] ZHANG Tianjue, FU Wei, WANG Chuan. Method for obtaining strong focusing of isochronous accelerator by varying magnetic field gradient in lar

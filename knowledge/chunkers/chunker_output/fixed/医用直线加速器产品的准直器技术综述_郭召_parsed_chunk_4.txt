@@ -1,0 +1,12 @@
+光栅是BrainLam $\mathbf { M } ^ { 3 }$ 微型多叶光栅，最大照射野 $1 0 0 ~ \mathrm { m m } \times 1 0 0 ~ \mathrm { m m }$ ，叶片在等中心处的投影宽度为 $2 \ \mathrm { m m } \ ^ { \left[ 3 - 4 \right] }$ 。国内主要的外挂式多叶光栅是苏州雷泰医疗科技有限公司生产的TiGRT系列，最大照射野 $1 0 0 \ \mathrm { m m } \times 1 0 0 \ \mathrm { m m }$ ，叶片在等中心处的投影宽度为 $2 \ \mathrm { m m } \ ^ { \mathrm { ~ [ ~ } 5 \mathrm { ~ ] ~ } }$ 。微型多叶光栅的分辨率更高，可以进一步提高照射野精度，为追求更高的 SRS治疗精度，部分已配备内置多叶光栅的直线加速器也会选配外挂式微型多叶光栅作为补充。
+
+![](images/ef762d8ad3c8ba65a1fd4ed43894a25fb64bf6cb090821016ac099c0820f3ec6.jpg)
+
+![](images/e20fe43f3d192f1234d9979170204efdc27dc16a992bc501dbdbb5b7f3998acd.jpg)
+
+![](images/775cc956457c0c4852680ed89535ec14d42f58b9bdab053506642120d72167a8.jpg)
+
+![](images/a1000b0b4b4d468616b88bb4ef32a060f9e428585ea2ee6695b76abfcf620ebf.jpg)  
+图1 几种外挂式微型多叶光栅准直器 A为 BrainLam M3微型多叶光栅；B为雷泰医疗的外挂式多叶光栅；C、D为外挂式微型多叶光栅的内部结构
+
+在 立 体 定 向 放 射 治 疗 中，与 常 规 光 栅 相 比，微型多叶光栅在分辨率上更有优势，同时相对锥形孔准直器，效率更高。如图2所示，M6型射波刀（CyberKnife）扩展增加了微型多叶光栅 InCise，包含 41对叶片，最大照射野 $1 1 5 \ \mathrm { m m \times 1 0 0 \ \mathrm { m m } }$ ，叶片在等中

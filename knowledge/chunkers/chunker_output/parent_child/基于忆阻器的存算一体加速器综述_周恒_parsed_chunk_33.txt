@@ -1,0 +1,1 @@
+$ ，LeNet-5 在 CIFAR10 数据集的准确率为 $6 6 . 2 6 \%$ ，脉 冲 神 经 网 络 （ spiking  neural  network,  SNN） 在 DVSGesture 数据集准确率为 $9 6 . 5 3 \%$ ，与 CPU（FP32）相比，计算准确率下降在 $2 \%$ 的范围内，支持实现 DeepSeek[42]全连接层的部署运行（版本：DeepSeek-R1-Distill-Qwen-1.5B）。

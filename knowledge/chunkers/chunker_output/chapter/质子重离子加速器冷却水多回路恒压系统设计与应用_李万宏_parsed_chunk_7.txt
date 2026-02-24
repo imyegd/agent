@@ -1,0 +1,9 @@
+# 1．4 定压装置位置落差补偿
+
+为满足各循环冷却水回路定压要求，OCPD 并不安装在一个平面。 射频冷却水系统 OCPD1 位于地下一层，其它 4 台 OCPD 位于地面一层，两层间有 $7 \textrm { m }$ 的落差。
+
+ECPD 安装在地下一层，通过补偿设备位置落差所产生的$0 . 0 7 \ \mathrm { M P a }$ 压差来实现与在线定压装置的压强一致。 应急定压参数设定如表 2 所示。 定压装置位置落差补偿设定通过 PLC 的参数设定程序实现。
+
+表 2 定压参数设定  
+
+<table><tr><td>OCPD编号</td><td>OCPD定压值/MPa</td><td>ECPD定压值/MPa</td><td>备注</td></tr><tr><td>OCPD1</td><td>0.05</td><td>0.05</td><td>无落差补偿</td></tr><tr><td>OCPD2</td><td>0.19</td><td>0.26</td><td>补偿落差0.07 MPa</td></tr><tr><td>OCPD3</td><td>0.14</td><td>0.2</td><td>补偿落差0.07 MPa</td></tr><tr><td>OCPD4</td><td>0.14</td><td>0.2</td><td>补偿落差0.07 MPa</td></tr><tr><td>OCPD5</td><td>0.31</td><td>0.38</td><td>补偿落差0.07 MPa</td></tr></table>

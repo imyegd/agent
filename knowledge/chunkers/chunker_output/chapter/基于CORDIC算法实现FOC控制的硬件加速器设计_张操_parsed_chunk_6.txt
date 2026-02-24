@@ -1,0 +1,40 @@
+# 1.3 角度累加器
+
+为了方便硬件实现，采用迭代的思想，旋转角度 $\theta$ 可以通过若干步实现，每一步旋转 $\theta_{i}$ ，使其不断地逼近 $x$ 轴，如图4所示。
+
+![](images/5c6d3bdaf18895da2e31417d8dea6d2eceb66727e745d4063a61f5e5205faf0d.jpg)  
+图4 角度迭代示意图
+
+再引入第三个公式——角度累加公式，用来追踪迭代过程中累加的角度，表示第 $i$ 次旋转之后，剩余未累加的角度，如表1所示。
+
+表 1 角度迭代的参考表  
+
+<table><tr><td>第i次旋转</td><td>tan θi</td><td>角度/(°)</td><td>旋转弧度</td></tr><tr><td>0</td><td>2-0</td><td>45</td><td>0.785 39</td></tr><tr><td>1</td><td>2-1</td><td>26.565</td><td>0.463 65</td></tr><tr><td>2</td><td>2-2</td><td>14.036</td><td>0.244 98</td></tr><tr><td>3</td><td>2-3</td><td>7.125 0</td><td>0.124 35</td></tr><tr><td>4</td><td>2-4</td><td>3.576 3</td><td>0.062 41</td></tr><tr><td>...</td><td>...</td><td>...</td><td>...</td></tr><tr><td>15</td><td>2-15</td><td>0.001 7</td><td>0.000 03</td></tr></table>
+
+并约定每一次旋转的角度是正切值2的倍数，即 $\tan \theta_{i} = d_{i}2^{-i}$ ，引入控制算子 $d_{i}$ ，用于确定旋转方向。表1用于CORDIC算法中每次迭代的旋转角度。这样乘以正切值可以变为移位操作。一般认为迭代16次以后可以得到较精确的近似值[2]。其中 $d_{i}$ 是通过判断第 $i$ 次旋转角度的累加后的正负来判断的，当累加值为正时， $d_{i} = 1$ ，反之 $d_{i} = -1$ 即 $d_{i} = \mathrm{sign}[z(i)]$ 。简化后可得
+
+$$
+\left\{ \begin{array}{l} x _ {i + 1} = x _ {i} - y _ {i} \tan \theta_ {i} = x _ {i} - y _ {i} d _ {i} 2 ^ {- i} \\ y _ {i + 1} = y _ {i} + x _ {i} \tan \theta_ {i} = y _ {i} + x _ {i} d _ {i} 2 ^ {- i} \\ z _ {i + 1} = z _ {i} - d _ {i} 2 ^ {- i} \\ d _ {i} = \left\{ \begin{array}{l l} 1 & z _ {i} \geq 0 \\ - 1 & z _ {i} <   0 \end{array} \right. \end{array} \right. \tag {6}
+$$
+
+伪旋转迭代完成后，需要进行补偿（也可以在旋转开始前补偿）。令补偿因子为 $K$ ，如式（7）所示，则实际旋转迭代方程如式（8）所示：
+
+$$
+\left\{ \begin{array}{l} K _ {i} = \cos \theta_ {i} = \frac {1}{\sqrt {1 ^ {2} + (2 ^ {- i}) ^ {2}}} \\ K = \prod_ {i = 0} ^ {\infty} K _ {i} \end{array} \right. \tag {7}
+$$
+
+$$
+\left\{ \begin{array}{l} x _ {i + 1} = K _ {i} \left(x _ {i} - y _ {i} \tan \theta_ {i}\right) = K _ {i} \left(x _ {i} - y _ {i} d _ {i} 2 ^ {- i}\right) \\ y _ {i + 1} = K _ {i} \left(y _ {i} + x _ {i} \tan \theta_ {i}\right) = K _ {i} \left(y _ {i} + x _ {i} d _ {i} 2 ^ {- i}\right) \\ z _ {i + 1} = z _ {i} - d _ {i} 2 ^ {- i} \\ d _ {i} = \left\{ \begin{array}{l l} 1 & z _ {i} \geq 0 \\ - 1 & z _ {i} <   0 \end{array} \right. \end{array} \right. \tag {8}
+$$
+
+在正常计算时， $x_{n}$ 、 $y_{n}$ 是伪旋转输出结果，尚未做模直补偿，因此，等式右边的真实坐标需要乘 $K$ 的倒数。经过 $n$ 次迭代，最终表示的结果为
+
+$$
+\left\{ \begin{array}{l} x _ {n} = \frac {1}{K} \left(x _ {0} \cos z _ {0} - y \sin z _ {0}\right) \\ y _ {n} = \frac {1}{K} \left(y _ {0} \cos z _ {0} + x \sin z _ {0}\right) \\ z _ {n} = 0 \end{array} \right. \tag {9}
+$$
+
+从式（9）可以得出CORDIC算法的硬件实现主要由以下三步组成：
+
+1）2次移位： $2^{-i}$ 用移位实现，每右移 $i$ 位就是把原来的数乘以2的-i次方；  
+2）1次查找表：每次迭代都有固定角度 $\theta_{i}$ 的累加，这个角度是 $2^{-i}$ 对应的角度值，使用查找表实现（ $\theta_{i} = \arctan 2^{-i}$ ）；  
+3）3次加法： $x$ 、 $y$ 、 $z$ 的累加，共三次。

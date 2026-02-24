@@ -1,0 +1,71 @@
+# 2.3 屏蔽计算
+
+文献［16］列举了质子打靶后次级中子角度分布，对于 $2 0 0 \mathrm { M e V }$ 质子打靶，其次级中子在前向最多，而在与束流轴垂直的径向是对称分布的，因此总体上采用圆柱形屏蔽材料，其中主体屏蔽材料前半部分开口，确保靶芯位于主体屏蔽材料的前半部分，如图4所示。根据束流管道尺寸和 $2 0 0 \mathrm { M e V }$ 质子射程，选择开口直径和靶芯直径为 $2 0 \mathrm { c m }$ ，靶芯厚度为$3 0 \mathrm { c m }$ 。
+
+利用 FLUKA 的 USRBIN 和 AUXSCORE 计数卡对束流垃圾桶的周围剂量当量值进行了计算。通过在计算模型中调整屏蔽材料的尺寸，观察剂量分布是否满足限值要求，最终确定束流垃圾桶的尺寸。经过屏蔽计算，确定主体屏蔽铁芯的直径为 $7 0 \mathrm { c m }$ ，厚度为 $9 0 \mathrm { c m }$ ，前后两侧面和径向侧面分别覆盖$3 0 \mathrm { c m }$ 和 $2 5 \mathrm { c m }$ 厚的含硼聚乙烯，所有屏蔽体的总重量约4.5t。图5为剂量分布彩图，图中分界线对应的剂量值为 $5 . 5 \mathrm { m S v \cdot h ^ { - 1 } }$ ，可以看到剂量分布呈现出从中心到周围逐渐衰减的特点。在束流垃圾桶尾部侧面（ $Z { = } 1 1 0 \mathrm { c m }$ 处）及横向侧面（ $\scriptstyle { R = 6 0 \mathrm { c m } }$ 处），由于束流损失带来的瞬时剂量率最大值分别为$4 . 2 \mathrm { m S v { \cdot h } ^ { - 1 } }$ 和 $3 . 2 \mathrm { m S v { \cdot } h ^ { - 1 } }$ ，满足设计指标，但是在束流入射的背向，剂量将明显超过限值，由于开口结构的存在，这是无法避免的。
+
+图6比较了质子、次级中子与次级光子所产生的剂量一维分布，其中横坐标为沿束流方向的位置，靶芯入射面在 $Z { = } 0 \mathrm { c m }$ 处，纵坐标为 $R { = } 1 0 \mathrm { c m }$ 内的剂量平均值，可以看出在靶芯处，总剂量呈现Bragg峰状，说明此处剂量主要由质子能量沉积贡献，而在靶
+
+表 3 $3 0 \mathrm { M e V }$ 质子入射不同材料的中子产额值  
+Table 3 Total neutron yield of different materials bombarded by 30 MeV protons   
+
+<table><tr><td rowspan="2">靶材料
+Target material</td><td colspan="6">本文计算数据 Data calculated in this study</td><td colspan="4">文献[13]参考数据 Ref. [13] data</td></tr><tr><td>厚度
+Thickness
+/mm</td><td>半径
+Radius
+/mm</td><td>密度
+Density
+/g·cm-3</td><td>产额1)
+Yield 1)
+/n·p-1</td><td>产额2)
+Yield 2)
+/n·p-1</td><td>产额3)
+Yield 3)
+/n·p-1</td><td>厚度
+Thickness
+/mm</td><td>半径
+Radius
+/mm</td><td>密度
+Density
+/g·cm-3</td><td>产额
+Yield
+/n·p-1</td></tr><tr><td>石墨
+Graphite</td><td>4.92</td><td>0.128</td><td>2.00</td><td>9.59×10-4</td><td>1.09×10-3</td><td>1.09×10-3</td><td>9</td><td>10</td><td>1.70</td><td>1.14×10-3</td></tr><tr><td>铁
+Iron</td><td>1.72</td><td>0.0996</td><td>7.87</td><td>1.15×10-2</td><td>1.54×10-2</td><td>1.54×10-2</td><td>3</td><td>10</td><td>7.86</td><td>9.90×10-3</td></tr><tr><td>铜
+Copper</td><td>1.6</td><td>0.0989</td><td>8.96</td><td>1.24×10-2</td><td>1.69×10-2</td><td>1.69×10-2</td><td>3</td><td>10</td><td>8.93</td><td>1.21×10-2</td></tr><tr><td>铅
+Lead</td><td>1.83</td><td>0.2</td><td>11.35</td><td>1.44×10-2</td><td>2.55×10-2</td><td>2.55×10-2</td><td>3</td><td>10</td><td>11.34</td><td>1.73×10-2</td></tr></table>
+
+注：产额1)、产额2)、产额3)对应的中子最低能量阈值分别为 $1 \mathrm { M e V , 1 \ k e V , 1 \ e V }$   
+Notes: The threshold neutron energies for yield 1), yield 2), and yield 3) are 1 MeV, 1 keV, and 1 eV, respectively
+
+![](images/6722795d8a246d19f9f4cbfe7135fcb5000fffedbce044d3b9275ddc01322d6e.jpg)
+
+![](images/9310a46b98d7bd8853b43e11f51a68a0393a406c4feb883a21e00e4123f7e197.jpg)  
+图4 束流垃圾桶三维模型剖面视图(a)及主体尺寸(b)
+
+![](images/098231b4799d103f060a3aca591a46ab414746767eb9c5ffc7951aefcdea23be.jpg)  
+Fig.4 Cross-sectional view of beam dump 3D model (a) and main dimensions (b)   
+图5 束流垃圾桶瞬发辐射剂量当量率计算分布（彩图见网络版）  
+Fig.5 Calculated ambient dose equivalent rates in the dump for prompt radiation (color online)
+
+芯前侧和后侧，总剂量值主要由中子贡献。
+
+为了验证靶芯材料的选择，在模拟计算中，将靶芯材料替换为石墨，保持几何形状不变。图7对比了两种靶芯材料的一维剂量分布。可以明显看出$2 0 0 \mathrm { M e V }$ 质子在两种靶芯材料中与射程相当的Bragg峰，在Bragg峰之后，初级质子的能量沉积快
+
+![](images/fbfdfcaeee4f957f4aea169dea57627abf0fb6f4ec82966ac0d03a1177c9e2bf.jpg)  
+图6 质子和次级粒子沿束流轴的剂量当量率分布（彩图见网络版）  
+Fig.6 Ambient dose equivalent rate along the beam axis for protons and secondary particles (color online)
+
+速衰减至零，后端剂量由次级粒子贡献，两种靶芯材料的束流垃圾桶尾部的剂量是相当的。同时可以看出，在径向，聚乙烯靶芯的屏蔽效果略优于石墨。值
+
+得注意的是，在束流垃圾桶轴向前侧，使用聚乙烯靶芯的剂量仅约为石墨靶芯的1/4，这是由于靶原子质量增大而导致中子的背散射作用增强［17］。因此对于
+
+$2 0 0 \mathrm { M e V }$ 质子加速器的束流垃圾桶，选择聚乙烯作为靶芯材料，与石墨材料相比，能够大幅减少背散射剂量，有利于降低辐照终端的瞬时次级辐射。
+
+![](images/ad8da96dbc4e8f03bc8b6134911a3ec8fb41162ba233ec059f75709b83198a83.jpg)
+
+图7 不同靶芯材料的剂量当量率分布（彩图见网络版） (a) 轴向，(b) 径向  
+Fig.7 Ambient dose equivalent rate distributions for different core materials (color online)   
+![](images/7d9e993a99cbdf80d4436fcadcb0ca3cecdb722e44075e58579553e5b60114f4.jpg)  
+(a) Along the beam axis, (b) Along the radial direction

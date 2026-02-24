@@ -1,0 +1,6 @@
+程序性能测试的结果。实验数据集如表 2 所示，数据集选自 SuiteSparse Matrix Collection[28]。
+
+表 2 实验数据集  
+Table 2 Experimental datasets   
+
+<table><tr><td>Domain</td><td>Name</td><td>Size</td><td>Sparsity</td></tr><tr><td>CFD</td><td>ex19</td><td>12005×12005</td><td>99.81%</td></tr><tr><td>CFD</td><td>af23560</td><td>23560×23560</td><td>99.91%</td></tr><tr><td>CFD</td><td>goodwin_040</td><td>17922×17922</td><td>99.82%</td></tr><tr><td>quantum chem.</td><td>nemeth05</td><td>9506×9506</td><td>99.56%</td></tr><tr><td>2D/3D</td><td>cz10228

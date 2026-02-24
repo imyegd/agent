@@ -1,0 +1,11 @@
+https://www.nvidia.com/content/GTC-2010/pdfs/2070_G TC2010.pdf.   
+[16] BUSATO F, POOL J. Exploiting NVIDIA ampere structured sparsity with cuSPARSELt[EB/OL]. [2025-06-03]. https://developer.nvidia.com/blog/exploiting-ampere-struc tured-sparsity-with-cusparselt/.   
+[17] KERR A, MERRILL D, DEMOUTH J, et al. CUTLASS: fast linear algebra in CUDA $\mathrm { C } { + } { + }$ [EB/OL]. [2025-06-03]. https://developer.nvidia.com/blog/cutlass-linear-algebra-c uda/.   
+[18] HUANG X T, ZHANG X W, YANG P F, et al. Benchmarking GPU tensor cores on general matrix multiplication kernels through CUTLASS[J]. Applied Sciences, 2023, 13(24): 13022.   
+[19] SAAD Y. Iterative methods for sparse linear systems[M]. PA, USA: Society for Industrial and Applied Mathematics, 2003.   
+[20] WU K W. Accelerating sparse graph neural networks with tensor core optimization[J]. arXiv preprint arXiv:2412.12218, 2024.   
+[21] HAN Y, KIM I, KIM J, et al. Tensor core-adapted sparse matrix multiplication for accelerating sparse deep neural networks[J]. Electronics, 2024, 13(20): 3981.   
+[22] 刘丽, 陈长波. 带状稀疏矩阵乘法及高效 GPU 实现[J]. 计算机应用, 2023, 43(12): 3856-3867. LIU L, CHEN C B. Band sparse matrix multiplication and efficient GPU implementation[J]. Journal of Computer Applications, 2023, 43(12): 3856-3867.   
+[23] BARRETT R, BERRY M, CHAN T F, et al. Templates for the solution of linear systems: building blocks for iterative methods[M]. 2nd Edition. PA, USA: Society for Industrial and Applied Mathematics, 1994.   
+[24] CHOI J W, SINGH A, VUDUC R W. Model-driven autotuning of sparse matrix-vector multiply on GPUs[C]//Proceedings of the ACM SIGPLAN Notices. New York, USA: ACM Press, 2010: 115-126.   
+[25] 王鑫, 彭健. 基于 HYB 格式 SpMV 在新一代申威架构上的实现与优化[J]. 计算机工程与科学, 2023, 45(10):1754-1762.WANG X, PENG J. Implementation and optimization ofHYB-based SpMV on the new-generation Sunway

@@ -1,0 +1,24 @@
+# 参考文献：
+
+[1] 安世忠, 管锋平, 魏素敏, 等. 中国原子能科学研究院紧凑型强流质子回旋加速器的发展和应用[J]. 原子能科学技术, 2024, 58(S2): 464-474.  
+[2] 冀鲁豫，安世忠，管锋平，等．用于硼中子俘获治疗的强流回旋加速器束流动力学研究[J].原子能科学技术，2025, 59(1): 220-230.  
+[3] Chao D S, Liu Y H, Jiang S H. Demonstration of the importance of a dedicated neutron beam monitoring system for BNCT facility [J]. Applied Radiation & Isotopes, 2016, 107: 312-316.   
+[4] 管锋平，温立鹏，解怀东. LabVIEW 在束流信号控制系统的应用[J]. 电工技术(下半月)，2017(4):78-79.  
+[5] Renuka K, Becker F, Ensinger W, et al. Imaging properties of scintillation screens for high energetic ion beams [J]. IEEE Transactions on Nuclear Science, 2012, 59(5): 2301-2306.   
+[6] 陈佳洱. 加速器物理基础[M]. 北京: 北京大学出版社, 2012.  
+[7] 何铁，安力，刘猛，等. 基于光学成像的束流截面分布诊断系统[J]. 强激光与粒子束，2014，26(11)：6.  
+[8] Liang G, Shu F, Ma S, et al. Spiraling elliptic hollow beams with cross phase[J]. New Journal of Physics, 2023, 25(3): 033011.   
+[9] 朱文超，魏征宇，谢春杰，等. NFTHz 加速器束流横向截面尺寸测量系统研制[J]. 强激光与粒子束，2024(003)：036.  
+[10] MelihYildirim, FirstKacar. Adapting Laplacian based filtering in digital image processing to a retina-inspired analog image processing circuit[J]. Analog Integrated Circuits and Signal Processing,
+
+2019, 100(3): 9.   
+[11] 于春蕾，阎映炳，陈杰，等. Sxfel 和 dcls 束流截面测量系统软件设计[J]. 核电子学与探测技术,2018,38(01):16-20.  
+[12] Latini G, Chiadroni E, Mostacci A, et al. Design of machine learning-based algorithms for virtualized diagnostic on SPARC _ LAB accelerator [J]. Photonics, 2024, 11(6).   
+[13] Zhang Z. A flexible new technique for camera calibration [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2000, 22(11): 1330-1334.   
+[14] Astola J, Kuosmanen P. Fundamentals of nonlinear digital filtering [M]. Fundamentals of Nonlinear Digital Filtering, 1997.   
+[15] Otsu N. A threshold selection method from gray-level histograms[J]. IEEE Transactions on Systems Man & Cybernetics, 2007, 9(1): 62-66.   
+[16] Krishnakumar R. Scintillation screen materials for beam profile measurements of high energy ion beams [D]. Darmstadt: Technische Universität Darmstadt, 2016.   
+[17] Harasimowicz J, Cosentino L, Finocchiaro P, et al. Scintillating screens sensitivity and resolution studies for low energy, low intensity beam diagnostics[J]. Review of Scientific Instruments, 2010, 81(10): 405.   
+[18] Vanderplas J. Three-dimensional plotting in matplotlib[EB]. 2015.   
+[19]尚琰，张瑞，林聪，等.光栅衍射型宽波段大视场激光告警图像处理[J].激光杂志，2021(011)：042.  
+[20] 郑雅杰，卞奇，王晨，等．用于高斯光束匀化整形的微透镜阵列技术研究[J]. 中国激光，2025，52(01)：119-126.

@@ -1,0 +1,12 @@
+# 2）关键技术挑战及研究进展
+
+采用超导磁体设计虽然能大幅降低加速器体
+
+![](images/0eee0d47a2f45b762a7d15e4586402bc677d2a7ccbed75e33ce1c6d1bea03c5d.jpg)  
+图18 超紧凑多用途超导回旋加速器整机示意图  
+Fig. 18 Schematic diagram of ultra-compact multi-purpose superconducting cyclotron
+
+表 5 超紧凑多用途超导回旋加速器的主要参数  
+Table 5 Main parameters of ultra-compact multi-purpose superconducting cyclotron   
+
+<table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>磁铁扇叶数</td><td>4</td><td>高频频率, MHz</td><td>65.15、65.63</td></tr><tr><td>磁极半径, cm</td><td>45</td><td>加速电压,

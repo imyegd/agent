@@ -1,0 +1,6 @@
+nSquare）校正前的结果，如图3和图4所示。从图中可以看出，水平方向轨道畸变 $2 0 0 { \sim } 1 8 0 0 ~ { \mu } \mathrm { m }$ （均值$8 5 1 . 8 ~ \mu \mathrm { m }$ ，方差 $3 9 6 . 5 ~ \mu \mathrm { m } \lambda$ ），垂直方向轨道畸变 $5 0 0 \sim$ $4 5 0 0 \mu \mathrm { m }$ （均值 $1 6 9 8 . 9 \mu \mathrm { m }$ ，方差 $8 6 5 . 8 ~ \mu \mathrm { m } )$ ）。由此可见，在当前误差强度设置下，水平方向和垂直方向轨道均有较大扰动。
+
+![](images/eb466319d81d254135f6271fe3549c92cace7658001a4cd25d79d21e5562de8f.jpg)
+
+![](images/4173596e28a5ebc3708b93401729e4ca90804f7e726d3f4ca2f9ff0453028d11.jpg)  
+图3 轨道畸变RMS校正前频

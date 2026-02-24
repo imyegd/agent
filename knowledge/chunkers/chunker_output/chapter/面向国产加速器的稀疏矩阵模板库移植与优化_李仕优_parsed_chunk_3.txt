@@ -1,0 +1,11 @@
+# Transplantation and Optimization of Sparse Matrix Template Library for Domestic Accelerators
+
+Li Shiyou1, Lian Demeng2, Zhou Xin2, Han Mengzhi2*
+
+(1. School of Computer and Artificial Intelligence, Zhengzhou University, Zhengzhou 450000, Henan, China;
+
+2. Dawning Information Industry (Beijing) Co., Ltd., Beijing 100193, China)
+
+【Abstract】The CUDA sparse matrix template library (CUTLASS-Sparse) in the CUDA linear algebra template library (CUTLASS) is used to build customizable and high-performance sparse matrix-dense matrix multiplication (SpMM) kernels, which play an important role in many fields such as scientific computing and deep learning. However, it is only implemented and optimized for NVIDIA GPUs and cannot be applied to domestic accelerators. To solve this problem, a transplantation and optimization scheme for CUTLASS-Sparse for domestic accelerators is proposed. In the transplantation stage, the data access module, data computation module and data write-back module are adapted to the hardware architecture of domestic accelerators. In the optimization stage, two shared memory data reordering algorithms, a data pipeline strategy based on data prefetching and register double buffering, and a data write-back strategy based on data aggregation are proposed to address the problems of high conflict rate of shared memory physical storage units (bank), low shared memory bandwidth utilization, low data pipeline parallelism and low data write-back efficiency. Experimental results show that all three optimization methods significantly improve the performance of the transplanted CUTLASS-Sparse. For TF32 and FP16 data types, the overall performance of the optimized CUTLASS-Sparse increases by an average of $3 0 \%$ and $1 1 5 \%$ compared to the unoptimized version, respectively. It reaches an average of $7 6 \%$ and $6 0 \%$ of the performance of CUTLASS-Sparse on NVIDIA GPU L20, respectively. Under two hardware versions, the performance of the transplanted and optimized CUTLASS-Sparse is on average 2.36 times and 3.09 times that of the SPARSE math library on domestic accelerator platforms, respectively. The experimental results verify the effectiveness of the transplantation and optimization scheme.
+
+【Key words】sparse matrix; CUTLASS; SpMM; domestic accelerator; transplantation and optimization; tensor core

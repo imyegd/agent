@@ -1,0 +1,5 @@
+1.1, and $1 . 7 ~ \mathrm { m }$ , the radiation field exhibited a rapid attenuation from the beam center outward, with a faster decay along the treatment couch direction (Y-axis) than along the perpendicular direction (X-axis). Shielding calculations based on the measured radiation field yielded required wall thicknesses of $1 2 1 9 ~ \mathrm { m m }$ (east wall), $9 4 9 ~ \mathrm { m m }$ (south wall), $1 2 3 5 \ \mathrm { m m }$ (west wall), and $1 2 5 2 \mathrm { m m }$ (north wall), all of which were smaller than those calculated using empirical formulas. Conclusion Thermoluminescence dosimeter is suitable for multi-point in situ measurement of radiation field distribution in Halcyon accelerator treatment  rooms.  The  measurement  results  can  be  used  to  optimize  the  shielding  design  of  Halcyon  accelerator  treatment rooms.
+
+Keywords：    Halcyon linear accelerator; Radiation field; Thermoluminescence dosimeter; Shielding design
+
+Corresponding author：    ZENG Hongwei, E-mail: yewon1103@163.com

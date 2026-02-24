@@ -1,0 +1,7 @@
+# Simulation research on Hg beam flux distribution of 6-inch HgCdTe molecular beam epitaxy equipment
+
+LV Wenli, GONG Xin, LIU Boyuan
+
+(Hunan SemicorEPI Co., Ltd., Changsha 410114, China)
+
+Abstract: Ultra-large-scale mid-wave and long-wave infrared detectors have become an important development trend for the third-generation infrared detectors. However, a core device fabrication process of 6-inch silicon-based mercury cadmium telluride (HgCdTe) epitaxy faces challenges such as poor film uniformity and inadeq

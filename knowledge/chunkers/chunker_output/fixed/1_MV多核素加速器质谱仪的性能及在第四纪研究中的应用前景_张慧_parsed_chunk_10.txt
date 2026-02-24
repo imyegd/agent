@@ -1,0 +1,8 @@
+5 7 \times { 1 0 } ^ { - 1 2 ^ { [ 2 5 ] } }$ 所有 $\operatorname { O x } \mathbb { I }$ 标样均测量 10次，每次
+
+表 2 14C验收测试结果  
+Table2 Resultsoftheacceptancetestsfo $^ { 1 4 } \mathrm { C }$   
+
+<table><tr><td>14C标准样品</td><td>14C计数</td><td>13C/12C</td><td>14C/12C</td><td>12C2+平均束流(A)</td></tr><tr><td>Ox II 1</td><td>155243</td><td>1.056×10-2</td><td>1.408×10-12</td><td>2.550×10-5</td></tr><tr><td>Ox II 2</td><td>156226</td><td>1.055×10-2</td><td>1.405×10-12</td><td>2.623×10-5</td></tr><tr><td>Ox II 3</td><td>155831</td><td>1.055×10-2</td><td>1.409×10-12</td><td>2.496×10-5</td></tr><tr><td>Ox II 4</td><td>155740</td><td>1.055×10-2</td><td>1.406×10-12</td><td>2.582×10-5</td></tr><tr><td>平均统计误差(‰)</td><td></td><td></td><td>2.53</td><td></td></tr><tr><td>平均值</td><td></td><td>1.055×10-2</td><td>1.407×10-12</td><td></td></tr><tr><td>相对标准偏差(‰)</td><td></td><td>0.42</td><td>1.26</td><td></td></tr><tr><td>本底</td><td>90</td><td>1.07×10-2</td><td>1.71×10-16</td><td>2.455×10-5</td></tr></table>
+
+采集 20个数据块 $1 0 ~ \mathrm { s } /$ ／

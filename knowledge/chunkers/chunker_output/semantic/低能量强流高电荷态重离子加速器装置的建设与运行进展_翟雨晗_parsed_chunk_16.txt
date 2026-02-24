@@ -1,0 +1,11 @@
+![](images/322c6600133574811ce101ac2747cfdf2f959d53e021e84a635cc7e8237b82ee.jpg)  
+Fig. 7    Measurement of the energy spread of a milliampere-class high-current $\mathrm { O } ^ { 6 ^ { + } }$ heavy ion beam (suppressed by the QWR cavity, with a $1 \sigma$ energy spread of approximately $0 . 1 1 5 \%$ )
+
+![](images/e96fc08bb19ae2154f7f293bbc1ebb6f3a561e59794861dc8f4483bb34fa148d.jpg)  
+图 7    毫安级强流 $\mathrm { O } ^ { 6 ^ { + } }$ 重离子束流的能散度测量（通过 QWR腔体抑制， $1 \sigma$ 能散度约为 $0 . 1 1 5 \%$ ）  
+Fig. 8 $\mathrm { H _ { 2 } } ^ { + }$ and $^ { 4 } \mathrm { H e } ^ { 2 + }$ beam resolution by silicon detector, the particle number ratio of H to He is approximately 1 to 10   
+图 8    硅探测器对 $\mathrm { H } _ { 2 } ^ { + }$ 和4He2+束流的分辨，H 和 He 粒子数比约为 1∶10
+
+# 2.3    低能量强流低能散碳离子束的精确调制
+
+LEAF 装置的另一项技术特色是具备提供高流强、高能量精度、低能量展宽的碳离子束能力，专为满足核天体物理实验对束流品质的特殊需求而开发。LEAF装置对前端离子源与能量调控系统进行了专门优化。如图 9所示，在 LEBT 区段增设了一条专用于碳离子供束的强流离子束线，配置了全永磁型ECR 离子源[13]（LAPECR1U)。该离子源工作频率为 $1 4 . 5 \ : \mathrm { G H z }$ ，专为低电荷态高流强碳离子束设计，能够稳定产生近毫安量级的 $\mathrm { C } ^ { 2 + }$ 束流。配套束线引入了束流传输元件，包括螺线管磁铁、静电加速管及双极性二极磁铁，实现了高效的低电荷态碳离子筛选与传输，同时兼顾原束线的正常运行。

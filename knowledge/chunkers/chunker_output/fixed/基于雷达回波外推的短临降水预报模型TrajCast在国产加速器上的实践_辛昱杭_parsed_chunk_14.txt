@@ -1,0 +1,12 @@
+P}{T P + F N + F P} \tag {11}
+$$
+
+在强降水AI应用专项数据集的约定中，降水按其强度分为以下几个阈值等级： $0 \mathrm { m m } . 0 . 1 \mathrm { m m }$ 、$1 \ \mathrm { m m } \cdot 2 \ \mathrm { m m } \cdot 3 \ \mathrm { m m }$ 。对于1到20的某一预报时
+
+次t，任一阈值等级c（ $\mathrm { c } { > } 0$ ）上有：
+
+$$
+T S (t, c) = \frac {T P (t , c)}{T P (t , c) + F N (t , c) + F P (t , c)} \tag {12}
+$$
+
+其中 TP( ) t,c 为同时满足预报降水量 pred> $\textstyle \mathtt { \mu } \mathtt { > } \mathbf { C }$ 且标签值 $\mathrm { g t } > = \mathrm { c }$ 的网格点个数，FN( )t,c 为同时满足 pred<c 且 $\mathrm { g t } > = \mathrm { c }$ 的网格点个数，FP( ) t,c 为同时满足 pred> $\scriptstyle > = { \mathrm { c } }$ 且gt<c的网格点个数；特别地，阈值$\mathrm { c } { = } 0$ 的情形主要用来衡量对无降水这一情形的识别准确率，实际计算方式为， $\mathrm { T P } ( \mathfrak { t } , \mathfrak { c } )$ 为同时满足预报降水量 pred ${ < } 0 . 0 1$ 且标签值 $\mathrm { g t } { < } 0 . 0 1$ 的网格点个数，FN( ) t,c 为同时满足 pred $> = 0 . 0 1$ 且 gt<0.01 的网格点个数，FP( )t,c 为同时满足 pred<0.01 且 $\mathrm { g t } > = 0 . 0 1$ 的网格点个数。对以上5个c取值下的TS评分计算平均值，即得到对某一预报时次 t 的评分值 TS(t)。由于预报的时间间隔为逐6分钟，1小时后对应为第10个时次，因此本文用来评价预报准确率的量化指标即为TS（10）。

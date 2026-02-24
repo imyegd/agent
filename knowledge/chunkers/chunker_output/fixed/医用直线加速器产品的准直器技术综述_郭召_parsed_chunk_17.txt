@@ -1,0 +1,9 @@
+><td>2.44</td><td>2.53</td><td>2.69</td></tr><tr><td>平均10cm</td><td>2.01</td><td>2.11</td><td>2.2</td><td>2.28</td><td>2.37</td><td>2.43</td><td>2.53</td><td>2.66</td></tr></table>
+
+# 2.5 锥形孔准直器性能对比
+
+放射治疗设备配置锥形孔准直器主要是为了提高照射野精度，尤其是可获得更小的半影，以提高靶区外剂量跌落速度，提高治疗的精准度。市面上应用广泛的几类锥形孔准直器的半影对比见表6。在大致接近的 SAD范围内，加速器的射线源尺寸相对于伽玛射线源更小，在相同或近似大小的照射野下，其半影更小。对于加速器产品，射线源尺寸接近，对较大的照射野，SAD对半影的影响较小，如表6所示，在 $\Phi 2 0 . 0 \ \mathrm { m m }$ 和 $\Phi 2 5 . 0 \ \mathrm { m m }$ 两组照射野尺寸下， $\mathrm { S A D } { = } 4 5 0 \ \mathrm { m m }$ 和 $\mathrm { \Delta S A D = 8 0 0 ~ m m }$ 测试的半影接近。
+
+表6 放射治疗设备锥形孔准直器的半影对比（mm）  
+
+<table><tr><td rowspan="2">照射野尺寸</td><td>Fixed</td><td>Iris</td><td>RayerKnife</td><td>ZAP-X</td></tr><tr><td>SAD=800 mm</td><td>SAD=800 mm</td><td>SAD=800 mm</td><td>SAD=450 mm</td></tr><tr><td>4.0</td><td>—</td><td>—</td><td>—</td><td>2.01</td></tr><tr><td>5.0</td><td>2.0</td><td>2.2</td><td>1.8</td><td>2.11</td></tr><tr><td>6.0</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7.5</td><td>2.4</td><td>2.4</td><td>1.9</

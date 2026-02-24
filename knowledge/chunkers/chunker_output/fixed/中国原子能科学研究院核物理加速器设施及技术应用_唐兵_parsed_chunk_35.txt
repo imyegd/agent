@@ -1,0 +1,9 @@
+N Xialing. Pulsing system for low energy and high intensity deuterium ion beam[J]. Atomic Energy Science and Technology, 2008, 42(9): 262-266(in Chinese).   
+[82] 郑永男, 左走翼, 范平, 等. CLAM 钢的重离子和氢氦三束辐照研究[C]/第十一届全国正电子湮没谱学会议论文集. [出版地不详]: [出版者不详], 2012: 47-48.  
+[83] 郑永男, 张鹏, 左走翼, 等. CLAM 钢和 ODS 钢的三束辐照效应研究[C]/第六届反应堆物理与核材料学术研讨会第三届核能软件自主化研讨会会议摘要集. [出版地不详]: [出版者不详], 2013: 117.  
+[84] 吴亚召. 关于氢氦同轴离子注入机离子源的研究[D]. 厦门: 厦门大学, 2014.
+
+[85] 唐兵, 王鲁闽, 马瑞刚, 等. 用于双离子束注入器的杂质消除系统[J]. 原子能科学技术, 2018, 52(2): 199-203. TANG Bing, WANG Lumin, MA Ruigang, et al. Study on impurity elimination system for dual-beam accelerator[J]. Atomic Energy Science and Technology, 2018, 52(2): 199-203(in Chinese).  
+[86] 宋逢泉, 崔保群, 宋钢, 等. HINEG 强流氘氚中子发生器方案设计分析[J]. 核科学与工程, 2014, 34(2): 214-218.  
+SONG Fengquan, CUI Baoqun, SONG Gang, et al. Design analysis of the HINEG high-flux D-T neutron generator[J]. Nuclear Science and Engineering, 2014, 34(2): 214-218(in Chinese).   
+[87] 杨丙凡, 阙朝新, 崔心忆, 等. HI-13 串列加速器 AMS 交替注入系统研制[J]. 原子能科学技术, 2000, 34(4): 296-301. YAN

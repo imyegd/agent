@@ -1,0 +1,3 @@
+ons. Building on this, an approximate computing-based SNN hardware accelerator, AxSpike, is implemented using open-source EDA tools and PDKs, along with a corresponding simulator developed using snnTorch. Experimental results demonstrate that the accelerator achieves a $37.32\%$ reduction in power consumption and a $31.26\%$ reduction in area, with only a 3.47 percentage point decrease in accuracy, significantly enhancing the energy efficiency of SNN hardware accelerators.
+
+Key words: approximate computing;

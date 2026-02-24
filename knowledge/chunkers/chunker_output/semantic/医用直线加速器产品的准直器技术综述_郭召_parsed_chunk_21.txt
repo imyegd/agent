@@ -1,0 +1,14 @@
+![](images/dd38394a522fd0f7b1748346f18b8baea37180fd1713676c5931070968524616.jpg)
+
+![](images/413c3be1c7c30bd3bbbcf68040ae9037a9c31dfb677f338fe1d1aae319d0931f.jpg)  
+图 14 ZAP-X 准直器
+
+表5 ZAP-X准直器半影（mm）
+
+<table><tr><td rowspan="2">半影测量位置</td><td colspan="8">成野规格（mm）</td></tr><tr><td>4.0</td><td>5.0</td><td>7.5</td><td>10.0</td><td>12.5</td><td>15.0</td><td>20.0</td><td>25.0</td></tr><tr><td>左侧5cm</td><td>1.77</td><td>1.88</td><td>1.94</td><td>2.00</td><td>2.06</td><td>2.11</td><td>2.19</td><td>2.27</td></tr><tr><td>左侧10cm</td><td>2.00</td><td>2.12</td><td>2.21</td><td>2.29</td><td>2.35</td><td>2.43</td><td>2.54</td><td>2.64</td></tr><tr><td>右侧5cm</td><td>1.78</td><td>1.85</td><td>1.93</td><td>1.99</td><td>2.08</td><td>2.11</td><td>2.19</td><td>2.27</td></tr><tr><td>右侧10cm</td><td>2.02</td><td>2.11</td><td>2.19</td><td>2.28</td><td>2.39</td><td>2.44</td><td>2.53</td><td>2.69</td></tr><tr><td>平均10cm</td><td>2.01</td><td>2.11</td><td>2.2</td><td>2.28</td><td>2.37</td><td>2.43</td><td>2.53</td><td>2.66</td></tr></table>
+
+# 2.5 锥形孔准直器性能对比
+
+放射治疗设备配置锥形孔准直器主要是为了提高照射野精度，尤其是可获得更小的半影，以提高靶区外剂量跌落速度，提高治疗的精准度。市面上应用广泛的几类锥形孔准直器的半影对比见表6。在大致接近的 SAD范围内，加速器的射线源尺寸相对于伽玛射线源更小，在相同或近似大小的照射野下，其半影更小。对于加速器产品，射线源尺寸接近，对较大的照射野，SAD对半影的影响较小，如表6所示，在 $\Phi 2 0 . 0 \ \mathrm { m m }$ 和 $\Phi 2 5 . 0 \ \mathrm { m m }$ 两组照射野尺寸下， $\mathrm { S A D } { = } 4 5 0 \ \mathrm { m m }$ 和 $\mathrm { \Delta S A D = 8 0 0 ~ m m }$ 测试的半影接近。
+
+表6 放射治疗设备锥形孔准直器的半影对比（mm）

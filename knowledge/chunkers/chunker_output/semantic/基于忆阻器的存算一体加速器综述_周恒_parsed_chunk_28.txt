@@ -1,0 +1,5 @@
+中图分类号：TP303
+
+中文引用格式： 周恒, 刘锦鹏, 冯丹, 等. 基于忆阻器的存算一体加速器综述[J]. 计算, 2025, 1(6): 18−27.
+
+英文引用格式： Heng Zhou, Jinpeng Liu, Dan Feng, et al. A Review of Memristor-Based Computing in Memory Accelerators[J]. ComputingMagazine of the CCF, 2025, 1(6): 18−27.

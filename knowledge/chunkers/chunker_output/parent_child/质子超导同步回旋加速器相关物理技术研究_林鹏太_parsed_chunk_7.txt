@@ -1,0 +1,7 @@
+场迅速减小，减小质子通过共振线的圈数，以最小化共振对质子运动的影响。经过优化，主磁铁主要参数见表1，主磁铁1/4截面结构如图1所示。
+
+表 1   主磁铁主要参数  
+
+<table><tr><td>名称/单位</td><td>数值</td></tr><tr><td>磁极半径/mm</td><td>530</td></tr><tr><td>磁轭外径/mm</td><td>1100</td></tr><tr><td>磁轭内径/mm</td><td>750</td></tr><tr><td>磁轭高度/mm</td><td>1360</td></tr><tr><td>盖板厚度/mm</td><td>330</td></tr><tr><td>磁极间隙/mm</td><td>128~68</td></tr><tr><td>NI/A</td><td>547×3000</td></tr><tr><td>重量/T</td><td>34.61</td></tr></table>
+
+![](images/6b8097a855c263caf4ed41d1ebf8f63adb5ecce5605fe4d777b37dde26e25ca

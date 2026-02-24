@@ -1,0 +1,19 @@
+王佳眉，张慧，杜纬丰，等．IHEG-CAGS加速器质谱 $^ { 1 4 } \mathrm { C }$ 实验室石墨制备性能检验［J］．第四纪研究，2025，45（6）：1417－1424
+
+WANGJiamei，ZHANGHui，DUWeifeng，etal．PerformanceofgraphitepreparationattheIHEG-CAGSacceleratormassspectrometr $^ { 1 4 } \mathrm { C }$ laboratory
+
+［J］．QuaternarySciences，2025，45（6）：1417－1424
+
+DOI：10．11928／j．issn．1001-7410．2025．06．07
+
+CSTR：32086．14．j．issn．1001-7410．2025．06．07
+
+# IHEG-CAGS加速器质谱 $^ { 1 4 } \mathrm { { C } }$ 实验室石墨制备性能检验*
+
+王佳眉1，2 ，张慧1，2 ，杜纬丰1 ，于波1，2
+
+（1．中国地质科学院水文地质环境地质研究所，厦门 361021；
+
+2．中国地质科学院水文地质环境地质研究所，中国地质调查局第四纪年代学与水文环境演变重点实验室，石家庄 050061）
+
+摘要：中国地质科学院水文地质环境地质研究所（IHEG-CAGS）于 2022年组建加速器质谱（AMS） $^ { 1 4 } \mathrm { C }$ 实验室，配备了多核素加速器质谱仪—1MVAMS（HVE）、手动真空线系统（VAC）及自动石墨化设备（AGE3）。本研究在此基础评估该新 建 实 验 室 的 运 行 状 态 及 其 石 墨 靶 制 备 能 力。对 $1 ~ \mathrm { m g C }$ 当 量 的 标 准 物 质 及 空 白 样 品 测 试 表 明，IHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ 实验室石墨化结果准确性好、稳定性强、精密度高。国际标准物质和本底测试结果表明：标准的测试值和参考值在 1σ误差范围内一致；PHA本底的 $^ { 1 4 } \mathrm { C }$ 值为 $0 . 1 7 { \scriptstyle \pm 0 . 0 1 } \ \mathrm { p M C }$ ，对应年龄 $5 1 \mathrm { \ k a \ B .

@@ -1,0 +1,8 @@
+表 1 主要设备选型及工程量表  
+Table 1 Selection of major equipment, and bill of quantities
+
+<table><tr><td colspan="2">主要设备</td><td>单位</td><td>数量</td><td>主要参数</td></tr><tr><td rowspan="3">热回收机组(1300kW PN16)</td><td>压缩式热泵</td><td>台</td><td>1</td><td>含机组控制柜</td></tr><tr><td>二次水循环泵</td><td>台</td><td>2</td><td>G=150 t/h, H=32 m, P=20 kW</td></tr><tr><td>二次水补水泵</td><td>台</td><td>2</td><td>G=4 t/h, H=30 m, P=1 kW</td></tr><tr><td rowspan="3">软水系统</td><td>冷却水加压泵</td><td>台</td><td>2</td><td>G=450 t/h, H=12 m, P=22 kW</td></tr><tr><td>软水器</td><td>套</td><td>1</td><td>产水量4t/h</td></tr><tr><td>软化水箱</td><td>个</td><td>1</td><td>2.5 m³</td></tr><tr><td colspan="2">管道及附件</td><td>项</td><td>1</td><td></td></tr><tr><td colspan="2">支吊架及减震降噪</td><td>项</td><td>1</td><td></td></tr><tr><td colspan="2">电气及自控</td><td>项</td><td>1</td><td></td></tr><tr><td colspan="2">水、电引入</td><td>项</td><td>1</td><td></td></tr><tr><td colspan="2">专招供暖管道</td><td>m</td><td>270</td><td>管径DN125</td></tr><tr><td colspan="2">多学科大楼供暖管道</td><td>m</td><td>120</td><td>管径DN40、DN200</td></tr><tr><td colspan="2">新建站房</td><td>项</td><td>1</td><td></td></tr></table>
+
+为具体呈现热泵站房的设备集成与管路设计，余热回收站房内的设备连接与工艺参数示意图见图 3。该图明确了热源侧、热泵机组及供热侧的接口与运行参数，印证了低品位余热（ $3 2 ^ { \circ } \mathrm { C }$ ）经余热回收机组提升后，可满足
+
+常规供暖（ $5 5 ^ { \circ } \mathrm { C }$ ）需求的技术路径，其模块化布局与参数化设计为工程实施与运行调控提供了精确指导。

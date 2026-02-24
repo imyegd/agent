@@ -1,0 +1,23 @@
+9695820fc54d43.jpg)
+
+![](images/f6335877b22280748ad07f85d303a50d33fef09b25dd03f53cc9c2064bdd1e64.jpg)
+
+![](images/960f45831dc4ed8fea948f03452645266900630f61ca302ffe0e1e348760d67d.jpg)  
+图13 “三明治”法测量焦点尺寸结果图（彩图见网络版）  
+Fig.13 Focal spot size measurement results using the "sandwich" method (color online)
+
+利用本文设计的电子直线加速器X射线焦点尺寸测量仪，测量该加速器在 $X$ 方向和Y方向的X射线焦点尺寸，测量结果如图14所示。 $X$ 方向和Y方
+
+向的焦点尺寸分别为 $1 . 9 5 \mathrm { m m }$ 和 $2 . 2 6 \mathrm { m m }$ 。与“三明治”法测得的结果相比， $X$ 方向的误差为 $0 . 5 \%$ ，而Y方向的误差为 $5 . 6 \%$ ，均在允许的测量误差范围内。
+
+![](images/27719b7aaffa6214126bf45b249e617946d1a78908aa8f7ace0f0c663d7eeef9.jpg)
+
+![](images/64a30c299763a1dc5bac6af8c3855c1c42c54262cae1c2be0a73776699dc9c95.jpg)  
+图14 电子直线加速器X射线焦点尺寸的测量仪测量结果  
+Fig.14 Results of focal spot size measured by the developed X-ray focal spot size measuring instrument for electron linear accelerator
+
+# 3.3 焦点稳定性测量实验
+
+本文设计的电子直线加速器X射线焦点尺寸测量仪，能够测量电子直线加速器的焦点尺寸，同时监测焦点位置，从而实现对焦点稳定性的评估。
+
+使用该测量仪，对 $2 \mathrm { M e V } . 6 \mathrm { M e V }$ 和 $9 \mathrm { M e V }$ 三种不同能量的驻波电子直线加速器进

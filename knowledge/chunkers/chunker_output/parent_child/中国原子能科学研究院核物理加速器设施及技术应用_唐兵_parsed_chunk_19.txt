@@ -1,0 +1,13 @@
+# 1.3 JUNA
+
+锦屏深地核天体物理加速器装置（JUNA）是目前世界上束流强度最强的深地加速器实验平台，超过意大利LUNA实验室加速器的10倍水平。
+
+2019年，原子能院成功完成 $400\mathrm{kV}$ 强流加速器研发[58]，为核天体物理实验做好了准备，推进了JUNA项目的整体进展。2020年底，原子能院建成了用于JUNA项目的 $400\mathrm{kV}$ 、 $10\mathrm{mA}$ 强流加速器[59-61]。
+
+JUNA(图4)已完成第一轮实验(RunI)超过 $2000\mathrm{h}$ 的运行，为核天体物理研究提供了 $100\sim$ $800\mathrm{keV}$ 能量范围、 $0.1\sim 5\mathrm{mA}$ 束流的稳定输出。
+
+目前，装置已完成升级改造，已在本年初恢复
+
+![](images/52f6375ca0a9d6d0f66f7b13bdd7b50b5c28a7a033a850eb16d43b4a458e16f2.jpg)  
+图4JUNA强流加速器实验平台  
+Fig. 4 JUNA high intensity accelerator

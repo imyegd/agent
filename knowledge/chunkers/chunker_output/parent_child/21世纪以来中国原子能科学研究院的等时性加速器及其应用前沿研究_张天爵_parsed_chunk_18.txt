@@ -1,0 +1,14 @@
+pi^ {2} \eta^ {2}}{1 2 N ^ {2}} \cdot \left(\frac {R}{\bar {B}} \cdot \frac {\partial \bar {B}}{\partial R}\right) ^ {2} \tag {11}
+$$
+
+$$
+\Delta \nu_ {z _ {2}} ^ {2} = \frac {\pi^ {2}}{3 N ^ {2}} F ^ {4} \tag {12}
+$$
+
+$$
+\eta = \frac {\partial \left(B _ {\mathrm {p}} - B _ {\mathrm {v}}\right)}{\partial R} / \frac {\partial \bar {B}}{\partial R} \tag {13}
+$$
+
+其中， $F$ 为调变度。
+
+显然，只有在场梯度和调变度较大时，强聚焦项才会起到调节工作路径的作用。基于上述大径向范围调变梯度理论，可实现更高能量的稳定加速。取得的理论创新结果包括：1）调变一阶梯度，因空间电荷制约的流强与聚焦力的平方呈正比，紧凑型回旋加速器的流强大幅提升至mA量级[14]；2）调变

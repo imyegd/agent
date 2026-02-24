@@ -1,0 +1,18 @@
+^ {- 1}} \cdot \left(\left(P + \pi \cdot I \cdot T _ {s} + \frac {1}{2 \pi \cdot D \cdot T _ {s}}\right) + \right.
+$$
+
+$$
+\begin{array}{l} \left(- P + \pi \cdot I \cdot T _ {s} - \frac {1}{\pi \cdot D \cdot T _ {s}}\right) \cdot z ^ {- 1} + \\ \left. \frac {1}{2 \cdot \pi \cdot D \cdot T _ {s}} \cdot z ^ {- 2}\right) \tag {10} \\ \end{array}
+$$
+
+考虑到实际情况取值如下：
+
+$P = 0.85; I = 212; D = \infty$ （不使用）。
+
+最后，我们得到离散传递函数：
+
+$$
+C (z) = \frac {0 . 8 5 6 - 0 . 8 4 3 \cdot z ^ {- 1}}{1 - z ^ {- 1}} \tag {11}
+$$
+
+默认情况下，P

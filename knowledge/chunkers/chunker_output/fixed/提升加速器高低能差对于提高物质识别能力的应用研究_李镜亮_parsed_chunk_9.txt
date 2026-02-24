@@ -1,0 +1,12 @@
+谱等措施，成功将高低能差由2.8MeV提升到3.4MeV，在自主研发的高端组合移动式安检系统上进行了图像验证测试，物质识别效果提升显著，涂色更准确，已经很好地识别开铁和铅。在后续研究中，将进一步针对能谱稳定性开展深入研究，进一步提升物质识别性能。
+
+# 参考文献
+
+[1] Alvarez R, Macovski A. Energy-selective reconstructions in X-ray Computerized Tomography[J].Phys. Med.Biol.,1976,21(5):733- 744.   
+[2] Chen,Y.,et al. High-Z material detection using dual-energy X-ray imaging at cargo inspection[J]. IEEE Trans. Nucl. Sci., 68(8), 2052- 2060.   
+[3] 王 学 武 , 李 荐 民 , 康 克 军 , 唐 传 祥 , 张 丽 , 陈 志强，李元景,钟华强.高能X射线双能成像法中的物质识别 [J]. 高能物理与核物理 ,2007,31(11)：1076-1081  
+[4] 张进.基于X射线特性的物质识别方法研究[D].东南大学 ,2015.  
+[5] 王艳翔.双能 x射线物质识别系统的研究[D]. 中北大学 ,2017.  
+[6] Hubbell, J. H.,& Seltzer, S.M.. *Tables of X-Ray Mass Attenuation Coefficients and Mass Energy-Absorption Coefficients from 1 keV to 20 MeV for Elements $Z = 1$ to 92 and 48 Additional Substances of Dosimetric Interest*[J].NISTIR，5632   
+[7] 项安,陈瑞焘.双能X射线检测技术的能谱滤波参数优化设计 [J]. 同济大学学报 ,2014,42(9)：1432-1436.  
+[8] 李清华 , 李荐民 , 王学武等 . 重叠材料的高能 X 射线双能成像识别技术 [J]. 清华大学学报 ,2008,48(8):1256-1259.

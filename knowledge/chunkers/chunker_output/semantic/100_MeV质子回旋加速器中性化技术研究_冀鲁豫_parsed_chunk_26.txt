@@ -1,0 +1,5 @@
+当磁感应强度 $B$ 随半径 $r$ 变化时，存在磁降落指数 $n$ ：
+
+$$
+n = - \frac {r}{B} \frac {\mathrm {d} B}{\mathrm {d} r} \tag {10}
+$$

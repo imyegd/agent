@@ -1,0 +1,3 @@
+# Abstrac
+
+In2022，theInstituteofHydrogeologyandEnvironmentalGeology，ChineseAcademyofGeologicalSciences （IHEG-CAGS）establishedanacceleratormassspectrometry（AMS） $^ { 1 4 } \mathrm { C }$ laboratory，equippedwithamulti-elemen acceleratormassspectrometry-1MV AMS（HVE），amanualvacuum linesystem（VAC），andanautomated graphitizationequipment（AGE3）．Thisstudyevaluatestheoperationalstatusofthenewlyestablishedlaboratoryand itsgraphitetargetpreparationcapability．Testsconductedonstandardsandblanksamplesdemonstratedtha graph

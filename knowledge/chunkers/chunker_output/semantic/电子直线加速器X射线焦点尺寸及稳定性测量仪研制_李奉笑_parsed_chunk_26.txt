@@ -1,0 +1,15 @@
+![](images/27719b7aaffa6214126bf45b249e617946d1a78908aa8f7ace0f0c663d7eeef9.jpg)
+
+![](images/64a30c299763a1dc5bac6af8c3855c1c42c54262cae1c2be0a73776699dc9c95.jpg)  
+图14 电子直线加速器X射线焦点尺寸的测量仪测量结果  
+Fig.14 Results of focal spot size measured by the developed X-ray focal spot size measuring instrument for electron linear accelerator
+
+# 3.3 焦点稳定性测量实验
+
+本文设计的电子直线加速器X射线焦点尺寸测量仪，能够测量电子直线加速器的焦点尺寸，同时监测焦点位置，从而实现对焦点稳定性的评估。
+
+使用该测量仪，对 $2 \mathrm { M e V } . 6 \mathrm { M e V }$ 和 $9 \mathrm { M e V }$ 三种不同能量的驻波电子直线加速器进行焦点稳定性测试。实验中，狭缝的有效宽度为 $w = 0 . 3 \ \mathrm { m m }$ ，采样频率为 $N = 6 0$ （平移步距 $d = 0 . 1 \ \mathrm { m m }$ ，测量装置的扫描总长度为 $6 \mathrm { m m } )$ ），每隔 $2 \mathrm { m i n }$ 进行一次焦点测量。通
+
+过高斯拟合方法，确定波峰的位置，并观察各次测量波峰位置的相对变化，以评估 $3 0 ~ \mathrm { { m i n } }$ 内的焦点稳定性。最终测量结果如图15所示。
+
+实验结果表明，电子直线加速器的焦点在测量过程中大部分时间保持稳定，偏移量均在 $0 . 1 \mathrm { m m }$ 以内，符合系统误差的容许范围。然而，个别时刻焦点偏移可达 $0 . 6 \mathrm { m m }$ ，可能与电子束的不稳定性以及实验条件的波动有关。

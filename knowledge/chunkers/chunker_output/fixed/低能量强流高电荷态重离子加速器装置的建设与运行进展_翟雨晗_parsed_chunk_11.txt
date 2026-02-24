@@ -1,0 +1,12 @@
+输与加速效率方面的性能表现。在该强流条件下，束流传输效率达到 $9 0 . 2 \%$ ，加速效率达 $8 6 . 9 \%$ 。值得指出的是，空间电荷效应[10] 在毫安级强流重离子束中尤为显著，其非线性库仑作用易导致束流发射度急剧增长（如图 6所示），引发发散或能散增加，甚至引发腔体放电等不稳定因素。然而在该实验中，LEAF 装置维持了 1.0 emA 级 $\mathrm { O } ^ { 6 + }$ 束流连续稳定运行超过 1小时，期间未发生任何腔体打火或束线故障事件，表明装置整体设计具备良好的微波性能与热稳定性，能够满足强流重离子加速的工况需求，同时，基于调能器系统中的 QWR聚束器，可以将强流束能散抑制在较低水平（ $1 \sigma$ 能散度约 $0 . 1 1 5 \%$ ，如图 7所示）。这一结果在国际同类装置中处于领先水平。
+
+![](images/891202f6456accb0cb8c89b78084e4668d1ab2873509859c212831740cb8db6c.jpg)  
+Fig. 5    RFQ efficiency measurement when the accelerated ${ } ^ { 1 6 } \mathrm { O } ^ { 6 + }$ current is stronger than 1.0 emA
+
+![](images/35a69b784e5c2f277c2d8b57ac3c7adc2f87ab6e628a936503c2963d1415a825.jpg)  
+图  5    加 速 $^ { 1 6 } \mathrm { O } ^ { 6 \cdot }$ 流强大于 $1 . 0 \mathrm { e m A }$ 时的 RFQ 效率测量  
+(a) horizontal direction
+
+![](images/e48750e7dd0df7b06f19885f3f835b74bed825c164b46842289ed341537fb851.jpg)  
+(b) vertical direction   
+Fig. 6    Initial emittance measurement of a milliampere-class high-current ${ \mathrm { O } } ^ { 6 + }$ heavy io

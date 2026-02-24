@@ -1,0 +1,31 @@
+# 4.3 结果分析
+
+# 4.3.1 消融实验
+
+图 11 给出了在 TF32 数据类型和 FP16 数据类型情况下优化前、共享内存数据重排算法优化后、数据流水线优化后、数据写回优化后、整体优化效果的消融实验图。对表 2 中的数据集按顺序编号为1~20，横坐标为数据集的序号，纵坐标为三种优化方法分别优化后及整体优化效果的性能相较于优化前性能的加速比。从图 11 可以看出，对于 TF32 和FP16 数据类型，三种优化方法均提升了移植后的CUTLASS-Sparse 的性能。共享内存数据重排算法在
+
+TF32 数据类型和 FP16 数据类型上使性能分别平均提升了 $2 1 \%$ 和 $9 2 \%$ ，性能提升的原因是共享内存数据重排算法消除了共享内存的 bank 冲突，充分利用了共享内存带宽。对于两种数据类型，在排除写回优 化 阶 段 使 用 共 享 内 存 的 情 况 下 ， 测 量CUTLASS-Sparse 在全部数据集上使用两种共享内存数据重排算法优化前后的 bank 冲突率，并对优化前后的 bank 冲突率分别求平均值，得到的结果如表3 所示。两种共享内存数据重排算法可以将 bank 冲突率降低至 0%，完全消除 bank 冲突。
+
+![](images/f48b2968a9dad6649dc8faa0a2e6478e199b580fceb6ead9d6020b6f4a14c476.jpg)  
+图 11 消融实验
+
+表 3 优化前后 bank 冲突率对比
+
+Table 3 Comparison of bank conflict rate before and after optimization
+
+Fig.11 The ablation study   
+
+<table><tr><td rowspan="2">Data Type</td><td colspan="3">Original(%)</td><td rowspan="2">Optimized (%)</td></tr><tr><td>Max</td><td>Min</td><td>Average</td></tr><tr><td>TF32</td><td>24.36</td><td>7.38</td><td>19.43</td><td>0</td></tr><tr><td>FP16</td><td>20.07</td><td>10.57</td><td>15.71</td><td>0</td></tr></table>
+
+数据流水线优化策略在 TF32 数据类型和 FP16
+
+数据类型上使性能分别平均提升了 $5 \%$ 和 $1 3 \%$ ，性能提升的原因是数据预取和寄存器双缓冲提升了数据流水线的并行度。数据写回优化策略在 TF32 数据类型和 FP16 数据类型（FP32 写回和 FP16 写回）上使性能分别平均提升了 $7 \%$ 、 $8 \%$ 和 $1 3 \%$ ，性能提升的原因是数据聚集操作提高了数据写回时的全局内存
+
+带宽利用率。表 4 展示了在不同数据规模下，CUTLASS-Sparse 在应用数据聚集策略优化前后所测得的全局内存带宽利用率。从表 4 中可以看出，经过数据聚集策略优化后，全局内存带宽利用率得到了显著提升，从而提高了数据写回的效率。
+
+表 4 优化前后全局内存带宽利用率对比  
+Table 4 Comparison of global memory bandwidth utilization before and after optimization   
+
+<table><tr><td>Data Type</td><td>Size</td><td>Original(%)</td><td>Optimized(%)</td></tr><tr><td rowspan="5">FP32</td><td>1024 × 1024</td><td>8.46</td><td>21.94</td></tr><tr><td>2048 × 2048</td><td>11.56</td><td>30.53</td></tr><tr><td>4096 × 4096</td><td>12.52</td><td>45.46</td></tr><tr><td>8192 × 8192</td><td>12.69</td><td>48.85</td></tr><tr><td>10240 × 10240</td><td>12.72</td><td>48.81</td></tr><tr><td rowspan="5">FP16</td><td>1024 × 1024</td><td>5.76</td><td>17.15</td></tr><tr><td>2048 × 2048</td><td>7.93</td><td>35.08</td></tr><tr><td>4096 × 4096</td><td>7.78</td><td>59.79</td></tr><tr><td>8192 × 8192</td><td>7.96</td><td>73.16</td></tr><tr><td>10240 × 10240</td><td>8.72</td><td>80.30</td></tr></table>
+
+三种优化方法的整体效果在 TF32 数据类型和FP16 数据类型（FP32 写回和 FP16 写回）上使性能分别平均提升了 $3 0 \%$ 、 $1 0 8 \%$ 和 $1 1 5 \%$ 。

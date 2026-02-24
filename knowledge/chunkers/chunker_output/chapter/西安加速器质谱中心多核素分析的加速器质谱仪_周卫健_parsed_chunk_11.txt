@@ -1,0 +1,26 @@
+# 参考文献
+
+1 Gottdang A, Mous D J W. Nucl.Instr.Meth, 1997, B123, 163—166   
+2 Gottdang A, Mous D J W. Proc Appl Accel Res Ind, 1999, CP475, 652—656   
+3 Suzuki T, Aramaki T, Kitamura T, et al. Nucl Instr Meth, 2004, B223—224, 87—90   
+4 Calcagnile L, Quarta G, Elia M D, et al. Nucl Instr Meth, 2004, B215，561—564   
+5 Mando P A, Private communication   
+6 ZHOU Weijian, ZHOU Xiaolei, LU Xuefeng, et al. Radiocarbon, 2006, 48(2):285—293   
+7 Mous D J W. Radiocarbon, 1998，40(1):283—288   
+8 Purser K H. Engineering Report #109 of GIC，1987，9   
+9 Purser K H, Smick T. Nucl Instr Meth, 1988, B35, 284— 291   
+10 Klein M, Mous D J W, Gottdang A. Radiocarbon, 2004, 46(1):77—82   
+11 National Electrostatics Corporation Proposal No.NEC-7215, 1995   
+12 Mous D J W, Goddtang A, Van den Brock R, et al. Nucl Instru Meth, 1995, B99, 697—700   
+13 Purser K H. Radiocarbon, 1992, 34(3): 458—467   
+14 Mous D J W, Gottdang A. Nucl Instr Meth, 1994, B92,12 —15   
+15 Raisbeck G M, Yiou F, Bourles D, et al. Nucl Instr Meth, 1984, B85, 175—178   
+16 ZHAO Xiaolei, Private communication   
+17 Van der Plicht J, Aerts A, Wijma Sa Zondervan A. Radiocarbon, 1995, 37(2) : 657—661   
+18 Nadeau M–j, Schleicher M, Groots P M, et al. Nucl Instru Meth, 1997, B123, 22—30   
+19 Nakamura T, Niu E, Oda H, et al. Nucl Instru Meth, 2000, B172, 52—57   
+20 Raisbeck G M, Yiou F, Bourles D, et al. Nucl Instr Meth, 1987, B29, 22—26   
+21 Sundquist M L, Loger R L, Daniel R E, Proc of CP475, Appl of Acce in Res and Indus, 1999, 661—664   
+22 Klein J, Middleton R, Hongqing Tang. Nucl Instr Meth, 1982, B193, 601—616   
+23 Southon J R, Vogel J S, Nowikow I, et al. Nucl Instr Meth, 1983, B205, 251—257   
+24 Priller A, Brandl T, Golser R, et al. Nucl Instr Meth, 2000, B172, 100—106

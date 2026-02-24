@@ -1,0 +1,4 @@
+图10 校正后校正铁强度分布图 (a) 水平，(b) 垂直  
+Fig.10 Distribution of corrector strength after correction (a) Horizontal, (b) Vertical
+
+考虑冲击磁铁和切割铁引入的色散，当束流从储存环引出时，束流先由冲击磁铁踢出8 mrad角度，再经过一段 $3 \mathrm { m }$ 漂移节。色散函数在冲击磁铁处为$0 \mathrm { m }$ ，切割铁边缘处为 $0 . 0 2 6 \mathrm { m }$ 。此处束流光学参数要求为 $\beta _ { x } = 1 4 . 2 0 9 \mathrm { ~ m } , \beta _ { y } = 2 . 3 1 4 \mathrm { ~ m } , \alpha _ { x } = 0 , \alpha _ { y } = 0$ $ { a _ { x } } ^ { = } 0$ $a _ { y } = 0$ 。之后束流经过切割铁弯转 $2 0 0 \mathrm { \ m r a d }$ ，引出至传输线。经过3块二极铁后，水平色散函

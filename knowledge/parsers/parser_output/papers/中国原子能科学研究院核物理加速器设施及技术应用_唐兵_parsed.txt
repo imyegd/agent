@@ -1,0 +1,508 @@
+# 中国原子能科学研究院核物理加速器设施及技术应用
+
+唐 兵，杨新宇，阙朝新，陈红涛，何 明，吴振东，崔保群，陈立华，马鹰俊，马瑞刚，黄青华，马燮，陈浩南，彭朝华，柳卫平，郭冰
+
+（中国原子能科学研究院核物理研究所，北京 102413）
+
+摘要：中国原子能科学研究院长期开展放射性核束产生技术、低能高压加速器技术、串列加速器技术及高频型加速器研究，建立了HI-13串列加速器、超导直线加速器、多粒子可变能量回旋加速器、 $600\mathrm{kV}$ 高压倍加器、北京放射性核束装置在线同位素分离器、锦屏地下强流加速器等核物理研究装置，有力支撑了我国基础核物理事业及相关领域的发展，放射性核束产额、高压加速器性能指标均达到国际先进水平。中国原子能科学研究院还基于核物理加速器技术，开发了小型串列加速器、小型中子发生器、加速器质谱、离子注入机、核孔膜生产等产业项目，并初步实现产品型谱化，其中小型串列加速器实现了国内自主可控。关键词：加速器；在线同位素分离器；中子发生器；加速器质谱；串列加速器；高压倍加器；核孔膜
+
+中图分类号：TL5
+
+文献标志码：A
+
+文章编号：1000-6931（2025）09-1805-17
+
+doi: 10.7538/yzk.2025.youxian.0526
+
+# Facilities and Technical Applications for Nuclear Physics Accelerator in China Institute of Atomic Energy
+
+TANG Bing, YANG Xinyu, KAN Chaoxin, CHEN Hongtao, HE Ming, WU Zhendong,
+
+CUI Baoqun, CHEN Lihua, MA Yingjun, MA Ruigang, HUANG Qinghua,
+
+MA Xie, CHEN Haonan, PENG Zhaohua, LIU Weiping, GUO Bing
+
+(Department of Nuclear Physics, China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: China Institute of Atomic Energy (CIAE) has persistently developed technologies including radioactive beam generation, low-energy high-voltage accelerators, tandem accelerators, and high-frequency accelerators. Nuclear physics research facilities, such as the HI-13 Tandem Accelerator, superconducting linear accelerator, multi-particle variable-energy cyclotron, $600\mathrm{kV}$ high-voltage multiplier, high mass resolution on-line isotope separator, and Jinping underground high-current accelerator, has been established. The HI-13 Tandem Accelerator has accumulated nearly $150~000\mathrm{h}$ of operation with $125000\mathrm{h}$ of beam supply. In 2014, it is upgraded to the Beijing Radioactive Ion-beam Facility with a new cyclotron and a new on-line isotope separator upstream and a new superconducting booster downstream. In 2016, a superconducting linear accelerator was being constructed to increasing maximum energy gain to $17\mathrm{MeV} / \mathrm{q}$ instead of the booster. The multi-particle variable-energy cyclotron is an isochronous cyclotron with a maximum acceleration factor $K$ of 130, delivering proton energies up
+
+to $72\mathrm{MeV}$ . The $600\mathrm{kV}$ high-voltage multiplier runs over $1500\mathrm{h}$ annually, completing more than 30 experiments and serving over 30 research institutes and enterprises. The Jinping underground astrophysical experiment facility currently holds the world record for the strongest deep-earth accelerator beam intensity, surpassing Italy's LUNA laboratory accelerator by tenfold. Based on the Beijing Radioactive Ion-beam Facility, the calcium oxide, magnesium oxide, silicon carbide, lanthanum carbide, and uranium carbide targets were developed in recent years. By utilizing an innovative dual-mode ion source structure, it has generated 55 types of radioactive isotope beams including sodium, potassium, aluminum, and rubidium, with the shortest half-life reaching $0.17\mathrm{s}$ and maximum beam intensity at $10^{10}\mathrm{s}^{-1}$ , achieving international advanced levels. CIAE has developed industrial projects such as small tandem accelerators, small neutron generators, accelerator mass spectrometer, and nuclear pore membrane production based on nuclear physics accelerator technology. In 2025, a $2\times 1.7\mathrm{MV}$ and a $2\times 3\mathrm{MV}$ tandem accelerators were delivered to users, and in 2026, a $2\times 6\mathrm{MV}$ tandem accelerator will be delivered, product standardization is preliminarily completed and technical self-reliance is achieved. CIAE has developed compact neutron generators and time-marking neutron generators with accuracy better than 1 ns and position-marking accuracy better than $0.3\mathrm{mm}$ . A high-flux neutron generator with capable of producing $3\times 10^{12}$ neutrons per second is under research. CIAE has developed atmospheric-insulated mass spectrometers and compact mass spectrometers, and has established an accelerator-based nuclear pore membrane production line, providing various nuclear pore membrane products.
+
+Key words: accelerator; on-line isotope separator; neutron generator; accelerator mass spectrometry; tandem accelerator; Cockcroft-Walton accelerator; nuclear pore membrane
+
+中国原子能科学研究院(简称原子能院)作为我国核物理基础研究与核技术应用的重要国家级科研机构，自1950年成立以来，始终致力于核物理基础研究、核技术应用开发以及核能安全领域的创新发展[1]。作为我国核科技事业的重要支撑平台，在核物理实验装置研制、核数据测量、核技术应用等方面取得了一系列具有国际影响力的科研成果。
+
+加速器作为核科学研究的不可缺少的工具，为我国核科学发展做出了巨大贡献。1955年，中国科学院原子能研究所建成了第1台 $700\mathrm{keV}$ 质子静电加速器，为我国高压加速器的发展积累了宝贵经验。1958年我国第一座重水反应堆和第一台回旋加速器在原子能院建成，标志着我国跨入了原子能时代，原子能院以“一堆一器”为基础开展了大量工作，创造了核基础研究领域的多项第一。
+
+原子能院于1987年建成并投入运行了北京HI-13串列加速器，2000年完成建设并投入运行了 $600\mathrm{kV}$ 高压倍加器，进入21世纪以来，原子能院在核物理领域又建立起了JUNA离子注入机、重离子超导加速器、可变能量重离子回旋加速器
+
+等加速器设施，这些设施有力支撑了我国基础核物理事业及相关领域的发展。
+
+经过数十年的技术积累和创新突破，原子能院建立了完整的核物理加速器技术体系，尤其在高压加速器方面，原子能院系统掌握各类型高压加速器及部件的关键技术，束流强度从数十pps到百mA，束流能量从百eV到数十MeV，束流种类从原有的稳定束流延伸到半衰期亚秒级不稳定核束，先后研制的数十台高压加速器装备有力支撑了我国基础核物理、空间环境模拟、先进核能系统材料研究等领域的发展。
+
+本文系统介绍原子能院核物理加速器设施状况及相应加速器技术在核技术应用方面取得的成果，并对未来发展进行展望。
+
+# 1 核物理加速器设施
+
+# 1.1 HI-13串列加速器
+
+HI-13串列加速器[2]是我国低能核物理研究的关键设施，于1987年建成并投入运行。30多年来，累计开机近15万小时，供束12.5万小时，为我国的低能核物理基础研究[3-4]、核数据测量[5-6]、核技术应用[7-11]及交叉学科的研究做出了重要贡献。
+
+HI-13串列加速器包括注入器、加速器主体以及15个实验终端。注入器可提供从氢到铀等40多种常用粒子，引出能量可达 $200\mathrm{keV}$ 。加速器主体最高头部电压 $13\mathrm{MV}$ ，配有固体和气体两种剥离器；可加速40余种离子束，束流能量精度优
+
+于 $0.1\%$ 。实验终端涵盖核效应分析、加速器质谱（AMS）、重离子微束、次级束流线[12]等。
+
+HI-13串列加速器投入运行以来累计开机近15万小时，供束12.5万小时，历年开机、供束统计[13-16]如图1所示。
+
+![](images/3c7d18bd5ec0d868795736ba7d6453213aba759b974e2c0b1dc2f8e9f320a66e.jpg)  
+图1 HI-13串列加速器历年开机/供束统计  
+Fig. 1 Statistics of HI-13 Tandem Accelerator startup/beam supply over years
+
+为保障HI-13串列加速器安全稳定运行，除常规检维修外，30多年来加速器运维团队一直在进行国产化替代、设备更新和技术升级改造工作[17-30]，先后完成了分压电阻国产化、输电梯国产化、增装第二剥离器、加速管技改、注入器技改、安全系统改造、真空系统改造、电源系统国产更新、控制系统升级、辅机系统升级改造以及9条束流线的自主建设工作。
+
+从20世纪80年代国际上首个放射性核物理实验开始，放射性束已逐渐成为核物理国际前沿，放射性束的产生使很多稳定束不能开展的实验成为可能。常规稳定核束已无法满足科学家们在探索原子核奥秘、宇宙起源等一系列前沿基础科学问题的需求。串列加速器升级工程[31-34](即北京放射性核束装置，BRIF)的目标就是在原有HI-13加速器的基础上，在前端新建一台 $100\mathrm{MeV}$ 产 $200\mu \mathrm{A}$ 的强流回旋加速器，一台质量分辨率为20000的在线同位素分离器；在后端新建一台能量增益为 $2\mathrm{MeV} / q$ 的重离子超导直线增能器[35-36]，以此提升装置的整体性能。该装置于2014年建成，是亚洲首台高质量分辨放射性核束装置[37-55]。
+
+2016年原子能院从美国纽约州立大学石溪分校引进了一套超导直线加速器替代超导直线增能器(图2)。
+
+BRIF采用回旋加速器提供的质子束轰击ISOL
+
+靶材, 发生核反应产生放射性同位素, 经离子源电离、引出、加速后形成放射性离子束(RIB)。ISOL产生的放射性核束能量范围在 $10 \sim 300 \mathrm{keV}$ 连续可调, 可用于低能实验研究, 如放射性核素衰变特性测量[56]、共线激光谱研究等。ISOL提供的放射性束也可注入HI-13串列加速器及超导直线加速器进行后加速, 其中串列加速器的最大加速能量为 $13 \mathrm{MeV} / \mathrm{q}$ , 超导加速器的最大能量增益为 $17 \mathrm{MeV} / \mathrm{q}$ , 加速后的离子束可用于开展核反应、核结构等物理实验[57]。
+
+# 1.2 多粒子可变能量回旋加速器
+
+多粒子可变能量回旋加速器（图3）是原子能院从瑞士引进的一台重离子回旋加速器，该加速器的建成极大提升了原子能院加速器引出重离子束流的能量，扩展了重离子的实验范围。
+
+多粒子可变能量回旋加速器是一台等时性回旋加速器，具有四叶螺旋扇的结构，其加速因子 $K$ 最高可达130，质子最高能量为 $72\mathrm{MeV}$ 。该加速器于2023年完成全部恢复工作并成功出束，并于2024年开展首批物理用户实验。目前建设有3条束流线，分别用于单粒子效应试验、三束辐照实验和核孔膜生产，另有数条束流线正在规划设计中。
+
+该加速器目前搭配了一台 $18\mathrm{GHz}$ 的常温高电荷态ECR源，可提供包括O、Ar、Kr、Xe在内的多种高电荷态重离子。该加速器可实现重离子
+
+![](images/c1f13a817d0056ede12bdedfe6d07c2c77f198c5a885b67fc7ef9dd1a8ddc990.jpg)  
+图2BRIF布局图  
+Fig.2 Layout of BRIF
+
+![](images/1f25a16b0e14b2f8a85de40d423b318256027b9d51f219705b2542fc8a45a356.jpg)  
+图3 多粒子可变能量回旋加速器  
+Fig. 3 Multi-particle variable energy cyclotron
+
+混合束流快速切换技术。将荷质比相近的不同重离子束同时注入到回旋加速器中，通过微调磁场或高频频率的方法将不同离子区分开，实现单独引出。利用这一方法可将重离子束流切换时间缩短到 $10\mathrm{min}$ 内，有效提高了实验效率。
+
+# 1.3 JUNA
+
+锦屏深地核天体物理加速器装置（JUNA）是目前世界上束流强度最强的深地加速器实验平台，超过意大利LUNA实验室加速器的10倍水平。
+
+2019年，原子能院成功完成 $400\mathrm{kV}$ 强流加速器研发[58]，为核天体物理实验做好了准备，推进了JUNA项目的整体进展。2020年底，原子能院建成了用于JUNA项目的 $400\mathrm{kV}$ 、 $10\mathrm{mA}$ 强流加速器[59-61]。
+
+JUNA(图4)已完成第一轮实验(RunI)超过 $2000\mathrm{h}$ 的运行，为核天体物理研究提供了 $100\sim$ $800\mathrm{keV}$ 能量范围、 $0.1\sim 5\mathrm{mA}$ 束流的稳定输出。
+
+目前，装置已完成升级改造，已在本年初恢复
+
+![](images/52f6375ca0a9d6d0f66f7b13bdd7b50b5c28a7a033a850eb16d43b4a458e16f2.jpg)  
+图4JUNA强流加速器实验平台  
+Fig. 4 JUNA high intensity accelerator experimental platform
+
+运行，新增 $45^{\circ}$ 束流线及束流能量扩展计划正在如期开展，这将进一步拓展深地核天体物理实验能力。
+
+锦屏深地核物理实验平台已开展了若干国际顶级的核天体物理关键反应的实验研究，取得早期恒星元素解释和天体中子源等一批重要的原创性研究成果。
+
+# 1.4 $600\mathrm{kV}$ 高压倍加器
+
+20世纪90年代初，原子能院根据核数据测量需求，开始建设一台 $600\mathrm{kV}$ 的高压倍加器，于2000年完成建设并投入运行[62-65](图5)。该倍加器建设了两条束流管道，一条主要提供直流束的直管道，一条主要提供纳秒脉冲束的斜管道，偏转角度为 $45^{\circ}$ 。
+
+倍加器最大加速高压为 $600\mathrm{kV}$ ，直流束流强达 $1\mathrm{mA}$ ，脉冲束流强达 $30\mu \mathrm{A}$ ；采用低能段切割，高能段聚束的方式产生脉冲束，脉冲束重复频率为 $1.5\mathrm{MHz}$ ，脉冲束半宽度为 $1.5\mathrm{ns}$ 。
+
+2009年，在低能段采用束流扫描切割的方
+
+![](images/284681053ad31d0fd88e4cd6b6fa5b2b86fab0b8ae463b817d5d8d9c7862a362.jpg)  
+图5高压倍加器  
+Fig. 5 Cockcroft-Walton accelerator
+
+式, 建立了微秒脉冲束装置, 使倍加器能提供脉冲频率和宽度可调的脉冲束, 脉冲频率调节范围为 $1 \mathrm{~Hz}$ 至 $100 \mathrm{kHz}$ , 脉冲宽度的调节范围为 $100 \mathrm{~ns}$ 至 $1 \mathrm{~ms}$ 。
+
+倍加器平均每年的运行时间超 $1500\mathrm{h}$ ，每年完成的实验超30个[66-72]，主要用户包括原子能院、西北核技术研究所、北京大学、中国科学院高能物理研究所、中国科学院国家空间科学中心、华为等30余家科研院所和企业。
+
+# 2 核物理加速器技术研究
+
+# 2.1 放射性束产生技术研究
+
+基于北京放射性核束装置，近年来完成了氧化钙、氧化镁靶、碳化硅靶、碳化镧靶和碳化铀靶的研制，利用创新性双模式离子源结构，产生了钠、钾、铝、铷等55种放射性同位素束流[73-77]，最短半衰期达到0.17s，最大束流强度 $10^{10}$ pps，达到国际先进水平，如图6所示。
+
+# 2.2 低能高压加速器技术研究
+
+原子能院多年来持续开展低能高压加速器技术研究，研制了多套离子注入机装置，以满足不同科学研究的需求。
+
+2004年建成了一台低能强流氢离子装置[78]，能提供流强大于 $20\mathrm{mA}$ ，能量 $10\sim 100\mathrm{keV}$ 的直流 $\mathrm{D}^{+}$ 离子束，满足物理实验需求。
+
+2008年建成了一台低能强流氘离子装置[79-81]，可在靶上形成重复频率为 $4\mathrm{MHz}$ 、脉冲半高宽 $2\mathrm{ns}$ 、平均流强 $60~\mu \mathrm{A}$ 、能量为 $1\sim 100\mathrm{keV}$ 的氘脉冲束。
+
+2012年，在原子能院HI-13串列加速器L10终端上建立了三束辐照装置，由HI-13串列加速器提供重离子， $250\mathrm{kV}$ 氢氦同轴注入器提供氢氦混合束流，研究了CLAM钢[82]和ODS钢[83]的三束辐照效应。
+
+![](images/4d72a0540eb36e23d74ac61b49f29a9c235464191e40822ad0b6502cdcf586e9.jpg)
+
+![](images/076a8f7eb777a5eeaad44d40d3ae73340b725526a277caf26ac3dc9b0f01fbd5.jpg)
+
+![](images/975060019c561ff91105d261071b16b1d5491b75390a4429e21656da83b2e4ad.jpg)  
+图6钠、钾、铷同位素放射性核束产额  
+Fig. 6 Sodium, potassium, rubidium isotope radioactive beam production
+
+2014年，原子能院与厦门大学联合研制了国际上首台可实现氢离子、氦离子及重离子3种离子束同时注入的加速器——电镜联机装置[84]，靶上离子束纯度好于 $99.9\%$ [85]。同年，完成了HINEG强流中子发生器的方案设计[86]，系统设计包括螺线管透镜选束聚焦、高梯度均匀场加速管加速和高能段切割的脉冲化方式。
+
+2022年，原子能院为哈尔滨工业大学SESRI装置研制了一台用于地空环境模拟的 $200\mathrm{kV}$ 高压加速器，能够提供最高 $200\mathrm{keV}$ 的质子束用于物理实验。
+
+2025年，原子能院完成 $400\mathrm{kV}$ 离子注入机研制，该机型已交付哈尔滨工程大学(深圳)并成功出束，可产生H、He、N、O、Kr、Fe等多种离子，电压输出 $50\sim 400\mathrm{kV}$ 可调，在 $400\mathrm{kV}$ 条件下H、
+
+He、Kr 流强达到 $100 \mu \mathrm{A}, \mathrm{Fe}$ 流强达到 $30 \mu \mathrm{A}$ , 满足多能级和高剂量率实验要求。
+
+# 2.3 串列加速器技术研究
+
+从2021年开始，原子能院布局研制小型串列加速器。经过3年的技术攻关，掌握了兆伏级高压产生、高梯度加速管等一系列关键技术，于2025年成功交付用户 $2 \times 1.7\mathrm{MV}$ 和 $2 \times 3\mathrm{MV}$ 串列加速器各一台(图7)，这是国内首台套商品化串列加速器，标志着我国在串列加速器高端仪器设备制造领域取得重大突破，实现了串列加速器的完全自主可控。
+
+![](images/803f4a885a55340394d503d70e9a48ee20300eb0a6b229975cc408fccc99996a.jpg)  
+图7 $2\times 1.7\mathrm{MV}$ 和 $2\times 3\mathrm{MV}$ 串列加速器在用户现场  
+Fig. 7 $2 \times 1.7$ MV and $2 \times 3$ MV tandem accelerator in user site
+
+此外，两台 $2 \times 3 \mathrm{MV}$ 和一台 $2 \times 6 \mathrm{MV}$ 串列加速器处于研制阶段。未来将形成最高端电压达 $15 \mathrm{MV}$ 的串列加速器型谱。
+
+# 3 核物理加速器技术应用
+
+# 3.1 小型中子发生器的研制
+
+将氘束加速至几百keV打氘或者氚靶产生大量中子，可开展中子积分实验、中子活化截面测量、中子裂变产额测量、中子激发函数测量、中子活化分析实验、中子照相等工作。目前，中子应用需求越来越广泛，开展基于高压加速器技术的小型中子发生器研究，有较大的市场前景。
+
+3.1.1 小型可移动式中子发生器 2010 年, 随着中子应用需求增加, 原子能院核数据重点实验室开始开展中子发生器小型化研究, 先后研制出了立式中子发生器、桌面式中子发生器和自屏蔽中子发生器(图 8)。这几种发生器具有体积小、重量轻、便于移动的特点; 加速电压为 $0 \sim 130 \mathrm{kV}$ , 束流强度为 $0 \sim 2.5 \mathrm{~mA}$ , D-D 反应中子产额为 $0 \sim 2 \times 10^{8} \mathrm{s}^{-1}$ , D-T 反应中子产额为 $0 \sim 2 \times 10^{10} \mathrm{s}^{-1}$ 。
+
+这几种发生器可代替同位素放射源 $^{252}\mathrm{Cf}$ ，用
+
+![](images/074d6b70ae856fbbd105b2db93dacea18c5cf46f8214d6196e5df5356a5d297a.jpg)  
+a——手提式；b——桌面式；c——立式；d——自屏蔽式  
+图8 原子能院可移动中子发生器系列  
+Fig. 8 Movable neutron generator series of CIAE
+
+于中子活化分析和中子单粒子效应等技术研究和应用。
+
+3.1.2 小型高压倍加器型中子发生器 2016—2018年，倍加器技术团队采用正高压加速技术研发出了小型高压倍加器型的中子发生器，该发生器总长为 $2.3\mathrm{m}$ ，加速电压为 $0\sim 300\mathrm{kV}$ ，束流强度为 $0\sim 2\mathrm{mA}$ ，D-D反应中子产额为 $0\sim 2\times 10^{9}\mathrm{s}^{-1}$ ，D-T反应中子产额为 $0\sim 2\times 10^{11}\mathrm{s}^{-1}$ ，采用了伴随粒子法实时监测靶上产生的中子产额，测量精度好于 $3\%$ 。该发生器在核物理实验、核数据测量、中子应用研究等领域具有广泛的应用前景。
+
+3.1.3 标记中子发生器 2022—2024年，原子能院技术团队研制出了标记中子束无损检测平台，该平台中子产额为 $0 \sim 2 \times 10^{11} \mathrm{~s}^{-1}$ ，关联 $\alpha$ 阵列探测器时间标记精度好于 $1 \mathrm{~ns}$ ，位置标记精度好于 $0.3 \mathrm{~mm}$ 。
+
+利用该平台可对大尺寸的物体进行快中子照相和中子活化分析，两个技术结合测量，可应用于大尺寸物体内部结构的可视化无损检测和元素组成的分析。
+
+3.1.4 强流中子发生器 2024年，原子能院技术团队开展了强流中子发生器的研制。该发生器加速电压为 $0 \sim 300 \mathrm{kV}$ ，束流强度为 $0 \sim 20 \mathrm{~mA}$ ，预计D-D反应中子产额为 $0 \sim 3 \times 10^{10} \mathrm{s}^{-1}$ ，D-T反应中子产额为 $0 \sim 3 \times 10^{12} \mathrm{s}^{-1}$ 。
+
+强流中子发生器中子产额高，可开展反应截面低、测量精度要求高的核数据测量，还可开展热中子照相、中子辐照、中子活化分析等中子应用技术研究，相比于目前的倍加器，将有利于提高
+
+实验精度、缩短实验时间、提高实验效率。
+
+# 3.2 小型化加速器质谱研究
+
+加速器质谱(AMS)是测量长寿命核素灵敏度最高的分析技术，在核工业以及地质、考古、环境等领域发挥着不可替代的重要应用。1989年，基于HI-13串列加速器建成了我国第一台AMS装置[87-89]，在此装置上发展了系列的分析技术并开展了在核物理[90-108]、生命科学及环境资源[109-143]等方面的应用研究。近年来，随着我国在高端设备国产化需求下，原子能院基于HI-13串列加速器的加速器质谱装置上积累的技术并根据AMS装置小型化的国际发展趋势开展了加速器质谱国产化技术研究。
+
+3.2.1 单极型AMS装置研制 $^{14}\mathrm{C}$ 是AMS测量最为广泛的核素，为实现 $^{14}\mathrm{C}$ 的分析测定，研制了单极型的AMS装置。该装置对 $^{14}\mathrm{C}$ 的传输效率为 $38\%$ ，测量灵敏度达到 ${}^{14}\mathrm{C / C = 2\times 10^{-15}}$ ，测量精度达到 $0.5\%^{[144]}$ ，技术指标达到国际先进水平。
+
+3.2.2 大气绝缘型AMS装置研制 为开展重核素(裂变核素、锕系核素)的高灵敏分析与应用，开展了大气绝缘型AMS装置研制。此装置的加速器采用串列加速方式。基于此装置开展了 $^{129}\mathrm{I}$ 、 $^{239}\mathrm{Pu}$ 等的测量技术研究。结果表明，在 $^{129}\mathrm{I}$ 测量时AMS系统传输效率达到 $65\%$ ，此传输效率是目前国际上传输效率最高的，测量灵敏度达到 $^{129}\mathrm{I}/\mathrm{I}=1\times 10^{-14[145]}$ 。对于 $^{239}\mathrm{Pu}$ 的传输效率达到 $25\%$ 中 $^{239}\mathrm{Pu}$ 的探测限达到 $0.45\mathrm{fg}^{[146-147]}$ 。基于此装置开展了在核环境检测、从业人员钚的内辐照检测等方面的应用。
+
+3.2.3 紧凑型AMS装置研制 为克服大气绝缘型AMS装置的尺寸大、运行环境要求高等局限，开展了国内首台套紧凑型AMS装置的研制。此装置的结构如图9所示，其核心的创新技术是紧凑型串列加速器的研制。紧凑型AMS装置的占地面积为 $30\mathrm{m}^2$ ，较大气绝缘型AMS装置的占地面积减小1倍以上。
+
+![](images/8767250419e65336a1a1a59b168243b54741dfcdb986c9785b513ea96f94e7da.jpg)  
+图9紧凑型多核素AMS装置结构示意图  
+Fig. 9 Schematic structure of compact multi-nuclide AMS device
+
+紧凑型AMS装置开展了 $^{14}\mathrm{C}$ 、 $^{26}\mathrm{Al}$ 、 $^{129}\mathrm{I}$ 、 $^{236}\mathrm{U}$ 、 $^{239}\mathrm{Pu}$ 等核素的AMS高效传输技术与高灵敏分析研究[148-149],结果表明此装置的测量性能达到国际先进水平。
+
+# 3.3 核孔膜生产技术
+
+膜技术作为多学科交叉的战略性产业，在节能、环保、能源、化工、生物、医疗、健康等领域发挥关键作用，受到广泛关注。
+
+原子能院研制建立了多套重离子微孔膜辐照生产设备(图10)，其中两套基于HI-13串列加速
+
+![](images/8bb76d017c8c8669580b0de14fb1bb5f8fe9454760f338aca8f9f76f1b67d9b2.jpg)  
+图10 多粒子可变能量回旋加速器上的核孔膜辐照生产设备  
+Fig. 10 Radiation apparatus on multi-particle variable-energy cyclotron
+
+器, 最大辐照宽度分别为 $250 \mathrm{~mm}$ 和 $500 \mathrm{~mm}$ , 另外一套基于多粒子可变能量回旋加速器, 最大辐照幅宽 $500 \mathrm{~mm}$ 。
+
+此外，原子能院还建成了包括紫外线敏化装置和重离子微孔膜蚀刻装置的完整工艺线，可生产孔径 $0.1\sim 25~{\mu\mathrm{m}}$ ，孔密度 $10^{2}\sim 10^{10}\mathrm{cm}^{-2}$ ，厚度 $4\sim 30~\mu \mathrm{m}$ 的聚碳酸酯(PC)、聚对苯二甲酸乙二醇酯(PET)、聚萘二甲酸乙二醇酯(PEN)、聚酰亚胺(PI)等材质的重离子微孔膜，已有10多种规格的重离子微孔膜产品。
+
+# 4 结论
+
+经过数十年的发展，原子能院已拥有HI-13串列加速器、超导直线加速器、多粒子可变能量回旋加速器、 $600\mathrm{kV}$ 高压倍加器、北京放射性核束装置在线同位素分离器、锦屏地下强流加速器等装置，有力支撑了我国中子物理和放射性束前沿研究。
+
+原子能院坚持不懈地开展放射性核束产生技术、低能高压加速器技术、串列加速器技术的研究，放射性核束产额、高压加速器性能指标均达到国际先进水平，小型串列加速器实现了国内自主可控。
+
+原子能院还积极将核物理加速器技术应用于国民经济主战场，开发了小型中子发生器、加速器质谱和核孔膜生产等产业项目，形成了较好的经济和社会效益。
+
+未来，将瞄准更高加速电压、更高束流强度、更短束流半衰期、更加智能化的加速器控制等方向开展研究，研制更高端电压的串列加速器、更高中子通量的中子发生器、提供更多短寿命放射性核束、提供更加智能高效的控制方式，满足科学研究对束流种类、离子能量、束流强度和运行效率的要求。在高压加速器应用等方面，将根据国防及国民经济发展的需求，研发更多种类的离子注入机、加速器质谱、紧凑中子发生器等高压型加速器，在半导体设备国产替代、药物的示踪研究及重要设备的缺陷检测等方面做出更多贡献。
+
+# 参考文献：
+
+[1] 朱升云, 郭刚, 何明, 等. HI-13串列加速器核物理应用
+
+研究发展现状和展望[J].原子能科学技术，2020,54(增刊):1-16.  
+ZHU Shengyun, GUO Gang, HE Ming, et al. Development status and prospect of nuclear physics application research of HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 1-16(in Chinese).   
+[2] 姜承烈, 关遐令. 我国最大的串列加速器[J]. 自然杂志, 1992(9): 651-655.  
+[3] 山常起, 郝嘉琨, 陈庆旺, 等. 抗等离子体辐照的防氚渗透材料的研究[J]. 核聚变与等离子体物理, 1997(3): 63-66.  
+SHAN Changqi, HAO Jiakun, CHEN Qingwang, et al. Research on tritium permeation barrier materials resistant to plasma irradiation[J]. Nuclear Fusion and Plasma Physics, 1997(3): 63-66(in Chinese).   
+[4] 关遐令, 周立鹏, 彭朝华, 等. CIAE 重离子加速器物理研究平台[J]. 高能物理与核物理, 2006(S1): 162-164.  
+GUAN Xialing, ZHOU Lipeng, PENG Zhaohua, et al. CIAE heavy ion accelerator physics research platform [J]. High Energy Physics and Nuclear Physics, 2006(S1): 162-164(in Chinese).   
+[5] 徐勇军, 王荣, 于伟翔, 等. 串列加速器上扰动角关联探针核产生截面测量[J]. 原子能科学技术, 2001, 35(6): 547-550.  
+XU Yongjun, WANG Rong, YU Weixiang, et al. Cross section measurements for production of perturbed angular correlation probe nuclei at HI-13 tandem accelerator [J]. Atomic Energy Science and Technology, 2001, 35(6): 547-550 (in Chinese).   
+[6] 柳卫平, 李志宏, 白希祥, 等. 原子能院的核天体物理研究和串列升级工程进展[J]. 原子核物理评论, 2004, 38(4): 276-283.  
+LIU Weiping, LI Zhihong, BAI Xixiang, et al. Nuclear astrophysics research and tandem accelerator upgrade project at CIAE[J]. Nuclear Physics Review, 2004, 38(4): 276-283(in Chinese).   
+[7] 包轶文, 关遐令, 胡跃明, 等. AMS 专用高分辨注入器系统研制[C]/第五届北京核学会核技术应用学术交流会论文集. [出版地不详]: [出版者不详], 2008: 257-259.  
+[8] 左走翼, 郑永男, 徐永军, 等. 新扰动角关联探针核 $^{62}\mathrm{Zn}$ 在新材料研究中的应用[C]/中国核学会 2013 年学术年会论文集第 6 册. [出版地不详]: [出版者不详], 2013:74-77.  
+[9] 左走翼, 郑永男, 徐永军, 等. 新扰动角关联探针核 $^{62}\mathrm{Zn}$ 在 HOPG 中的应用研究[J]. 原子能科学技术,
+
+2013, 47(增刊): 402-405.   
+ZUO Zouyi, ZHENG Yongnan, XU Yongjun, et al. Study on the application of new perturbation angle correlation probe core $^{62}\mathrm{Zn}$ in HOPG[J]. Atomic Energy Science and Technology, 2013, 47(Suppl.): 402-405(in Chinese).   
+[10] 左走翼, 郑永男, 徐永军, 等. 新扰动角关联探针核 $^{62}\mathrm{Zn}$ 在高定向热解石墨研究中的应用[C]//第六届反应堆物理与核材料学术研讨会第三届核能软件自主化研讨会会议摘要集. [出版地不详]: [出版者不详], 2013: 123.  
+[11] LI Guangrui, ZHENG Shuxin, YAO Hongjuan, et al. Design of a compact ring for proton radiation applications[J]. Chinese Physics C, 2017, 41(1): 171-176.   
+[12] 柳卫平, 李志常, 关遐令, 等. HI-13 串列加速器次级束流线的设计[J]. 原子能科学技术, 1993, 27(5): 391-395.  
+LIU Weiping, LI Zhichang, GUAN Xialing, et al. Design of a beam line for secondary radioactive ions[J]. Atomic Energy Science and Technology, 1993, 27(5): 391-395(in Chinese).   
+[13] 张灿哲, 秦久昌, 杨丙凡, 等. HI-13 串列加速器运行状况[J]. 原子能科学技术, 1994, 28(6): 488-493.  
+ZHANG Canzhe, QIN Jiuchang, YANG Bingfan, et al. Operational status of the HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 1994, 28(6): 488-493(in Chinese).   
+[14] 杨丙凡, 秦久昌, 张灿哲, 等. HI-13 串列加速器十年运行、维修与改进[J]. 原子能科学技术, 1999, 33(3): 90-97.  
+YANG Bingfan, QIN Jiuchang, ZHANG Canzhe, et al. Ten-year operation, maintenance and improvement of the HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 1999, 33(3): 90-97 (in Chinese).   
+[15] 胡跃明, 阐朝新, 包轶文, 等. 北京 HI-13 串列加速器近期状况[J]. 原子能科学技术, 2008, 42(增刊): 251-253.  
+HU Yueming, KAN Chaoxin, BAO Yiwen, et al. Recent status of the Beijing HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2008, 42(Suppl.): 251-253(in Chinese).   
+[16] 李康宁, 阙朝新, 王晓飞, 等. HI-13 串列加速器运维 35 周年的实践与创新[J]. 核技术, 2023, 46(8): 080005.  
+LI Kangning, KAN Chaoxin, WANG Xiaofei, et al. Practice and innovation in the operation and maintenance of HI-13 tandem accelerator for 35 years[J]. Nuclear Techniques, 2023, 46(8): 080005(in Chinese).
+
+[17] 曹清喜, 关遐令, 王荣文, 等. 倾斜场加速管的物理设计方法[J]. 原子能科学技术, 1980, 14(5): 536-546.  
+CAO Qingxi, GUAN Xialing, WANG Rongwen, et al. Physical design method of inclined field accelerating tube[J]. Atomic Energy Science and Technology, 1980, 14(5): 536-546(in Chinese).   
+[18] 曹清喜, 关遐令. 脉冲束在三维均匀倾斜场中的传输[J]. 原子能科学技术, 1981, 15(1): 19-28.  
+CAO Qingxi, GUAN Xialing. Propagation of pulse beam in three-dimensional uniform inclined field[J]. Atomic Energy Science and Technology, 1981, 15(1): 19-28(in Chinese).   
+[19] 关遐令. HI-13 串列加速器的光学特性[J]. 核科学与工程, 1983, 5(3): 281-285.  
+GUAN Xialing. Optical characteristics of the HI-13 tandem accelerator[J]. Chinese Journal of Nuclear Science and Engineering, 1983, 5(3): 281-285(in Chinese).   
+[20] 关遐令, 曹清喜, 张洁. 串列加速器束流的纵向输运特性分析[J]. 原子能科学技术, 1985, 19(4): 434-439.  
+GUAN Xialing, CAO Qingxi, ZHANG Jie. Analysis of longitudinal beam transport characteristics in tandem accelerators[J]. Atomic Energy Science and Technology, 1985, 19(4): 434-439(in Chinese).   
+[21] 关遐令. 串列加速器光学元件线性准直公差特性分析 [J]. 原子能科学技术, 1985, 19(4): 440-445.  
+GUAN Xialing. Analysis of linear collimation tolerance characteristics of optical elements in tandem accelerator[J]. Atomic Energy Science and Technology, 1985, 19(4): 440-445(in Chinese).   
+[22] 曹清喜, 关遐令. 变梯度倾斜场加速管的简化场型公式[J]. 强激光与粒子束, 1992, 4(1): 93-100.   
+CAO Qingxi, GUAN Xialing. The formula of simplified field configuration of a inclined field tube with variable gradient[J]. High Power Laser and Particle Beams, 1992, 4(1): 93-100(in Chinese).   
+[23] 秦久昌, 关遐令, 杨丙凡, 等. HI-13 串列加速器的改进[J]. 核技术, 1992(6): 329-334.  
+QIN Jiuchang, GAUN Xialing, YANG Bingfan, et al. Improvements of the HI-13 tandem accelerator[J]. Nuclear Techniques, 1992(6): 329-334(in Chinese).   
+[24] 李涛, 关遐令. HI-13 串列加速器头部电场改进计算[J]. 原子能科学技术, 1993, 27(5): 396-400.  
+LI Tao, GUAN Xialing. The modification of the terminal electrostatic field of HI-13 Tandem Accelerator [J]. Atomic Energy Science and Technology, 1993, 27(5): 396-400(in Chinese).   
+[25] 秦久昌, 关遐令, 扬丙凡, 等. HI-13 串列加速器的改
+
+进[J].核物理动态，1994,11(2):22-26.  
+QIN Jiuchang, GUAN Xialing, YANG Bingfan, et al. Improvement of HI-13 tandem accelerator[J]. Nuclear Physics Review, 1994, 11(2): 22-26(in Chinese).   
+[26] 杨丙凡, 周俊峰, 关遐令, 等. HI-13 串列加速器输电梯的研制[J]. 原子能科学技术, 1996, 30(3): 193-198.  
+YANG Bingfan, ZHOU Junfeng, GUAN Xialing, et al. Development of HI-13 tandem accelerator elevator[J]. Atomic Energy Science and Technology, 1996, 30(3): 193-198(in Chinese).   
+[27] 杨丙凡, 秦久昌, 张桂莲, 等. HI-13 串列加速器加速管技术改造[J]. 原子能科学技术, 2003, 37(6): 513-518.  
+YANG Bingfan, QIN Jiuchang, ZHANG Guilian, et al. Technical transformation of accelerating tube of HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2003, 37(6): 513-518(in Chinese).   
+[28] 闫芳, 关遐令, 贺新福, 等. 串列加速器头部电极改进方案[J]. 高能物理与核物理, 2006, 30(增刊1): 111-113.  
+YAN Fang, GUAN Xialing, HE Xinfu, et al. Modification project of the terminal electrode of the HI-13 tandem accelerator[J]. High Energy Physics and Nuclear Physics, 2006, 30(Suppl.1): 111-113 (in Chinese).   
+[29] 李爱玲, 崔保群, 杨丙凡, 等. 基于LabVIEW的发射度测试仪[J]. 工业控制计算机, 2007, 20(11): 88, 90.  
+LI Ailing, CUI Baoqun, YANG Bingfan, et al. Emittance measurement instrument based on LabVIEW[J]. Industrial Control Computer, 2007, 20(11): 88, 90(in Chinese).   
+[30] XIONG Zhengfeng, ZHENG Shuxin, XING Qingzi, et al. The radio-frequency design of an IRIS-type coupler for the CPHS radio-frequency quadrupole[J]. Chinese Physics C, 2012, 36(1): 96-100.   
+[31] 张天爵, 关遐令, 崔保群. 串列加速器升级工程[C]/粒子加速器学会第七届全国会员代表大会暨学术报告会文集. [出版地不详]: [出版者不详], 2004: 94-106.  
+[32] 张天爵, 李振国, 殷治国, 等. 串列加速器升级工程的计算机控制系统方案设计[J]. 原子能科学技术, 2005, 39(2): 188-192.  
+ZHANG Tianjue, LI Zhenguo, YIN Zhiguo, et al. Design of computer control system for tandem accelerator upgrade project[J]. Atomic Energy Science and Technology, 2005, 39(2): 188-192(in Chinese).   
+[33] 杨丙凡, 关遐令, 曹小平, 等. HI-13 串列加速器升级工程进展与现状[C]/2006全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2006: 10-16.
+
+[34] 杨丙凡, 关遐令, 曹小平, 等. HI-13 串列加速器升级工程进展与现状[J]. 核技术, 2008, 31(1): 41-46.  
+YANG Bingfan, GUAN Xialing, CAO Xiaoping, et al. Progresses in the project of upgrading HI-13 tandem accelerator at CIAE[J]. Nuclear Techniques, 2008, 31(1): 41-46(in Chinese).   
+[35] 彭朝华, 关遐令. HI-13 串列加速器升级工程 144 MHz 铜铌溅射超导腔物理设计[J]. 原子能科学技术, 2006, 40(6): 646-649.  
+PENG Zhaohua, GUAN Xialing. 144 MHz niobium sputtered superconducting cavity physical design for HI-13 tandem upgrade project[J]. Atomic Energy Science and Technology, 2006, 40(6): 646-649 (in Chinese).   
+[36] 彭朝华, 吕钊, 关遐令. 超导四分之一波长谐振腔高频功率磁耦合器物理设计[J]. 原子能科学技术, 2007, 41(1): 98-100.  
+PENG Zhaohua, LU Zhao, GUAN Xialing. RF coupling loop design for superconducting quarter wave resonator[J]. Atomic Energy Science and Technology, 2007, 41(1): 98-100(in Chinese).   
+[37] 许谨诚, 关遐令. 迈向核物理研究的最前沿: 北京放射性核束装置简介[J]. 科学中国人, 1995(5): 33-34.  
+XU Jincheng, GUAN Xialing. Towards the forefront of nuclear physics research: BRIEF introduction of radioactive nuclear beam facility in Beijing[J]. Scientific Chinese, 1995(5): 33-34(in Chinese).   
+[38] 张焱, 蒋渭生, 关遐令. 产生放射性核束的厚靶的物理设计[J]. 原子能科学技术, 1998, 32(1): 39-43.  
+ZHANG Yan, JIANG Weisheng, GUAN Xialing. Physical design of thick target producing radioactive nuclear beam[J]. Atomic Energy Science and Technology, 1998, 32(1): 39-43 (in Chinese).   
+[39] 崔保群, 秦久昌, 李立强, 等. 放射性核束靶源试验及应用装置[C]/2001全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2001: 94-99.  
+[40] 崔保群. keV 放射性核束系统中的几个重要问题研究 [D]. 北京: 中国原子能科学研究院, 2001.  
+[41] 彭朝华, 关遐令, 崔保群. HI-13 串列加速器升级工程在线同位素分离器高质量分辨谱仪物理设计[J]. 原子能科学技术, 2006, 40(2): 133-138.  
+PENG Zhaohua, GUAN Xialing, CUI Baoqun. Physical design of high mass resolution spectrometer for ISOL[J]. Atomic Energy Science and Technology, 2006, 40(2): 133-138(in Chinese).   
+[42] 崔保群, 彭朝华, 马鹰俊, 等. 北京放射性核束装置 (BRIF) 在线同位素分离器研制进展 [C]/第三届全国加速器技术学术交流会论文摘要集. [出版地不详]:
+
+[出版者不详], 2007: 101.   
+[43] 闫芳, 崔保群, 舒能川, 等. ISOL靶-源中铀靶的放射性活度研究[J]. 高能物理与核物理, 2007, 31(6): 548-552.  
+YAN Fang, CUI Baoqun, SHU Nengchuan, et al. Investigation of radioactivity of uranium target in target-source of ISOL[J]. High Energy Physics and Nuclear Physics, 2007, 31(6): 548-552(in Chinese).   
+[44] 闫芳, 崔保群, 吴海成, 等. 在线同位素分离器靶-源中靶材料的放射性活度[J]. 原子能科学技术, 2008, 42(1): 28-32.  
+YAN Fang, CUI Baoqun, WU Haicheng, et al. Investigation of induced radioactivity in different target materials for on-line isotope separator target-source system[J]. Atomic Energy Science and Technology, 2008, 42(1): 28-32(in Chinese).   
+[45] 黄青华, 崔保群, 马瑞刚, 等. $300 \mathrm{kV}$ 穿墙管实验研究 [C]/第五届北京核学会核技术应用学术交流会论文集. [出版地不详]: [出版者不详], 2008: 273-275.  
+[46] 樊启文, 崔保群. 用于产生放射性核束 $^{37}\mathrm{K}$ 的高功率 ISOL 靶的设计与制备[C]/第十二届全国核靶技术学术交流会会议论文摘要集. [出版地不详]: [出版者不详], 2013: 12.  
+[47] 马鹰俊, 崔保群, 马瑞刚, 等. BRISOL 弱束流剖面成像仪的实验研究[J]. 原子能科学技术, 2013, 47(12): 2341-2345.  
+MA Yingjun, CUI Baoque, MA Ruigang, et al. Experimental investigation on beam profile monitor for BRISOL[J]. Atomic Energy Science and Technology, 2013, 47(12): 2341-2345(in Chinese).   
+[48] 马瑞刚, 崔保群, 马鹰俊, 等. 在线同位素分离器束测装置中弱电流测量系统[J]. 核技术, 2014, 37(8): 39-43.  
+MA Ruigang, CUI Baoqun, MA Yingjun, et al. Weak current measurement system for beam diagnostics at an online isotope separator[J]. Nuclear Techniques, 2014, 37(8): 39-43(in Chinese).   
+[49] 马鹰俊, 崔保群, 晏明芳, 等. BRISOL 放射性核束鉴别装置的研制[J]. 原子核物理评论, 2015, 32(增刊1): 1-4.  
+MA Yingjun, CUI Baoqun, YAN Mingfang, et al. Beam identification unit in BRISOL[J]. Nuclear Physics Review, 2015, 32(Suppl.1): 1-4(in Chinese).   
+[50] 黄青华, 崔保群, 陈立华, 等. BRISOL 靶源的远控操作系统[J]. 原子核物理评论, 2015, 32(增刊1): 29-32.  
+HUANG Qinghua, CUI Baoqun, CHEN Lihua, et al. Remote handling system of the BRISOL target
+
+source[J]. Nuclear Physics Review, 2015, 32(Suppl.1): 29-32(in Chinese).   
+[51] 马瑞刚, 崔保群, 黄青华, 等. 在线同位素分离器 (BRISOL) 电源控制系统的研制[J]. 原子核物理评论, 2015, 32(增刊1): 33-37.  
+MA Ruigang, CUI Baoqun, HUANG Qinghua, et al. Development of power supply control system for BRISOL facility[J]. Nuclear Physics Review, 2015, 32(Suppl.1): 33-37(in Chinese).   
+[52] 唐兵, 马瑞刚, 崔保群, 等. 高质量分辨率分析磁铁磁场测量及垫补[J]. 原子能科学技术, 2015, 49(增刊): 560-563.  
+TANG Bing, MA Ruigang, CUI Baoqun, et al. Magnetic field measurement and shimming of high-resolution analyzing magnet[J]. Atomic Energy Science and Technology, 2015, 49(Suppl.): 560-563(in Chinese).   
+[53] 唐兵, 马瑞刚, 崔保群, 等. BRISOL 谱仪关键技术研究[J]. 原子能科学技术, 2016, 50(2): 208-212.  
+TANG Bing, MA Ruigang, CUI Baoqun, et al. Key technologies of BRISOL spectrometer[J]. Atomic Energy Science and Technology, 2016, 50(2): 208-212(in Chinese).   
+[54] 崔保群, 唐兵, 马鹰俊, 等. 北京放射性核束装置在线同位素分离器的研制[J]. 原子能科学技术, 2019, 53(9): 1572-1576.  
+CUI Baoqun, TANG Bing, MA Yingjun, et al. Development of Beijing radioactive ion beam facility isotope separator on-line[J]. Atomic Energy Science and Technology, 2019, 53(9): 1572-1576(in Chinese).   
+[55] 唐兵, 崔保群, 陈立华, 等. BISOL 激光共振电离离子源的研制[J]. 原子能科学技术, 2021, 55(增刊): 165-170.  
+TANG Bing, CUI Baoqun, CHEN Lihua, et al. Development of resonance ionization laser ion source for BISOL[J]. Atomic Energy Science and Technology, 2021, 55(Suppl.): 165-170(in Chinese).   
+[56] 王友宝, 苏俊, 韩治宇, 等. 利用强流 ISOL 束研究 $^{20}\mathrm{Na}$ 的奇异衰变模式[J]. 原子核物理评论, 2018, 35(4): 445-449.  
+WANG Youbao, SU Jun, HAN Zhiyu, et al. Exotic decay modes of $^{20}\mathrm{Na}$ studied with intense ISOL beams[J]. Nuclear Physics Review, 2018, 35(4): 445-449(in Chinese).   
+[57] ZHANG H, LI Z H, SU J, et al. Direct measurement of the resonance strengths and branching ratios of low-energy $(\mathfrak{p},\gamma)$ reactions on Mg isotopes[J]. Chinese Physics C, 2021, 45(8): 084108.
+
+[58] 柳卫平, 李志宏, 何建军, 等. 锦屏深地核天体物理实验 (JUNA) 进展 [J]. 原子能科学技术, 2019, 53(10): 1729-1741.  
+LIU Weiping, LI Zhihong, HE Jianjun, et al. Progress in Jinping deep core astrophysics experiment (JUNA)[J]. Atomic Energy Science and Technology, 2019, 53(10): 1729-1741(in Chinese).   
+[59] 张环宇, 连钢, 刘萍, 等. 锦屏深地核天体物理实验室屏蔽计算[J]. 原子能科学技术, 2018, 52(7): 1181-1185.  
+ZHANG Huanyu, LIAN Gang, LIU Ping, et al. Shielding calculation for Jinping Underground Nuclear Astrophysics Laboratory[J]. Atomic Energy Science and Technology, 2018, 52(7): 1181-1185(in Chinese).   
+[60] 陈立华, 崔保群, 马鹰俊, 等. 用于锦屏深地核天体物理研究的强流加速装置的设计与试验进展[J]. 原子能科学技术, 2020, 54(11): 2231-2237.  
+CHEN Lihua, CUI Baoqun, MA Yingjun, et al. Design and experimental progress of a high-intensity accelerator for nuclear astrophysics research at the Jinping Underground Laboratory[J]. Atomic Energy Science and Technology, 2020, 54(11): 2231-2237 (in Chinese).   
+[61] 马瑞刚, 崔保群, 李爱玲, 等. 锦屏深地强流高压加速器控制系统的研制[J]. 原子能科学技术, 2022, 56(8): 1700-1706.  
+MA Ruigang, CUI Baoqun, LI Ailing, et al. Development of the control system for the high-current high-voltage accelerator at Jinping Underground Laboratory[J]. Atomic Energy Science and Technology, 2022, 56(8): 1700-1706(in Chinese).   
+[62] 陈红涛, 沈冠仁, 刘乃义, 等. 高频离子源的改进和研制[C]/2001全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2001: 14-18.  
+[63] 陈红涛. $600\mathrm{kV}$ 毫微秒脉冲高压倍加器低能传输效率的提高和脉冲宽度的降低研究[D].北京：中国原子能科学研究院，2007.  
+[64] 陈红涛, 赵芳, 于伟翔, 等. 原子能院高压倍加器的改进[C]/2010全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2010:78-81.  
+[65] 陈红涛, 赵芳. 高压倍加器微秒脉冲束系统的建立[J]. 原子能科学技术, 2014, 48(7): 1300-1303.  
+CHEN Hongtao, ZHAO Fang. Establishment of microsecond pulse beam system on Cockcroft-Walton accelerator[J]. Atomic Energy Science and Technology, 2014, 48(7): 1300-1303(in Chinese).   
+[66] 陈红涛, 赵芳. 单漂移聚束腔的改进[J]. 原子能科学技术, 2012, 46(4): 493-496.
+
+CHEN Hongtao, ZHAO Fang. Improvement of single-drif buncher[J]. Atomic Energy Science and Technology, 2012, 46(4): 493-496 (in Chinese).   
+[67] 刘世龙, 杨毅, 冯晶, 等. 14.8 MeV 中子诱发 $^{232}$ Th 裂变产额测量[J]. 原子能科学技术, 2013, 47(6): 901-906.  
+LIU Shilong, YANG Yi, FENG Jing, et al. Fission product yields measurement of $^{232}\mathrm{Th}$ induced by 14.8 MeV neutron[J]. Atomic Energy Science and Technology, 2013, 47(6): 901-906(in Chinese).   
+[68] 王黎明, 蒋婧, 鲍杰, 等. 高压倍加器靶单元组件对源中子能谱影响研究[J]. 原子核物理评论, 2016, 33(1): 67-71.  
+WANG Liming, JIANG Jing, BAO Jie, et al. Effect of the high-voltage multiplier target assembly on the source neutron spectrum[J]. Nuclear Physics Review, 2016, 33(1): 67-71(in Chinese).   
+[69] 张凯, 侯龙, 陈红涛, 等. D-T 中子源束斑尺寸测量技术及应用[J]. 原子能科学技术, 2020, 54(12): 2289-2295.  
+ZHANG Kai, HOU Long, CHEN Hongtao, et al. Measurement technique and application of D-T neutron source beam spot size[J]. Atomic Energy Science and Technology, 2020, 54(12): 2289-2295(in Chinese).   
+[70] YANG X, LAN C, NIE Y, et al. Cumulative fission yield measurements with 14.7 MeV neutrons on $^{238}\mathrm{U}[\mathrm{J}]$ . Chinese Physics C, 2023, 47(2): 024001.   
+[71] 李炎锟, 陈红涛, 宋应民, 等. 不同基底氘钛靶性能研究[J]. 原子能科学技术, 2024, 58(7): 1548-1556.  
+LI Yankun, CHEN Hongtao, SONG Yingmin, et al. Performance study of deuterium-titanium targets with different substrates[J]. Atomic Energy Science and Technology, 2024, 58(7): 1548-1556(in Chinese).   
+[72] 徐阔之, 聂阳波, 张时宇, 等. 氪氚中子与 Fe 作用后泄漏 $\gamma$ 能量沉积谱测量与计算[J]. 原子能科学技术, 2024, 58(12): 2452-2461.  
+XU Kuozhi, NIE Yangbo, ZHANG Shiyu, et al. Measurement and calculation of the energy deposition spectrum of leakage $\gamma$ -rays following D-T neutron interaction with Fe[J]. Atomic Energy Science and Technology, 2024, 58(12): 2452-2461 (in Chinese).   
+[73] 崔保群, 李立强, 马鹰俊, 等. ${ }^{62} \mathrm{Zn}$ 放射性核束的产生 [C]/2004 全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2004: 14-18.  
+[74] 崔保群, 李立强, 马鹰俊, 等. ${ }^{62} \mathrm{Zn}$ 放射性核束的产生 [J]. 核技术, 2006, 21(2): 81-84.  
+CUI Baoqun, LI Liqiang, MA Yingjun, et al. Production of the $^{62}\mathrm{Zn}$ radioactive ion beam[J]. Nuclear Tech-
+
+niques, 2006, 21(2): 81-84(in Chinese).   
+[75] 马燮, 崔保群, 唐兵, 等. BRISOL 铝同位素放射性核束的产生[J]. 原子核物理评论, 2022, 39(2): 201-205. MA Xie, CUI Baoqun, TANG Bing, et al. Production of radioactive aluminum isotope beams at BRISOL[J]. Nuclear Physics Review, 2022, 39(2): 201-205(in Chinese).  
+[76] 唐兵, 崔保群, 马燮, 等. BRISOL 钠同位素放射性核束的产生[J]. 原子能科学技术, 2020, 54(5): 882-887. TANG Bing, CUI Baoqun, MA Xie, et al. Production of sodium isotope radioactive ion beam on BRISOL facility[J]. Atomic Energy Science and Technology, 2020, 54(5): 882-887(in Chinese).   
+[77] 马燮, 崔保群, 唐兵, 等. BRISOL 钾同位素放射性核束的产生[J]. 原子能科学技术, 2022, 56(10): 2172-2177.  
+MA Xie, CUI Baoqun, TANG Bing, et al. Production of radioactive potassium isotope beams at BRISOL[J]. Atomic Energy Science and Technology, 2022, 56(10): 2172-2177(in Chinese).   
+[78] 姜冲, 马鹰俊, 李立强, 等. 低能强流离子束装置的研制[C]/2004全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2004:90-95.  
+[79] 崔保群, 唐兵, 马鹰俊, 等. 磁场可调永磁离子源[C]//第三届全国粒子加速器技术学术交流会论文集. [出版地不详]: [出版者不详], 2007: 280-282.  
+[80] 马瑞刚, 李康宁, 崔宝群, 等. 低能强流离子束装置计算机控制系统[J]. 原子能科学技术, 2008, 42(5): 461-464.  
+MA Ruigang, LI Kangning, CUI Baoqun, et al. Computer control system for high-intensity ion beam facility[J]. Atomic Energy Science and Technology, 2008, 42(5): 461-464(in Chinese).  
+[81] 周立鹏, 关遐令. 低能强流氘束脉冲系统研制[J]. 原子能科学技术, 2008, 42(9): 262-266. ZHOU Lipeng, GUAN Xialing. Pulsing system for low energy and high intensity deuterium ion beam[J]. Atomic Energy Science and Technology, 2008, 42(9): 262-266(in Chinese).   
+[82] 郑永男, 左走翼, 范平, 等. CLAM 钢的重离子和氢氦三束辐照研究[C]/第十一届全国正电子湮没谱学会议论文集. [出版地不详]: [出版者不详], 2012: 47-48.  
+[83] 郑永男, 张鹏, 左走翼, 等. CLAM 钢和 ODS 钢的三束辐照效应研究[C]/第六届反应堆物理与核材料学术研讨会第三届核能软件自主化研讨会会议摘要集. [出版地不详]: [出版者不详], 2013: 117.  
+[84] 吴亚召. 关于氢氦同轴离子注入机离子源的研究[D]. 厦门: 厦门大学, 2014.
+
+[85] 唐兵, 王鲁闽, 马瑞刚, 等. 用于双离子束注入器的杂质消除系统[J]. 原子能科学技术, 2018, 52(2): 199-203. TANG Bing, WANG Lumin, MA Ruigang, et al. Study on impurity elimination system for dual-beam accelerator[J]. Atomic Energy Science and Technology, 2018, 52(2): 199-203(in Chinese).  
+[86] 宋逢泉, 崔保群, 宋钢, 等. HINEG 强流氘氚中子发生器方案设计分析[J]. 核科学与工程, 2014, 34(2): 214-218.  
+SONG Fengquan, CUI Baoqun, SONG Gang, et al. Design analysis of the HINEG high-flux D-T neutron generator[J]. Nuclear Science and Engineering, 2014, 34(2): 214-218(in Chinese).   
+[87] 杨丙凡, 阙朝新, 崔心忆, 等. HI-13 串列加速器 AMS 交替注入系统研制[J]. 原子能科学技术, 2000, 34(4): 296-301. YANG Bingfan, KAN Chaoxin, CUI Xinyi, et al. Development of the alternating injection system for AMS on the HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2000, 34(4): 296-301(in Chinese).   
+[88] 包轶文, 关遐令, 胡跃明, 等. AMS 专用高分辨注入器系统研制[J]. 原子能科学技术, 2008, 42(9): 254-256. BAO Yiwen, GUAN Xialing, HU Yueming, et al. Development of AMS special high resolution injector system[J]. Atomic Energy Science and Technology, 2008, 42(9): 254-256(in Chinese).   
+[89] LI Chaoli, HE Ming, ZHANG Wei, et al. AMS Measurement of $^{36}\mathrm{Cl}$ with a Q3D magnetic spectrometer at CIAE[J]. Plasma Science and Technology, 2012, 14(6): 543-547.   
+[90] 郑元丰,阮向东,何明,等.低能核反应产物 $^{26}\mathrm{Al}$ 的AMS测量方法研究[J].质谱学报,2003,24(1):295-297.ZHENG Yuanfeng,RUAN Xiangdong,HE Ming,etal.Study on the measurement method of $^{26}\mathrm{Al}$ by AMS[J].Journal of Chinese Mass Spectrometry Society,2003,24(1):295-297(in Chinese).   
+[91] 何明, 姜山, 蒋崧生, 等. 中国原子能科学研究院的 PX-AMS系统及其应用[M]//中国核科技报告. 北京: 中国核学会, 2004:33-39  
+[92] 何明，姜山，董克君，等.加速器质谱技术在核物理与天体物理中的应用[J].原子核物理评论，2004,21(3):210-213.  
+HE Ming, JIANG Shan, DONG Kejun, et al. Accelerator mass spectrometry in nuclear physics and nuclear astrophysics[J]. Nuclear Physics Review, 2004, 21(3):210-213(in Chinese).
+
+[93] 何明, 杨耀云, 姜山, 等. 利用加速器质谱方法测量 ${ }^{14} \mathrm{~N}({ }^{16} \mathrm{O}, \alpha)^{26} \mathrm{Al}$ 反应截面[J]. 原子核物理评论, 2004, 23(4): 404-406.  
+HE Ming, YANG Yaoyun, JIANG Shan, et al. Measurement of the $^{14}\mathrm{N}(^{16}\mathrm{O},\alpha)^{26}\mathrm{Al}$ reaction cross-section by accelerator mass spectrometry[J]. Nuclear Physics Review, 2004, 23(4): 404-406(in Chinese).   
+[94] 仇九子, 寅新艺, 何明, 等. ${ }^{181} \mathrm{Hf}(\mathrm{n}, \gamma)^{182} \mathrm{Hf}$ 反应截面测量[J]. 高能物理与核物理, 2005, 29(7): 648-650.  
+QIU Jiuzi, YIN Xinyi, HE Ming, et al. Measurement of cross-section for $^{181}\mathrm{Hf}(\mathfrak{n},\gamma)^{182}\mathrm{Hf}$ reaction[J]. High Energy Physics and Nuclear Physics, 2005, 29(7): 648-650(in Chinese).   
+[95] 董克君, 何明, 武绍勇, 等. 中国原子能科学研究院的长寿命核素加速器质谱测量及其应用[J]. 原子核物理评论, 2006, 23(1): 18-22.  
+DONG Kejun, HE Ming, WU Shaoyong, et al. Measurement of long-lived nuclides with accelerator mass spectrometry and its applications at CIAE[J]. Nuclear Physics Review, 2006, 23(1): 18-22 (in Chinese).   
+[96] 仇九子, 何明, 寅新艺, 等. 用加速器质谱测量 ${ }^{182} \mathrm{Hf}$ 的方法研究[C]/第十一届全国活化分析学术会议论文摘要汇编. [出版地不详]: [出版者不详], 2006.  
+[97] 仇九子, 寅新艺, 何明, 等. ${ }^{181} \mathrm{Hf}(\mathrm{n}, \gamma)^{182} \mathrm{Hf}$ 反应截面测量[C]/第十一届全国活化分析学术会议论文摘要汇编. [出版地不详]: [出版者不详], 2006.  
+[98] JIANG S S, LI J H, WANG J Q, et al. Measurement of anomalous nuclear reaction in deuterium-loaded metal[J]. Chinese Physics B, 2009, 18(4): 1428-1435.   
+[99] 王祥高, 何明, 李朝历, 等. ${ }^{236} \mathrm{U}$ 及其加速器质谱 (AMS) 测量 [J]. 原子核物理评论, 2009, 26(4): 312-318.  
+WANG Xianggao, HE Ming, LI Chaoli, et al. $^{236}\mathrm{U}$ and its measurement with accelerator mass spectrometry[J]. Nuclear Physics Review, 2009, 26(4): 312-318(in Chinese).   
+[100] 王祥高, 姜山, 何明, 等. ${ }^{238} \mathrm{U}(\mathrm{n}, 3 \mathrm{n})^{236} \mathrm{U}$ 核反应截面 AMS 测量[C]/2009 全国核反应会暨生物物理与核物理交叉前沿研讨会论文摘要集. [出版地不详]: [出版者不详], 2009.  
+[101] 沈洪涛, 姜山, 何明, 等. 中子裂变产物 $^{126}\mathrm{Sn}$ AMS测量[C]/2009全国核反应会暨生物物理与核物理交叉前沿研讨会论文摘要集. [出版地不详]: [出版者不详], 2009.  
+[102] 沈洪涛, 姜山, 何明, 等. 基于 $\mathrm{SnF}_2$ 靶样的加速器质谱测量裂变产物 $^{126}\mathrm{Sn}$ 的方法研究[J]. 原子能科学技术, 2012, 46(2): 155-159.
+
+SHEN Hongtao, JIANG Shan, HE Ming, et al. Measurement of fission product nuclide $^{126}\mathrm{Sn}$ with accelerator mass spectrometry based on $\mathrm{SnF}_2$ target[J]. Atomic Energy Science and Technology, 2012, 46(2): 155-159(in Chinese).   
+[103] 蓝小浙, 阮向东, 何明, 等. AMS测量反应堆热中子 $^{78}\mathrm{Se}(\mathrm{n}, \gamma)^{79}\mathrm{Se}$ 反应截面的方法研究[C]//中国核科学技术进展报告(第三卷)—中国核学会2013年学术年会论文集第6册.[出版地不详]: [出版者不详], 2013:95-97.  
+[104] DOU Liang, JIANG Shan, WANG Xiaobo, et al. Measurement of the half-life of $^{79}\mathrm{Se}$ with accelerator mass spectrometry[J]. Chinese Physics C, 2014, 38(10): 67-70.   
+[105] 王小明, 何明, 董克君, 等. 加速器质谱研究超重核进展[J]. 同位素, 2015, 28(3): 183-188.  
+WANG Xiaoming, HE Ming, DONG Kejun, et al. Progress in super-heavy nuclei research using accelerator mass spectrometry[J]. Journal of Isotopes, 2015, 28(3): 183-188(in Chinese).   
+[106] 姜山, 杨旭冉, 何明, 等. 加速器质谱在核科学中的应用[J]. 深圳大学学报(理工版), 2015, 32(1): 8-16.  
+JIANG Shan, YANG Xuran, HE Ming, et al. Applications of accelerator mass spectrometry in nuclear science[J]. Journal of Shenzhen University (Science and Engineering), 2015, 32(1): 8-16(in Chinese).   
+[107] 杨旭冉, 王小明, 何明, 等. ${ }^{14} \mathrm{C}$ -AMS 技术用于油田示踪研究[J]. 同位素, 2017, 30(4): 259-264.  
+YANG Xuran, WANG Xiaoming, HE Ming, et al. Application of $^{14}\mathrm{C}$ -AMS technology to oil-field tracer studies[J]. Journal of Isotopes, 2017, 30(4): 259-264(in Chinese).   
+[108] HE Guozhu, SHI Bin, HE Ming, et al. Cross-section measurement for the $^{93}\mathrm{Nb}(\mathrm{n}, 2\mathrm{n})^{92\mathrm{g}}\mathrm{Nb}$ reaction at the neutron energy of 14.6 MeV by the AMS method[J]. Chinese Physics C, 2018, 42(7): 41-44.   
+[109] 王芳芳, 何明, 张宇轩, 等. 加速器质谱测量 $^{60}\mathrm{Fe}$ 的样品制备与引出方法[J]. 同位素, 2019, 32(2): 103-107.  
+WANG Fangfang, HE Ming, ZHANG Yuxuan, et al. $^{60}\mathrm{Fe}$ sample preparation and extraction method for measurement with accelerator mass spectrometry[J]. Journal of Isotopes, 2019, 32(2): 103-107(in Chinese).   
+[110] 谢运棉, 班莹, 蒋崧生, 等. 环境水中 $^{129}\mathrm{I}$ 的测定[M]//中国核科技报告. [出版地不详]: [出版者不详], 1997: 17-18.  
+[111] 谢运棉, 班莹, 蒋崧生, 等. 用串列加速器质谱计测定环境水中 $^{129}\mathrm{I}$ 的浓度[J]. 辐射防护, 1998, 18(2): 2-9.
+
+XIE Yunmian, BAN Ying, JIANG Songsheng, et al. Determination of $^{129}\mathrm{I}$ concentration in environmental water by tandem accelerator mass spectrometer[J]. Radiation Protection, 1998, 18(2): 2-9(in Chinese).   
+[112] 董悦安, 何明, 蒋菘生, 等. 河北保定及沧州地区地下水 $^{36}\mathrm{Cl}$ 同位素年龄的初步研究[J]. 质谱学报, 1999, 20(增刊1): 125-126.  
+DONG Yue'an, HE Ming, JIANG Songsheng, et al. A preliminary study on $^{36}\mathrm{Cl}$ isotopic age of groundwater in Baoding and Cangzhou areas of Hebei Province[J]. Journal of Chinese Mass Spectrometry Society, 1999, 20(Suppl.1): 125-126(in Chinese).   
+[113] 蒋崧生, 何明, 谢运棉, 等. 环境中人造 $^{129}$ I的AMS方法测定[J].质谱学报, 1999, 20(增刊1): 127-128.  
+JIANG Songsheng, HE Ming, XIE Yunmian, et al. AMS measurement of anthropogenic $^{129}\mathrm{I}$ in the environments[J]. Journal of Chinese Mass Spectrometry Society, 1999, 20(Suppl. 1): 127-128(in Chinese).   
+[114] 董悦安, 何明, 蒋崧生, 等. $^{36}\mathrm{Cl}$ 同位素测年方法对河北平原第四系深层地下水年龄的研究[C]/第十一届全国核物理大会论文集. [出版地不详]: [出版者不详], 2000: 112-114.  
+[115] 蒋崧生, 何明, 谢运棉, 等. 环境中 $^{129}\mathrm{I}$ 的AMS方法测定[J].核技术, 2000, 23(1):43-47.  
+JIANG Songsheng, HE Ming, XIE Yunmian, et al. AMS measurement of $^{129}\mathrm{I}$ in the environmental samples[J]. Nuclear Techniques, 2000, 23(1): 43-47(in Chinese).   
+[116] 董悦安, 何明, 蒋崧生, 等. 河北平原深部地层的中子注量率、 $^{36}\mathrm{Cl} / \mathrm{Cl}$ 地球长期平衡值及地下水年龄的研究[J]. 核技术, 2001, 24(8): 636-640.  
+DONG Yuean, HE Ming, JIANG Songsheng, et al. Research on the neutron flux, secular equilibrium of chlorine-36 and groundwater age of the deep quaternary sediments, Hebei Plain[J]. Nuclear Techniques, 2001, 24(8): 636-640(in Chinese).   
+[117] 董悦安, 何明, 蒋崧生, 等. 河北平原第四系深层地下水 $^{36}\mathrm{Cl}$ 同位素年龄的研究[J]. 地球科学, 2002, 27(1): 105-109.  
+DONG Yuean, HE Ming, JIANG Songsheng, et al. Chlorine-36 age study for deep groundwater of quaternary sediments, Hebei Plain[J]. Earth Science, 2002, 27(1): 105-109(in Chinese).   
+[118] 岳东方, 董克君, 何明, 等. $^{41}\mathrm{Ca}$ 示踪-AMS法测定细胞胞浆内 $\mathrm{Ca}^{2+}$ 浓度的方法研究[J]. 原子能科学技术, 2004, 38(3): 271-274.  
+YUE Dongfang, DONG Kejun, HE Ming, et al. Method
+
+research on the measurement of the cytoplasmic calcium under the stimulation of asbestos with $^{41}\mathrm{Ca}$ tracing-AMS[J]. Atomic Energy Science and Technology, 2004, 38(3): 271-274(in Chinese).   
+[119] 汪越, NAGASHIMA Y, SEKI R, 等. 通过 ${ }^{36} \mathrm{Cl}$ 的 AMS 测定研究灰岩的侵蚀速率[J]. 物理实验, 2005, 25(3): 11-14.  
+WANG Yue, NAGASHIMA Y, SEKI R, et al. Determining limestone erosion rate with $^{36}\mathrm{Cl}$ AMS measurement[J]. Physics Experimentation, 2005, 25(3): 11-14(in Chinese).   
+[120] 管永精, 王慧娟, 鞠志萍, 等. 加速器质谱技术及其在地球科学中的应用[J]. 岩矿测试, 2005, 24(4): 41-47.  
+GUAN Yongjing, WANG Huijuan, JU Zhiping, et al. Accelerator mass spectrometry and its applications in geosciences[J]. Rock and Mineral Analysis, 2005, 24(4): 41-47(in Chinese).   
+[121] 李柏, 章佩群, 陈春英, 等. 加速器质谱法测定环境和生物样品中的 ${ }^{129} \mathrm{I}[\mathrm{J}]$ . 分析化学, 2005, 33(7): 904-908.  
+LI Bai, ZHANG Peiqun, CHEN Chunying, et al. Determination of $^{129}\mathrm{I}$ levels in Chinese biological and environmental specimens by accelerator mass spectrometry [J]. Chinese Journal of Analytical Chemistry, 2005, 33(7): 904-908(in Chinese).   
+[122] 李世红, 姜山, 何明, 等. 基于 $\mathrm{CaF}_2$ 靶样的加速器质谱测量生物样品中 $^{41}\mathrm{Ca}$ 的方法研究[J]. 高能物理与核物理, 2005, 29(12): 94-97.  
+LI Shihong, JIANG Shan, HE Ming, et al. Study on accelerator mass spectrometry measurement of $^{41}\mathrm{Ca}$ in biological samples using $\mathrm{CaF}_2$ target[J]. High Energy Physics and Nuclear Physics, 2005, 29(12): 94-97(in Chinese).   
+[123] 武绍勇, 汪越, 仇九子, 等. 加速器质谱法测定北京地区灰岩的侵蚀速率[C]/2005年全国无机质谱、同位素质谱和质谱仪器学术报告会论文集. [出版地不详]: [出版者不详], 2005.  
+[124] 蒋崧生, 何明, 祁步嘉. 对地幔热流和 ${ }^{3} \mathrm{He}$ 相关性的解释[C]/第八届全国同位素地质年代学、同位素地球化学学术讨论会资料集. [出版地不详]: [出版者不详], 2005.  
+[125] 晃念英, 潘欢迎, 刘存富, 等. 北京石花洞地区奥陶纪灰岩 $^{36}$ Cl侵蚀速率初探[C]/第八届全国同位素地质年代学和同位素地球化学学术讨论会论文集. [出版地不详]: [出版者不详], 2005.  
+[126] 蒋崧生, 何明. 海洋热流中的 ${ }^{3} \mathrm{He}$ : 地球深处核聚变的证据?[J]. 自然杂志, 2006, 28(3): 164-166.  
+JIANG Songsheng, HE Ming. $^3\mathrm{He}$ in ocean hydrother
+
+mal fluids: Evidence for nuclear fusion in the earth?[J]. Chinese Journal of Nature, 2006, 28(3): 164-166 (in Chinese).   
+[127] 袁媛, 李世红, 张东正, 等. 用 ${ }^{41} \mathrm{Ca}-\mathrm{AMS}$ 法测定谷氨酸毒性对PC12细胞外钙内流的影响[J]. 核技术, 2006, 29(11):821-825.  
+YUAN Yuan, LI Shihong, ZHANG Dongzheng, et al. Detecting the effects of glutamate toxicity on influxing calcium in PC12 cells by AMS[J]. Nuclear Techniques, 2006, 29(11): 821-825(in Chinese).   
+[128] 黄奕普, 邢娜, 何明, 等. 太平洋富钴结壳基于 ${ }^{10} \mathrm{Be}$ 的生长速率与生成年代[C]/第十一届全国活化分析学术会议论文摘要汇编. [出版地不详]: [出版者不详], 2006.  
+[129] 蒋崧生, 何明. 地球内部生成 ${ }^{3} \mathrm{H}$ 的证据[J]. 科学通报, 2007, 52(13): 1499-1505.  
+JIANG Songsheng, HE Ming. Evidence of ${}^{3}\mathrm{H}$ generation in the earth's interior[J]. Chinese Science Bulletin, 2007, 52(13): 1499-1505(in Chinese).   
+[130]窦玉玲，林敏，何明，等.黄土样品“就地成因” ${}^{10}\mathrm{Be}$ 、 ${}^{26}\mathrm{Al}$ 的AMS测量[C]/第十三届全国核物理大会暨第八届会员代表大会论文摘要集.[出版地不详]:[出版者不详], 2007.  
+[131] 米生权, 赵晓红, 姜山, 等. $^{41}\mathrm{Ca}$ 标记骨质疏松大鼠体内钙库法评价市售钙剂钙吸收率的研究[J]. 营养学报, 2008, 30(1): 39-42, 47.  
+MI Shengquan, ZHAO Xiaohong, JIANG Shan, et al. Study on calcium absorptivity in calcium supplements evaluated by $^{41}\mathrm{Ca}$ labeled calcium pool of osteoporotic rats[J]. Acta Nutrimenta Sinica, 2008, 30(1): 39-42, 47(in Chinese).   
+[132] 沈洪涛, 姜山, 何明. 钙吸收率分析方法研究[J]. 中华骨质疏松和骨矿盐疾病杂志, 2009, 2(1): 59-64.  
+SHEN Hongtao, JIANG Shan, HE Ming. Research on analysis methods for calcium absorptivity[J]. Chinese Journal of Osteoporosis and Bone Mineral Research, 2009, 2(1): 59-64(in Chinese).   
+[133] 王伟, 何明, 陈春英, 等. $^{79}\mathrm{Se}$ -AMS 生物示踪方法学的研究[J]. 质谱学报, 2009, 30(3): 160-165.  
+WANG Wei, HE Ming, CHEN Chunying, et al. Biological tracer methodology of $^{79}\mathrm{Se}$ -AMS[J]. Journal of Chinese Mass Spectrometry Society, 2009, 30(3): 160-165(in Chinese).   
+[134] 陆丽燕, 何明, 王伟, 等. $^{41}\mathrm{Ca}$ -AMS——生物示踪的有力工具[J]. 生命科学, 2010, 22(2): 197-201.  
+LU Liyan, HE Ming, WANG Wei, et al. $^{41}\mathrm{Ca}$ -AMS: A powerful radionuclide for biological tracing[J]. Chinese
+
+Bulletin of Life Sciences, 2010, 22(2): 197-201 (in Chinese).   
+[135] 董克君, 陈志刚, 何明, 等. 加速器质谱测量 $^{53}\mathrm{Mn}$ 及其在地球科学中的应用[J]. 原子核物理评论, 2011, 28(1): 78-82.  
+DONG Kejun, CHEN Zhigang, HE Ming, et al. Accelerator mass spectrometry measurement of $^{53}\mathrm{Mn}$ and its applications in earth sciences[J]. Nuclear Physics Review, 2011, 28(1): 78-82 (in Chinese).   
+[136] 任收麦, 孟婧瑶, 林源贤, 等. 敦煌盆地早更新世沉积物粒度分析、 ${}^{36}\mathrm{Cl}$ 定年及其构造隆升意义[J]. 吉林大学学报: 地球科学版, 2011, 41(5): 1380-1388.  
+REN Shoumai, MENG Jingyao, LIN Yuanxian, et al. Grain size analysis and $^{36}\mathrm{Cl}$ dating of early Pleistocene sediments of Dunhuang basin, tectonic uplift implication[J]. Journal of Jilin University: Earth Science Edition, 2011, 41(5): 1380-1388(in Chinese).   
+[137] 王祥高, 秦松梅, 何明, 等. 用 ${ }^{26} \mathrm{Al}-\mathrm{AMS}$ 技术研究铝在大鼠脑中的生物代谢动力学[C]/第三届全国核技术与应用学术研讨会会议资料文集. [出版地不详]: [出版者不详], 2012.  
+[138]窦亮,何明,杨旭冉,等.加速器质谱测量 $^{14}\mathrm{C}$ 与 $^{41}\mathrm{Ca}$ 在生物代谢研究中的应用[J].生命科学,2013,25(6):626-631.  
+DOU Liang, HE Ming, YANG Xuran, et al. Applications of $^{14}\mathrm{C}$ and $^{41}\mathrm{Ca}$ in the AMS measurement for biological metabolism[J]. Chinese Bulletin of Life Sciences, 2013, 25(6): 626-631(in Chinese).   
+[139]窦亮, 何明, 董克君, 等. 加速器质谱测量岩石样品中 $^{41}\mathrm{Ca}$ 的初步研究[J]. 原子能科学技术, 2013, 47(12): 2322-2326.  
+DOU Liang, HE Ming, DONG Kejun, et al. Preliminary study of $^{41}\mathrm{Ca}$ -AMS measurement in rock samples[J]. Atomic Energy Science and Technology, 2013, 47(12): 2322-2326(in Chinese).   
+[140] 秦松梅, 蓝小渐, 王祥高, 等. 26Al-AMS 核分析方法研究铝在大鼠体内的代谢动力学和生物利用度的初步结果[M//中国核学会. 中国核科学技术进展报告(第三卷)—中国核学会 2013 年学术年会论文集第 9 册 (核医学分卷、核技术工业应用分卷). [出版地不详]: [出版者不详], 2013: 112-115.  
+[141] 谢林波, 李奇, 王世联, 等. 大气颗粒物中 ${ }^{129} \mathrm{I}$ 的加速器质谱测量[J]. 原子能科学技术, 2014, 48(9): 1675-1680.  
+XIE Linbo, LI Qi, WANG Shilian, et al. Measurement of $^{129}\mathrm{I}$ in atmospheric particulate matter by accelerator mass spectrometry[J]. Atomic Energy Science and
+
+Technology, 2014, 48(9): 1675-1680(in Chinese).   
+[142] 赵庆章, 姜萍萍, 林德雨, 等. 基于加速器质谱测量的 $^{41}\mathrm{Ca}$ 植物示踪样品制备方法研究[J]. 同位素, 2016, 29(4): 193-197.  
+ZHAO Qingzhang, JIANG Pingping, LIN Deyu, et al. Preparation of plant $^{41}\mathrm{Ca}$ tracer samples for accelerator mass spectrometry[J]. Journal of Isotopes, 2016, 29(4): 193-197(in Chinese).   
+[143]窦亮,何明,董克君,等.利用AMS测量方法研究大鼠的钙吸收率[J].质谱学报，2016,37(2):180-185.  
+DOU Liang, HE Ming, DONG Kejun, et al. Study on calcium absorptivity of rats by $^{41}\mathrm{Ca}$ -AMS measurement [J]. Journal of Chinese Mass Spectrometry Society, 2016, 37(2): 180-185 (in Chinese).   
+[144] 何明, 庞义俊, 姜山. 加速器质谱技术及其在环境科学中的应用[C]//2016年中国环境与安全监测技术研讨会—第27届MICONEX2016科学仪器惠及民生系列分会场论文集.[出版地不详]: [出版者不详], 2016:24-30.  
+[145] HE M, PANG Y, BAO Y, et al. Performance of homemade single-stage $^{14}\mathrm{C}$ AMS system at CIAE[J]. Radiocarbon, 2019, 61(5): 1511-1516.
+
+[146] GONG J, HE M, ZHAO Q, et al. Research on $^{129}\mathrm{I}$ measurement with 300 kV AMS system at CIAE[J]. Nuclear Instruments and Methods in Physics Research B, 2020, 465: 31-36.   
+[147] HE M, ZHAO Q, BAO Y, et al. The performance of a home-made $300\mathrm{kV}$ AMS system at CIAE[J]. Nuclear Instruments and Methods in Physics Research B, 2022, 527: 52-57.   
+[148] 何明, 赵庆章, 张文慧, 等. 加速器质谱及其小型化技术[J]. 原子核物理评论, 2022, 39(1): 54-64.  
+HE Ming, ZHAO Qingzhang, ZHANG Wenhui, et al. Accelerator mass spectrometry and its miniaturization technology[J]. Nuclear Physics Review, 2022, 39(1): 54-64(in Chinese).   
+[149] 赵庆章, 张文慧, 何明, 等. ${ }^{239} \mathrm{Pu}$ 的紧凑型 AMS 系统测量技术方法研究[J]. 原子核物理评论, 2024, 41(1): 426-432.  
+ZHAO Qingzhang, ZHANG Wenhui, HE Ming, et al. The measurement technology method of $^{239}\mathrm{Pu}$ with the developed compact AMS system[J]. Nuclear Physics Review, 2024, 41(1): 426-432(in Chinese).

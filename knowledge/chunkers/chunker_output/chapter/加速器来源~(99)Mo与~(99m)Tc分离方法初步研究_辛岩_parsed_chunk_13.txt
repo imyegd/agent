@@ -1,0 +1,45 @@
+# 参考文献
+
+［1］ WELCH M J，REDVANLY C S. Handbooko f r a d i o p h a r m a c e u t i c a l s ，r a d i o c h e m i s t r y a n dapplications［M］. Chichester：Nuclear Medicine andBiology，John Wiley and Sons，2003.  
+［2］ LIU P，WANG T T，YANG R S，et al. Preclinicalevaluation of a novel 99mTc-labeled CB86 for rheumatoidarthritis imaging［J］. ACS Omega，2020，49（5）：31657-31664.  
+［3］ BANERJEE T，MITRA S，SINGH A K，et al.Preparation，characterization and biodistribution ofultrafine chitosan nanoparticles［J］. International Journalof Pharmaceutics，2002，243（1）：93-105.  
+［4］ SANAD M H. Labeling and biological evaluationof 99mTc-azithromycin for infective inflammationdiagnosis［J］. Radiochemistry，2013，55（5）：539-544.  
+［5］ MENDEZ-ROJAS M A，KHARISOV B I，TSIVADZE A Y.Recent advances on technetium complexes：coordinationchemistry and medical applications［J］. Journal ofCoordination Chemistry，2006，59（1）：1-63.  
+［6］ TAN Z X，JING H T，FAN R R，et al. Associated protons experimental platform of China spallation neutron source and determination of its technical parameters［J］. Modern Applied Physics，2024（2）：94-102.   
+［7］ DONG Q F，JING H T，LI W L，et al. Research on the production of 99mTc and 99Mo using multi-layer targets at APEP［J］. Radiation Physics and Chemistry，2024，214： 111287. DOI：10. 1016/j. radphyschem.   
+［8］ FAN F，CHENG N，JIN Z，et al. Highly selective separation of medical isotope 99mTc from irradiated 100Mo target using PEG-based resins［J］. Journal of Radioanalytical and Nuclear Chemistry,2O23, 332：1113- 1123.   
+［9］ TATENUMA K，ISHIKAWA K，TSUGUCHI A，et al. A mass-production process of a highly pure medical use 99mTc from natural isotopic Mo （n，γ）99Mo without using
+
+uranium［J］. Radioisotopes，2014，63：501-513.  
+［10］ SEKIMOTO S，TATENUMA K，SUZUKI Y，et al. Separation and purification of ${ } ^ { 9 9 \mathrm { m } } \mathrm { T c }$ from $^ { 9 9 } \mathrm { M o }$ produced by electron linear accelerator［J］. Journal of Radioanalytical and Nuclear Chemistry，2017，311：1361-1366.   
+［11］ JANG J，KUMAKURA Y，TATENUMA K，et al. A preliminary biodistribution study of $\mathrm { \Delta [ ^ { 9 9 m } T c ] }$ sodium pertechnetate prepared from an electron linear accelerator and activated carbon-based 99mTc generator［J］. Nuclear Medicine and Biology，2022，110-111：1-9.   
+［12］ ANDERSSON J D，WILSON J S，ROMANIUK J A，et al.Separation of $\mathrm { [ ^ { 9 9 m } T c ] }$ pertechnetate and molybdate usingpolyethylene glycol coated C18 and C30 resins［J］.Applied Radiation and Isotopes，2016，110：193-199.  
+［13］ MORLEY T J，DODD M，GAGNON K，et al. An automated module for the separation and purification of cyclotron-produced $\mathrm { ^ { 9 9 m } T c O _ { 4 } } ^ { - } [ \mathrm { J } ]$ . Nuclear Medicine and Biology，2012，39：551-559.   
+［14］ IBRAHIM I T. Preparation of 99mTc-metronidazole as amodel for tumor imaging［J］. Journal of Radioanalyticaland Nuclear Chemistry，2009，281（3）：669-674.  
+［15］ DAŇO M，VIGLAŠOVÁ E，GALAMBOŠ M，et al. Sorption behaviour of pertechnetate on oxidized and reduced surface of activated carbon［J］. Journal of Radioanalytical and Nuclear Chemistry，2017，314：2219-2227.   
+［16］ 阳国桂，胡骥. 用活性碳纤维从 $^ { 9 9 } \mathrm { M o }$ 中提取 99mTc[J]. 核化学与放射化学，2018，40（2）：132-138.YANG Guogui，HU Ji. Extraction of 99mTc from Moby activated carbon fiber［J］. Journal of Nuclear andRadiochemistry，2018，40（2）：132-138.  
+［17］ 周迎春，冯世红，周艳军. 活性炭吸附法分离铼钼的研究［J］. 表面技术，2003，32（4）：7-9.ZHOU Yingchun，FENG Shihong，ZHOU Yanjun.Study on the separation of rhenium and molybdenumby the method of active carbon adsorption［J］. SurfaceTechnology，2003，32（4）：7-9.  
+［18］ VIGLAJOV E，DANO M，GALAMBOS M，et al.Study on the column for separating 99mTc using activatedcarbon［J］. Journal of Radioanalytical and NuclearChemistry，2016，307（1）：591-597.  
+［19］ SUZUKI T，FUJII Y，YAN W，et al. Adsorption behavior of VII group elements on tertiary pyridine resin in hydrochloric acid solution［J］. Journal of Radioanalytical and Nuclear Chemistry，2009，282：641-644.   
+［20］ HORWITZ E P，DIETZ M L，CHIARIZIA R，et al. Separation and preconcentration of actinides by extraction chromatography using a supported liquid anion exchanger： application to the characterization of high-level nuclear waste solutions［J］. Analytica Chimica Acta，1995，310：
+
+63-78.   
+［21］ ALEXANDRA Y K，VEDENYAPINA M D，KULAISHIN S A，et al. Adsorption removal of Mo （Ⅵ）from an aqueous solution by alumina with the subsequentregeneration of the adsorbent［J］. International Journal ofMolecular Science，2023，24（10）：8700. DOI：10. 3390/ijms24108700.  
+［22］ 张蕴瀚，宋志浩，王宁，等. 基于活性碳纤维的三柱反式选择型99Mo-99mTc发生器［J］. 同位素，2021，34（2）：120-126.ZHANG Yunhan，SONG Zhihao，WANG Ning，et al.Activated carbon fiber as matrix for three-cloumnselectivity inversion 99Mo-99mTc generator［J］. Journal ofIsotopes，2021，34（2）：120-126.  
+［23］ YAMAGISHI I，KUBOTA M. Separation of technetiumwith active carbon［J］. Journal of Nuclear Science andTechnology，1989，26：60-66.  
+［24］ ITO K，AKIBA K. Adsorption of pertechnetate ion on active carbon from acids and their salt solutions［J］. Journal of Radioanalytical and Nuclear Chemistry，1991， 152：381-390.   
+［25］ GU B，DOWLEN K E，LIANG L，et al. Efficient separation and recovery of technetium-99 from contaminated groundwater［J］. Separations Technology， 1996，6：123-132.   
+［26］ YAMAGISHI I，KUBOTA M. Recovery of technetium with active carbon column in partitioning process of highlevel liquid waste［J］. Journal of Nuclear Science and Technology，1993，30：717-719.   
+［27］ HOLM E，GAFVERT T，LINDAHL P，et al. In situ sorption of technetium using activated carbon［J］. Applied Radiation and Isotopes，2000，53：153-157.   
+［28］ WANG Y，GAO H，YEREDLA R. Control ofpertechnetate sorption on activated carbon by surfacefunctional groups［J］. Journal of Colloid and InterfaceScience，2007，305（2）：209-217.  
+［29］ PETROVIC D，DUKIC A，KUMRIC K，et al.Mechanism of sorption of pertechnetate onto orderedmesoporous carbon［J］. Journal of Radioanalytical andNuclear Chemistry，2014，302：217-224.  
+［30］ RAJEC P，GALAMBOS M，DANO M，et al. Preparation and characterization of adsorbent based on carbon for pertechnetate adsorption［J］. Journal of Radioanalytical and Nuclear Chemistry，2015，303：277-286.   
+［31］ GALAMBOS M，DANO M，VIGLASOVA E，et al. Effect of competing anions on pertechnetate adsorption by activated carbon［J］. Journal of Radioanalytical and Nuclear Chemistry，2015，304：1219-1224.   
+［32］ PARK J I，CHO H R，CHOI K S，et al. Pertechnetate
+
+removal from aqueous solution using activated carbon modified with oxidizing and reducing agents［J］. Journal of Radioanalytical and Nuclear Chemistry，2018，316： 1281-1288.   
+［33］ QAIRA I S，RINDIYANTONO F，MUNI M，et al. Mesoporous titania as sorbent for 99Mo/99mTc generators column with low specific activity molybdenum-99 for nuclear medicine application［J］. Journal of Physics： Conference Series，2024，2828：012045. DOI：10. 1088/ 1742-6596/2828/1/012045.   
+［34］ ŽIVANOVIĆ M，VUKANAC I，SAMAC J，et al.
+
+Intercomparison and performance assessment of radionuclide calibrators used in nuclear medicine departments in Serbia［J］. Applied Radiation and Isotopes，2022，179：110013. DOI：10. 1016/j. apradiso. 2021. 110013.   
+［35］ NAWAR M F，ASHRY A，TÜRLER A，et al. Developing a chromatographic 99mTc generator based on mesoporous alumina for industrial radiotracer applications： a potential new generation sorbent for using low-specificactivity 99Mo［J］. Molecules，2022，27（17）：5667. DOI： 10. 3390/molecules27175667.

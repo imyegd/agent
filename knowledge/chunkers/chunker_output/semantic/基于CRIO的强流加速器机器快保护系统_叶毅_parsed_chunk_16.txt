@@ -1,0 +1,7 @@
+202234.210133.   
+[ 9 ] 中国工程物理研究院流体物理研究所 . 一种起爆装置的紧急自动刹车控制系统及方法:CN201610103072.8[P]. 2016-05-11. (China Academy of Engineering Physics. Emergency automatic brake control system and method of initiation:CN201610103072.8[P]. 2016-05-11.)  
+[10] 宋海峰,张敏,张蓉,等 . 基于 cRIO 的时序控制软件架构设计[J]. 太赫兹科学与电子信息学报, 2015,13(4):619-624. (SONG Haifeng,ZHANG Min,ZHANG Rong,et al. Architecture of time sequence control software design based on cRIO[J]. Journal of Terahertz Science and Electronic Information Technology, 2015,13(4):619-624.) DOI:10.11805/TKYDA201504.0619.   
+[11] 陈树学,刘萱 . LabVIEW 宝典[M]. 北京:电子工业出版社, 2011. (CHEN Shuxue,LIU Xuan. LabVIEW essence[M]. Beijing, China:Publishing House of Electronics Industry, 2011.)   
+[12] 陈曦,王季刚,宣科,等 . 基于 NI cRIO 的合肥光源冷却水监测系统[J]. 核技术, 2014,37(4):15-18. (CHEN Xi,WANG Jigang, XUAN Ke,et al. HLS cooling water monitor system based on NI cRIO[J]. Nuclear Techniques, 2014,37(4):15-18.)   
+[13] 李姣赛,郭玉辉,刘海涛,等 . ECR 离子源束流发射度测量系统设计[J]. 核电子学与探测技术, 2017,37(2):171-173,177. (LI Jiaosai,GUO Yuhui,LIU Haitao,et al. Design of beam emittance measurement system for ECR ion source[J]. Nuclear Electronics & Detection Technology, 2017,37(2):171-173,177.) DOI:10.3969/j.issn.0258-0934.2017.02.014.   
+[14] Emerson. Interactively configuring LabVIEW EPICS I/O clients and servers EPICS I/O servers[EB/OL]. [2024-04-30]. http:// www.ni.com/white-paper/14149/en.

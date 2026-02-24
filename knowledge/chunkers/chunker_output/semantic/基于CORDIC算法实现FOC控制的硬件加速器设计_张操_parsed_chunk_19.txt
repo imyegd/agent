@@ -1,0 +1,5 @@
+$(V_{d}, V_{q})$ 是 PI 控制器得到的坐标值，最终得到的 $V_{a} 、 V_{\beta}$ 的运算公式为
+
+$$
+\left\{ \begin{array}{l} V _ {\alpha} = V _ {d} \cos \theta - V _ {q} \sin \theta \\ V _ {\beta} = V _ {d} c \sin \theta + V _ {q} s \cos \theta \end{array} \right. \tag {14}
+$$

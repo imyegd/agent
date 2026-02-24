@@ -1,0 +1,8 @@
+QIN Jiuchang, GUAN Xialing, YANG Bingfan, et al. Improvement of HI-13 tandem accelerator[J]. Nuclear Physics Review, 1994, 11(2): 22-26(in Chinese).   
+[26] 杨丙凡, 周俊峰, 关遐令, 等. HI-13 串列加速器输电梯的研制[J]. 原子能科学技术, 1996, 30(3): 193-198.  
+YANG Bingfan, ZHOU Junfeng, GUAN Xialing, et al. Development of HI-13 tandem accelerator elevator[J]. Atomic Energy Science and Technology, 1996, 30(3): 193-198(in Chinese).   
+[27] 杨丙凡, 秦久昌, 张桂莲, 等. HI-13 串列加速器加速管技术改造[J]. 原子能科学技术, 2003, 37(6): 513-518.  
+YANG Bingfan, QIN Jiuchang, ZHANG Guilian, et al. Technical transformation of accelerating tube of HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2003, 37(6): 513-518(in Chinese).   
+[28] 闫芳, 关遐令, 贺新福, 等. 串列加速器头部电极改进方案[J]. 高能物理与核物理, 2006, 30(增刊1): 111-113.  
+YAN Fang, GUAN Xialing, HE Xinfu, et al. Modification project of the terminal electrode of the HI-13 tandem accelerator[J]. High Energy Physics and Nuclear Physics, 2006, 30(Suppl.1): 111-113 (in Chinese).   
+[29] 李爱玲, 崔保群, 杨丙凡, 等. 基于LabVIEW的发射度测试仪[J]. 工业控制

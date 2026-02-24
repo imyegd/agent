@@ -1,0 +1,5 @@
+# 参考文献：
+
+[1] LAWRENCE E O, LIVINGSTON M S. Apparatus for the multiple acceleration of light ions to high speed[J]. Phys Rev, 1932, 40: 19.   
+[2] 张天爵, 樊明武, 安世忠, 等. CIAE 回旋加速器及应用综述[J]. 原子能科学技术, 2020, 54(增刊): 275-292. ZHANG Tianjue, FAN Mingwu, AN Shizhong, et al. Review of cyclotrons and their applications at CIAE[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 275-292(in Chinese).   
+[3] CRADDOCK M K, SYMON K R. Cyclotrons and fixed-field alternating-gradient accelerators[J]. Reviews of Accelera

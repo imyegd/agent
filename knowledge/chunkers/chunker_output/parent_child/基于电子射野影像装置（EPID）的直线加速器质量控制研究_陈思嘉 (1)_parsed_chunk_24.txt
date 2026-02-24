@@ -1,0 +1,4 @@
+[7]Zhang H, Zhang B, Lasio G, Chen S, Nasehi Tehrani J. Assessing quality assurance of multi-leaf collimator using the structural similarity index. J Appl Clin Med Phys. 2024 Apr;25(4):e14288.   
+[8]Barnes M, Dipuglia A, Beeksma B, Lehmann J. Evaluation of the TrueBeam machine-performance-check (MPC): Collimator device check (CDC). J Appl Clin Med Phys. 2025 Jul;26(7):e70171.   
+[9] 黄焱秋 , 郭斌 , 黄滈骢等 .CBCT、EPID 图像引导在肿瘤放疗中的应用研究 [J]. 实用癌症杂志 ,2023,38(11):1843-1846,1850.  
+[10] 赵军军 , 袁慧杰 , 陈文强 . 锥形线束 CT、电子射野影像系

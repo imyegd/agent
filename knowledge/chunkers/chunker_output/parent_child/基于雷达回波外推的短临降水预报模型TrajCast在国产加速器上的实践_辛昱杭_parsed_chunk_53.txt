@@ -1,0 +1,13 @@
+research direction is the application of artificial intelligence in meteorology.
+
+In this paper, he is responsible for the design and implementation of the TrajCast scheme and experiments on GPU.
+
+E-mail: xinyj@cma.gov.cn
+
+![](images/33494481326ff734a10d78c185abde2557d8a9b6463df1d7e96afc8706c3e48f.jpg)
+
+赵春燕，国家气象信息中心先进计算室，正高级工程师，研究方向为气象智能应用支撑技术，本文中承担工作为方案及评测方法总体设计。
+
+ZHAO Chunyan is a senior engineer at the Advanced Computing Division of the National Meteorological Infor-
+
+![](images/ddd083ee8207774e7f9833f8

@@ -1,0 +1,23 @@
+# Precision Analysis of Halcyon 3.0 Accelerator in Breast Cancer Radiotherapy: A Correlation Study Between Setup Errors and Couch Shifts
+
+HUANG Yuan-tong1 XU Qing1* LI Qian-yong1 TANG Tian-ci2   
+1 Department of Radiotherapy Center, Fudan University Shanghai Cancer Center; Department of Oncology, Shanghai Medical College, Fudan University (Shanghai 200032)   
+2 Radiotherapy Department, Eye & ENT Hospital, Fudan University (Shanghai 201100)
+
+Abstract: Objective: To investigate the relationship between setup errors and couch shifts in breast cancer patients treated with the Halcyon 3.0 accelerator. Methods: A retrospective analysis was conducted on 200 breast cancer patients treated at the Radiation Therapy Center of Fudan University Shanghai Cancer Center between October 2023 and March 2024. Cone-beam computed tomography (CBCT) was used to verify and record setup errors in the vertical (VRT), longitudinal (LNG), and lateral (LAT) directions, as well as the total displacement (D). The couch shifts calculated by the treatment planning system (TPS) were recorded in the vertical (ΔVRT), longitudinal (ΔLNG), and lateral (ΔLAT) directions, with the total displacement (ΔD) calculated. Spearman correlation analysis was employed to evaluate the relationship between setup errors and couch shifts. Receiver operating characteristic (ROC) curves were plotted to assess the predictive performance of couch shifts for setup errors, using a threshold of 3mm to define significant deviations (positive for risk, negative for no risk). The area under the curve (AUC) was calculated. Results: Setup errors showed positive correlations with couch shifts across all directions. A weak correlation was observed between VRT and ΔVRT $\mathrm { R } { = } 0 . 1 7 5$ , $P { = } 0 . 0 1 3$ ), while moderate correlations were found for LNG with ΔLNG $\mathrm { R } { = } 0 . 3 9 3$ , $\scriptstyle P < 0 . 0 0 1$ ) and LAT with ΔLAT $( \mathrm { R } { = } 0 . 3 6 1$ , $P { < } 0 . 0 0 1 $ ). A weak correlation was also noted between the overall displacements D and ΔD $\scriptstyle ( \mathrm { R = } 0 . 2 4 3$ , $\scriptstyle P = 0 . 0 0 1$ ). The predictive performance of couch shifts was limited, with AUC values of 0.536, 0.625, and 0.606 for the vertical, longitudinal, and lateral directions, respectively. Conclusion: This study found a significant yet weak positive correlation $( \mathrm { R } { < } 0 . 5$ , $P { < } 0 . 0 5$ ) between setup errors in breast cancer patients and couch shift discrepancies of the Halcyon accelerator. The predictive model based on this relationship showed poor performance (AUC<0.7). Collectively, these findings indicate that couch shift discrepancies have a limited, non-deterministic influence on setup errors.
+
+Key words: breast cancer, setup errors, Halcyon 3.0, radiotherapy, optimal cutoff value
+
+DOI:10.15971/j.cnki.cmdi.2025.20.025
+
+乳腺癌是我国女性发病率最高的恶性肿瘤，每年新发病例约41.6万例，严重威胁女性健康[1]。放射治疗作为乳腺
+
+癌治疗的重要手段之一，术后放疗可有效降低复发与转移风险[2]。2023年，本院共收治放疗患者中乳腺癌病例达5316例，
+
+占比 $3 4 . 3 4 \%$ ，已成为放疗科的主要治疗病种。
+
+本院于2023年引进的Halcyon放射治疗加速器具备多项技术优势：其锥形束CT（CBCT）扫描时间仅需15s，大幅提升成像效率[3,4]；环形机架与 $1 0 0 \mathrm { c m }$ 大孔径设计更适于乳腺癌等偏中心照射[5]；其Delta Couch Shift功能可基于定位影像计算的移床差量，实现放射治疗执行时治疗床的自动定位，省略放疗前的模拟复位步骤，提升了流程效率，也改善了患者的治疗体验。
+
+然而，乳腺组织形态特殊、活动度大，固定重复性差，易导致分次治疗中明显的摆位误差与器官内移动[6]。Halcyon采用自动移床方式，在治疗床移动过程中是否会引起体位偏移尚不明确。加之该设备临床应用时间短，相关研究数据有限[7]，传统经验难以直接解决新设备带来的问题。
+
+因此，本研究拟分析Halcyon设备中移床差量对乳腺癌患者摆位误差的影响规律，以期提升放射治疗精准度与效果。

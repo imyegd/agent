@@ -1,0 +1,6 @@
+# 参考文献：
+
+KITAMURA  S,  HAYAKAWA  Y,  KAWAMOTO  S. A［1］ reorbiter for large GEO debris objects using ion beam irradiation[J]. Acta Astronautica, 2014, 94(2): 725-735.   
+BOMBARDELLI C, PELÁEZ J. Ion beam shepherd for［2］ contactless space debris removal[J]. Journal of Guidance, Control, and Dynamics, 2011, 34(3): 916-920.   
+马晓刚. 基于离子束的非接触式空间碎片清除方法研［3］究[D]. 哈尔滨: 哈尔滨工业大学, 2017.  
+沈硕, 张芳, 郝建红, 等. 氢原子束在大气长程传输中的［4］ 剥离效应[J]. 强激光与粒子束, 2020, 32(10): 125-130. SHEN Shuo, ZHANG Fang, HAO Jianhong, et al. Stripping  eff

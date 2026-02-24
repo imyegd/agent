@@ -1,0 +1,15 @@
+system (ADS) facilitating sustainable development of nuclear energy[J]. Bulletin of Chinese Academy Sciences, 2009, 24(6): 641-644(in Chinese).   
+[2] 詹文龙, 徐珊珊. 未来先进核裂变能——ADS 僵变系统 [J]. 中国科学院院刊, 2012, 27(3): 375-381.  
+ZHAN Wenlong, XU Hushan. Advanced fission energy program-ADS transmutation system[J]. Bulletin of Chinese Academy of Sciences, 2012, 27(3): 375-381(in Chinese).   
+[3] 史永谦, 夏普, 罗璋琳, 等. ADS 次临界实验装置——启明星 1#[J]. 原子能科学技术, 2005, 39(5): 447-450.  
+SHI Yongqian, XIA Pu, LUO Zhanglin, et al. ADS subcritical experimental assembly-Venus 1#[J]. Atomic Energy Science and Technology, 2005, 39(5): 447-450(in Chinese).   
+[4] 王璠, 朱庆福, 陈熙萌, 等. 启明星 1#次临界装置的裂变分布[J]. 原子能科学技术, 2010, 44(10): 1191-1194.  
+WANG Fan, ZHU Qinfu, CHEN Ximeng, et al. Fission rate distribution for Venus 1# sub-critical assembly[J]. Atomic Energy Science and Technology, 2010, 44(10): 1191-1194(in Chinese).   
+[5] 朱庆福, 罗皇达, 张巍, 等. 跳源法在启明星 1#次临界装置中的应用[J]. 原子能科学技术, 2010, 44(5): 567-570.  
+ZHU Qingfu, LUO Huangda, ZHANG Wei, et al. Application of source-Jerk method on Venus 1# sub-critical assembly[J]. Atomic Energy Science and Technology, 2010, 44(5): 567-570(in Chinese).   
+[6] 曹健, 史永谦, 夏普, 等. 基于启明星 1#的 ADS 壄变研究[J]. 原子能科学技术, 2012, 46(10): 1185-1188.  
+CAO Jian, SHI Yongqian, XIA Pu, et al. ADS transmutation research based on Venus 1#[J]. Atomic Energy Science and Technology, 2012, 46(10): 1185-1188(in Chinese).   
+[7] 刘锋, 史永谦, 朱庆福, 等. ADS启明星1#次临界反应堆缓发中子有效份额的测量[J].原子能科学技术, 2016, 50(8): 1445-1448.  
+LIU Feng, SHI Yongqian, ZHU Qingfu, et al. Measurement of effective delayed neutron fraction for ADS Venus 1# sub-criticality reactor[J]. Atomic Energy Science and Technology, 2016, 50(8): 1445-1448(in Chinese).   
+[8] 朱庆福, 王璠, 史永谦, 等. 启明星 1#次临界装置热中子能谱区裂变率分布测量[J]. 原子能科学技术, 2010, 44(9): 1089-1092.  
+ZHU Qingfu, WANG Fan, SHI Yongqian, et al. Fission rate distribution measurement of thermal neutron spec

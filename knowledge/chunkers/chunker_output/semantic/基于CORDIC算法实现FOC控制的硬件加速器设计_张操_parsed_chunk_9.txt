@@ -1,0 +1,7 @@
+令：
+
+$$
+\left\{ \begin{array}{l} \hat {x} _ {2} = x _ {1} - y _ {1} \tan \theta \\ \hat {y} _ {2} = y _ {1} - x _ {1} \tan \theta \end{array} \right. \tag {3}
+$$
+
+且由于伪旋转的运算是算法的核心所在，首先将旋转角度 $\theta$ 分解成一次次的旋转迭代，如式（4）所示：

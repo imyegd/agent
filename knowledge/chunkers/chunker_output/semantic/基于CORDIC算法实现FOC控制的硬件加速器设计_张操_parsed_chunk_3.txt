@@ -1,0 +1,3 @@
+中图分类号：U463.67 文献标志码：A 文章编号：1671-7988(2025)19-50-08
+
+# The Design of Hardware Accelerator for FOC Control Based on CORDIC Algorithm

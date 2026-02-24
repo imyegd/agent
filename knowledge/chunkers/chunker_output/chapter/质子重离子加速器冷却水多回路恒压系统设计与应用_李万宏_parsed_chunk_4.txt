@@ -1,0 +1,20 @@
+# 1 系统设计
+
+# 1． 1 系统结构
+
+质子重离子加速器冷却水多回路恒压系统包括应急定压装置 ECPD、压强传感器、开关阀门、定压罐、通讯控制器、主通讯控制器、主控制系统、人机界面。 通过管道、通讯线路与原冷却水系统各回路 OCPD 连接。 系统的结构如图 1 所示。 各模块编号、中英文名称与功能说明见表 1 。
+
+纯 水 系 统 ( pure water system，PWS ) 与 OCPD1 至OCPD5，以及 ECPD 连接 。 当 OCPD 均正常运行时，ECPD处于待机状态，各冷却水子系统由 OCPD 进行恒压控制，运行状态信号通过通信控制器 CC1 至 CC5 与主通信控制器 MCC 连接，由 MCC 将信号送入主控制系统 MCS。 MCS实时监控各 OCPD 的状态。 定压罐 CPT 安装在距离应急定压装置最远的位置，在罐内充氮气保持管道内的基础压强，可减少因管道距离过长造成的补水压强波动。
+
+![](images/288eb3537fc4c72bc87208ea8322ef8d3c876be43468c07784d41f124099b94b.jpg)  
+图 1 系统原理图
+
+表 1 模块功能说明  
+
+<table><tr><td>编号</td><td>英文名称</td><td>中文名称</td><td>功能</td></tr><tr><td>PWS</td><td>Pure water system</td><td>纯水系统</td><td>生产纯水,通过定压装置与各循环水系统连接。</td></tr><tr><td>OCPD1~ OCPD5</td><td>Online constant pressure device</td><td>在线定压装置</td><td>提供各循环水系统在线恒压补水功能,包括 OCPD1~ OCPD5</td></tr><tr><td>RF CWS</td><td>Radio frequency cooling water system</td><td>射频冷却水系统</td><td>射频部分的冷却功能</td></tr><tr><td>SYNC CWS</td><td>Synchrotron cooling water system</td><td>同步加速器冷却水系统</td><td>同步加速器部分的冷却功能</td></tr><tr><td>HEBT CWS</td><td>High energy beam transport cooling water system</td><td>高能束流输运线冷却水系统</td><td>高能束流传输部分的冷却功能</td></tr><tr><td>IS CWS</td><td>Ion source cooling water system</td><td>离子源冷却水系统</td><td>离子源部分的冷却功能</td></tr><tr><td>LINAC CWS</td><td>Linac cooling water system</td><td>直线加速器冷却水系统</td><td>直线加速器部分的冷却功能</td></tr><tr><td>ECPD</td><td>Emergency constant pressure device</td><td>应急定压装置</td><td>提供 OCPD1~OCPD5 中任一设备故障时的替代恒压补水功能</td></tr><tr><td>CC1~CC5</td><td>Communication controller</td><td>通讯控制器</td><td>用于采集各在线定压装置工作状态的通讯模块</td></tr><tr><td>MCC</td><td>Main communication controller</td><td>主通讯控制器</td><td>用于连接 CC1~CC5 和应急恒压系统的通讯模块</td></tr><tr><td>MCS</td><td>Main control system</td><td>主控制系统</td><td>应急恒压系统的控制中心</td></tr><tr><td>HMI</td><td>Human-machine interface</td><td>人机界面</td><td>用于监控和操作应急恒压系统的触摸屏</td></tr><tr><td>V2~V11</td><td>Valve</td><td>电动开关阀门</td><td>用于切换在线定压装置和应急定压装置的不同补水回路</td></tr><tr><td>P1</td><td>Pressure sensor</td><td>应急定压装置出口压强传感器</td><td>用于探测应急定压装置工作时的压强</td></tr><tr><td>CPT</td><td>Constant pressure tank</td><td>定压罐</td><td>减少因管道距离过长造成的补水压强波动</td></tr></table>
+
+通常，闭式循环水定压方式包括定频水泵式定压［4］、气压罐定压、变频水泵式定压和隔膜空压式定压。 定频水泵定压方式结构简单［5］，适应精度要求低的空调、锅炉等设备［6］。 气压罐定压方式能够适应相对复杂的冷却水系统，但需在系统设计时进行定压值的准确计算并预先灌注氮气来设定压强，压强调整过程烦琐［7］; 变频水泵式定压方式一般采用 PLC 作为中心控制单元［8］，控制变频器调节水泵转速，达到恒压供水目的［9－11］。 变频水泵式定压常应用大型循环供水系统，但对于小容量系统不适用［12］;隔膜空压式定压方式采用气囊增压补水，恒压效果好，适用于小容量且对精度要求高的密闭式循环水系统［13］。 质
+
+子重离子加速器的各闭式循环冷却水容量分别为: 射频冷却水系统 $1 . 3 \mathrm { ~ m } ^ { 3 }$ ，直线加速器冷却水系统 $2 . 2 \mathrm { ~ m ~ } ^ { 3 }$ ，离子源冷却水系统 $2 . 2 \mathrm { ~ m ~ } ^ { 3 }$ ，同步加速器冷却水系统 $9 . 3 \mathrm { ~ m } ^ { 3 }$ ，高能束流传输冷却水系统 $1 2 . 6 \mathrm { ~ m ~ } ^ { 3 }$ ，均属于小容量密闭式循环水系统，所以，采用隔膜空气压缩式定压装置最佳。
+
+值得注意的是，隔膜空气压缩式定压装置不但具有稳定的增压补水功能，当系统压强超过设定范围，装置能够通过隔膜自动泄压或通过泄压阀排水，以维持系统压强稳定性 。 图 1 中 的 RF CWS、 SYNC CWS、 HEBT CWS、 ISCWS、LINAC CWS 均为独立密闭式循环水系统，当系统压强升高，需要泄压时，由各 OCPD 自动完成。

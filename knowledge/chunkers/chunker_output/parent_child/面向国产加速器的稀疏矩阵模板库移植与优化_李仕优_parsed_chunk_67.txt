@@ -1,0 +1,3 @@
+PUs for graph neural networks[C]//Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. Washington D. C., USA: IEEE Press, 2020:1-12.   
+[9] NAGASAKA Y, NUKADA A, KOJIMA R, et al. Batched sparse matrix multiplication for accelerating graph convolutional networks[C]//Proceedings of the 2019 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID). Washington D. C., USA: IEEE Press, 2019: 231-240.   
+[10] ORTEGA G, VAZQUEZ F, G

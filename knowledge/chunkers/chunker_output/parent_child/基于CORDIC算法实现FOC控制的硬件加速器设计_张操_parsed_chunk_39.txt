@@ -1,0 +1,9 @@
+# 3.2 电路面积与性能测试
+
+本文使用 TSMC 40 nm CMOS 工艺库，在 $0.99 \mathrm{~V}$ 、 $150^{\circ} \mathrm{C}$ 、HVT 条件下按照 $320 \mathrm{MHz}$ 的时序约束，对加速器进行硬件综合。加速器中 CORDIC 与 FOC 电路面积性能如表 3 所示。
+
+表 3 加速器综合性能表  
+
+<table><tr><td>模块名</td><td>最大延时/ns</td><td>面积/μm²</td><td>寄存器数/个</td></tr><tr><td>CORDIC</td><td>36.0</td><td>2982.6742</td><td>317</td></tr><tr><td>FOC</td><td>264.5</td><td>11943.2243</td><td>1178</td></tr></table>
+
+本设计中在 $320\mathrm{MHz}$ 的时钟频率下，硬件实现一次正余弦计算的最大延时仅为 $36~\mathrm{ns}$ 。硬件实现一次完整的FOC控制流程的最大延时仅为 $264.5\mathrm{n

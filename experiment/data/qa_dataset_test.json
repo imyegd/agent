@@ -1,0 +1,277 @@
+[
+  {
+    "question": "医用回旋加速器工作场所为何需要设置独立的排风系统？",
+    "source_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed.txt",
+    "fragment_start": 6758,
+    "fragment_end": 7758,
+    "fragment_text": "体废物需通过管道排放至衰变池，在衰变池存放足够长的时间，达到要求后（总 $\\beta < 10\\mathrm{Bq} / \\mathrm{L}$ ）方可排放。\n\n医用回旋加速器工作场所工作中也会产生放射性气体废物，因此，需要设置专门的排风系统。首先，回旋加速器机房内和热室操作室内应设置独立的排风系统，如果回旋加速器带有自屏蔽系统，那么，其自屏蔽系统内也需要设置排风系统。为了避免放射性气体废物向清洁区扩散，回旋加速器机房需要保持负压通风。\n\n热室操作室及其洁净走廊、更衣室，无菌检测及其更衣室，阳性对照及其更衣室等区域为洁净区域。为了保证洁净度，洁净区域需要设置送风和回风，其中送风口设置在吊顶高度处，回风口设置在近地面处。洁净区域各房间内设置压力表，可实时监测各房间内压力并自动调节，热室操作室内的气压低于洁净走廊的气压，从洁净走廊到二更，再到一更，压力逐次降低，这样的压力设置既可以保证洁净区域的洁净度，又可以防止热室操作室内的放射性气体废物向外扩散。\n\n此外，热室操作室内的热室也应设置独立的排风系统，排风风速应不小于 $0.5\\mathrm{m / s}$ 。放射性气体废物通过管道排放至所在建筑物的屋顶，并设置活性炭吸附净化装置进行过滤。\n\n# 7 结语\n\n随着PET诊断技术的快速发展，正电子药物的市场需求呈现出显著增长的态势，用于生产正电子药物的医用回旋加速器也在更多的医疗机构得到了应用。尽管回旋加速器辐射源项复杂，防护难度高，不过，通过合理的屏蔽设计、有效的辐射安全装置及其他放射防护措施，减少工作人员的接触时间，降低工作场所的辐射水平，避免放射事故的发生，从而将工作人员及相关公众的受照剂量降低到可接受的水平，保障他们的身体健康。\n\n# 参考文献：\n\n[1] 王飞, 凌丽, 宋国芳等. 基于 $14\\mathrm{MeV}$ 回旋加速器同位素 ${}^{18}\\mathrm{F}$ 生产的液体靶系统研制[J]. 同位素, 2024,37(06):589-597.  \n[2] 许明发, 林晨, 林明媚等. 医用回旋加速器固体废物的放射性分析与评价[J]. 中国辐射卫生, 2019,28(04):425-427+432. DOI:10.13491/j.issn.1004-714x.2019.04.021.  \n[3]苏晓书，侯铁钢，吴适杰等.FLUKA软件在 $19\\ma",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_8.txt",
+        "overlap_ratio": 0.9
+      },
+      "semantic": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_13.txt",
+        "overlap_ratio": 0.45
+      },
+      "chapter": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_10.txt",
+        "overlap_ratio": 0.45
+      },
+      "parent_child": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_10.txt",
+        "overlap_ratio": 0.45
+      }
+    }
+  },
+  {
+    "question": "放射性气体废物在排放前需经过哪些处理步骤？",
+    "source_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed.txt",
+    "fragment_start": 6758,
+    "fragment_end": 7758,
+    "fragment_text": "体废物需通过管道排放至衰变池，在衰变池存放足够长的时间，达到要求后（总 $\\beta < 10\\mathrm{Bq} / \\mathrm{L}$ ）方可排放。\n\n医用回旋加速器工作场所工作中也会产生放射性气体废物，因此，需要设置专门的排风系统。首先，回旋加速器机房内和热室操作室内应设置独立的排风系统，如果回旋加速器带有自屏蔽系统，那么，其自屏蔽系统内也需要设置排风系统。为了避免放射性气体废物向清洁区扩散，回旋加速器机房需要保持负压通风。\n\n热室操作室及其洁净走廊、更衣室，无菌检测及其更衣室，阳性对照及其更衣室等区域为洁净区域。为了保证洁净度，洁净区域需要设置送风和回风，其中送风口设置在吊顶高度处，回风口设置在近地面处。洁净区域各房间内设置压力表，可实时监测各房间内压力并自动调节，热室操作室内的气压低于洁净走廊的气压，从洁净走廊到二更，再到一更，压力逐次降低，这样的压力设置既可以保证洁净区域的洁净度，又可以防止热室操作室内的放射性气体废物向外扩散。\n\n此外，热室操作室内的热室也应设置独立的排风系统，排风风速应不小于 $0.5\\mathrm{m / s}$ 。放射性气体废物通过管道排放至所在建筑物的屋顶，并设置活性炭吸附净化装置进行过滤。\n\n# 7 结语\n\n随着PET诊断技术的快速发展，正电子药物的市场需求呈现出显著增长的态势，用于生产正电子药物的医用回旋加速器也在更多的医疗机构得到了应用。尽管回旋加速器辐射源项复杂，防护难度高，不过，通过合理的屏蔽设计、有效的辐射安全装置及其他放射防护措施，减少工作人员的接触时间，降低工作场所的辐射水平，避免放射事故的发生，从而将工作人员及相关公众的受照剂量降低到可接受的水平，保障他们的身体健康。\n\n# 参考文献：\n\n[1] 王飞, 凌丽, 宋国芳等. 基于 $14\\mathrm{MeV}$ 回旋加速器同位素 ${}^{18}\\mathrm{F}$ 生产的液体靶系统研制[J]. 同位素, 2024,37(06):589-597.  \n[2] 许明发, 林晨, 林明媚等. 医用回旋加速器固体废物的放射性分析与评价[J]. 中国辐射卫生, 2019,28(04):425-427+432. DOI:10.13491/j.issn.1004-714x.2019.04.021.  \n[3]苏晓书，侯铁钢，吴适杰等.FLUKA软件在 $19\\ma",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_8.txt",
+        "overlap_ratio": 0.9
+      },
+      "semantic": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_13.txt",
+        "overlap_ratio": 0.45
+      },
+      "chapter": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_10.txt",
+        "overlap_ratio": 0.45
+      },
+      "parent_child": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_10.txt",
+        "overlap_ratio": 0.45
+      }
+    }
+  },
+  {
+    "question": "洁净区域如何通过压力梯度设计来防止放射性气体外泄？",
+    "source_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed.txt",
+    "fragment_start": 6758,
+    "fragment_end": 7758,
+    "fragment_text": "体废物需通过管道排放至衰变池，在衰变池存放足够长的时间，达到要求后（总 $\\beta < 10\\mathrm{Bq} / \\mathrm{L}$ ）方可排放。\n\n医用回旋加速器工作场所工作中也会产生放射性气体废物，因此，需要设置专门的排风系统。首先，回旋加速器机房内和热室操作室内应设置独立的排风系统，如果回旋加速器带有自屏蔽系统，那么，其自屏蔽系统内也需要设置排风系统。为了避免放射性气体废物向清洁区扩散，回旋加速器机房需要保持负压通风。\n\n热室操作室及其洁净走廊、更衣室，无菌检测及其更衣室，阳性对照及其更衣室等区域为洁净区域。为了保证洁净度，洁净区域需要设置送风和回风，其中送风口设置在吊顶高度处，回风口设置在近地面处。洁净区域各房间内设置压力表，可实时监测各房间内压力并自动调节，热室操作室内的气压低于洁净走廊的气压，从洁净走廊到二更，再到一更，压力逐次降低，这样的压力设置既可以保证洁净区域的洁净度，又可以防止热室操作室内的放射性气体废物向外扩散。\n\n此外，热室操作室内的热室也应设置独立的排风系统，排风风速应不小于 $0.5\\mathrm{m / s}$ 。放射性气体废物通过管道排放至所在建筑物的屋顶，并设置活性炭吸附净化装置进行过滤。\n\n# 7 结语\n\n随着PET诊断技术的快速发展，正电子药物的市场需求呈现出显著增长的态势，用于生产正电子药物的医用回旋加速器也在更多的医疗机构得到了应用。尽管回旋加速器辐射源项复杂，防护难度高，不过，通过合理的屏蔽设计、有效的辐射安全装置及其他放射防护措施，减少工作人员的接触时间，降低工作场所的辐射水平，避免放射事故的发生，从而将工作人员及相关公众的受照剂量降低到可接受的水平，保障他们的身体健康。\n\n# 参考文献：\n\n[1] 王飞, 凌丽, 宋国芳等. 基于 $14\\mathrm{MeV}$ 回旋加速器同位素 ${}^{18}\\mathrm{F}$ 生产的液体靶系统研制[J]. 同位素, 2024,37(06):589-597.  \n[2] 许明发, 林晨, 林明媚等. 医用回旋加速器固体废物的放射性分析与评价[J]. 中国辐射卫生, 2019,28(04):425-427+432. DOI:10.13491/j.issn.1004-714x.2019.04.021.  \n[3]苏晓书，侯铁钢，吴适杰等.FLUKA软件在 $19\\ma",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_8.txt",
+        "overlap_ratio": 0.9
+      },
+      "semantic": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_13.txt",
+        "overlap_ratio": 0.45
+      },
+      "chapter": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_10.txt",
+        "overlap_ratio": 0.45
+      },
+      "parent_child": {
+        "chunk_file": "医用回旋加速器建设项目放射防护综合分析_李雪松_parsed_chunk_10.txt",
+        "overlap_ratio": 0.45
+      }
+    }
+  },
+  {
+    "question": "参考质子在加速过程中，电场相位随时间变化的计算方法是什么？",
+    "source_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed.txt",
+    "fragment_start": 8136,
+    "fragment_end": 9136,
+    "fragment_text": "\n\n其中： $E _ { 0 }$ 为加速间隙的电场强度峰值，其数值上等于加速电压峰值与加速间隙宽度的比值； $\\omega _ { \\mathrm { r f } }$ 为加速电场的角频率； $\\varphi _ { \\mathrm { s } }$ 为粒子加速电场初始相位，即参考质子平衡相位； $e _ { \\theta }$ 为 $\\theta$ 方向单位向量。由于整个加速过程中相位滑移系数 $\\eta { = } \\alpha _ { \\mathrm { c } } { - } 1 / \\gamma ^ { 2 } ( \\alpha _ { \\mathrm { c } }$ 为动量紧缩因子，γ为相对论因子)恒大于0，则平衡相位 $\\varphi _ { \\mathrm { s } }$ 必须大于0。\n\n假定参考质子同步相位为 $3 0 ^ { \\circ }$ ，加速电压为 $2 0 \\mathrm { k V }$ ，使参考质子经过加速间隙获得恒定的能量增益。以时间t作为独立变量，计算的时间步长在 $1 0 ^ { - 1 3 } { \\sim } 1 0 ^ { - 1 0 }$ s之间，步长为非恒定值。通过计算参考质子每次到达加速间隙中心的时间，且参考质子到达加速间隙中心时高频加速电场的相依次为 $\\pi / 6$ 、 $\\pi / 6 { + \\pi }$ 、 $\\pi / 6 + 2 \\pi . \\ldots$ ，如此便可获得电场相位随时间的变化关系。实际计算时先获取质子经过加速间隙中心的前一个时间点和后一个时间点，然后通过线性插值计算参考质子刚好到达加速间隙中心的时间。通过式 (7)可知，电场相位随时间变化的一阶导数就是电场频率随时间的变化关系。图5给出参考质子从半径 $5 \\mathrm { { c m } }$ 加速到 $4 9 . 5 \\ \\mathrm { c m }$ 的过程中，参考质子回旋频率和经过加速间隙时的电场相位随时间的变化，半径\n\n![](images/7228f378e16e6013c4a8480efb88a92f37a090ae65fdf0f5fd327bebc7f227be.jpg)  \n图 5    (在线彩图)参考轨道质子运动频率和电场相位随时间变化关系\n\n超过 $4 9 . 5 ~ \\mathrm { c m }$",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_9.txt",
+        "overlap_ratio": 0.6
+      },
+      "semantic": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_12.txt",
+        "overlap_ratio": 1.0
+      },
+      "chapter": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_6.txt",
+        "overlap_ratio": 1.0
+      },
+      "parent_child": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_6.txt",
+        "overlap_ratio": 1.0
+      }
+    }
+  },
+  {
+    "question": "加速间隙中电场相位的变化率与电场频率的时间变化关系如何通过数学公式表达？",
+    "source_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed.txt",
+    "fragment_start": 8136,
+    "fragment_end": 9136,
+    "fragment_text": "\n\n其中： $E _ { 0 }$ 为加速间隙的电场强度峰值，其数值上等于加速电压峰值与加速间隙宽度的比值； $\\omega _ { \\mathrm { r f } }$ 为加速电场的角频率； $\\varphi _ { \\mathrm { s } }$ 为粒子加速电场初始相位，即参考质子平衡相位； $e _ { \\theta }$ 为 $\\theta$ 方向单位向量。由于整个加速过程中相位滑移系数 $\\eta { = } \\alpha _ { \\mathrm { c } } { - } 1 / \\gamma ^ { 2 } ( \\alpha _ { \\mathrm { c } }$ 为动量紧缩因子，γ为相对论因子)恒大于0，则平衡相位 $\\varphi _ { \\mathrm { s } }$ 必须大于0。\n\n假定参考质子同步相位为 $3 0 ^ { \\circ }$ ，加速电压为 $2 0 \\mathrm { k V }$ ，使参考质子经过加速间隙获得恒定的能量增益。以时间t作为独立变量，计算的时间步长在 $1 0 ^ { - 1 3 } { \\sim } 1 0 ^ { - 1 0 }$ s之间，步长为非恒定值。通过计算参考质子每次到达加速间隙中心的时间，且参考质子到达加速间隙中心时高频加速电场的相依次为 $\\pi / 6$ 、 $\\pi / 6 { + \\pi }$ 、 $\\pi / 6 + 2 \\pi . \\ldots$ ，如此便可获得电场相位随时间的变化关系。实际计算时先获取质子经过加速间隙中心的前一个时间点和后一个时间点，然后通过线性插值计算参考质子刚好到达加速间隙中心的时间。通过式 (7)可知，电场相位随时间变化的一阶导数就是电场频率随时间的变化关系。图5给出参考质子从半径 $5 \\mathrm { { c m } }$ 加速到 $4 9 . 5 \\ \\mathrm { c m }$ 的过程中，参考质子回旋频率和经过加速间隙时的电场相位随时间的变化，半径\n\n![](images/7228f378e16e6013c4a8480efb88a92f37a090ae65fdf0f5fd327bebc7f227be.jpg)  \n图 5    (在线彩图)参考轨道质子运动频率和电场相位随时间变化关系\n\n超过 $4 9 . 5 ~ \\mathrm { c m }$",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_9.txt",
+        "overlap_ratio": 0.6
+      },
+      "semantic": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_12.txt",
+        "overlap_ratio": 1.0
+      },
+      "chapter": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_6.txt",
+        "overlap_ratio": 1.0
+      },
+      "parent_child": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_6.txt",
+        "overlap_ratio": 1.0
+      }
+    }
+  },
+  {
+    "question": "在给定参数下，参考质子经过加速间隙时，其回旋频率和电场相位随时间的变化趋势是怎样的？",
+    "source_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed.txt",
+    "fragment_start": 8136,
+    "fragment_end": 9136,
+    "fragment_text": "\n\n其中： $E _ { 0 }$ 为加速间隙的电场强度峰值，其数值上等于加速电压峰值与加速间隙宽度的比值； $\\omega _ { \\mathrm { r f } }$ 为加速电场的角频率； $\\varphi _ { \\mathrm { s } }$ 为粒子加速电场初始相位，即参考质子平衡相位； $e _ { \\theta }$ 为 $\\theta$ 方向单位向量。由于整个加速过程中相位滑移系数 $\\eta { = } \\alpha _ { \\mathrm { c } } { - } 1 / \\gamma ^ { 2 } ( \\alpha _ { \\mathrm { c } }$ 为动量紧缩因子，γ为相对论因子)恒大于0，则平衡相位 $\\varphi _ { \\mathrm { s } }$ 必须大于0。\n\n假定参考质子同步相位为 $3 0 ^ { \\circ }$ ，加速电压为 $2 0 \\mathrm { k V }$ ，使参考质子经过加速间隙获得恒定的能量增益。以时间t作为独立变量，计算的时间步长在 $1 0 ^ { - 1 3 } { \\sim } 1 0 ^ { - 1 0 }$ s之间，步长为非恒定值。通过计算参考质子每次到达加速间隙中心的时间，且参考质子到达加速间隙中心时高频加速电场的相依次为 $\\pi / 6$ 、 $\\pi / 6 { + \\pi }$ 、 $\\pi / 6 + 2 \\pi . \\ldots$ ，如此便可获得电场相位随时间的变化关系。实际计算时先获取质子经过加速间隙中心的前一个时间点和后一个时间点，然后通过线性插值计算参考质子刚好到达加速间隙中心的时间。通过式 (7)可知，电场相位随时间变化的一阶导数就是电场频率随时间的变化关系。图5给出参考质子从半径 $5 \\mathrm { { c m } }$ 加速到 $4 9 . 5 \\ \\mathrm { c m }$ 的过程中，参考质子回旋频率和经过加速间隙时的电场相位随时间的变化，半径\n\n![](images/7228f378e16e6013c4a8480efb88a92f37a090ae65fdf0f5fd327bebc7f227be.jpg)  \n图 5    (在线彩图)参考轨道质子运动频率和电场相位随时间变化关系\n\n超过 $4 9 . 5 ~ \\mathrm { c m }$",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_9.txt",
+        "overlap_ratio": 0.6
+      },
+      "semantic": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_12.txt",
+        "overlap_ratio": 1.0
+      },
+      "chapter": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_6.txt",
+        "overlap_ratio": 1.0
+      },
+      "parent_child": {
+        "chunk_file": "质子超导同步回旋加速器相关物理技术研究_林鹏太_parsed_chunk_6.txt",
+        "overlap_ratio": 1.0
+      }
+    }
+  },
+  {
+    "question": "Halcyon系统在乳腺癌放疗中如何提升治疗准确性和患者舒适度？",
+    "source_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed.txt",
+    "fragment_start": 10667,
+    "fragment_end": 11667,
+    "fragment_text": "的舒适度和治疗准确性，还能大幅降低治疗师的摆位时间，进一步证明了该设备的临床价值。\n\n综上所述，Halcyon系统通过其先进的技术特性和优化的治疗流程，在确保治疗精准度的同时，为实现乳腺癌的高效放疗提供了可靠的技术支持，是目前放射治疗的最优手段之一。\n\n# 参考文献\n\n[1] 国家肿瘤质控中心乳腺癌专家委员会,中国抗癌协会乳腺癌专业委员会,中国抗癌协会肿瘤药物临床研究专业委员会.中国晚期乳腺癌规范诊疗指南(2022版)[J].中华肿瘤杂志,2022,44(12):1262-1287.  \n[2] 鲁晓腾,李乾永,崔健淳,等.基于纹身标记和画线标记对乳腺癌放疗摆位误差的研究[J].中国医疗器械信息,2024,30(6):11-13.  \n[3] Varian Medical Systems. Halcyon customer release note version 1.0[Z].2017.   \n[4] 胡俏俏,吴昊,蒋藩 ,等.瓦里安Halcyon加速器的安装验收测试 [J].中华放射肿瘤学杂志,2021,30(7):712-716.  \n[5] 祝鹤龄,杨波,汪之群,等.Halcyon V2.0 加速器在乳腺癌保乳术后放射治疗的临床应用研究[J].中国医疗设备,2022,37(12):63-68.  \n[6] 叶森林,梁廷,王志令.乳腺癌保乳术后调强放疗两种标记法的比较[J].中国医疗设备,2012,27(3):122-123,130.  \n[7] 李鑫,王继平,李靖,等.2种不同放疗设备在宫颈癌调强放疗中的差异研究[J].医疗卫生装备,2023,44(9):53-58.  \n[8] Zumsteg Z, DeMarco J, Lee SP, et al. Image guidance during head-and-neck cancer radiation therapy: analysis of alignment trends with in-room cone-beam computed tomography scans[J]. Int J Radiat Oncol Biol Phys,2012,83(2):712-719.   \n[9] 牛增志, 王姣平, 何佳欣. 保乳术后放疗开始时间对早期乳腺癌患者预后的影响[J]. 临床肿瘤学杂志,2018,2",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_12.txt",
+        "overlap_ratio": 0.95
+      },
+      "semantic": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_17.txt",
+        "overlap_ratio": 0.85
+      },
+      "chapter": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_16.txt",
+        "overlap_ratio": 0.85
+      },
+      "parent_child": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_16.txt",
+        "overlap_ratio": 0.85
+      }
+    }
+  },
+  {
+    "question": "Halcyon系统通过哪些技术特性实现高效的放射治疗流程？",
+    "source_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed.txt",
+    "fragment_start": 10667,
+    "fragment_end": 11667,
+    "fragment_text": "的舒适度和治疗准确性，还能大幅降低治疗师的摆位时间，进一步证明了该设备的临床价值。\n\n综上所述，Halcyon系统通过其先进的技术特性和优化的治疗流程，在确保治疗精准度的同时，为实现乳腺癌的高效放疗提供了可靠的技术支持，是目前放射治疗的最优手段之一。\n\n# 参考文献\n\n[1] 国家肿瘤质控中心乳腺癌专家委员会,中国抗癌协会乳腺癌专业委员会,中国抗癌协会肿瘤药物临床研究专业委员会.中国晚期乳腺癌规范诊疗指南(2022版)[J].中华肿瘤杂志,2022,44(12):1262-1287.  \n[2] 鲁晓腾,李乾永,崔健淳,等.基于纹身标记和画线标记对乳腺癌放疗摆位误差的研究[J].中国医疗器械信息,2024,30(6):11-13.  \n[3] Varian Medical Systems. Halcyon customer release note version 1.0[Z].2017.   \n[4] 胡俏俏,吴昊,蒋藩 ,等.瓦里安Halcyon加速器的安装验收测试 [J].中华放射肿瘤学杂志,2021,30(7):712-716.  \n[5] 祝鹤龄,杨波,汪之群,等.Halcyon V2.0 加速器在乳腺癌保乳术后放射治疗的临床应用研究[J].中国医疗设备,2022,37(12):63-68.  \n[6] 叶森林,梁廷,王志令.乳腺癌保乳术后调强放疗两种标记法的比较[J].中国医疗设备,2012,27(3):122-123,130.  \n[7] 李鑫,王继平,李靖,等.2种不同放疗设备在宫颈癌调强放疗中的差异研究[J].医疗卫生装备,2023,44(9):53-58.  \n[8] Zumsteg Z, DeMarco J, Lee SP, et al. Image guidance during head-and-neck cancer radiation therapy: analysis of alignment trends with in-room cone-beam computed tomography scans[J]. Int J Radiat Oncol Biol Phys,2012,83(2):712-719.   \n[9] 牛增志, 王姣平, 何佳欣. 保乳术后放疗开始时间对早期乳腺癌患者预后的影响[J]. 临床肿瘤学杂志,2018,2",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_12.txt",
+        "overlap_ratio": 0.95
+      },
+      "semantic": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_17.txt",
+        "overlap_ratio": 0.85
+      },
+      "chapter": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_16.txt",
+        "overlap_ratio": 0.85
+      },
+      "parent_child": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_16.txt",
+        "overlap_ratio": 0.85
+      }
+    }
+  },
+  {
+    "question": "与传统放疗方法相比，Halcyon系统在乳腺癌保乳术后治疗中的临床优势体现在哪些方面？",
+    "source_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed.txt",
+    "fragment_start": 10667,
+    "fragment_end": 11667,
+    "fragment_text": "的舒适度和治疗准确性，还能大幅降低治疗师的摆位时间，进一步证明了该设备的临床价值。\n\n综上所述，Halcyon系统通过其先进的技术特性和优化的治疗流程，在确保治疗精准度的同时，为实现乳腺癌的高效放疗提供了可靠的技术支持，是目前放射治疗的最优手段之一。\n\n# 参考文献\n\n[1] 国家肿瘤质控中心乳腺癌专家委员会,中国抗癌协会乳腺癌专业委员会,中国抗癌协会肿瘤药物临床研究专业委员会.中国晚期乳腺癌规范诊疗指南(2022版)[J].中华肿瘤杂志,2022,44(12):1262-1287.  \n[2] 鲁晓腾,李乾永,崔健淳,等.基于纹身标记和画线标记对乳腺癌放疗摆位误差的研究[J].中国医疗器械信息,2024,30(6):11-13.  \n[3] Varian Medical Systems. Halcyon customer release note version 1.0[Z].2017.   \n[4] 胡俏俏,吴昊,蒋藩 ,等.瓦里安Halcyon加速器的安装验收测试 [J].中华放射肿瘤学杂志,2021,30(7):712-716.  \n[5] 祝鹤龄,杨波,汪之群,等.Halcyon V2.0 加速器在乳腺癌保乳术后放射治疗的临床应用研究[J].中国医疗设备,2022,37(12):63-68.  \n[6] 叶森林,梁廷,王志令.乳腺癌保乳术后调强放疗两种标记法的比较[J].中国医疗设备,2012,27(3):122-123,130.  \n[7] 李鑫,王继平,李靖,等.2种不同放疗设备在宫颈癌调强放疗中的差异研究[J].医疗卫生装备,2023,44(9):53-58.  \n[8] Zumsteg Z, DeMarco J, Lee SP, et al. Image guidance during head-and-neck cancer radiation therapy: analysis of alignment trends with in-room cone-beam computed tomography scans[J]. Int J Radiat Oncol Biol Phys,2012,83(2):712-719.   \n[9] 牛增志, 王姣平, 何佳欣. 保乳术后放疗开始时间对早期乳腺癌患者预后的影响[J]. 临床肿瘤学杂志,2018,2",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_12.txt",
+        "overlap_ratio": 0.95
+      },
+      "semantic": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_17.txt",
+        "overlap_ratio": 0.85
+      },
+      "chapter": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_16.txt",
+        "overlap_ratio": 0.85
+      },
+      "parent_child": {
+        "chunk_file": "Halcyon_3.0加速器在乳腺癌放射治疗中的精度分析：摆位误差与移床差量的相关性研究_黄元彤_parsed_chunk_16.txt",
+        "overlap_ratio": 0.85
+      }
+    }
+  },
+  {
+    "question": "加速器质谱（AMS）技术在生物代谢研究中主要测量哪些放射性同位素？",
+    "source_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed.txt",
+    "fragment_start": 46511,
+    "fragment_end": 47511,
+    "fragment_text": "}-\\mathrm{AMS}$ 技术研究铝在大鼠脑中的生物代谢动力学[C]/第三届全国核技术与应用学术研讨会会议资料文集. [出版地不详]: [出版者不详], 2012.  \n[138]窦亮,何明,杨旭冉,等.加速器质谱测量 $^{14}\\mathrm{C}$ 与 $^{41}\\mathrm{Ca}$ 在生物代谢研究中的应用[J].生命科学,2013,25(6):626-631.  \nDOU Liang, HE Ming, YANG Xuran, et al. Applications of $^{14}\\mathrm{C}$ and $^{41}\\mathrm{Ca}$ in the AMS measurement for biological metabolism[J]. Chinese Bulletin of Life Sciences, 2013, 25(6): 626-631(in Chinese).   \n[139]窦亮, 何明, 董克君, 等. 加速器质谱测量岩石样品中 $^{41}\\mathrm{Ca}$ 的初步研究[J]. 原子能科学技术, 2013, 47(12): 2322-2326.  \nDOU Liang, HE Ming, DONG Kejun, et al. Preliminary study of $^{41}\\mathrm{Ca}$ -AMS measurement in rock samples[J]. Atomic Energy Science and Technology, 2013, 47(12): 2322-2326(in Chinese).   \n[140] 秦松梅, 蓝小渐, 王祥高, 等. 26Al-AMS 核分析方法研究铝在大鼠体内的代谢动力学和生物利用度的初步结果[M//中国核学会. 中国核科学技术进展报告(第三卷)—中国核学会 2013 年学术年会论文集第 9 册 (核医学分卷、核技术工业应用分卷). [出版地不详]: [出版者不详], 2013: 112-115.  \n[141] 谢林波, 李奇, 王世联, 等. 大气颗粒物中 ${ }^{129} \\mathrm{I}$ 的加速器质谱测量[J]. 原子能科学技术, 2014, 48(9): 1675-1680.  \nXIE Linbo, LI Qi, WAN",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed_chunk_49.txt",
+        "overlap_ratio": 0.75
+      },
+      "semantic": {
+        "chunk_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed_chunk_38.txt",
+        "overlap_ratio": 1.0
+      },
+      "chapter": {
+        "chunk_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed_chunk_14.txt",
+        "overlap_ratio": 1.0
+      },
+      "parent_child": {
+        "chunk_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed_chunk_14.txt",
+        "overlap_ratio": 1.0
+      }
+    }
+  },
+  {
+    "question": "26Al-AMS核分析方法如何用于研究铝在大鼠体内的代谢动力学和生物利用度？",
+    "source_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed.txt",
+    "fragment_start": 46511,
+    "fragment_end": 47511,
+    "fragment_text": "}-\\mathrm{AMS}$ 技术研究铝在大鼠脑中的生物代谢动力学[C]/第三届全国核技术与应用学术研讨会会议资料文集. [出版地不详]: [出版者不详], 2012.  \n[138]窦亮,何明,杨旭冉,等.加速器质谱测量 $^{14}\\mathrm{C}$ 与 $^{41}\\mathrm{Ca}$ 在生物代谢研究中的应用[J].生命科学,2013,25(6):626-631.  \nDOU Liang, HE Ming, YANG Xuran, et al. Applications of $^{14}\\mathrm{C}$ and $^{41}\\mathrm{Ca}$ in the AMS measurement for biological metabolism[J]. Chinese Bulletin of Life Sciences, 2013, 25(6): 626-631(in Chinese).   \n[139]窦亮, 何明, 董克君, 等. 加速器质谱测量岩石样品中 $^{41}\\mathrm{Ca}$ 的初步研究[J]. 原子能科学技术, 2013, 47(12): 2322-2326.  \nDOU Liang, HE Ming, DONG Kejun, et al. Preliminary study of $^{41}\\mathrm{Ca}$ -AMS measurement in rock samples[J]. Atomic Energy Science and Technology, 2013, 47(12): 2322-2326(in Chinese).   \n[140] 秦松梅, 蓝小渐, 王祥高, 等. 26Al-AMS 核分析方法研究铝在大鼠体内的代谢动力学和生物利用度的初步结果[M//中国核学会. 中国核科学技术进展报告(第三卷)—中国核学会 2013 年学术年会论文集第 9 册 (核医学分卷、核技术工业应用分卷). [出版地不详]: [出版者不详], 2013: 112-115.  \n[141] 谢林波, 李奇, 王世联, 等. 大气颗粒物中 ${ }^{129} \\mathrm{I}$ 的加速器质谱测量[J]. 原子能科学技术, 2014, 48(9): 1675-1680.  \nXIE Linbo, LI Qi, WAN",
+    "chunk_labels": {
+      "fixed": {
+        "chunk_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed_chunk_49.txt",
+        "overlap_ratio": 0.75
+      },
+      "semantic": {
+        "chunk_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed_chunk_38.txt",
+        "overlap_ratio": 1.0
+      },
+      "chapter": {
+        "chunk_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed_chunk_14.txt",
+        "overlap_ratio": 1.0
+      },
+      "parent_child": {
+        "chunk_file": "中国原子能科学研究院核物理加速器设施及技术应用_唐兵_parsed_chunk_14.txt",
+        "overlap_ratio": 1.0
+      }
+    }
+  }
+]

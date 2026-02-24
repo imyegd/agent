@@ -1,0 +1,1 @@
+_ { c }$ 屏蔽体外剂量率控制目标值（ $\cdot \mu \mathrm { G y } / \hslash )$ 。

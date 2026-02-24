@@ -1,0 +1,19 @@
+# XiPAF束流垃圾桶屏蔽设计及残余剂量评估
+
+王 迪 陈 伟 吕 伟 闫逸花 于俊英 王敏文 王忠明
+
+（强脉冲辐射环境模拟与效应全国重点实验室（西北核技术研究所） 西安 710024）
+
+摘要 为了确保西安 $2 0 0 \mathrm { M e V }$ 质子应用装置（Xi'an 200 MeV Proton Application Facility，XiPAF）升级之后的辐射安全，对束流垃圾桶进行了屏蔽设计与残余剂量评估。首先分析了不同材料的中子产额特征，选择聚乙烯作为低中子产额的靶芯材料。基于FLUKA蒙特卡罗模拟设计了复合结构束流垃圾桶，主体屏蔽材料为铁，外围屏蔽材料为含硼聚乙烯。计算结果表明，束流垃圾桶尾部侧面和横向侧面的最大剂量当量率分别为 $4 . 2 \mathrm { m S v { \cdot h } ^ { - 1 } }$ 和 $3 . 2 ~ \mathrm { m S v { \cdot h } ^ { - 1 } }$ ，满足 $5 . 5 \mathrm { m S v ^ { \cdot } h ^ { - 1 } }$ 的设计限值。与传统石墨靶芯相比，聚乙烯靶芯在上游方向的剂量降低约 $7 5 \%$ 。对连续出束1 h、1 d、1 w三种工况的残余剂量分析显示，桶入口处剂量衰减至 $2 . 5 \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 }$ 所需时间均为 $2 { \sim } 3 \mathrm { ~ h ~ }$ 。研究结果为中能质子加速器束流垃圾桶设计提供了重要参考，有助于确保XiPAF工作人员的辐射安全。
+
+关键词 束流垃圾桶，辐射屏蔽，残余剂量，蒙特卡罗模拟
+
+中图分类号 TL77
+
+DOI: 10.3724/j.0253-3219.2026.hjs.49.250021
+
+CSTR: 32193.14.hjs.CN31-1342/TL.2026.49.250021
+
+# Radiation shielding design and residual radioactivity assessment for the beam dump at XiPAF
+
+WANG Di CHEN Wei LYU Wei YAN Yihua YU Junying WANG Minwen WANG Zhongming

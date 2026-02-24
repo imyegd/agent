@@ -1,0 +1,3 @@
+e accelerators.
+
+Key words: approximate computing; spiking neural network; hardware accelerator; high energy efficiency; low power consumption

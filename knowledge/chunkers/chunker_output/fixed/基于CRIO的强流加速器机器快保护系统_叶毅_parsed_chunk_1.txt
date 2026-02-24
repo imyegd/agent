@@ -1,0 +1,25 @@
+文章编号：2095-4980(2025)10-1113-06
+
+# 基于 CRIO 的强流加速器机器快保护系统
+
+叶 毅，李泽同，杨兴林，江孝国，荆晓兵，陈 楠，刘邦亮，臧宗旸，李 跃，蒋 薇*
+
+(中国工程物理研究院 流体物理研究所，四川 绵阳 621999)
+
+摘 要：强流加速器中脉冲功率系统的Marx自激和束输运系统励磁电源加载异常会影响实验的质量，甚至导致实验失败。本文研制了一套基于紧凑型可重配置输入输出控制器(CRIO)的机器快保护系统，对Marx放电和励磁电源加载状况进行实时监测实现机器快保护；同时与基于实验物理和工业控制系统(EPICS)架构的加速器中央控制系统进行通信。CRIO系统中的现场可编程门阵列(FPGA)模块保证了快保护的响应速度；实时(RT)模块充当EPICS架构的输入输出控制器(IOC)组件，完成EPICS PV的订阅和发布，实现异构平台的无缝集成。该系统抗干扰能力强，投入运行后在复杂的电磁环境下运行稳定可靠，在一定程度上达到了提高实验可靠性的目的。
+
+关键词：加速器；实验物理和工业控制系统(EPICS)；快保护；紧凑型可重配置输入输出控制器；现场可编程门阵列(FPGA)；输入输出控制器(IOC)
+
+中图分类号：TN722
+
+文献标志码：A
+
+DOI：10.11805/TKYDA2024092
+
+# Fast protection system for high current LIA based on CRIO
+
+YE Yi，LI Zetong，YANG Xinglin，JIANG Xiaoguo，JING Xiaobing，CHEN Nan，LIU Bangliang， ZANG Zongyang，LI Yue，JIANG Wei*
+
+(Institute of Fluid Physics ， China Academy of Engineering Physics ， Mianyang Sichuan 621999 ， China)
+
+Abstract： In high-current accelerators, anomalies in the Marx self-excitation of the pulsed-power system and in the loading of the magnet-excitation power-supply can degrade e

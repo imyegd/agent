@@ -1,0 +1,13 @@
+焦结构中，第一块和最后一块蓝色元件表示切割铁，其余蓝色元件表示二极铁，红色元件表示四极铁，绿色元件表示六极铁。束流传输线的 $\beta _ { x }$ 和 $\beta _ { y }$ 数值可以满足物理设计要求，单独一段束流传输线的色散函数最大为$1 . 0 3 \mathrm { ~ m ~ }$ ，整个分支线相移为 $5 . 4 7 / 1 . 9 8 { \times } 2 \pi ( X$ 方向/Y方向）。
+
+![](images/83549c66322c0947f64af4f4d83f721be6bad2c60bc640829e5f74839fadc412.jpg)
+
+![](images/d84a72a95cbae485a0b2547bffb046b736fcd78c68fe0ad5b667f498fe8b356c.jpg)  
+图12 储存环引出区(a)和注入区(b)示意图  
+Fig.12 Sketch of extraction region (a) and injection region (b) in storage ring
+
+轨道校正方案采用相同的校正铁位置和BPM位置及磁铁元件误差强度。在设置200个随机误差种子的各项误差后，进行粒子追踪模拟。从结果中可以看出，水平方向轨道畸变RMS为 $1 5 0 { \sim } 2 7 0 0 ~ { \mu \mathrm { m } }$ （均值 $1 0 4 4 . 0 \mu \mathrm { m }$ ，方差 $5 2 9 . 2 \mu \mathrm { m } )$ ），垂直方向轨道畸变 RMS 为 $4 0 0 { \sim } 6 4 0 0 \mu \mathrm { m }$ （均值 $2 ~ 1 0 5 . 2 ~ { \mu \mathrm { m } }$ ，方差$1 0 6 0 . 3 ~ \mu \mathrm { m } )$ ）。由此可见，在当前误差强度设置下，水平方向和垂直方向轨道均有较大扰动。
+
+![](images/55bb88f4793c5a0ab847069fc04d63c6fbec7415b64c6b3eddf146bd3836da9f.jpg)  
+图13 考虑冲击磁铁和切割铁引入色散后的分支线束流光学函数图（彩图见网络版）  
+Fig.13 Beam optics for bypas

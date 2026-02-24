@@ -1,0 +1,11 @@
+e beam-unenergized state
+
+通束流后：最显著的变化是氢气（H₂）的信号强度急剧上升，成为主导成分。这是由于同步辐射光照射到真空盒内壁，发生光致解吸（Photon Stimulated Desorption，PSD），
+
+其主要解吸产物就是 $\mathrm { H } _ { 2 } ^ { \mathrm { ~ [ 6 , 1 0 ] ~ } }$ 。同时，我们观察到 CH₄、CO 等气体成分也呈现出特征性变化，这与电子诱导解吸等过程有关。
+
+![](images/49212e810f785626e54d2a74386983964da8ad0dd685d66641eb9379c51f0851.jpg)  
+图7 通束流后的残余气体质谱图（ $\mathrm { H } _ { 2 }$ 信号显著增强）  
+Fig. 7 Residual gas mass spectrum after beam energization (with significantly enhanced H₂ signal)
+
+这些动态气载是限制束流寿命的主要因素，其监测数据为优化束流填充模式、评估束流寿命提

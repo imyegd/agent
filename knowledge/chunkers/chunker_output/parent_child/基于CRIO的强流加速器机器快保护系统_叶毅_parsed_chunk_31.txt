@@ -1,0 +1,3 @@
+. LabVIEW 宝典[M]. 北京:电子工业出版社, 2011. (CHEN Shuxue,LIU Xuan. LabVIEW essence[M]. Beijing, China:Publishing House of Electronics Industry, 2011.)   
+[12] 陈曦,王季刚,宣科,等 . 基于 NI cRIO 的合肥光源冷却水监测系统[J]. 核技术, 2014,37(4):15-18. (CHEN Xi,WANG Jigang, XUAN Ke,et al. HLS cooling water monitor system based on NI cRIO[J]. Nuclear Techniques, 2014,37(4):15-18.)   
+[13] 李姣赛,郭玉辉,刘海涛,等 . ECR 离子源束流发射度测量系统设计[J]. 核电子学与探测技术, 2017,37(2):171-173,177. (LI Jiaosai,GUO Yuhui,LIU Haitao,et al. Design of beam emittance measurement system

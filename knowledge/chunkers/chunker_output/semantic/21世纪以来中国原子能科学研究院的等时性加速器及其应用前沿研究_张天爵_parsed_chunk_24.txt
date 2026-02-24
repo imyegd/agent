@@ -1,0 +1,8 @@
+[1] LAWRENCE E O, LIVINGSTON M S. Apparatus for the multiple acceleration of light ions to high speed[J]. Phys Rev, 1932, 40: 19.   
+[2] 张天爵, 樊明武, 安世忠, 等. CIAE 回旋加速器及应用综述[J]. 原子能科学技术, 2020, 54(增刊): 275-292. ZHANG Tianjue, FAN Mingwu, AN Shizhong, et al. Review of cyclotrons and their applications at CIAE[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 275-292(in Chinese).   
+[3] CRADDOCK M K, SYMON K R. Cyclotrons and fixed-field alternating-gradient accelerators[J]. Reviews of Accelerator Science and Technology, 2008, 1(1): 65-97.   
+[4] 谢家麟. 加速器与科技创新[M]. 北京: 清华大学出版社, 2000.  
+[5] CALABRETTA L, MÉOT F. Cyclotrons and FFG accelerators as drivers for ADS[J]. Reviews of Accelerator Science and Technology, 2000, 8: 77-97.   
+[6] ISHI Y. Status report on KURNS FFAG facility[R]. [S.1.]: [s.n.], 2018.   
+[7] ZHANG Tianjue, FU Wei, WANG Chuan. Method for obtaining strong focusing of isochronous accelerator by varying magnetic field gradient in large radial range: U.S., 12295091[P]. 2025-05-06.   
+[8] ZHANG T, LI M, LV Y, et al. 52 kW CW proton beam

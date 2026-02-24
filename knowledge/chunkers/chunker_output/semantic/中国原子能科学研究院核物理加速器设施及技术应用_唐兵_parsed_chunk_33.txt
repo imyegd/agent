@@ -1,0 +1,14 @@
+[93] 何明, 杨耀云, 姜山, 等. 利用加速器质谱方法测量 ${ }^{14} \mathrm{~N}({ }^{16} \mathrm{O}, \alpha)^{26} \mathrm{Al}$ 反应截面[J]. 原子核物理评论, 2004, 23(4): 404-406.  
+HE Ming, YANG Yaoyun, JIANG Shan, et al. Measurement of the $^{14}\mathrm{N}(^{16}\mathrm{O},\alpha)^{26}\mathrm{Al}$ reaction cross-section by accelerator mass spectrometry[J]. Nuclear Physics Review, 2004, 23(4): 404-406(in Chinese).   
+[94] 仇九子, 寅新艺, 何明, 等. ${ }^{181} \mathrm{Hf}(\mathrm{n}, \gamma)^{182} \mathrm{Hf}$ 反应截面测量[J]. 高能物理与核物理, 2005, 29(7): 648-650.  
+QIU Jiuzi, YIN Xinyi, HE Ming, et al. Measurement of cross-section for $^{181}\mathrm{Hf}(\mathfrak{n},\gamma)^{182}\mathrm{Hf}$ reaction[J]. High Energy Physics and Nuclear Physics, 2005, 29(7): 648-650(in Chinese).   
+[95] 董克君, 何明, 武绍勇, 等. 中国原子能科学研究院的长寿命核素加速器质谱测量及其应用[J]. 原子核物理评论, 2006, 23(1): 18-22.  
+DONG Kejun, HE Ming, WU Shaoyong, et al. Measurement of long-lived nuclides with accelerator mass spectrometry and its applications at CIAE[J]. Nuclear Physics Review, 2006, 23(1): 18-22 (in Chinese).   
+[96] 仇九子, 何明, 寅新艺, 等. 用加速器质谱测量 ${ }^{182} \mathrm{Hf}$ 的方法研究[C]/第十一届全国活化分析学术会议论文摘要汇编. [出版地不详]: [出版者不详], 2006.  
+[97] 仇九子, 寅新艺, 何明, 等. ${ }^{181} \mathrm{Hf}(\mathrm{n}, \gamma)^{182} \mathrm{Hf}$ 反应截面测量[C]/第十一届全国活化分析学术会议论文摘要汇编. [出版地不详]: [出版者不详], 2006.  
+[98] JIANG S S, LI J H, WANG J Q, et al. Measurement of anomalous nuclear reaction in deuterium-loaded metal[J]. Chinese Physics B, 2009, 18(4): 1428-1435.   
+[99] 王祥高, 何明, 李朝历, 等. ${ }^{236} \mathrm{U}$ 及其加速器质谱 (AMS) 测量 [J]. 原子核物理评论, 2009, 26(4): 312-318.  
+WANG Xianggao, HE Ming, LI Chaoli, et al. $^{236}\mathrm{U}$ and its measurement with accelerator mass spectrometry[J]. Nuclear Physics Review, 2009, 26(4): 312-318(in Chinese).   
+[100] 王祥高, 姜山, 何明, 等. ${ }^{238} \mathrm{U}(\mathrm{n}, 3 \mathrm{n})^{236} \mathrm{U}$ 核反应截面 AMS 测量[C]/2009 全国核反应会暨生物物理与核物理交叉前沿研讨会论文摘要集. [出版地不详]: [出版者不详], 2009.  
+[101] 沈洪涛, 姜山, 何明, 等. 中子裂变产物 $^{126}\mathrm{Sn}$ AMS测量[C]/2009全国核反应会暨生物物理与核物理交叉前沿研讨会论文摘要集. [出版地不详]: [出版者不详], 2009.  
+[102] 沈洪涛, 姜山, 何明, 等. 基于 $\mathrm{SnF}_2$ 靶样的加速器质谱测量裂变产物 $^{126}\mathrm{Sn}$ 的方法研究[J]. 原子能科学技术, 2012, 46(2): 155-159.

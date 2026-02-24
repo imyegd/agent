@@ -1,0 +1,27 @@
+# Facilities and Technical Applications for Nuclear Physics Accelerator in China Institute of Atomic Energy
+
+TANG Bing, YANG Xinyu, KAN Chaoxin, CHEN Hongtao, HE Ming, WU Zhendong,
+
+CUI Baoqun, CHEN Lihua, MA Yingjun, MA Ruigang, HUANG Qinghua,
+
+MA Xie, CHEN Haonan, PENG Zhaohua, LIU Weiping, GUO Bing
+
+(Department of Nuclear Physics, China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: China Institute of Atomic Energy (CIAE) has persistently developed technologies including radioactive beam generation, low-energy high-voltage accelerators, tandem accelerators, and high-frequency accelerators. Nuclear physics research facilities, such as the HI-13 Tandem Accelerator, superconducting linear accelerator, multi-particle variable-energy cyclotron, $600\mathrm{kV}$ high-voltage multiplier, high mass resolution on-line isotope separator, and Jinping underground high-current accelerator, has been established. The HI-13 Tandem Accelerator has accumulated nearly $150~000\mathrm{h}$ of operation with $125000\mathrm{h}$ of beam supply. In 2014, it is upgraded to the Beijing Radioactive Ion-beam Facility with a new cyclotron and a new on-line isotope separator upstream and a new superconducting booster downstream. In 2016, a superconducting linear accelerator was being constructed to increasing maximum energy gain to $17\mathrm{MeV} / \mathrm{q}$ instead of the booster. The multi-particle variable-energy cyclotron is an isochronous cyclotron with a maximum acceleration factor $K$ of 130, delivering proton energies up
+
+to $72\mathrm{MeV}$ . The $600\mathrm{kV}$ high-voltage multiplier runs over $1500\mathrm{h}$ annually, completing more than 30 experiments and serving over 30 research institutes and enterprises. The Jinping underground astrophysical experiment facility currently holds the world record for the strongest deep-earth accelerator beam intensity, surpassing Italy's LUNA laboratory accelerator by tenfold. Based on the Beijing Radioactive Ion-beam Facility, the calcium oxide, magnesium oxide, silicon carbide, lanthanum carbide, and uranium carbide targets were developed in recent years. By utilizing an innovative dual-mode ion source structure, it has generated 55 types of radioactive isotope beams including sodium, potassium, aluminum, and rubidium, with the shortest half-life reaching $0.17\mathrm{s}$ and maximum beam intensity at $10^{10}\mathrm{s}^{-1}$ , achieving international advanced levels. CIAE has developed industrial projects such as small tandem accelerators, small neutron generators, accelerator mass spectrometer, and nuclear pore membrane production based on nuclear physics accelerator technology. In 2025, a $2\times 1.7\mathrm{MV}$ and a $2\times 3\mathrm{MV}$ tandem accelerators were delivered to users, and in 2026, a $2\times 6\mathrm{MV}$ tandem accelerator will be delivered, product standardization is preliminarily completed and technical self-reliance is achieved. CIAE has developed compact neutron generators and time-marking neutron generators with accuracy better than 1 ns and position-marking accuracy better than $0.3\mathrm{mm}$ . A high-flux neutron generator with capable of producing $3\times 10^{12}$ neutrons per second is under research. CIAE has developed atmospheric-insulated mass spectrometers and compact mass spectrometers, and has established an accelerator-based nuclear pore membrane production line, providing various nuclear pore membrane products.
+
+Key words: accelerator; on-line isotope separator; neutron generator; accelerator mass spectrometry; tandem accelerator; Cockcroft-Walton accelerator; nuclear pore membrane
+
+中国原子能科学研究院(简称原子能院)作为我国核物理基础研究与核技术应用的重要国家级科研机构，自1950年成立以来，始终致力于核物理基础研究、核技术应用开发以及核能安全领域的创新发展[1]。作为我国核科技事业的重要支撑平台，在核物理实验装置研制、核数据测量、核技术应用等方面取得了一系列具有国际影响力的科研成果。
+
+加速器作为核科学研究的不可缺少的工具，为我国核科学发展做出了巨大贡献。1955年，中国科学院原子能研究所建成了第1台 $700\mathrm{keV}$ 质子静电加速器，为我国高压加速器的发展积累了宝贵经验。1958年我国第一座重水反应堆和第一台回旋加速器在原子能院建成，标志着我国跨入了原子能时代，原子能院以“一堆一器”为基础开展了大量工作，创造了核基础研究领域的多项第一。
+
+原子能院于1987年建成并投入运行了北京HI-13串列加速器，2000年完成建设并投入运行了 $600\mathrm{kV}$ 高压倍加器，进入21世纪以来，原子能院在核物理领域又建立起了JUNA离子注入机、重离子超导加速器、可变能量重离子回旋加速器
+
+等加速器设施，这些设施有力支撑了我国基础核物理事业及相关领域的发展。
+
+经过数十年的技术积累和创新突破，原子能院建立了完整的核物理加速器技术体系，尤其在高压加速器方面，原子能院系统掌握各类型高压加速器及部件的关键技术，束流强度从数十pps到百mA，束流能量从百eV到数十MeV，束流种类从原有的稳定束流延伸到半衰期亚秒级不稳定核束，先后研制的数十台高压加速器装备有力支撑了我国基础核物理、空间环境模拟、先进核能系统材料研究等领域的发展。
+
+本文系统介绍原子能院核物理加速器设施状况及相应加速器技术在核技术应用方面取得的成果，并对未来发展进行展望。

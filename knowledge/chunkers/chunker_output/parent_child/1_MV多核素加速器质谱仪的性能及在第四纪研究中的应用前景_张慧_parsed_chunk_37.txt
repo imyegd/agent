@@ -1,0 +1,8 @@
+# 2.4 其他核素验收测试
+
+AMS测量 $^ { 4 1 } \mathrm { C a }$ 的主要挑战在于抑制干扰同量
+
+表 4 26Al验收测试结果  
+Table4 Resultsoftheacceptancetestsfo $^ { 2 6 } \mathrm { A l }$   
+
+<table><tr><td>26Al标准样品</td><td>26Al计数</td><td>26Al/27Al</td><td>27Al平均束流(A)</td></tr><tr><td>Al 1</td><td>1851</td><td>5.994×10-12</td><td>2.296×10-8</td></tr><tr><td>Al 2</td><td>1863</td><td>5.834×10-12</td><td>2.860×10-8</td></tr><tr><td>Al 3</td><td>1855</td><td>6.109×10-12</td><td>3.164×10-8</td></tr><tr><td>Al 4</td><td>1830</td><td>6.199×10-12</td><td

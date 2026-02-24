@@ -1,0 +1,33 @@
+·粒子束及加速器技术·
+
+![](images/4cc06f7f45da250d5a3c3aa2915359e5056a7c83383a5d6b374a099d91bc43e9.jpg)
+
+# 用于加速器中子源的斩束器研究与设计
+
+潘文龙1,2，   李海鹏1,2，   王　盛1,2,3，   苏浩泉1,2，   朱　颉1,2
+
+（1.西安交通大学 核科学与技术学院，西安 710049；   2. 西安交通大学 湖州中子科学实验室，
+
+浙江 湖州 313000；   3. 华硼中子科技（杭州）有限公司，杭州 310000）
+
+摘    要 ：   针对应用于硼中子俘获治疗的加速器中子源的束流偏转问题，为其低能束流传输线部分设计了一套斩束器，通过理论计算与软件模拟，验证方案的可行性。为了解决斩波器电场强度不均匀问题，引入圆弧电极设计结构，微波工作室（CST Studio Suite）模拟仿真表明其具有更好的电场分布均匀性。发展了基于 Python程序的 CST 与 TraceWin 联合束流动力学模拟，结果表明设计的斩波器能够高效率地实现束流偏转功能，设计方案具有良好的实际应用价值和意义。
+
+关键词： 加速器中子源；硼中子俘获治疗；斩束器；束流动力学；静电场计算
+
+中图分类号：  TL503.3
+
+文献标志码：   A
+
+doi: 10.11884/HPLPB202638.250164
+
+# Research and design of chopper for accelerator neutron source
+
+Pan Wenlong1,2，   Li Haipeng1,2，   Wang Sheng1,2,3，   Su Haoquan1,2，   Zhu Jie1,2
+
+（1. School of Nuclear Science and Technology, Xi’an Jiaotong University, Xi’an 710049, China;
+
+2. Huzhou Neutron Science Laboratory, Xi’an Jiaotong University, Huzhou 313000, China;
+
+3. Hua Boron Neutron Technology (Hangzhou) Co, Ltd, Hangzhou 310000, China）
+
+Abstract：

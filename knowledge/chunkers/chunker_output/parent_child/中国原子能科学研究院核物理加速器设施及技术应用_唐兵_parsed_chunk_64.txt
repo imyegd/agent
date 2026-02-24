@@ -1,0 +1,7 @@
+0] 黄青华, 崔保群, 陈立华, 等. BRISOL 靶源的远控操作系统[J]. 原子核物理评论, 2015, 32(增刊1): 29-32.  
+HUANG Qinghua, CUI Baoqun, CHEN Lihua, et al. Remote handling system of the BRISOL target
+
+source[J]. Nuclear Physics Review, 2015, 32(Suppl.1): 29-32(in Chinese).   
+[51] 马瑞刚, 崔保群, 黄青华, 等. 在线同位素分离器 (BRISOL) 电源控制系统的研制[J]. 原子核物理评论, 2015, 32(增刊1): 33-37.  
+MA Ruigang, CUI Baoqun, HUANG Qinghua, et al. Development of power supply control system for BRISOL facility[J]. Nuclear Physics Review, 2015, 32(Suppl.1): 33-37(in Chinese).   
+[52]

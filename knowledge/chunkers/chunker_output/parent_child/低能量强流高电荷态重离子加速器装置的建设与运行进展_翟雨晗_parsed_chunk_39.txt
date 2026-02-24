@@ -1,0 +1,9 @@
+避免了局部热沉积过高引发的样品损伤，还使得单次辐照可覆盖多个样品区域，显著提高了实验通量和效率。该系统特别适用于多种候选核材料的快速服役性能评价和筛选，为先进核能系统关键结构材料的优化设计提供了重要实验支持。
+
+![](images/19fb48c66f69ac3de88e071b0774aca402a2ff3cff2c09c11ec9116c178afb8b.jpg)
+
+![](images/207e283b189a825876714dcad5032c7e32405cbd921dfd9f96e0e2d9e0c6d750.jpg)
+
+![](images/279428bb214156b5959530ca7acecc2c04be2abe362ba631bafc90ba2cd7d448.jpg)  
+Fig. 12    Scanning trace and displacement waveforms in $x$ and y directions.   
+图 12    扫描轨迹和 x、y 方向位移波形

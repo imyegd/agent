@@ -1,0 +1,39 @@
+# 2.2 材料选择
+
+靶芯吸收了绝大部分束流能量，其材料遴选需兼顾低次级中子产额与低活化特性。中子产额的定义为平均每个质子入射靶材料产生的中子个数，利用FLUKA计算中子产额，产额值为靶材料外表面出射的中子数量。其中靶的形状为圆柱体，其高度为质子射程，而圆柱半径为质子射程的横向岐离，这样设置的目的是尽量减少次级中子与靶材料的进一步 反 应 。 首 先 使 用 SRIM（Stopping and Range ofIons in Matter）程序［12］ 可以快速得到 $1 0 { \sim } 2 0 0 \mathrm { M e V }$ 质子几种常见屏蔽材料（聚乙烯、石墨、铝、铁、铜、铅）中的射程（表1）及横向岐离（表2），作为FLUKA模拟计算中的几何模型参数。在FLUKA计算中，设置质子垂直入射靶材料的圆柱底面中心，使用USRBDX计数卡得到出射到圆柱体外的中子产额（图2）及中子能谱分布（图3）。
+
+表1 不同能量质子在几种材料中的射程  
+Table 1 Projected range data of protons at different energies in various materials   
+
+<table><tr><td rowspan="2">质子能量
+Proton energy / MeV</td><td colspan="6">不同材料中的质子射程
+Projected range data of protons in various materials / mm</td></tr><tr><td>聚乙烯 Polyethylene</td><td>石墨 Graphite</td><td>铝 Aluminum</td><td>铁 Iron</td><td>铜 Copper</td><td>铅 Lead</td></tr><tr><td>10</td><td>1.18</td><td>0.683</td><td>0.623</td><td>0.257</td><td>0.242</td><td>0.298</td></tr><tr><td>30</td><td>8.66</td><td>4.92</td><td>4.33</td><td>1.72</td><td>1.60</td><td>1.83</td></tr><tr><td>50</td><td>21.9</td><td>12.4</td><td>10.8</td><td>4.23</td><td>3.91</td><td>4.34</td></tr><tr><td>70</td><td>40.2</td><td>22.7</td><td>19.6</td><td>7.65</td><td>7.06</td><td>7.70</td></tr><tr><td>100</td><td>76.3</td><td>42.9</td><td>36.8</td><td>14.3</td><td>13.2</td><td>14.1</td></tr><tr><td>200</td><td>258</td><td>145</td><td>123</td><td>47.2</td><td>43.3</td><td>45.5</td></tr></table>
+
+同时将 $3 0 \mathrm { M e V }$ 质子入射几种材料的中子产额计算值与文献［13］的参考数据进行了对比，如表3所示，可以看出模拟计算结果与前人的参考结果取得较好的一致性，当中子最低能量阈值取1 MeV时，最大偏差小于 $20 \%$ ，由于模拟计算与文献［13］的靶尺寸不一致，且文献［13］中实验测量的中子能量大于 $2 { \sim } 3 \ \mathrm { M e V }$ ，对于低于该能量的中子，采用模拟计算值，因此认为FLUKA计算结果与文献［13］中的实验结果是基本相符的。
+
+由图2可以看出，中子产额与质子能量是正相关的。总体来看，质子入射聚乙烯的次级中子产额
+
+最少，其次是石墨，而金属靶材料的产额会更高。图3中，金属材料产生的高能次级中子数量低于石墨和聚乙烯，这部分对高能辐射屏蔽有一定贡献，但是考虑到金属靶芯带来的残余剂量将大于原子序数更低的石墨、聚乙烯等材料，因此靶芯材料应在石墨和聚乙烯中选择。由于 $2 0 0 \mathrm { M e V }$ 质子入射聚乙烯与石墨的次级中子能谱几乎相同，且前者的中子产额更低，因此选择聚乙烯作为靶芯材料。
+
+对于质子与靶芯作用产生的次级高能中子，其能量损失以非弹性散射为主，需要使用重元素材料快速消耗快中子的能量，考虑成本、工艺、生物毒性
+
+表2 不同能量质子在几种材料中的横向岐离  
+Table 2 Lateral straggling data of protons at different energies in various materials   
+
+<table><tr><td rowspan="2">质子能量
+Proton energy / MeV</td><td colspan="6">不同材料中的质子横向歧离
+Lateral straggling data of protons in various materials / mm</td></tr><tr><td>聚乙烯 Polyethylene</td><td>石墨 Graphite</td><td>铝 Aluminum</td><td>铁 Iron</td><td>铜 Copper</td><td>铅 Lead</td></tr><tr><td>10</td><td>0.028</td><td>0.018 9</td><td>0.026 8</td><td>0.016 2</td><td>0.016 5</td><td>0.037 1</td></tr><tr><td>30</td><td>0.195</td><td>0.128</td><td>0.173</td><td>0.099 6</td><td>0.098 9</td><td>0.200</td></tr><tr><td>50</td><td>0.482</td><td>0.315</td><td>0.417</td><td>0.236</td><td>0.233</td><td>0.452</td></tr><tr><td>70</td><td>0.872</td><td>0.567</td><td>0.743</td><td>0.417</td><td>0.41</td><td>0.778</td></tr><tr><td>100</td><td>1.62</td><td>1.05</td><td>1.37</td><td>0.761</td><td>0.745</td><td>1.38</td></tr><tr><td>200</td><td>5.24</td><td>3.37</td><td>4.32</td><td>2.38</td><td>2.32</td><td>4.17</td></tr></table>
+
+注：聚乙烯、石墨、铝、铁、铜、铅的密度分别为： $\mathrm { : 0 . 9 4 g \cdot c m ^ { - 3 } , 2 . 0 0 g \cdot c m ^ { - 3 } , 2 . 7 0 g \cdot c m ^ { - 3 } , 7 . 8 7 g \cdot c m ^ { - 3 } , 8 . 9 6 g \cdot c m ^ { - 3 } , 1 1 . 3 5 g \cdot c m ^ { - 3 } }$ Notes: The densities of polyethylene, graphite, aluminum, iron, copper, and lead are $0 . 9 4 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $2 . 0 0 \ \mathrm { ~ g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $2 . 7 0 ~ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $7 . 8 7 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $8 . 9 6 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , and $1 1 . 3 5 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , respectively
+
+![](images/26f224679421ab5518f3049dce577d6cc919876a58bcae4bf123681da2af5590.jpg)  
+图2 质子入射不同材料产生的次级中子（能量大于1 MeV）总产额（彩图见网络版）
+
+![](images/3e965f4228425f9b4892107042f98067e68c358cc5ccd8aab65b1ace93435322.jpg)  
+Fig.2 Total neutron yield (energy>1 MeV) per proton for different target materials (color online)   
+图3 $2 0 0 \mathrm { M e V }$ 质子入射不同材料产生的次级中子微分能谱（彩图见网络版）  
+Fig.3 Differential yield of neutrons emitted by different materials bombarded by 200 MeV protons (color online)
+
+等因素［14‒15］ ，选择铁作为主体屏蔽材料。在铁的外侧，设置对低能中子屏蔽效果较好的外围屏蔽材料，
+
+一般选择富含氢元素的物质，本文采用含 $\mathrm { B } _ { 4 } \mathrm { C }$ 质量分数为 $5 \%$ 的含硼聚乙烯材料，密度为 $1 . 0 1 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ 。由于 $^ { 1 0 } \mathrm { { B } }$ 具有较高的热中子俘获截面，聚乙烯添加$\mathrm { B } _ { 4 } \mathrm { C }$ 后，对低能中子的吸收效果更好。

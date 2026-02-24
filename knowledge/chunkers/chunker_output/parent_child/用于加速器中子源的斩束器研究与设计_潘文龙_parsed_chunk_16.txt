@@ -1,0 +1,13 @@
+过仿真结果可以发现斩束器的电场横向分布较为不均匀，变化较大，为了解决这一问题，将斩束器极板几何形状
+
+![](images/00c36536cb63f4bf9f2f96f7f5188da93d255868c0a7a53fbc0a3bdf17cee100.jpg)  
+Fig. 2    Vector diagram of electric field strength for chopper   
+图 2    斩束器电场强度矢量图
+
+进行优化，采用圆弧极板来替代平行极板。通过 CST Studio Suite软件模拟最终选取最优参数，图 4为入口束流范围电场强度变化与曲率半径的关系。
+
+![](images/f1a3e3dcdba5c9297c9625b5a10c47583c42207c966947b8cde14e23b5445aaf.jpg)  
+Fig. 3    Transverse electric field intensity distribution curve of chopper   
+图 3    斩束器横向电场强度分布曲线图
+
+![](images/a45a62cac68298b779

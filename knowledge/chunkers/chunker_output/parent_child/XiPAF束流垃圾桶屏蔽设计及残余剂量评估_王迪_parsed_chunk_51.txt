@@ -1,0 +1,4 @@
+EPJ Nuclear Sciences & Technologies, 2024, 10: 16. DOI: 10.1051/epjn/2024015.   
+12 SRIM - the stopping and range of ions in matter[EB/OL]. [2024-12-13]. http://www/srim.org.   
+13 Nakamura T, Fujii M, Shin K. Neutron production from thick targets of carbon, iron, copper, and lead by 30- and 52-MeV protons[J]. Nuclear Science and Engineering, 1983, 83(4): 444–458. DOI: 10.13182/nse83-a18648.   
+14 王豫庆, 李多宏, 张荣华, 等. 热中子屏蔽性能测试平台设 计 优 化 及 影 响 因 素 分 析 [J]. 核 技 术 , 2024, 47(9):090202. DOI: 10.11889/j.0253-3219.2

@@ -1,0 +1,5 @@
+oTherapy 的二元光栅准直器 A 为二元光栅准直器结构外观；B为二元光栅准直器叶片成野示意
+
+表7 TomoTherapy二元光栅准直器的主要技术指标  
+
+<table><tr><td>技术参数</td><td>技术指标</td></tr><tr><td>叶片数量</td><td>64片（32对）</td></tr><tr><td>叶片投影宽度</td><td>6.25 mm</td></tr><tr><td>叶片高度</td><td>100 mm</td></tr><tr><td>叶片运行速度</td><td>2500 mm/s</td></tr><tr><td>叶片切换时间</td><td>20 ms</td></tr><tr><td>最大照射野</td><td>40 cm×135 cm</td></tr></table>

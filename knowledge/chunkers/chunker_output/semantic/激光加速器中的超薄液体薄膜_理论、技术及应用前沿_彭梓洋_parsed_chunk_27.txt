@@ -1,0 +1,5 @@
+Finally, the paper pivots to demonstrate the practical utility of these liquid sheet targets as next-generation, micro-focus X-ray sources. A dedicated, vacuum-compatible femtosecond laser platform was constructed, a non-trivial engineering feat incorporating advanced differential pumping and sophisticated thermal management systems to ensure liquid sheet survival and stability. Experimental campaigns demonstrated continuous $10\mathrm{Hz}$ operation for over one hour with mJ-level lasers, generating a stable flux of high-energy hard X-rays with high photon yields and sub-20 $\mu$ m focal spot sizes. These findings establish a viable technological pathway for developing low-cost, high-brightness X-ray sources, critically bridging the significant performance gap between conventional X-ray tubes and large-scale synchrotron radiation facilities.
+
+ultra-thin liquid sheet, high-repetition-rate, viscous thickness model, in-situ characterization, laser plasma accelerator
+
+doi: 10.1360/CSB-2025-5514

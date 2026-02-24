@@ -1,0 +1,14 @@
+SHEN Hongtao, JIANG Shan, HE Ming, et al. Measurement of fission product nuclide $^{126}\mathrm{Sn}$ with accelerator mass spectrometry based on $\mathrm{SnF}_2$ target[J]. Atomic Energy Science and Technology, 2012, 46(2): 155-159(in Chinese).   
+[103] 蓝小浙, 阮向东, 何明, 等. AMS测量反应堆热中子 $^{78}\mathrm{Se}(\mathrm{n}, \gamma)^{79}\mathrm{Se}$ 反应截面的方法研究[C]//中国核科学技术进展报告(第三卷)—中国核学会2013年学术年会论文集第6册.[出版地不详]: [出版者不详], 2013:95-97.  
+[104] DOU Liang, JIANG Shan, WANG Xiaobo, et al. Measurement of the half-life of $^{79}\mathrm{Se}$ with accelerator mass spectrometry[J]. Chinese Physics C, 2014, 38(10): 67-70.   
+[105] 王小明, 何明, 董克君, 等. 加速器质谱研究超重核进展[J]. 同位素, 2015, 28(3): 183-188.  
+WANG Xiaoming, HE Ming, DONG Kejun, et al. Progress in super-heavy nuclei research using accelerator mass spectrometry[J]. Journal of Isotopes, 2015, 28(3): 183-188(in Chinese).   
+[106] 姜山, 杨旭冉, 何明, 等. 加速器质谱在核科学中的应用[J]. 深圳大学学报(理工版), 2015, 32(1): 8-16.  
+JIANG Shan, YANG Xuran, HE Ming, et al. Applications of accelerator mass spectrometry in nuclear science[J]. Journal of Shenzhen University (Science and Engineering), 2015, 32(1): 8-16(in Chinese).   
+[107] 杨旭冉, 王小明, 何明, 等. ${ }^{14} \mathrm{C}$ -AMS 技术用于油田示踪研究[J]. 同位素, 2017, 30(4): 259-264.  
+YANG Xuran, WANG Xiaoming, HE Ming, et al. Application of $^{14}\mathrm{C}$ -AMS technology to oil-field tracer studies[J]. Journal of Isotopes, 2017, 30(4): 259-264(in Chinese).   
+[108] HE Guozhu, SHI Bin, HE Ming, et al. Cross-section measurement for the $^{93}\mathrm{Nb}(\mathrm{n}, 2\mathrm{n})^{92\mathrm{g}}\mathrm{Nb}$ reaction at the neutron energy of 14.6 MeV by the AMS method[J]. Chinese Physics C, 2018, 42(7): 41-44.   
+[109] 王芳芳, 何明, 张宇轩, 等. 加速器质谱测量 $^{60}\mathrm{Fe}$ 的样品制备与引出方法[J]. 同位素, 2019, 32(2): 103-107.  
+WANG Fangfang, HE Ming, ZHANG Yuxuan, et al. $^{60}\mathrm{Fe}$ sample preparation and extraction method for measurement with accelerator mass spectrometry[J]. Journal of Isotopes, 2019, 32(2): 103-107(in Chinese).   
+[110] 谢运棉, 班莹, 蒋崧生, 等. 环境水中 $^{129}\mathrm{I}$ 的测定[M]//中国核科技报告. [出版地不详]: [出版者不详], 1997: 17-18.  
+[111] 谢运棉, 班莹, 蒋崧生, 等. 用串列加速器质谱计测定环境水中 $^{129}\mathrm{I}$ 的浓度[J]. 辐射防护, 1998, 18(2): 2-9.

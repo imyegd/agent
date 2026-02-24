@@ -1,0 +1,4 @@
+ng Technology in the Construction of Large Scientific Projects[J]. Building Energy Efficiency,2022,50(8):8-11.(in Chinese)   
+[24]胡琦玥,郑景文,刚文杰,等.基于多元热回收的数据中心空调系统性能研究[J].暖通空调,2025,55(4):128-135.  
+HU Qiyue,ZHENG Jingwen,GANG Wenjie,et al.Performance analysis of multi-source heat recovery air conditioning systems for data centers[J].Heating Ventilating and Air Conditioning,2025,55(4):128-135.(in Chinese)   
+[25]北京市发展和改革委员会等.北京市发展和改革委员会等十部门关于印发全面推进新能源供热高质量发展实施意 见 的 通 知 [EB/OL].(2023-10-09)[2025-06-25].https://f

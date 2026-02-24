@@ -1,0 +1,4 @@
+] HUANG X T, ZHANG X W, YANG P F, et al. Benchmarking GPU tensor cores on general matrix multiplication kernels through CUTLASS[J]. Applied Sciences, 2023, 13(24): 13022.   
+[19] SAAD Y. Iterative methods for sparse linear systems[M]. PA, USA: Society for Industrial and Applied Mathematics, 2003.   
+[20] WU K W. Accelerating sparse graph neural networks with tensor core optimization[J]. arXiv preprint arXiv:2412.12218, 2024.   
+[21] HAN Y, KIM I, KIM J, et al. Tensor core-adapted sparse matrix multiplicatio

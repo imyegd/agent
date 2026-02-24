@@ -1,0 +1,14 @@
+~ \mu \mathrm { m } \lambda$ ），垂直方向轨道畸变 $5 0 0 \sim$ $4 5 0 0 \mu \mathrm { m }$ （均值 $1 6 9 8 . 9 \mu \mathrm { m }$ ，方差 $8 6 5 . 8 ~ \mu \mathrm { m } )$ ）。由此可见，在当前误差强度设置下，水平方向和垂直方向轨道均有较大扰动。
+
+![](images/eb466319d81d254135f6271fe3549c92cace7658001a4cd25d79d21e5562de8f.jpg)
+
+![](images/4173596e28a5ebc3708b93401729e4ca90804f7e726d3f4ca2f9ff0453028d11.jpg)  
+图3 轨道畸变RMS校正前频度分布图 (a) 水平，(b) 垂直 Fig.3 Frequency distribution of RMS orbit distortion before correction (a) Horizontal, (b) Vertical
+
+![](images/7ad2b44654fb7db09e81b12769c8bffc43cff1874a8b84f8dd208a0a3d00c9a0.jpg)
+
+![](images/54c44e6572fa331adb811250f964255c1299a548f2d8f8e8c4a40e8401526a46.jpg)  
+图4 轨道畸变RMS校正前轨道畸变分布图(a) 水平，(b) 垂直  
+Fig.4 Distribution of RMS orbit distortion before correction (a) Horizontal, (b) Vertical
+
+通过预先得到的响应矩阵进行轨道校正，校正后200个随机种子的轨道扰动如图5所示。轨道畸变RMS校正后的结果如图6和图7所示。经过轨道校正后 ，水平方向轨道畸变 $1 0 { \sim } 1 0 0 ~ \mu \mathrm { m }$ （均值$5 0 . 2 ~ \mu \mathrm { m }$ ，方差 $1 5 . 4 ~ \mu \mathrm { m } )$ ），约为校正前轨道畸变的$5 \%$ ；垂直方向轨道畸变 $2 0 { \sim } 1 6 0

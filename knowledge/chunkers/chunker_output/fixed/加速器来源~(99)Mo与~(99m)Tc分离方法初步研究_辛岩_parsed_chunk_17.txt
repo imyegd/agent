@@ -1,0 +1,13 @@
+EVA resin   
+
+<table><tr><td>Group</td><td>Concentration of Mo/ (μg · L-1)</td><td>Concentration of Re/ (μg · L-1)</td><td>Molybdenum proportion/%</td><td>Rhenium recoveries/%</td></tr><tr><td>1</td><td>0.015</td><td>7.684</td><td>0.19</td><td>76.8</td></tr><tr><td>2</td><td>0.028</td><td>8.142</td><td>0.34</td><td>81.4</td></tr><tr><td>3</td><td>0.016</td><td>6.968</td><td>0.23</td><td>69.7</td></tr></table>
+
+# 3 结论
+
+本文以高铼酸钾作为高锝酸根的模拟物，以钼酸根和高铼酸根为主要研究对象，测定了活性炭柱、TEVA树脂以及氧化铝柱对钼铼的分离效果。从实验结果来看，本文使用的活性炭不具备分离钼锝的
+
+能力，这可能是由于本文所使用的活性炭不具有吸附钼锝的特异基团，而TEVA树脂具有优异的分离钼锝的能力。为充分提高TEVA树脂的分离效率，设计了联合使用氧化铝柱与TEVA柱分离钼铼的工艺，可以得到较为纯净的产物，锝（铼）的回收率为$6 9 . 7 \% \sim 8 1 . 4 \%$ 。与氧化铝法相比，本方法显著提升了分离高锝酸根的效率。该路线可为基于加速器生产 $^ { 9 9 \mathrm { m } } \mathrm { T c }$ 打下良好基础。下一步将验证该流程对实际打靶产生的 $^ { 9 9 } \mathrm { M o }$ 及其衰变产物 ${ } ^ { 9 9 \mathrm { m } } \mathrm { T c }$ 的分离效果，从而进一步完善本文所建立的分离方法。
+
+# 参考文献
+
+［1］ WELCH M J，REDVANLY C S. Handbooko f r a d i o p h a r m a c e u t i c a l s ，r a d i o c h e m i s t r y a n dapplications［M］. Chichester：Nucle

@@ -1,0 +1,19 @@
+# 参考文献：
+
+[1]瞿少成，陈婵，童金．基于ARM的加速器平均流强的数据采集系统[J].电子测量技术，2012,35(3):117-119.  
+[2] 宋睿. 基于嵌入式 EPICS 的重离子加速器束流损失监测系统设计[D]. 兰州: 兰州大学, 2020.  
+[3] 钟黎明. 紧凑型 THz-FEL 束流测量与优化研究 [D]. 武汉: 华中科技大学, 2022.  
+[4] 郑侠,管锋平,温立鹏,等. $230\mathrm{MeV}$ 超导回旋加速器束流测量装置的设计研究[J].真空，2021，58(4):54-57.  
+[5] WEN L P, GUAN F P, XIE H D. Radial probe installation and experiment for the CRM cyclotron [J]. Annual Report of China Institute of Atomic Energy, 2009, 129(1): 62-63.   
+[6] 李鹏, 邱瑞阳, 李芳, 等. 中国散裂中子源直线加速器束流流强测量系统[J]. 强激光与粒子束, 2018, 30(7): 153-157.  
+[7] 游尧尧, 李敏, 毛瑞士, 等. 用于重离子治癌回旋引出的实时流强测量系统[J]. 强激光与粒子束, 2022, 34(11):83-89.  
+[8] Yang J C, Shi J, Chai W P, et al. Design of a compact structure cancer therapy synchrotron [J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers,
+
+Detectors and Associated Equipment, 2014, 756: 19-22.   
+[9] 合肥中科离子医学技术装备有限公司.一种基于加速器束流调节的高压电源系统：201711365139.6[P].2020-04-14.  
+[10] 上海集成电路研发中心有限公司. 一种高能离子
+
+注入机束流的调节装置和调节方法：201911334322.9[P].2022-04-01.  
+[11] 合肥中科离子医学技术装备有限公司.一种基于相位探针实现加速器束流自反馈调节的系统：201822065096.6[P].2019-09-27.
+
+# Design and Implementation of Beam Regulating Electronic Unit for Proton Accelerator

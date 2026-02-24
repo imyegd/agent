@@ -1,0 +1,21 @@
+为：横向归一化发射度 $2\pi \mathrm{mm}\cdot \mathrm{mrad}$ 、相宽 $3^{\circ}$ 、束流强度 $3\mathrm{mA}$ 。图23为束流径向与纵向的模拟结果，束团加速过程中由于空间电荷效应导致的涡旋效应清晰可见。图23显示，束流的横向半包络在引出前一圈减小至约 $5\mathrm{mm}$ ，使其束斑尺寸适合于引出。大规模并行模拟计算结果表明， $3\mathrm{mA} / 6\mathrm{mA}$ 的束流在整个加速过程中均能保持良好的相空间结构，束斑径向尺寸可控，满足引出要求。 $6\mathrm{mA}$ 的计算条件下尽管空间电荷效应显著，但通过适当优化RF增益、增加高次谐波平顶腔、充分利用邻近束团相互作用等技术手段，仍有希望实现束晕的有效控制与高效率引出。
+
+# 3）关键部件缩比样机研制进展
+
+为进一步掌握高温超导磁体和高 $Q$ 值高频腔
+
+![](images/32734c6ab0962dff93a2e596ac7802d6214875fbac72d7fa5a9e2744c6c4e00e.jpg)
+
+![](images/a80aa7d83b9503ca38c7b226ea956e7430f3996f1d2f0a165fcc14700ccc1b75.jpg)
+
+![](images/fbf9d9356b8b1f59dd0cf700c3cd018dfcf16f3f4d10ae869011eca6ec7eaea4.jpg)
+
+![](images/1862c2a6cd4be45a1d2e899c26ee35b1eabc8ff8c32d6f629eb999bfa6d88da3.jpg)
+
+![](images/952bb150b7f61976fbc25d4509b33c3f80ffd42777ce95f0c96893b60fd340cd.jpg)
+
+![](images/96c0ff2e23110cfbb84c9b871314c40db144e7b64a87b609518f61e88de7e813.jpg)  
+图23 纵向和横向束团形状变化  
+Fig. 23 Longitudinal and transverse beam shape variation
+
+的关键技术，团队研制了基于二代高温超导(2G HTS)带材的缩比例磁铁，如图24所示。该磁体设计

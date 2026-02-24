@@ -1,0 +1,8 @@
+[54] GIKAL B N, BOGOMOLOV S L, DMITRIEV S N, et al. DUBNA cyclotrons: Status and plans[J]. ICFA Beam Dyn Newslett, 2005, 37: 44-50.   
+[55] D'AGOSTINO G, CALABRETTA L, KLEEVEN W, et al. A central region upgrade of the K800 superconducting cyclotron at INFN-LNS[J]. Journal of Physics: Conference Series, 2019, 1350(1): 012099.   
+[56] DUCKITT W D, CONRADIE J L, van NIEKERK M J, et al. The design and implementation of a broadband digital low-level RF control system for the cyclotron accelerators at iThemba LABS[J]. Nucl Instrum Methods Phys Res A, 2018, 895: 1-9.   
+[57] RADOVINSKY A, MINERVINI J V, MILLER C E, et al. Superconducting magnets for ultra light and magnetically shielded, compact cyclotrons for medical, scientific, and security applications[J]. IEEE Transactions on Applied Superconductivity, 2014, 24(3): 1-5.   
+[58] UEDA H, ISHIYAMA A, NOGUCHI S, et al. Conceptual design of compact HTS cyclotron for RI production[J]. IEEE Transactions on Applied Superconductivity, 2019, 29(5): 1-5.   
+[59] CALABRETTA L, MÉOT F. Cyclotrons and FFAG accelerators as drivers for ADS[J]. Reviews of Accelerator Science and Technology, 2015, 8: 77-97.   
+[60] ZHANG Tianjue, FU Wei, WANG Chuan, et al. Recent progress of research and development for the cost-effective, energy-efficient proton accelerator CYCIAE-2000 [C]/Proceedings of CYC2022. Beijing: JACoW Publishing, 2022.   
+[61] 周洪吉, 付伟, 王川, 等. 2 GeV 等时性加速器散焦磁铁的 $1:4$ 比例模型线圈低温系统研制[J]. 原子能科学技术, 2025, 59(1): 231-238. ZHOU Hongji, FU Wei, WANG Chuan, et al.

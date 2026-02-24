@@ -1,0 +1,1 @@
+on Source，CSNS)机器保护分为两部分，其一为基于可编程控制器(Programmable Logic Controller，PLC)的慢保护，其二为基于 FPGA的快保护，快保护响应时间在 $1 0 ~ \mu \mathbf { s }$ 内 [7] 。

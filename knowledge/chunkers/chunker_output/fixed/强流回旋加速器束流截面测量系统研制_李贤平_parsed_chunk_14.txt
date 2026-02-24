@@ -1,0 +1,12 @@
+e, 2000, 22(11): 1330-1334.   
+[14] Astola J, Kuosmanen P. Fundamentals of nonlinear digital filtering [M]. Fundamentals of Nonlinear Digital Filtering, 1997.   
+[15] Otsu N. A threshold selection method from gray-level histograms[J]. IEEE Transactions on Systems Man & Cybernetics, 2007, 9(1): 62-66.   
+[16] Krishnakumar R. Scintillation screen materials for beam profile measurements of high energy ion beams [D]. Darmstadt: Technische Universität Darmstadt, 2016.   
+[17] Harasimowicz J, Cosentino L, Finocchiaro P, et al. Scintillating screens sensitivity and resolution studies for low energy, low intensity beam diagnostics[J]. Review of Scientific Instruments, 2010, 81(10): 405.   
+[18] Vanderplas J. Three-dimensional plotting in matplotlib[EB]. 2015.   
+[19]尚琰，张瑞，林聪，等.光栅衍射型宽波段大视场激光告警图像处理[J].激光杂志，2021(011)：042.  
+[20] 郑雅杰，卞奇，王晨，等．用于高斯光束匀化整形的微透镜阵列技术研究[J]. 中国激光，2025，52(01)：119-126.
+
+# Design and Implementation of a Beam Cross-section Measurement System for Strong Current Cyclotron
+
+LI Xianping, WEN Lipeng*, GUA

@@ -1,0 +1,13 @@
+内运行，等待下次引出。
+
+![](images/20e09798367ea0487c65af4a2582ef205ba127703149c45e6261517a1b65b24d.jpg)
+
+![](images/77a4b79da60789f073b7f7b6baa0ccce0c35caa33990fe2aa82face4449af80e.jpg)  
+图9 校正铁强度RMS频度分布图 (a) 水平，(b) 垂直
+
+![](images/c1a44520324b30c6f281e6c37afec84c691b9fee40f047a431c4df8a0055e49b.jpg)  
+Fig.9 RMS corrector strength frequency distribution map (a) Horizontal, (b) Vertical
+
+![](images/5a06b89806b1ffc09c3ea85385d04f4790262a5c1bbe3065d6f75ec07f1c867c.jpg)  
+图10 校正后校正铁强度分布图 (a) 水平，(b) 垂直  
+Fig.10 Distributio

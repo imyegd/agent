@@ -1,0 +1,14 @@
+4.20  
+均方根(EMS)：0.072（
+
+# 6 结论
+
+本文针对中国原子能科学研究院正在研制的 $18\mathrm{MeV}$ 强流回旋加速器，设计并实现了一套基于荧光靶与图像处理技术的束流截面测量系统。该系统基于荧光靶成像链路，依次完成相机采集、网络实时传输、ROI截取、灰度变换、畸变校正、去噪及Otsu阈值分割，进而对所得束斑图像执行三维重构、强度分布表征、质心提取、偏移量测算与均匀性评价，实现束斑的精确识别与实时解析。在 $18\mathrm{MeV}$ 回旋加速器调束期间，该系统被多次使用，极大提高了研究人员的效率。面向未来多流强回旋加速器及多样化应用场景，束流截面测量系统与控制系统深度交互，构建闭环反馈调节回路；并嵌入机器学习算法，实现束斑自动识别、噪声抑制及质心动态预测，从而具备复杂束斑形貌的在线测量能力。本系统有望在高辐射场景下稳定运行，为BNCT和中子成像的推广应用提供坚实保障。
+
+# 参考文献：
+
+[1] 安世忠, 管锋平, 魏素敏, 等. 中国原子能科学研究院紧凑型强流质子回旋加速器的发展和应用[J]. 原子能科学技术, 2024, 58(S2): 464-474.  
+[2] 冀鲁豫，安世忠，管锋平，等．用于硼中子俘获治疗的强流回旋加速器束流动力学研究[J].原子能科学技术，2025, 59(1): 220-230.  
+[3] Chao D S, Liu Y H, Jiang S H. Demonstration of the importance of a dedicated neutron beam monitoring system for BNCT facility [J]. Applied Radiation & Isotopes, 2016, 107: 312-316.   
+[4] 管锋平，温立鹏，解怀东. LabVIEW 在束流信号控制系统的应用[J]. 电工技术(下半月)，2017(4):78-79.  
+[5] Renuka K, Becker F, Ensinger W, et al. Imaging properties of scintillation screens for high energetic ion beams [J]. IEEE Transactions on Nuclear Science, 2012, 59(5): 2301-2306

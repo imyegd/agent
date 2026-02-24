@@ -1,0 +1,7 @@
++ 1} = K _ {i} \left(y _ {i} + x _ {i} \tan \theta_ {i}\right) = K _ {i} \left(y _ {i} + x _ {i} d _ {i} 2 ^ {- i}\right) \\ z _ {i + 1} = z _ {i} - d _ {i} 2 ^ {- i} \\ d _ {i} = \left\{ \begin{array}{l l} 1 & z _ {i} \geq 0 \\ - 1 & z _ {i} <   0 \end{array} \right. \end{array} \right. \tag {8}
+$$
+
+在正常计算时， $x_{n}$ 、 $y_{n}$ 是伪旋转输出结果，尚未做模直补偿，因此，等式右边的真实坐标需要乘 $K$ 的倒数。经过 $n$ 次迭代，最终表示的结果为
+
+$$
+\left\{ \begin{array}{l} x _ {n} = \frac {1}{K} \left(x _ {0} \cos z _ {0} - y \sin z _ {0}\right) \\ y _ {n} = \frac

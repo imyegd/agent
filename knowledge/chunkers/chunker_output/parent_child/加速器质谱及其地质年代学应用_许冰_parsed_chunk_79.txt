@@ -1,0 +1,13 @@
+，方程简化为：
+
+$$
+T _ {\exp} = - 1 / \lambda \times \ln \left[ 1 - \lambda N _ {\cos} (0, T _ {\exp}) / \sum \left(P _ {i} (0)\right) \right] \tag {5}
+$$
+
+同样，对于暴露时间较短 $t \ll T _ { 1 / 2 }$ ）的稳定核素，公式（4）和（5）可简化为：
+
+$$
+\begin{array}{l} T _ {\exp} = \ln \left[ \left(N _ {\cos} (z, T _ {\exp}) / \left(\sum \left(P _ {i} (z) e ^ {- z p / \Lambda_ {i}}\right)\right) \right] \right. (6) \\ T _ {\exp} = \ln \left[ N _ {\cos} (0, T _ {\exp}) / \sum \left(P _ {i} (0)\right) \right] (7) \\ \end{array}
+$$
+
+在自然条件下，地表在暴露过程中存在侵蚀，

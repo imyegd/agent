@@ -1,0 +1,14 @@
+Monte Carlo geometric splitting variance reduction technique[J]. Nuclear Techniques, 2025, 48(1): 010202. DOI: 10.11889/j. 0253-3219.2025. hjs. 48.230415. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.230415.   
+6 Fasso A. Radiation protection for particle accelerator facilities[J]. Health Physics, 2005, 88(2): 175. DOI: 10.1097/00004032-200502000-00009.   
+7 Blaha J, La Torre F P, Silari M, et al. Long-term residual radioactivity in an intermediate-energy proton linac[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2014, 753: 61–71. DOI: 10.1016/ j.nima.2014.03.058.   
+8 徐翀, 李武元, 徐俊奎, 等. HIAF高能辐照终端感生放射性[J]. 原子核物理评论, 2018, 35(2): 165–171.  
+XU Chong, LI Wuyuan, XU Junkui, et al. Induced radioactivity at high-energy irradiation terminal of HIAF [J]. Nuclear Physics Review, 2018, 35(2): 165–171.   
+9 杨博. 强流重离子加速器装置(HIAF)感生放射性及其影响研究[D]. 兰州: 中国科学院近代物理研究所, 2023.DOI: 10.27560/d.cnki.gkjwc.2023.000031.  
+YANG Bo. Study on induced radioactivity of HIAF and its influence[D]. Lanzhou: Institute of Modern Physics, Chinese Academy of Sciences, 2023. DOI: 10.27560/d. cnki.gkjwc.2023.000031.   
+10 鄂得俊, 黄礼明, 刘昌奇, 等. 大连先进光源束流垃圾桶屏蔽设计及热工分析[J]. 强激光与粒子束, 2024, 36(1):150–155.  
+E Dejun, HUANG Liming, LIU Changqi, et al. Dalian Advanced Light Source beam dump radiation shielding design and thermal analysis[J]. High Power Laser and Particle Beams, 2024, 36(1): 150–155.   
+11 Ballarini F. The FLUKA code: overview and new developments[J]. EPJ Nuclear Sciences & Technologies, 2024, 10: 16. DOI: 10.1051/epjn/2024015.   
+12 SRIM - the stopping and range of ions in matter[EB/OL]. [2024-12-13]. http://www/srim.org.   
+13 Nakamura T, Fujii M, Shin K. Neutron production from thick targets of carbon, iron, copper, and lead by 30- and 52-MeV protons[J]. Nuclear Science and Engineering, 1983, 83(4): 444–458. DOI: 10.13182/nse83-a18648.   
+14 王豫庆, 李多宏, 张荣华, 等. 热中子屏蔽性能测试平台设 计 优 化 及 影 响 因 素 分 析 [J]. 核 技 术 , 2024, 47(9):090202. DOI: 10.11889/j.0253-3219.2024.hjs.47.090202.  
+WANG Yuqing, LI Duohong, ZHANG Ronghua, et al. Design optimization and influencing factor analysis of

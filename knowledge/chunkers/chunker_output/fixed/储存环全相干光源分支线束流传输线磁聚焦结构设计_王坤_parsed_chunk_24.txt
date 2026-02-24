@@ -1,0 +1,5 @@
+elf-optimizing magnet power supply controller for Hefei Advanced Light Facility[J]. Nuclear Techniques, 2025, 48(5): 050201. DOI: 10.11889/j.0253- 3219.2025. hjs. 48.240276. CSTR: 32193.14. hjs. CN31- 1342/TL.2025.48.240276.   
+22 王振伟, 许杭华, 郝子锐, 等. 基于激光康普顿散射的电子束参数测量方法[J]. 核技术, 2024, 47(11): 110203.DOI: 10.11889/j. 0253-3219.2024. hjs. 47.110203. CSTR:32193.14.hjs.CN31-1342/TL.2024.47.110203.  
+WANG Zhenwei, XU Hanghua, HAO Zirui, et al. The method of measuring electron beam parameters based on laser Compton scattering[J]. Nuclear Techniques, 2024, 47 (11): 110203. DOI: 10.11889/j. 0253-3219.2024. hjs. 47. 110203. CSTR: 32193.14. hjs. CN31-1342/TL. 2024.47. 110203.   
+23 邓又铭, 冷用斌, 周逸媚, 等.电子储存环逐束团诊断技术研究进展[J]. 核技术, 2024, 47(10): 100201. DOI: 10.11889/j.0253-3219.2024.hjs.47.100201. CSTR: 32193.14.hjs.CN31-1342/TL.2024.47.100201.  
+DENG Youming, LENG Yongbin, ZHOU Yimei, et al. Current status and latest developments in electron storage ring bunch-by-bunch beam diagnostic techniques[J]. Nuclear Techniques, 2024, 4

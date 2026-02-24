@@ -1,0 +1,9 @@
+laser ion source for BISOL[J]. Atomic Energy Science and Technology, 2021, 55(Suppl.): 165-170(in Chinese).   
+[56] 王友宝, 苏俊, 韩治宇, 等. 利用强流 ISOL 束研究 $^{20}\mathrm{Na}$ 的奇异衰变模式[J]. 原子核物理评论, 2018, 35(4): 445-449.  
+WANG Youbao, SU Jun, HAN Zhiyu, et al. Exotic decay modes of $^{20}\mathrm{Na}$ studied with intense ISOL beams[J]. Nuclear Physics Review, 2018, 35(4): 445-449(in Chinese).   
+[57] ZHANG H, LI Z H, SU J, et al. Direct measurement of the resonance strengths and branching ratios of low-energy $(\mathfrak{p},\gamma)$ reactions on Mg isotopes[J]. Chinese Physics C, 2021, 45(8): 084108.
+
+[58] 柳卫平, 李志宏, 何建军, 等. 锦屏深地核天体物理实验 (JUNA) 进展 [J]. 原子能科学技术, 2019, 53(10): 1729-1741.  
+LIU Weiping, LI Zhihong, HE Jianjun, et al. Progress in Jinping deep core astrophysics experiment (JUNA)[J]. Atomic Energy Science and Technology, 2019, 53(10): 1729-1741(in Chinese).   
+[59] 张环宇, 连钢, 刘萍, 等. 锦屏深地核天体物理实验室屏蔽计算[J]. 原子能科学技术, 2018, 52(7): 1181-1185.  
+ZHANG Huanyu, LIAN Gang, LIU Ping, et al. Shielding calculation for Jinping

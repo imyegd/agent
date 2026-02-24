@@ -1,0 +1,7 @@
+hus
+
+become an internationally influential center for isochronous accelerator research, focusing on pioneering research in three main directions: ultra-compact, ultra-lightweight, and high-power isochronous cyclotrons based on LTS and HTS technology.
+
+Key words: isochronous accelerator; strong focusing; high intensity; high-temperature superconductivity
+
+等时性加速器自20世纪初诞生以来，已走过近百年发展历程[1]。作为粒子加速器的重要分支，等时性加速器因其结构紧凑、束流连续、运行稳定等特点，在国家安全、核能开发、空间辐照模拟、医用放射性同位素生产、中子源以及核物理基础研究等领域发挥着不可替代的作用[2]。代表性装置包括传统的AVF(azimuthallyva

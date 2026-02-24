@@ -1,0 +1,3 @@
+I: 10.1007/s13246-021- 01084-1.   
+于浪, 杨波, 孙显松, 等. Halcyon 加速器机房的防护设计[J]. 中[7]华放射肿瘤学杂志，2020，29（12）：1086-1090. DOI: 10.3760/cma.j.cn113030-20200413-00175.Yu  L,  Yang  B,  Sun  XS,  et  al. Protection  design  of  Halcyonaccelerator room[J]. Chin J Radiat Oncol, 2020, 29（12）: 1086-1090.DOI: 10.3760/cma.j.cn113030-20200413-00175. (in Chinese)  
+Kaur  A,  Sahani  G,  Shrivastava  A,  et  al. Optimization  of  radiation[8] shielding  considerations  for  designing  halcyon  vault[J]. J  Med Phys, 2023, 48（1）: 1

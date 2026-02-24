@@ -1,0 +1,8 @@
+18.jpg)  
+图 2    二维模拟时采用的周期结构  
+(a) solenoid
+
+![](images/0e867cc3efa33402c11348804b93be382272a23a45b3e32d54da4187a99d022f.jpg)  
+(b) doublet   
+Fig. 3    Periodic structure adopted in three-dimensional simulation   
+图 3    三维模拟时采用的周期结构

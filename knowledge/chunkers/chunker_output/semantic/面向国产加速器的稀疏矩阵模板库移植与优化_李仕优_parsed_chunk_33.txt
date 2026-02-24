@@ -1,0 +1,23 @@
+三种优化方法的整体效果在 TF32 数据类型和FP16 数据类型（FP32 写回和 FP16 写回）上使性能分别平均提升了 $3 0 \%$ 、 $1 0 8 \%$ 和 $1 1 5 \%$ 。
+
+# 4.3.2 同平台 SPARSE 数学库对比实验
+
+对于单精度 FP32 数据类型，移植与优化后的CUTLASS-Sparse 相 较 于 国 产 加 速 器 平 台 的SPARSE 数学库的性能加速比如图 12 所示，横坐标为 数 据 集 序 号 ， 纵 坐 标 为 移 植 与 优 化 后 的CUTLASS-Sparse 性能相较于 SPARSE 数学库性能的加速比。移植与优化后的 CUTLASS-Sparse 在各个数据集上的性能均高于 SPARSE 数学库的性能，在国产加速器 K 型号上，平均为 SPARSE 数学库性能的 2.36 倍；在国产加速器 B 型号上，平均为SPARSE 数学库性能的 3.09 倍。实验验证了移植与优化后的 CUTLASS-Sparse 能够在本研究所面向的某系列国产加速器的不同型号上实现适配并保持高
+
+性能表现。
+
+![](images/6ff87b5764db3eb151527e0703f4dd910916555a1342b8f7c03e32db509e0c6d.jpg)  
+图 12 CUTLASS-Sparse 相较于 SPARSE 的加速比  
+Fig.12 The speedup of CUTLASS-Sparse compared to SPARSE
+
+移植与优化后的 CUTLASS-Sparse 性能显著高于 SPARSE 数学库性能的重要原因是 Tensor Core 相较于通用计算核心拥有显著的性能优势，其能够在单次执行中并行完成多次乘累加操作，例如对于规模为 $1 6 \times 8$ 和 $8 \times 1 6$ 的矩阵乘法，基于通用计算核心方式完成该运算需要数十至数百条乘累加指令，而基于Tensor Core方式仅需一条专用指令即可完成该运算，大幅提高了计算性能。
+
+# 4.3.3 NVIDIA GPU L20 对比实验
+
+图 13 给出了国产加速器 K 型号上移植与优化后的 CUTLASS-Sparse 与 NVIDIA GPU L20 上CUTLASS-Sparse 原库的性能对比结果，以 GPU L20性能为基准（ $1 0 0 \%$ ），纵坐标表示国产加速器 K 型号性能达到 GPU L20 性能的百分比。对于 TF32 数据类型，移植与优化后的 CUTLASS-Sparse 在国产加速器K型号上的性能平均达到GPU L20上原库性能的 $7 6 \%$ 。对于 FP16 数据类型（FP32 写回和 FP16写回），移植与优化后的 CUTLASS-Sparse 在国产加速器 K 型号上的性能平均达到 GPU L20 上原库
+
+（FP32 写回和 FP16 写回）性能的 $6 1 \%$ 和 $6 0 \%$ 。
+
+![](images/ba3e32d3f3783452cc203f557402f62489e3983aca870c7e342f82a3ee9a3e77.jpg)  
+图 13 国产加速器 K 型号相较于 GPU L20 的性能百分比  
+Fig.13 The performance percentage of domestic accelerator K compared to the GPU L20

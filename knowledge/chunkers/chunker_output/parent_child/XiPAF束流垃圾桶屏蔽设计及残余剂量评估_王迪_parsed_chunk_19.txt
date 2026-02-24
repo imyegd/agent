@@ -1,0 +1,10 @@
+聚乙烯与石墨的次级中子能谱几乎相同，且前者的中子产额更低，因此选择聚乙烯作为靶芯材料。
+
+对于质子与靶芯作用产生的次级高能中子，其能量损失以非弹性散射为主，需要使用重元素材料快速消耗快中子的能量，考虑成本、工艺、生物毒性
+
+表2 不同能量质子在几种材料中的横向岐离  
+Table 2 Lateral straggling data of protons at different energies in various materials   
+
+<table><tr><td rowspan="2">质子能量
+Proton energy / MeV</td><td colspan="6">不同材料中的质子横向歧离
+Lateral straggling data of protons in various materials / mm</td></tr><tr><td>聚乙烯 Polyethylene</td><td>石墨 Graphite</td><td>铝 Aluminum</td><td>铁 Iron</td><td>铜 Copper</td><td>铅 Lead</td></tr><tr><td>10</

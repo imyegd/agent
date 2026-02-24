@@ -1,0 +1,12 @@
+. 9 0 7 \mathrm { k N }$ 、$0 . 2 5 \mathrm { k N } \cdot \mathrm { m }$ 和 $0 . 1 1 0 \mathrm { m m }$ 。取内龙骨的截面力学参数截面抵抗矩W和截面惯性矩I分别为 $4 . 4 1 \mathrm { c m } ^ { 3 }$ 和$8 . 8 3 \mathrm { c m } ^ { 4 }$ 。
+
+![](images/2562ad0e61466cab71ac2c611914373d491c4199106128354567fba597549e34.jpg)  
+图16 内龙骨的弯矩（kN·m）
+
+![](images/1ac683d9238661fceea34adf8ac2405524de75bebaba9c5a55b1e6993f02c8d0.jpg)
+
+![](images/9dac191790c2cee203aa6076d1e298889520366e7bab6eca4337ec9930063c15.jpg)  
+图17 内龙骨的剪力（kN）  
+图18 内龙骨的位移（mm）
+
+内龙骨的抗弯强度 $

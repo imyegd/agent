@@ -1,0 +1,37 @@
+# 1.2 狭缝平移扫描法测量原理
+
+狭缝平移扫描法测量电子直线加速器X射线焦点尺寸原理如图3所示。狭缝从焦点的一侧开始，按步进方式沿着水平方向（或垂直方向）逐步移动至另一侧。每当狭缝移动至一个新位置时，都会实时记录通过狭缝的X射线强度数据。通过这种方式，能够获取到焦点在该方向上的X射线强度分布，并形成离散的强度测量数据。基于该分布数据，进一步通过分析这些离散的X射线强度值，可以计算出该方向焦点的尺寸。
+
+![](images/34f75aa39598a19b4a64776a342dd4d5eb7b9d09b5509b003f7ac95960754756.jpg)  
+图3 狭缝平移扫描法原理图（彩图见网络版）  
+Fig.3 Schematic diagram of the slit translation scanning method (color online)
+
+狭缝对准加速器焦点时，焦点宽度w（狭缝有效宽度）区域发出的X射线穿过狭缝后由探测器接收，根据式（1），沿着狭缝方向对X射线强度进行积分，可以得出该区域发出的X射线穿过狭缝后被探测器接收的X射线强度为：
+
+$$
+\begin{array}{l} S \left(x ^ {\prime}\right) = I _ {0} \int_ {- \infty} ^ {+ \infty} \exp \left(- \frac {y ^ {2}}{2 \sigma_ {y} {} ^ {2}}\right) d y \int_ {x ^ {\prime}} ^ {x ^ {\prime} + w} \exp \left(- \frac {x ^ {2}}{2 \sigma_ {x} {} ^ {2}}\right) d x \\ = \sigma_ {y} I _ {0} \sqrt {2 \pi} \int_ {x ^ {\prime}} ^ {x ^ {\prime} + w} \exp \left(- \frac {x ^ {2}}{2 \sigma_ {x} {} ^ {2}}\right) d x \tag {2} \\ \end{array}
+$$
+
+式中： $x ^ { \prime }$ 是焦平面中的坐标； $w$ 表示有效狭缝宽度，其是在焦点处检测到的宽度，取决于狭缝长度l、狭缝宽度 $w _ { 0 }$ 和狭缝到焦点的距离 $h$ ，如图4所示。
+
+$$
+w = \left(\frac {2 h}{l} + 1\right) w _ {0} \tag {3}
+$$
+
+通过移动狭缝在 $[ - b , b ]$ 范围内对X射线强度进行采样，可以收集到离散序列：
+
+$$
+\left\{S \left[ x ^ {\prime} = \frac {(2 k - N) b}{N} \right] \right\} _ {k = 1, \dots , N} \tag {4}
+$$
+
+式中： $N$ 表示采样频率，采样间隔 $d = 2 b / N .$ 。通常，将 $^ { b }$ 设置为待测量焦点尺寸的两倍，这个采样序列可以很好地拟合出焦点在 $X$ 方向的X射线强度实际分布曲线［20］ 。
+
+![](images/0e075f29a149c69c41fca10457ed0c8a22baf48c5eb0f5b4a193fd38e7d3204f.jpg)  
+图4 狭缝有效宽度 $w$ 与狭缝长宽l及狭缝与焦点间距离h的关系示意图  
+Fig.4 Schematic diagram of the relationship among the effective slit width w, slit length l, and slit-to-focal point distance h
+
+$$
+\begin{array}{l} f \left(x ^ {\prime}, \cdot\right) = \int_ {- \infty} ^ {+ \infty} f \left(x ^ {\prime}, y\right) d y \tag {5} \\ = \sigma_ {y} I _ {0} \sqrt {2 \pi} \exp \left(- \frac {x ^ {\prime 2}}{2 \sigma_ {x} {} ^ {2}}\right) \\ \end{array}
+$$
+
+最终使用采集到的X射线强度离散序列 $S ( \boldsymbol { x } ^ { \prime } )$ 来拟合X射线强度实际分布 $f ( x ^ { \prime } , \cdot )$ ，利用半高宽法求出 $X$ 方向的焦点尺寸。同理，也可以求出Y方向的焦点尺寸。

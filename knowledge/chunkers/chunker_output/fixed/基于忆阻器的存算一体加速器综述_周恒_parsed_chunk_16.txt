@@ -1,0 +1,16 @@
+心主任。主要研究方向为计算机系统结构、大数据存储系统、非易失存储技术、存算融合技术。dfeng@hust.edu.cn
+
+![](images/a59f2953e2db5a058f91610a6419f96d0302ec8830c910394f44747dd03fd3dd.jpg)
+
+# 童　薇
+
+CCF 专业会员。华中科技大学教授。主要研究方向为计算机体系结构、非易失存储和存算一体技术。tongwei@hust.edu.cn
+
+# 参考文献
+
+[1] Fabian  Oboril,  Rajendra  Bishnoi,  Mojtaba  Ebrahimi,  et  al.
+
+Evaluation  of  Hybrid  Memory  Technologies  Using  SOT-MRAM  for  On-Chip  Cache  Hierarchy[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2015, 34(3): 367−380.   
+Sayeef Salahuddin, Kai Ni, Suman Datta. The Era of Hyper-[2] Scaling  in  Electronics[J].  Nature Electronics,  2018,  1: 442−450.   
+Can  Li,  Lili  Han,  Hao  Jiang,  et  al.  Three-Dimensional[3] Crossbar  Arrays  of  Self-Rectifying $\mathrm { S i } / \mathrm { S i O } _ { 2 } / \mathrm { S i }$ Memristors[J]. Nature Communications, 2017, 8: 15666.   
+Rivu  Midya,  Zhongrui  Wang,  Jiaming  Zhang,  et  al.[4] Anatomy  of  Ag/Hafnia-Based  Selectors  with 1010 ${ 1 0 } ^ { 1 0 }$ Nonlinearity[J].  Advanced Materials,

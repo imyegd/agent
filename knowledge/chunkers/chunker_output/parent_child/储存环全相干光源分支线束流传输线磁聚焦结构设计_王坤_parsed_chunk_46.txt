@@ -1,0 +1,4 @@
+of the SSRF electron-beam transfer lines[J]. Nuclear Science and Techniques, 2006, 17(4): 193–197. DOI: 10.1016/s1001- 8042(06)60036-5.   
+10 韩毅昂. 上海光源束流输运线物理设计与技术方案优化的计算研究[D]. 上海: 中国科学院上海应用物理研究所, 2006.  
+HAN Yi'ang. Calculation study of physical design and technical scheme optimization for SSRF electron beam transfer lines[D]. Shanghai: Shanghai Institute of Applied Physics, Chinese Academy of Sciences, 2006.   
+11 Micheal B. Elegant: A flexible SDDS-compliant code for accelerator simulation[C]. Darmstadt,

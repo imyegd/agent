@@ -1,0 +1,3 @@
+er to solve this problem, this paper designs a new hardware accelerator, which uses the simplicity and efficiency of the CORDIC algorithm to achieve high-precision trigonometric function operation, and uses the hardware module to realize the entire
+
+control process of field oriented control (FOC), and the maximum delay for completing a FOC operation is 264.5 ns. This drastically reduces the runtime and energy consumption of signal processing algorithms, and the new accelerator module will provide users with

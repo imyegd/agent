@@ -1,0 +1,6 @@
+ER B, STRADMANN Y, SCHEMEML J, et al. The Heidelberg spiking data sets for the systematic evaluation of spiking neural networks [J]. IEEE Transactions on Neural Networks and Learning Systems, 2020, 33(7):2744-2757.   
+[9] MODARESI F, GUTHAUS M, ESHRAGHIAN J. K. OpenSpike: An OpenRAM SNN accelerator[C]// Proceedings of the 2023 IEEE International Symposium on Circuits and Systems, 2023:1-5.
+
+[10] GUPTA V, MOHAPATRA D, RAGHUNATHAN A, et al. Low-power digital signal processing using approximate adders [J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2013, 32(1): 124-137.   
+[11] LIU B, DONG W, XU T T, et al. E-ERA: An energy-efficient reconfigurable architecture for RNNs using dynamically adaptive approximate computing [J]. IEICE Electronics Express, 2017, 14(15): Article ID 20170637.   
+[12] HO N-M, MANOGARAN E, WONG W-F, et al. Efficient floating point precision tuning for approximate computing[C]//Proceedings of the 22nd Asia and South Pacific Design Automation Conference, 2

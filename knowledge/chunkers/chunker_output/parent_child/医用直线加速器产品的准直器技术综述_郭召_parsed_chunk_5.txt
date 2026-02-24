@@ -1,0 +1,5 @@
+的核心执行单元。早期的医用直线加速器只配置光阑，仅能形成方野，因此只能开展普放治疗。为了提升适形精度，医务工作者采用低
+
+熔点铅依据患者照射野形状制成适形挡块作为辅助准直器。随后为了提升工作效率，市场上推出了手动多叶光栅，可以根据患者照射野形状快速手动调整叶片位置形成所需照射野形状。到 20世纪 90年代，数控技术及精密制造技术的快速发展推动了多叶光栅的电动化。电动多叶光栅（dynamic multi-leaf collimator, D-MLC）的出现推动了精准放射治疗
+
+时代的到来，并逐渐演变出多种不同规格形式的多叶光栅，在临床中发挥着重要作用，尤其是调强放射治疗（intensity modulated radiation therapy, IMRT）和容积旋转调强放射治疗（volumetric modulated arctherapy, VMAT）［1］。与此同时，为满足立体定向放射 外 科（stereotactic radiosurgery, SRS）、立 体 定 向放 射 治 疗（stereotactic radiotherapy, SRT）、体 部 立体 定 向 放 射 治 疗（stereotac

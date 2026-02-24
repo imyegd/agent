@@ -1,0 +1,7 @@
+36.  
+[10] MelihYildirim, FirstKacar. Adapting Laplacian based filtering in digital image processing to a retina-inspired analog image processing circuit[J]. Analog Integrated Circuits and Signal Processing,
+
+2019, 100(3): 9.   
+[11] 于春蕾，阎映炳，陈杰，等. Sxfel 和 dcls 束流截面测量系统软件设计[J]. 核电子学与探测技术,2018,38(01):16-20.  
+[12] Latini G, Chiadroni E, Mostacci A, et al. Design of machine learning-based algorithms for virtualized diagnostic on SPARC _ LAB accelerator [J]. Photonics, 2024, 11(6).   
+[13] Zhang Z. A flexible n

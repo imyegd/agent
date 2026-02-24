@@ -1,0 +1,16 @@
+［17］ HerbRG，ParkinsonDB，KerstDW．AVandeGraaffelectrostaticgeneratoroperatingunderhighairpressure［J］．ReviewofScientifiInstruments，1935，6（9）：261－265  
+［18］SynalHA，DöbeliM，JacobS，etal．RadiocarbonAMStowardsitlow-energylimits［J］．NuclearInstrumentsandMethodsinPhysicResearchSectionB：Beam InteractionswithMaterialsandAtoms，2004，223：339－345．doi：10．1016／j．nimb．2004．04．067  
+［19］ SynalHA．Developments in acceleratormass spectrometry［J］InternationalJournalofMassSpectrometry，2013，349：192－202doi：10．1016／j．ijms．2013．05．008  
+［20］ WhittierAC．Fastnegativehydrogenions［J］．CanadianJournaloPhysics，1954，32（4）：275－290  
+［21］ WeinmanJA，Cameron JR．Negativehydrogen ion source［J］ReviewofScientificInstruments，1956，27（5）：288－293  
+［22］ JollyT．Characterization ofion sources［M］∥ BernardiG edHandbookofIonSources．BocaRaton：CRCPress，2017：209－237  
+［23］ MiddletonR，AdamsCT．A closetouniversalnegativeionsourc［J］．NuclearInstrumentsandMethods，1974，118（2）：329－336  
+［24］AnbarM．MassSpectrometricDeterminationofCarbon-14：U．S．Paten3,885，155［P］．1975－5－20  
+［25］ GoveHE， Purser K H， Litherland A E． Accelerator massspectrometry（AMS）1977－1987［J］．NuclearInstrumentsandMethodinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2010，268（7）．doi：10．1016／j．nimb．2009．10．007  
+［26］ AnbarM．ThelimitationsofmassspectrometricradiocarbondatingusingCN ions［C］∥ ProceedingsoftheFirstConferenceonRadiocarbon Dating with Accelerators．Rochester：University oRochester，1978：152－155  
+［27］ BertscheKJ，KaradiC A， MullerR A， etal．Detection oradiocarboninthecyclotrino［J］．NuclearInstrumentsandMethodsinPhysicsResearchSectionB：Beam InteractionswithMaterialsandAtoms，1990，52（3－4）：398－404  
+［28］ ChenM B，LiD M，XuSL，etal．ThesuccessfulSINR mincyclotronAMSfo $^ { 1 4 } \mathrm { C }$ dating［J］．NuclearInstrumentsandMethodsinPhysicsResearchSectionB：Beam InteractionswithMaterialsandAtoms，1994，92（1－4）：213－216  
+［29］ ZhouW J，ChenM B，LiuYH，etal．Radiocarbondeterminationsusingaminicyclotron：Applicationsin archaeology［J］．NucleaInstrumentsand Methodsin PhysicsResearch Section B：BeamInteractionswithMaterialsandAtoms，2000，172（1－4）：201－205  
+［30］ MüllerA $\mathbf { M }$ ，Christ $\mathbf { M }$ ，Döbel $\mathbf { M }$ ，etal $1 0$ 0BeAMSmeasurementsalowenergies $E < 1$ 1MeV）［J］．NuclearInstrumentsandMethodsinPhysicsResearchSectionB：Beam InteractionswithMaterialsandAtoms，2008，266（10）：2207－2212  
+［31］ ElmoreD， Phillips F M． Accelerator mass spectrometry fomeasurementof long-lived radioisotopes［J］． Science， 1987，236（4801）：543－550  
+［32］李康宁，阚朝新，王晓飞，等．HI-13串列加速器运维 35周年的实践与创新［J］．核技术，2023，46（8）：080005．doi：1011889／j．0253－3219．2023．hjs．46.

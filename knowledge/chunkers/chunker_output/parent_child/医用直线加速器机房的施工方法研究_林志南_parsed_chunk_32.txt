@@ -1,0 +1,12 @@
+f99f588d6f4df2cb.jpg)  
+图20 外龙骨的弯矩图（kN·m）
+
+![](images/bff5d03b607068d68cd1ad9dade3d0c267e5aa48a447367f24d4e008f7c01d7c.jpg)  
+图21 外龙骨的剪力（kN）
+
+![](images/9a3510f9d2211bd30e5c96bbf18eda5ddedcab22497e6af07bdc6d18b06e4268.jpg)  
+图22 外龙骨的位移（mm）
+
+外龙骨抗弯强度 $f = M / W { = } 0 . 3 8 6 \times 1 0 6 /$ $1 . 0 5 / 6 5 5 8 . 9 { = } 5 6 . 0 5 \mathrm { N / m m } ^ { 2 }$ ，小于 $2 1 5 \mathrm { N } / \mathrm { m m } ^ { 2 }$ 。
+
+外龙骨的最大位移为 $0 . 1 2 6 \mathrm { { m m } }$ ，小于450.0/400，外龙骨挠度满足变形要求。

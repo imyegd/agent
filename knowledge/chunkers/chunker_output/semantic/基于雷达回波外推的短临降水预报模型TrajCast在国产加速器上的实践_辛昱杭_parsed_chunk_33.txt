@@ -1,0 +1,1 @@
+In this paper, he is responsible for the design and implementation of the TrajCast scheme and experiments on GPU.

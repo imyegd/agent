@@ -1,0 +1,10 @@
+在测量过程中大部分时间保持稳定，偏移量均在 $0 . 1 \mathrm { m m }$ 以内，符合系统误差的容许范围。然而，个别时刻焦点偏移可达 $0 . 6 \mathrm { m m }$ ，可能与电子束的不稳定性以及实验条件的波动有关。
+
+![](images/752f5658d977b608fb468e96017f555a10d18f2da8f5ed9311e79716c32bb28b.jpg)
+
+![](images/1d06f6f09f31810993300b3da64301815fa3373947ce72d6a34cc4d1a108a6a7.jpg)
+
+![](images/4bf100702fbb50b214c5bf6caef620dcd4456b5dd3d7fc1f05a64c4b4d6720a0.jpg)  
+图15 三种电子直线加速器X射线焦点尺寸测量仪测量焦点稳定性结果  
+(a) 2 MeV，(b) 6 MeV，(c) 9 MeV   
+Fig.15 Focal spot stability measurement results of three electron linear

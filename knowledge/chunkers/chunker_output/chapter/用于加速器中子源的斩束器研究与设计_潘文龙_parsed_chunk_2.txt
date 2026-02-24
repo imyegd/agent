@@ -1,0 +1,23 @@
+# Research and design of chopper for accelerator neutron source
+
+Pan Wenlong1,2，   Li Haipeng1,2，   Wang Sheng1,2,3，   Su Haoquan1,2，   Zhu Jie1,2
+
+（1. School of Nuclear Science and Technology, Xi’an Jiaotong University, Xi’an 710049, China;
+
+2. Huzhou Neutron Science Laboratory, Xi’an Jiaotong University, Huzhou 313000, China;
+
+3. Hua Boron Neutron Technology (Hangzhou) Co, Ltd, Hangzhou 310000, China）
+
+Abstract：    [Background] Cancer is a major global health issue. With the development of accelerator physics, boron  neutron  capture  therapy  based  on  accelerator  neutron  sources  has  received  widespread  attention.  In  the accelerator system, the low energy beam transport is responsible for connecting the ion source and accelerator, as well as processing the beam. For the problem of beam deflection, the chopper is required, so a high-performance chopper is crucial  for  the  entire  system. [Purpose] This  study  aims  to  improve  the  electric  field  uniformity  of  the  chopper  by using  circular  arc  plates  instead  of  parallel  plates,  and  to  simulate  the  chopper  design  through  Python  program coupling using CST Studio Suite and TraceWin software. [Methods] The beam deflection formula of the chopper was theoretically  derived,  and  the  electrostatic  and  beam  dynamics  design  was  completed  using  CST  Studio  Suite  and TraceWin software. The advantages and feasibility of the circular arc plate were verified through coupling simulation of  the  two  software. [Results] Theoretical  calculations  and  simulations  show  that  the  electric  field  distribution  of circular  arc  plates  is  more  uniform,  and  the  beam  deflection  function  is  efficiently  completed,  confirming  the feasibility of the design scheme. [Conclusions] By coupling CST Studio Suite with TraceWin software for simulation, a more realistic simulation of beam dynamics can be achieved, which addresses the issue that TraceWin software is incapable  of  setting  the  electric  field  strength  of  circular  arc  plates.  The  coupled  simulation  method  of  CST  Studio Suite and TraceWin has been developed, which has certain value for research on chopper design.
+
+Key  words：    accelerator-based  neutron  source, boron  neutron  capture  therapy, chopper, beam  dynamic, electrostatic field calculation
+
+加速器中子源是利用加速器将粒子加速到一定能量通过打靶产生中子，以建造周期短、中子产额高、安全等优势受到广泛关注。加速器中子源可以用于中子探测、中子成像等方面[1-2]，尤其在核医学领域有着广阔前景。
+
+癌症是全球范围重大公共卫生问题，是全球第二大死因[3]。以中美为例，2022年，中国癌症新发病例数约为
+
+482.47 万例，新增癌症死亡例数约为 257.42 万例，2024 年，美国新发病例与死亡病例为 200.11 万例和 61.17 万例[4]。硼中子俘获治疗（Boron Neutron Capture Therapy, 简称 BNCT）作为核医学领域新方法成为当下研究热点[5]，研究用于BNCT 的加速器中子源具有重要意义。
+
+加速器中子源中位于离子源与加速器之间的部分称为低能束流传输线[6]（Low Energy Beam Transport, 简称 LEBT），负责调节束流时间结构参数，通常射频加速器采用脉冲束流的模式，而离子源产生的质子束流长度通常在毫秒或者亚毫秒量级[7]，由离子源产生的束流，其脉冲时间结构和后端粒子加速器运行模式往往不匹配，所以在进入加速器之前需要把多余的束流斩切掉，这样就需要引入束流偏转系统，具有这样功能的装置称为斩束器（chopper）。
+
+斩束器根据结构分类有三种：静电类[8-9]、静电结合静磁类[10]，以及磁合金感应类[11]。一般对于速度接近光速需要采用相对论动力学处理的粒子，称为高能粒子，反之则为低能粒子。对于低能粒子常采用电偏转方式，而高能粒子采用磁偏转方式[12]，在 LEBT 段的粒子速度通常在 $1 0 ^ { 6 } \mathrm { m / s }$ 量级，所以采用静电类型斩束器。本文基于应用于硼中子俘获治疗的加速器中子源，为其研究设计了斩束器装置，优化了电场分布均匀性以改善束流品质，并通过Python 程序实现 CST Studio Suite 与 TraceWin 软件对斩束器的耦合模拟以验证设计方案的性能。

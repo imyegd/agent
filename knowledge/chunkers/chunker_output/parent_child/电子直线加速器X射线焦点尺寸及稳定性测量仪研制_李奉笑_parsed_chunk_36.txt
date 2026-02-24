@@ -1,0 +1,13 @@
+2a038b2ad0241f281ea7306a1ec4570.jpg)
+
+![](images/6ad9b23ff25be309d0bb69863795d81e95702fe0323dbff12d9695820fc54d43.jpg)
+
+![](images/f6335877b22280748ad07f85d303a50d33fef09b25dd03f53cc9c2064bdd1e64.jpg)
+
+![](images/960f45831dc4ed8fea948f03452645266900630f61ca302ffe0e1e348760d67d.jpg)  
+图13 “三明治”法测量焦点尺寸结果图（彩图见网络版）  
+Fig.13 Focal spot size measurement results using the "sandwich" method (color online)
+
+利用本文设计的电子直线加速器X射线焦点尺寸测量仪，测量该加速器在 $X$ 方向和Y方向的X射线焦点尺寸，测量结果如图14所示。 $X$ 方向和Y方
+
+向的焦点尺寸分别为 $1 . 9 5 \mathrm { m m }$

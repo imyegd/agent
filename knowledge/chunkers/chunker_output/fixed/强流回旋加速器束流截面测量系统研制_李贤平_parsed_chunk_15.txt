@@ -1,0 +1,7 @@
+g Current Cyclotron
+
+LI Xianping, WEN Lipeng*, GUAN Fengping*, HOU Shigang, HUANG Peng, LI Yunlong, CUI Tianhao
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: In cyclotron operations, beam measurement technology plays a pivotal role in providing accurate feedback on the accelerator's operational status and beam extraction performance, thereby enhancing the quality of the extracted beam. The China Institute of Atomic Energy (CIAE) is developing a high-current cyclotron prototype applicable for both Boron Neutron Capture Therapy (BNCT) and neutron imaging. To monitor beam spot uniformity during accelerator operation, a beam cross-section measurement system has been designed. This system adopts a fluorescent target measurement method to acquire real-time beam cross-section images, which are then converted into directly observable 3D reconstructed images via image processing. Additionally, it calculates the uniformity coefficient enabling beam tuning personnel to rapidly adjust magnet param

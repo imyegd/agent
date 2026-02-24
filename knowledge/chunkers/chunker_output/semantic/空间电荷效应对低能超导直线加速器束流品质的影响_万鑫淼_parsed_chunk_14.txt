@@ -1,0 +1,19 @@
+![](images/9dc8ce430d4b00bf5ee1a8240fd4fa650eb4accdb47e52ed3adf09ed165aa8e8.jpg)  
+(a) solenoid
+
+![](images/32a7c5057a059400fdab52576ed322a0832b8846099108c7987804a4492bf5d8.jpg)  
+(b) doublet   
+Fig. 2    Periodic structure adopted in two-dimensional simulation
+
+![](images/4e4981cf1b7452c3973bade6437ae7f898318446cb0ff2715e09090392f98318.jpg)  
+图 2    二维模拟时采用的周期结构  
+(a) solenoid
+
+![](images/0e867cc3efa33402c11348804b93be382272a23a45b3e32d54da4187a99d022f.jpg)  
+(b) doublet   
+Fig. 3    Periodic structure adopted in three-dimensional simulation   
+图 3    三维模拟时采用的周期结构
+
+# 1.3    二维模拟
+
+采用 TraceWin软件进行模拟仿真，并利用 PARTRAN 进行多粒子跟踪。在模拟中，质子束流的初始分布为 KV分布，初始动能为 $1 0 \mathrm { M e V }$ ，连续波束流在 $x { - } x ^ { \prime }$ 和 y-y′平面上的初始归一化均方根发射度均设置为 $0 . 2 \pi$ ·mm·mrad，粒子数设置为 100 000。将调谐因子 $\eta$ 的范围选择在 1.0到 0.6之间，以确保模拟能够很好地适应各种情况。这里，我们主要讨论与束流质量有关的参数，如束流出口的均方根发射度，如图 4所示。同时，采用 Vlasov-Poisson 理论得到不同条件下所对应的阻带范围进行分析，如图5所示。

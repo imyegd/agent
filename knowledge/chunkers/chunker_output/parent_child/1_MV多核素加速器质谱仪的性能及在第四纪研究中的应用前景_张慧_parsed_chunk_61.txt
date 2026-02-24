@@ -1,0 +1,4 @@
+12，31（1）：7－23  
+［4］ 周卫健，卢雪峰，武振坤，等．西安加速器质谱中心多核素分析的加速器质谱仪［J］．核技术，2007，30（8）：702－708ZhouWeijian，LuXuefeng，WuZhenkun，etal．TheAMSfacilityaXi,anAMSCentre［J］．NuclearTechniques，2007，30（8）：702－708  
+［5］ KutscheraW．Applicationsofacceleratormassspectrometry［J］InternationalJournalofMassSpectrometry，2013，349：203－218．doi：10．1016／j．ijms．2013．05．023  
+［6］姜山．超高灵敏加速器质谱技术及应用进展［J］．质谱学报，2019，40（5）：401－415JiangShan．Developmentandapplicationofultrasensitiveacceleratomassspectrometry［J］．JournalofChineseMassSpectrometrySociety，2019

@@ -1,0 +1,5 @@
+投影宽度（mm）</td><td>5.0/10.0</td><td>2.5/5.0</td><td>5.0</td><td>10.0</td></tr><tr><td>最大成野尺寸（mm）</td><td>400×400</td><td>220×400</td><td>400×400</td><td>400×400</td></tr><tr><td>叶片高度（mm）</td><td>67</td><td>69</td><td>90</td><td>75</td></tr><tr><td>叶片速度（mm/s）</td><td>25</td><td>25</td><td>25</td><td>20</td></tr><tr><td>最大叶间漏射率（%）</td><td>&lt;2.5</td><td>&lt;2.5</td><td>&lt;0.5</td><td>&lt;1.0</td></tr></table>
+
+表2 双层多叶光栅性能对比  
+
+<table><tr><td>项目</td><td>ViewRay MRIdian</td><td>Halcyon</td><td>雷泰</td><td>Accule

@@ -1,0 +1,7 @@
+ns of high-intensity proton cyclotrons toward serialization[J]. Chinese Science Bulletin, 2023, 68(16): 2029-2036(in Chinese).   
+[10] ZHANG T, WANG C, YIN Z, et al. The beam commissioning of SC cyclotron-based proton therapy system with fast energy selection and precise gantry[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 438-445.   
+[11] 张天爵. 等时性加速器的新发展: 轻量化、超紧凑、高功率[C]/中国物理学会、中国核学会粒子加速器分会第十二次全国会员代表大会暨学术交流会. 北京: 中国物理学会, 2024.  
+[12] 张天爵. 超紧凑多用途超导回旋加速器[C]/中国核学会核医学分会 2024 年学术年会. 北京: 中国核学会核医学分会, 2024.  
+[13] ZHANG T, FU W, WANG C, et al. Innovative research and development activities on high energy and high current isochronous proton accelerator[J]. Journal of Instrumentation, 2023, 18(3): P03022.   
+[14] LI P, ZHANG T, JIA X, et al. Development of bunching system for high intensity cyclotron at CIAE[J]. Journal of Nuclear Science and Technology, 2022, 59(11): 1370-1374.   
+[15] ZHANG T, LI Z, CHU C. CYCIAE-100, a 100 MeV H-cyclotron for RIB production[J]. Nucl Instrum Methods Phys Res B, 2007, 261(1/2

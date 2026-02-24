@@ -1,0 +1,9 @@
+# 参考文献：
+
+[1] 朱升云, 郭刚, 何明, 等. HI-13串列加速器核物理应用
+
+研究发展现状和展望[J].原子能科学技术，2020,54(增刊):1-16.  
+ZHU Shengyun, GUO Gang, HE Ming, et al. Development status and prospect of nuclear physics application research of HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 1-16(in Chinese).   
+[2] 姜承烈, 关遐令. 我国最大的串列加速器[J]. 自然杂志, 1992(9): 651-655.  
+[3] 山常起, 郝嘉琨, 陈庆旺, 等. 抗等离子体辐照的防氚渗透材料的研究[J]. 核聚变与等离子体物理, 1997(3): 63-66.  
+SHAN Changqi, HAO Jiakun, CHEN Qingwang, et al. Research on tritium permeat

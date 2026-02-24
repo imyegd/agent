@@ -1,0 +1,17 @@
+1 0 } \mathrm { { B e } }$ 的高灵敏度探测，关键是仔细把握制样、压样和AMS分析的每一环节。
+
+致谢 感谢安芷生院士、郑南宁院士对西安加速器中心建立和 Xi’an-AMS设备的引进的全力支持；感谢杨礼平教授，陈茂柏研究员和赵晓雷博士对本项目全过程的技术指导和具体参与；感谢 HVEE公司的 D. Mous, A. Gottdang 和 K. Klein 的精心设计和J. Bergen, S.A. Miedema 和 M.C. Sorby 的仔细安装和调试；感谢本项目从立项到验收的各个阶段得到的国内外著名 AMS 实验室的有关专家们的大力支持。
+
+# 参考文献
+
+1 Gottdang A, Mous D J W. Nucl.Instr.Meth, 1997, B123, 163—166   
+2 Gottdang A, Mous D J W. Proc Appl Accel Res Ind, 1999, CP475, 652—656   
+3 Suzuki T, Aramaki T, Kitamura T, et al. Nucl Instr Meth, 2004, B223—224, 87—90   
+4 Calcagnile L, Quarta G, Elia M D, et al. Nucl Instr Meth, 2004, B215，561—564   
+5 Mando P A, Private communication   
+6 ZHOU Weijian, ZHOU Xiaolei, LU Xuefeng, et al. Radiocarbon, 2006, 48(2):285—293   
+7 Mous D J W. Radiocarbon, 1998，40(1):283—288   
+8 Purser K H. Engineering Report #109 of GIC，1987，9   
+9 Purser K H, Smick T. Nucl Instr Meth, 1988, B35, 284— 291   
+10 Klein M, Mous D J W, Gottdang A. Radiocarbon, 2004, 46(1):77—82   
+11 National Electrostatics Corporation Proposal No.NEC-7215,

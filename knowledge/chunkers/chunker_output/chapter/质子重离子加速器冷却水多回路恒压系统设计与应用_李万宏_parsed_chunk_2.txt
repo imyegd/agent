@@ -1,0 +1,13 @@
+# Design and application of proton and heavy ion accelerator cooling water's multi-loop constant pressure system
+
+LI Wanhong1，2，3 ，YE Xiang1，2，3 ，ZHAO Xiulong1，2，3 ，GE Yongsheng1，2，3 ，ZHU Chunjie1，2，3
+
+( 1． Shanghai Proton and Heavy Ion Center，Shanghai 201321，China;
+
+2． Shanghai Key Laboratory of Radiation Oncology ( 20dz2261000) ，Shanghai 201321，China;
+
+3． Shanghai Engineering Research Center of Proton and Heavy Ion Radiation Therapy，Shanghai 201321，China )
+
+Abstract: Proton heavy ion accelerator is a large-scale medical equipment used in tumor radiotherapy． The initial design of the system not includes backup constant pressure devices for each branch circulating water circuit． Once any online constant pressure devices ( OCPDs) failure occurs in the circulating w ater circuit，it causes the proton heavy ion accelerator to shut dow n，resulting in poor system reliability． Although existing measures improve the efficiency of fault handling，they cannot fundamentally solve the shutdown problem caused by OCPD faults． A multi-loop constant water pressure system is designed to improve the operation reliability of proton and heavy ion accelerator，and solve the shutdown issues caused by online constant pressure devices ( OCPDs) ． The methods include setting emergency constant pressure device( ECPD) ，PLC，communication modules and other components to detect the real-time working status of the OCPDs automatically． The ECPD matches the parameters of the failure OCPD to realize automatic switching． The results show that switching pressure fluctuation of all system are controlled within the allowable value，thereby realizing non-stop switching． Multi-loop constant water pressure system reduces the downtime and improves the reliability of proton and heavy ion accelerator，it is practical and has reference value for improving the design and operational reliability of multi loop circulating cooling w ater systems．
+
+Keywords: constant pressure device; proton and heavy ion; accelerator; cooling water; emergency equipment

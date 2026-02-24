@@ -1,0 +1,25 @@
+doi: 10. 20236/j. CJIAC. 2025. 11. 002
+
+辛岩，汪学佳，赵芮，等. 加速器来源 $^ { 9 9 } \mathrm { M o }$ 与 ${ } ^ { 9 9 \mathrm { m } } \mathrm { T c }$ 分离方法初步研究［J］. 中国无机分析化学，2025，15（11）：1698-1705.
+
+XIN Yan，WANG Xuejia，ZHAO Rui，et al. Pilot Study on the Separation of $^ { 9 9 } \mathrm { M o }$ and ${ } ^ { 9 9 \mathrm { m } } \mathrm { T c }$ Originated from Proton Accelerator［J］.
+
+Chinese Journal of Inorganic Analytical Chemistry，2025，15（11）：1698-1705.
+
+# 加速器来源 99Mo 与 99mTc 分离方法初步研究
+
+辛 岩1，2 汪学佳2，3 　赵 芮4 　解宏鑫2 　尹 铭1，2 　崔丽巍3
+
+陈 帅1*　李 柏2 　董启凡3，5 李玉锋2，3*
+
+（1.东北大学 理学院 化学系，沈阳 110819；
+
+中国科学院高能物理研究所，中国科学院-香港大学金属组学与健康和环境联合实验室，北京 100049；
+
+3.中国科学院大学，北京100049；
+
+4.临沂大学 医学院，山东 临沂 276000；
+
+5.中国科学院高能物理研究所 东莞研究部，广东 东莞 523890）
+
+摘　要　锝 $- 9 9 \mathrm { m } ( ^ { 9 9 \mathrm { m } } \mathrm { T c } )$ 是核医学中应用最广泛的放射性核素之一，其独特的物理和化学性质使其成为诊断成像的理想选择。受到部分生产堆退役的影响，未来国际上 ${ } ^ { 9 9 \mathrm { m } } \mathrm { T c }$ 可能面临紧缺问题，而基于加速器生产99mTc的方法受到越来越多关注。本研究旨在建立来源于质子打靶产生的 $^ { 9 9 } \mathrm { M o }$ 与其衰变产物 ${ } ^ { 9 9 \mathrm { m } } \mathrm { T c }$ 分离的方法，

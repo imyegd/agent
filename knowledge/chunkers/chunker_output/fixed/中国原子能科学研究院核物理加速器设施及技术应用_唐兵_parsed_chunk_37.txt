@@ -1,0 +1,8 @@
+明, 姜山, 蒋崧生, 等. 中国原子能科学研究院的 PX-AMS系统及其应用[M]//中国核科技报告. 北京: 中国核学会, 2004:33-39  
+[92] 何明，姜山，董克君，等.加速器质谱技术在核物理与天体物理中的应用[J].原子核物理评论，2004,21(3):210-213.  
+HE Ming, JIANG Shan, DONG Kejun, et al. Accelerator mass spectrometry in nuclear physics and nuclear astrophysics[J]. Nuclear Physics Review, 2004, 21(3):210-213(in Chinese).
+
+[93] 何明, 杨耀云, 姜山, 等. 利用加速器质谱方法测量 ${ }^{14} \mathrm{~N}({ }^{16} \mathrm{O}, \alpha)^{26} \mathrm{Al}$ 反应截面[J]. 原子核物理评论, 2004, 23(4): 404-406.  
+HE Ming, YANG Yaoyun, JIANG Shan, et al. Measurement of the $^{14}\mathrm{N}(^{16}\mathrm{O},\alpha)^{26}\mathrm{Al}$ reaction cross-section by accelerator mass spectrometry[J]. Nuclear Physics Review, 2004, 23(4): 404-406(in Chinese).   
+[94] 仇九子, 寅新艺, 何明, 等. ${ }^{181} \mathrm{Hf}(\mathrm{n}, \gamma)^{182} \mathrm{Hf}$ 反应截面测量[J]. 高能物理与核物理, 2005, 29(7): 648-650.  
+QIU Jiuzi, YIN Xinyi, HE Ming, et al. Measurement of cross-section for $^{181}\mathrm{Hf}(\mathfrak{n},\gamma)^{182}\mathrm{Hf}$ reaction[J]. High Energy Physics and Nuclear Physics, 2005,

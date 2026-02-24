@@ -1,0 +1,9 @@
+岩石中累积的宇宙成因核素的浓度，结合当地的产率，就可以确定其暴露年龄。尽管地表矿物中宇宙成因核素的累积是时间函数，但其产率与累积浓度同时还受侵蚀速率和埋藏深度影响。
+
+暴露在宇宙射线下稳定的地质表面中的宇宙成因核素会随时间累积［44］ 。如果无侵蚀，则在任何地表深度 $z$ z的宇宙成因核素的浓度 $\cdot N _ { \mathrm { t o t a l } } ( \textit { t , z } )$ ）随时间（t）的变化为：
+
+$$
+\begin{array}{l} N _ {\text {t o t a l}} (t, z) = N _ {\text {i n h}} (z) \mathrm {e} ^ {- \lambda t} + \sum_ {i} \frac {P _ {i} (z)}{\lambda} (1 - \mathrm {e} ^ {- \lambda t}) (1) \\ P _ {i} (z) = P _ {i} (0) \mathrm {e} ^ {- \rho z / \Lambda_ {i}} (2) \\ \end{array}
+$$
+
+公式（1）和（2）中，

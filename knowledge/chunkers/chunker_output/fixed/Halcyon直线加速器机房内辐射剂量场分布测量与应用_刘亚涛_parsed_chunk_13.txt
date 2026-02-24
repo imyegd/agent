@@ -1,0 +1,15 @@
+合精确的辐射场分布分析，能够为相关领域的研究人员提供更加可靠的数据支持，并为未来加速器机房的辐射防护设计提供了新的思路。
+
+综上所述，本研究的创新之处在于将被动式剂量计 TLD 应用于 Halcyon 型加速器辐射剂量场分布的测量，并通过空间布点测量的方式揭示了加速器机房内辐射剂量的空间分布特征。这为优化辐射防护设计提供了科学依据，并为未来辐射防护技术的改进和加速器设备的安全应用提供了新的理论支持。
+
+利益冲突 本研究由署名作者按以下贡献声明独立开展，排名无争议。文章不涉及任何利益冲突
+
+作者贡献声明 刘亚涛、易艳玲、鄂翔宇负责实验布点测量、数据分析、撰写论文；赵文涛、刘海宽负责屏蔽防护计算；于静萍、曾宏伟负责论文修改和研究指导
+
+# 参考文献
+
+Lloyd SAM, Lim TY, Fave X, et al. TG-51 reference dosimetry for[1] the  Halcyon™:  a  clinical  experience[J]. J  Appl  Clin  Med  Phys, 2018, 19（4）: 98-102. DOI: 10.1002/acm2.12349.
+
+Huang  YY,  Liu  ZW. Dosimetric  performance  evaluation  of  the[2] Halcyon treatment platform for stereotactic radiotherapy: a pooled study[J]. Medicine (Baltimore), 2023, 102（36）: e34933. DOI: 10. 1097/MD.0000000000034933.   
+Wang GY, Zhu QZ, Zhu HL, et al. Clinical performance evaluation[3] of  O-Ring  Halcyon  Linac:  a  real-world  study[J]. World  J  Clin Cases, 2022, 10（ 22） : 7728-7737. DOI: 10.12998/wjcc.v10.i22. 7728.   
+张德钦, 潘翊, 杜晓宏, 等. 自屏蔽加速器屏蔽防护优化探讨[J].[4]中国辐射卫生，2022，31（4）：401-405,412. DOI: 10

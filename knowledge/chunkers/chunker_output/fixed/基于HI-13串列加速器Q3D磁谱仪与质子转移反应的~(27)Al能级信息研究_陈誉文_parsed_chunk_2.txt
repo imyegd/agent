@@ -1,0 +1,13 @@
+n1,  LI Jiayinghao1,  CAO Fuqiang1,  NAN Wei1,  HOU Jianglin1,
+
+ZHU Minghao1,  ZHANG Zhicheng1,  GUO Changxin1,  CHEN Chen1,  JIANG Yuchen1,
+
+LI Zhihong1,  WANG Youbao1,  ZENG Sheng1,  SHEN Yangping1,  LIU Weiping1,2
+
+(1. Department of Nuclear Physics, China Institute of Atomic Energy, Beijing 102413, China;
+
+2. Southern University of Science and Technology, Shenzhen 518055, China)
+
+Abstract: $^ { 2 7 } \mathrm { A l }$ is  the  only  stable  isotope  of  aluminum,  is  an  odd-proton  nucleus.  The  energy  level information of its ground and excited states helps test the predictive power of nuclear models, such as the  shell  model  and  collective  models  (e.g.,  rotational  and  vibrational  models).  Its  level  transition properties also provide insights into the collective and single-particle behavior of nucleons, aiding in the understanding of nuclear deformation. On the other hand, Al plays a significant role in other fields, such
+
+as nuclear astrophysics and gamma-ray astronomy. Studying nuclear re

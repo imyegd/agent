@@ -1,0 +1,12 @@
+$D _ { \mathrm { m a x } }$ ）基本相同，平均剂量（ $D _ { \mathrm { m e a n } }$ ）相同，见表1。
+
+![](images/c5d8ae7ce61d8bd226b4917f369653c18deb354d62f6771d883e88412e97a675.jpg)
+
+![](images/8e0f643b5744baec4a8a86f046bc68d9c62fa15ae6729907634f6d50faee9c57.jpg)
+
+![](images/b4fcb26e7e7af75940ddde72e1c35368c1ceb4c2c268ed283f36183d3817bc90.jpg)
+
+![](images/55f0b4f26fe6eb86ad6fce73af401530428b6604860f32887d2ba2175b088c12.jpg)  
+注：a 为标准辐照的定位图像及血袋模体勾画（圈出部位），b 为标准辐照的剂量分布图，c 为传统辐照的定位图像及血袋模体勾画（圈出部位），d 为传统辐照的剂量分布图。
+
+![](images/15d2ef9

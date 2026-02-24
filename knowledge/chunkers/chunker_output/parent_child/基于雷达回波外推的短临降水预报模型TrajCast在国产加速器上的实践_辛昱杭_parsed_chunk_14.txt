@@ -1,0 +1,11 @@
+- 1}\right), U _ {t}, V _ {t} \in \mathbb {R} ^ {L \times H \times W} \tag {1}
+$$
+
+其中，U对应横坐标，V对应纵坐标。之后将所有 ConvGRU 中对 $\mathrm { H } _ { \mathrm { t } - 1 }$ 的卷积操作替换为，分别使用每一种局部连接情况下的坐标偏移对 $\mathrm { H } _ { \mathrm { t } - 1 }$ 作重采样，之后使用 $1 \times 1$ 的卷积核对重采样后的 $\mathrm { H } _ { \mathrm { t } - 1 }$ 作卷积，最后再将这L种情况下的结果加和。写成公式表达，原有ConvGRU单元的操作方式为：
+
+$$
+Z _ {t} = \sigma \left(W _ {x z} * X _ {t} + W _ {h z} * H _ {t - 1}\right) \tag {2}
+$$
+
+$$
+R _ {t} = \sigma \left(W _ {x r} * X _ {t} + W _ {h r} * H _ {t - 1}

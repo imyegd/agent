@@ -1,0 +1,5 @@
+由公式 (2)、公式 (3) 两式得：
+
+$$
+\frac {\mu_ {l}}{\mu_ {h}} = \frac {\ln \frac {I _ {o l}}{I _ {l}}}{\ln \frac {I _ {o h}}{I _ {h}}} \tag {4}
+$$

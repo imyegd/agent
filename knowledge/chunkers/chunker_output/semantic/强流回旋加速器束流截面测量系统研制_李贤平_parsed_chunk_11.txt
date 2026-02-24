@@ -1,0 +1,9 @@
+切向畸变：
+
+$$
+x _ {\text {c o r r e c t d}} = x + \left(2 p _ {1} x y + p _ {2} \left(r ^ {2} + 2 x ^ {2}\right)\right) \tag {3}
+$$
+
+$$
+y _ {\text {c o r r e c t d}} = y + \left(p _ {1} \left(r ^ {2} + 2 y ^ {2}\right) + p _ {2} x y\right)
+$$

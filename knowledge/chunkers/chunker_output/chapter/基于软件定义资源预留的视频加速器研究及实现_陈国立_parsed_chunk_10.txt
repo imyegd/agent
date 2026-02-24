@@ -1,0 +1,9 @@
+# 3.2.1 视频编码参数设置
+
+ffmpeg与ffplay程序的启动参数设置分别如图3与图4所示。在图3中，ffmpeg每一行启动参数含义分别为：不显示横幅信息，将日志输出至<主机名>--ff.txt，以实时速率读取视频文件big_buck_bunny_1080p_h264.mov，禁用音频流，使用libx264编解码器，编码器设为ultrafast，视频目标码率为5Mbit/s，格式封装为mpegts，并通过UDP协议发送至指定地址。在图4中，ffplay每一行启动参数的含义分别为：不显示横幅信息，设置缓冲区大小为100，并通以UDP协议接受指定地址的视频流。此外，视频文件big_buck_bunny_1080p_h264.mov的分辨率为 $1920\times 1080$ ，帧速率为24帧/秒。
+
+![](images/0d17572aec51e50aa7eecab98148412dff2a0e0a9b8f8da448f3922f6dd9697f.jpg)
+
+![](images/969ad9015e16ad2fcdf2240d4b754da845d0301b72eb007361dfa938c46af3cf.jpg)  
+图3 ffmpeg启动参数  
+图4 ffplay启动参数

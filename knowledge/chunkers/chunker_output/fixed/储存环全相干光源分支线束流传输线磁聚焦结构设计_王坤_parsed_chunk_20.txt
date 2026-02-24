@@ -1,0 +1,8 @@
+ring based coherent light sources[J]. High Power Laser and Particle Beams, 2022, 34: 104001. DOI: 10. 11884/HPLPB202234.220047.   
+5 Jiang B C, Feng C, Li C L, et al. A synchrotron-based kilowatt-level radiation source for EUV lithography[J]. Scientific Reports, 2022, 12: 3325. DOI: 10.1038/s41598- 022-07323-z.   
+6 Li C L, Feng C, Jiang B C. Extremely bright coherent synchrotron radiation production in a diffraction-limited storage ring using an angular dispersion-induced
+
+microbunching scheme[J]. Physical Review Accelerators and Beams, 2020, 23(11): 110701. DOI: 10.1103/ physrevaccelbeams.23.110701.   
+7 Li C, Jiang B, Feng C, et al. Lattice design for angular dispersion enhanced microbunching in storage rings[J]. Journal of Instrumentation, 2021, 16(3): P03004. DOI: 10.1088/1748-0221/16/03/p03004.   
+8 李昌亮. 基于电子储存环纵向相干辐射产生机制的研究[D]. 上海: 中国科学院上海应用物理研究所, 2021.  
+LI Changliang. Study on the generation mechanism of the longitudinal coherent radiation based on electron storage ring[D]. Shanghai: Shanghai Institu

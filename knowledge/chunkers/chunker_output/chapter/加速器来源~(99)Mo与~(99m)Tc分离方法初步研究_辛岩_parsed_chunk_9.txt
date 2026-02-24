@@ -1,0 +1,21 @@
+# 2. 2 TEVA树脂柱对钼铼的分离效果
+
+图 2 是 $1 \ \mathrm { m o l / L }$ 和 $8 \ \mathrm { m o l / L }$ 硝 酸 对 钼 铼 洗 脱曲线，从图2a可知，以 $1 \ \mathrm { m o l / L }$ 硝酸为洗脱液，铼几乎全部保留在树脂柱上，而大部分的钼酸钠则被洗脱，对该图积分可知，洗脱所得的钼的总量为$1 9 . 1 9 \mathrm { \ m g }$ ；而由图2b可看出， $8 \ \mathrm { m o l / L }$ 硝酸为洗脱液则恰恰相反，图2曲线积分并乘以体积可得，洗脱所得高铼酸根约为 $1 9 . 4 ~ \mathrm { m g }$ ，其在树脂柱上的保留值约为 $0 . 2 6 ~ \mathrm { m g }$ ，这一值与高锝酸根在TEVA数值上的保留值相近［17］，故高铼酸根可模拟高锝酸根的洗脱情况。这一现象可以从离子交换机理角度得到解释。TEVA树脂作为季铵盐型阴离子交换树脂，其对 $\mathrm { R e O _ { 4 } } ^ { - }$ 的吸附强度受硝酸根 $\mathrm { ( N O _ { 3 } } ^ { - }$ ）竞争作用的显著影响。随着 $\mathrm { H N O _ { 3 } }$ 浓度的升高，溶液中 $\mathrm { N O _ { 3 } } ^ { - }$ 与树脂固定相中季铵基团的结合位点产生强烈竞争，从而削弱了树脂对 $\mathrm { R e O _ { 4 } } ^ { - }$ 的亲和力。值得注意的是，在$\mathrm { 8 \ m o l / L \ H N O _ { 3 } }$ 条件下， $\mathrm { R e O _ { 4 } } ^ { - }$ 的洗脱体积（ $5 { \sim } 6 ~ \mathrm { m L }$ ）接近色谱柱的死体积 $\left( 4 . 5 \ \mathrm { m L } \right)$ ），表明此时离子交换平衡已强烈偏向解吸方向。这种高效的洗脱特性为后续钼锝分离工艺的设计提供了重要依据。
+
+![](images/74dfb8c1cbc89846ff0dc2e2cfdb58fa9fd93f6e79fc16ac02678657c9f21f07.jpg)
+
+![](images/3d4a4bb147a0775ed9cced111f08a595abd7c9b900c5f62b9ddf96cd5dfc529e.jpg)
+
+![](images/fc39fe42d25c755e2d271a0796f24dd8aaa09e119410ddbffecb04008b7e732a.jpg)
+
+![](images/4b09faa0d6d1675225259dea0790e68b9bb3e55a542d5f56604e98b3441c7499.jpg)  
+图1　基于活性炭柱分离钼锝（铼）的情况：（a） 3 mol/L NaOH洗脱钼铼；（b） 5 mol/L NaOH洗脱钼；（c）先使用二次水再使用3 mol/L NaOH洗脱钼铼；（d）降低钼酸钠浓度后使用3 mol/L NaOH洗脱钼铼
+
+![](images/ad32bc39e23a938630f22337573eb13b4de48bc6dac282a5af31091785925cca.jpg)  
+Figure 1 Elution results of Mo-Tc（Re） separation with activated carbon column：（a） Elution of Mo-Tc （Re） with 3 mol/L NaOH；（b） Elution of Mo-Tc （Re） with 5 mol/L NaOH；（c） Elution of perrhenium with secondary water first，then elution of molybdatewith 3 mol/L NaOH；（d） Elution of Mo-Tc （Re） with 3 mol/L NaOH with reduced concentration of sodium molybdate.
+
+![](images/b4ab5a0d857641702c2fd968d0e74568756fd2839f11f233ea4d68b9f2f1c949.jpg)  
+图2　（a）基于TEVA树脂使用1 mol/L硝酸溶液对钼铼分离的洗脱图；（b）基于TEVA树脂使用8 mol/L硝酸溶液对钼铼分离的洗脱图  
+Figure 2　（a） Elution diagram of molybdenum-rhenium separation using 1 mol/L nitric acid；（b） Elution diagram of molybdenum-rhenium separation using 8 mol/L nitric acid based on TEVA resin.
+
+基于上述实验结果，本研究选择 $8 ~ \mathrm { m o l / L }$ 硝酸作为洗脱液用于TEVA树脂柱的钼、铼分离：首先，该条件下 $\mathrm { R e O _ { 4 } } ^ { - }$ 的洗脱峰尖锐，与钼酸根 $\mathrm { ( M o O _ { 4 } } ^ { 2 - }$ ）的保留行为形成显著差异，可确保两组分达到基线分离；其次，高酸度环境能有效抑制 $\mathrm { M o O _ { 4 } } ^ { 2 - }$ 的聚合现象，避免多钼酸根的形成而干扰分离；最后， $8 ~ \mathrm { m o l / L }$ $\mathrm { H N O _ { 3 } }$ 的强洗脱能力可最大限度缩短分离周期，提高工艺效率。

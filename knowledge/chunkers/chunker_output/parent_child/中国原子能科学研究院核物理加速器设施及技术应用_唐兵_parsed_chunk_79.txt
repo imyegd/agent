@@ -1,0 +1,4 @@
+论文集. [出版地不详]: [出版者不详], 2007: 280-282.  
+[80] 马瑞刚, 李康宁, 崔宝群, 等. 低能强流离子束装置计算机控制系统[J]. 原子能科学技术, 2008, 42(5): 461-464.  
+MA Ruigang, LI Kangning, CUI Baoqun, et al. Computer control system for high-intensity ion beam facility[J]. Atomic Energy Science and Technology, 2008, 42(5): 461-464(in Chinese).  
+[81] 周立鹏, 关遐令. 低能强流氘束脉冲系统研制[J]. 原子能科学技术, 2008, 42(9): 262-266. ZHOU Lipeng, GUAN Xialing. Pulsing system for low energy and high intensity deuterium ion beam[J]. Atomic Energy Science and Technology, 2008, 42(9):

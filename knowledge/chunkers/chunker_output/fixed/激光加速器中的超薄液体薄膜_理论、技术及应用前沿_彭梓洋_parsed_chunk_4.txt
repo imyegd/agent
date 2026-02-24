@@ -1,0 +1,9 @@
+(images/8cd8b00fccf1a04a6092d8dd42bcac0c6abadb2203ab31c19210f12bf0859e2a.jpg)
+
+![](images/3bac984ccff1f866088b520ea6bba386b31d4c8f740bb278b2ebe8f10e95398b.jpg)  
+图1 (a)液膜靶制备照片；(b)液膜靶表征系统的完整布局[16]；(c)典型反射光谱测量结果；(d)干涉条纹及其厚度分布解缠结果[18]；(e)LST法向位置稳定性直方图[19]  
+Figure 1 (a) Photo of LST preparation; (b) complete layout of LST characterization system[16]; (c) typical reflectivity spectrum measurement results; (d) unwrapped results of interference fringes and their thickness distribution[18]; (e) normal position stability histogram of LST[19]
+
+用这种快速方法给出液膜的二维厚度信息, 对于LST实时在线的诊断具有重要价值, 也为液膜厚度理论的研究奠定了实验基础.
+
+除了厚度与平整度外，液膜的法向位置与指向性也举足轻重。激光与液膜的高效耦合是实现高光强激光加速的关键因素，这就需要精确地测量靶材所处的空间位置，且振动幅度远小于瑞利长度，才能保证激光与靶重频相互作用的稳定性。通过共聚焦距离传感器和靶后相机联合测量以确保液膜平面与激光焦平面重合，并通过频谱分析研究了法向振动幅度与制膜参数和流体不稳定的依赖关系，对振动源和扰动源进行抑制与优化，使得10分钟内LST振动振幅的半高全宽约为 $2\mu \mathrm{m}$ ，远小于一般聚焦中的激光瑞利长度(约数十微米)，如图1(e)直方图所示[19]。至于指向性，激光加速产生的离子通常垂直于薄膜的表面发射，在用磁铁收集和运输离子的应用中，靶材的正确方向对于设计的束流传输至关重要[20]。目前尚无能够集成在靶腔内测量薄膜指向性的方法。对于传统的固体薄膜靶材，通常的做法是利用机械固定装置将靶的角度摆正；但这对于悬空自支撑的液体薄膜靶不适用。我们使用偏振依赖的

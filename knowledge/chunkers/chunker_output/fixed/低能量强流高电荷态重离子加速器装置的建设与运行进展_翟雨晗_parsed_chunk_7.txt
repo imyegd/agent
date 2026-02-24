@@ -1,0 +1,11 @@
+稳定地将质荷比为 $2 \sim 7$ 的全粒子从 $1 4 \mathrm { k e V / u }$ 提升至 $5 0 0 ~ \mathrm { k e V / u }$ 。鉴于 RFQ 的出口能量恒定，为了提升 LEAF 装置束流条件的多样性，在 RFQ 出口段集成了束流能量调节系统。该系统包含一台交叉指型漂移管直线加速器（IH-DTL，设计参数见表 3），可提供 $0 . 3 { \sim } 0 . 7 \mathrm { M e V / u }$ 的连续能量增减调制[4]。DTL 两侧分别布置了两个四分之一波长谐振腔型聚束器（QWR mode Re-buncher），以控制纵向束流品质并对束流能量展宽进行压缩调制[5]。
+
+表 2   LEAF-RFQ 主要设计参数  
+Table 2    Main design parameters of LEAF-RFQ   
+表 3   IH-DTL 主要设计参数  
+
+<table><tr><td>duty cycle/%</td><td>operating frequency/MHz</td><td>resonant type</td><td>input particle energy/(keV·u-1)</td><td>output particle energy/(keV·u-1)</td><td>M/q range</td><td>RFQ vane length</td><td>maximum vane voltage/kV</td></tr><tr><td>100 (CW mode)</td><td>81.25</td><td>4~vane</td><td>14</td><td>500</td><td>2 (H2+)-7 (238U34+)</td><td>~596.4</td><td>70</td></tr></table>
+
+Table 3    Main design parameters of IH-DTL   
+
+<table><tr><td>duty cycle/%</td><td>operating frequency/MHz</td><td>number of gaps</td><td>gap/mm</td><td>tube length/mm</td><td>maximum gap voltage/kV</td><td>inp

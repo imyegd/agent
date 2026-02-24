@@ -1,0 +1,17 @@
+7edacf826155bf34253aa2f942c7e86b129b74224830e3af73c4254abc16.jpg)  
+(b) 阈值分割图像
+
+![](images/51d2125d93931d264ad71ca2877771f04eebee4c4c23637cfafc5d030132369c.jpg)  
+(c) 灰度直方图
+
+![](images/6824bb936691928c08d02d7e0ee505da5cf9908b3e54cc7b20325110bb66d9b6.jpg)  
+图6 阈值分割处理过程  
+(a) 原始采集图
+
+![](images/6f927c46fac4da916760455dd129080b77d1078bcbe70d01dcdb3623115a0076.jpg)  
+(b) ROI截取
+
+![](images/0f39202b2277b24529d80a5ee22cf774dad6533936b7488cd630e0c596f8b1f1.jpg)  
+(c) 灰度化
+
+![](images/85403d74d941de9ff3b5bee623a60c590

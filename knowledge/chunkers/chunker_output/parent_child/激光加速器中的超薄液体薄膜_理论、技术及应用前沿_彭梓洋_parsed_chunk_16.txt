@@ -1,0 +1,3 @@
+18]; (c) thickness at a fixed point on the central axis as a function of Reynolds number and Weber number[18]; (d) thickness at $r = 1$ mm on the central axis for different azimuth angles[18]
+
+运动黏度 $\nu$ 、位置 $r$ 和流量 $Q$ 决定了每个角度上黏性效应的强度。其中的物理也非常明确：更大的 $r$ 意味着更充分的动量和质量交换，导致更强的黏性效应；更大的 $Q$ 则相反，对应了更短的相互作用时间从而减弱了黏性效应。正因如此，随着微米尺度射流对撞成膜、亚微米厚度液膜应用的迅速增长，流量对于液膜的重要性也凸显出来，以往模型中认为的厚度与黏度 $\nu$ 和流量 $Q$ 无关的近似已经不适用于如今的很多应用。在这种情况下，经典模型与实验的偏差可能高达 $160\%$ ，而我们的模型误差则在 $5\%$ 以内。同时，三元液相方法通过黏度调控大幅增强了液膜厚度的操控能力，我们通过大量实验探索，优化溶液组分以平衡液

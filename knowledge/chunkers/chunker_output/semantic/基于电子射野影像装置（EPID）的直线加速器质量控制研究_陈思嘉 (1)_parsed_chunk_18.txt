@@ -1,0 +1,16 @@
+# 参考文献：
+
+[1] 顾香莲 , 顾煜恺 , 龚卿 . 基于 NCC/T-RT 001-2019 质控指南进行医用加速器质控的研究 [J]. 中国医疗设备 , 2021, 36(7):5.  
+[2] 陈元华 , 李娟 , 胡伟刚等 . 医用电子直线加速器快速日检方法研究 [J]. 中国医疗器械杂志 ,2019,43(2):143-145,156.  
+[3] 陈诚 , 韩光 , 周晓艺等 . 电子射野影像装置在容积调强旋转放疗多叶准直器到位精度质控中的应用 [J]. 肿瘤防治研究 ,2015,42(3):261-265.  
+[4] 医用电子直线加速器质量控制检测规范 :WS 674-2020[S]. 2020.   
+[5] 国家肿瘤诊疗质控中心放疗质控专家委员会 , 赫捷 , 王绿化等 . 放射治疗质量控制基本指南 [J]. 中华放射肿瘤学杂志 ,2018,27(4):335-342.  
+[6] 赵辰凯 . 医用电子加速器质量控制测试研究 [J]. 中国设备工程 ,2025(5):201-203.  
+[7]Zhang H, Zhang B, Lasio G, Chen S, Nasehi Tehrani J. Assessing quality assurance of multi-leaf collimator using the structural similarity index. J Appl Clin Med Phys. 2024 Apr;25(4):e14288.   
+[8]Barnes M, Dipuglia A, Beeksma B, Lehmann J. Evaluation of the TrueBeam machine-performance-check (MPC): Collimator device check (CDC). J Appl Clin Med Phys. 2025 Jul;26(7):e70171.   
+[9] 黄焱秋 , 郭斌 , 黄滈骢等 .CBCT、EPID 图像引导在肿瘤放疗中的应用研究 [J]. 实用癌症杂志 ,2023,38(11):1843-1846,1850.  
+[10] 赵军军 , 袁慧杰 , 陈文强 . 锥形线束 CT、电子射野影像系统图像引导在肿瘤放疗中的应用分析 [J]. 中国医疗器械信息 ,2025,31(5):114-116.  
+[11] 梅国建 , 尹楚欧 , 邓娟等 .EPID 在加速器光射野一致性检测中的应用 [J]. 中国医疗设备 ,2024,39(10):58-61,78.  
+[12]Shi M, Myronakis M, Hu YH, Morf D, Rottmann J, Berbeco R. A Monte Carlo study of the impact of phosphor optical properties on EPID imaging performance. Phys Med Biol. 2018 Aug 20;63(16)   
+[13] 邓祯祥 .Vitalbeam 医用直线加速器使用前的验收 [J]. 中国设备工程 ,2024(3):200-202.  
+[14] 祝起禛 . 双层 MLC 直线加速器放疗计划质量评估和基于机器学习的计划质量保证[D].北京协和医学院,2023.

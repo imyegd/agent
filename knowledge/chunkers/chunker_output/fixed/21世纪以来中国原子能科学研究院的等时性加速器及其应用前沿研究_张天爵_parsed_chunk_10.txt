@@ -1,0 +1,21 @@
+椭圆长半轴为 $336.0 \mathrm{~cm}$ 、短半轴为 $3.012 \mathrm{~cm}$ , 二阶径向梯度的高精度要求使大型磁铁工程难度极大。通过在直边扇中引入二阶径向梯度, 配合非对称垫补方法, 成功获得了
+
+![](images/3a7dd8540271cabd23c733bce59ff3df208da64126936e8dc8871b42348dc4ee.jpg)  
+图2 OPAL-CYCL单、多束团模式算法流程  
+Fig. 2 Algorithm flow of OPAL-CYCL single and multi-bunch mode
+
+![](images/581829c9f8c6f355ee0491405a13e5c601485bfd7dffdfef3bcf59636b743283.jpg)
+
+![](images/99a50f1c0acb3df4ea5dc6a14d1a7c0090044f374be807e7adb4804048f1c3be.jpg)
+
+![](images/2dd2aa5151bd0b4eb2ba66285bb4af4059563ed26e6b80bb669f613181f274b4.jpg)
+
+![](images/c3d671acc61adb3baf7a2cfcd049b76d136aa05ad4ffbd4b57dfed001da9115e.jpg)
+
+![](images/82b604e76f4a2fd554da35a623cdec2855e7d37b256ae6438bdc4458f86ba2d5.jpg)
+
+![](images/b84735318c8fa34b082353aa3b8a5d37c1069992117f034162f4bf283d252d89.jpg)  
+图3CYCIAE-100稳态下 $0^{\circ}$ 方位角位置所有束团在径向-轴向平面的粒子分布  
+Fig. 3 Particle distribution of all bunches in radial-axial plane at $0^{\circ}$ azimuth position of CYCIAE-100 in steady state
+
+高于0.7的强聚焦[22], 突破了国内外专家公认的 $70\mathrm{MeV}$ 能量限制, 获得了能量 $100

@@ -1,0 +1,7 @@
+# 2.1 生产不同批次18F-FDG 的成本结构
+
+生产不同批次 $^ { 1 8 } \mathrm { F } \cdot$ -FDG 的成本包含固定成本和变动成本，见表 1。在回旋加速器运营的第 $1 \sim 3$
+
+表 1 生产不同批次 ${ } ^ { 1 8 } \mathrm { F } .$ -FDG 的成本明细 [ 万元 $( \%$ ）]  
+
+<table><tr><td rowspan="2">项目</td><td colspan="4">运营1~3年</td><td colspan="4">运营4~8年</td><td colspan="4">运营9年以上</td></tr><tr><td>单批次</td><td>二批次</td><td>三批次</td><td>平均</td><td>单批次</td><td>二批次</td><td>三批次</td><td>平均</td><td>单批次</td><td>二批次</td><td>三批次</td><td>平均</td></tr><tr><td rowspan="2">固定成本(万元/年)</td><td>654.80</td><td>65

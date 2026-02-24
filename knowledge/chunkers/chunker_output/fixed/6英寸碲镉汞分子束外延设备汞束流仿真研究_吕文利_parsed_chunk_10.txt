@@ -1,0 +1,19 @@
+0dcc90805db3d2bae12abb0.jpg)
+
+![](images/e7a37ec13ddbbc6a30080f47353b3a5aaa9c343b9ad14609d1d4c598feaf9e68.jpg)
+
+![](images/848bd7b080bde9e2a102735d72622154d8fffc2d0b0ed304370e33a7dd48ef6e.jpg)
+
+![](images/325a81234f3078416819e279b135d3f49995035a1ca124e49f00016f29293549.jpg)  
+图 5 稳态束流在6 英寸衬底表面沉积(a) $2 \mathrm { m i n }$ ; (b) $3 0 \mathrm { { m i n } }$ ; (c) $6 0 \mathrm { { m i n } }$
+
+基于前期的分析与仿真成果, 本研究将其应用于国产6英寸 $\mathrm { H g C d T e }$ 分子束外延生长系统, 成功制备出高质量的 $\mathrm { H g C d T e }$ 单晶薄膜。利用高分辨双晶XRD测量其半峰宽(FWHM), 沿 $X$ 轴和Y 轴分别选取 13 个测试点, 以系统评估薄膜的结晶质量与均匀性。图 6 为高分辨双晶 XRD 测量结果及均匀性分
+
+布图。
+
+测试结果显示, $X$ 方向的 FWHM 介于$9 8 \sim 1 0 2 $ arcsec 之间, Y 方向介于 $9 8 \sim 1 0 3$ arcsec 之间, 整体数值较低且波动较小, 表明薄膜结晶质量优异、分布均匀。特别是在晶圆中心(Wafer Distance $= 0 \ \mathrm { m m }$ )处, $X$ 和 Y方向的 FWHM 均达到最小值(98 arcsec), 显示出最佳的晶体完整性。随着测试点向边缘移动, FWHM 值略有上升, 但仍维持在较低水平, 说明 6 英寸晶圆范围内薄膜质量一致性良好。该结果验证了分子束外延系统中汞束源炉在 HgCdTe 材料生长中具备良好的工艺稳定性。
+
+![](images/d1e98a51fb91c5285f609446c7dd517df09caa939a9267849cdc360072f7fec9.jpg)  
+图 6 高分辨双晶XRD 测量结果及均匀性分布图
+
+# 3

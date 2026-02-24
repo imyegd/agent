@@ -1,0 +1,10 @@
+Zhiyuan,et al.Application Analysis of Small Data Center Waste Heat Recovery System[J].Building Energy Efficiency,2025,53(4):120-125.(in Chinese)   
+[8]吴放.我国碳达峰、碳中和进程中核能的地位和作用[J].核科学与工程,2022, 42(4): 737-743.  
+WU Fang.The Role of Nuclear in China’s Carbon Peaking and Carbon Neutrality Course[J].Nuclear Science and Engineering,2022, 42(4): 737-743.(in Chinese)   
+[9]方守贤.北京正负电子对撞机[J].现代物理知识,2018,30(5): 49-52.  
+FANG Shouxian.Beijing Electron-Positron Collider[J].Modern Physics,2018,30(5):49-52.(in Chinese)   
+[10]张闯.国际粒子加速器的前沿[J].物理,2008,(05): 289-297.  
+ZHANG Chuang.Frontiers of International Particle Accelerators[J].Physics,2008,(5): 289-297.(in Chinese)   
+[11]Anaïs Schaeffer.LHC’s Cooling System, an Energy Source for CERN’s Neighbours[EB/OL].(2019-07-23)[2025-06-25]. https://home.cern/news/news/engineering/lhcs-cooling-system-energy-source-cerns-neighbours.   
+[12]高杰.CEPC-SppC加速器——从概念设计到技术设计[J].现代物理知识,2020,32(01): 18-26.  
+GAO Jie.CEPC-SppC Accelerator: From conceptual design to technical design[J].Modern Ph

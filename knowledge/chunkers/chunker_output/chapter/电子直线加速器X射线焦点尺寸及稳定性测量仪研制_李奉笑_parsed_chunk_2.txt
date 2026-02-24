@@ -1,0 +1,37 @@
+# Development of a measurement instrument for the X-ray focal spot size and stability of electron linear accelerators
+
+LI Fengxiao1,2 LIU Chengfeng1,2 ZHONG Guowei1,2 YANG Run1,2 AN Kang1,2 ZHOU Rifeng1,2
+
+1(Key Laboratory of Optoelectronic Technology and Systems of the Ministry of Education, ICT Research Center, Chongqing University,
+
+Chongqing 400044, China)
+
+2(Engineering Research Center of Industrial Computed Tomography Nondestructive Testing, Ministry of Education, Chongqing University,
+
+Chongqing 400044, China)
+
+Abstract [Background] The dimensions and positional stability of X-ray focal spots produced by electron linear accelerators significantly influence the quality of non-destructive testing (NDT) imaging and are critical determinants of spatial resolution in radiographic imaging. The conventional "sandwich" method recommended by International Electrotechnical Commission (IEC) 62976: 2021 standards involves complex procedures and cannot achieve rapid and repetitive measurement of focal spot positional stability. [Purpose] This study aims to develop a slit translation scanning method and a dedicated measurement instrument for determining the X-ray focal spot size and stability of electron linear accelerators. [Methods] Firstly, a comprehensive hardware system was developed comprising four
+
+冲击波物理与爆轰物理全国重点实验室开放基金(No.2024CXPJGFJJ06411)、国家自然科学基金面上项目(No.12175026)、重庆市研究生科研创新项目(No.CYB240015)资助
+
+第一作者：李奉笑，男，1995年出生，2021年于重庆理工大学获硕士学位，现为博士研究生，研究领域为高能工业CT系统搭建及焦点测量通信作者：周日峰，E-mail：zhou65112401@cqu.edu.cn
+
+收稿日期：2024-11-18，修回日期：2025-06-24
+
+Supported by National Key Laboratory of Shock Wave Physics and Detonation Physics (No. 2024CXPJGFJJ06411), National Natural Science Foundation of China (No.12175026) and Chongqing Graduate Research Innovation Project (No.CYB240015)
+
+First author: LI Fengxiao, male, born in 1995, graduated from Chongqing University of Technology with a master's degree in 2021, doctoral student, focusing on high energy industrial CT system construction and focal spot measurement
+
+Corresponding author: ZHOU Rifeng, E-mail: zhou65112401@cqu.edu.cn
+
+Received date: 2024-11-18, revised date: 2025-06-24
+
+main components: a stainless steel slit device, a high-energy X-ray detection and acquisition system, a high-precision mechanical scanning system, and a host computer interface. Then, based on slit translation scanning, the measurement principle was established with the slit's stepwise move across the focal spot while X-ray intensity data at each position was recorded to obtain the intensity distribution. Finally, the complete system was experimentally tested on various electron linear accelerators including 2 MeV, 6 MeV, and 9 MeV systems, with comparative validation against the traditional "sandwich" method. [Results] The experimental results demonstrate that the measurement errors are within $1 0 \%$ compared to the "sandwich" method, with $X .$ -direction focal spot size of $1 . 9 5 ~ \mathrm { m m }$ versus $1 . 9 4 1 ~ \mathrm { m m }$ by the traditional method $0 . 5 \%$ error) and Y-direction size of $2 . 2 6 \ \mathrm { m m }$ versus 2.139 mm $5 . 6 \%$ error). The instrument enables rapid and repetitive measurements with excellent repeatability and successfully monitors focal spot position variations within $0 . 1 \ \mathrm { m m }$ during stability assessments. Individual instances show focal spot displacement reaching up to $0 . 6 \ \mathrm { m m }$ , indicating the instrument's capability to detect focal spot instabilities. [Conclusions] The developed measurement instrument in this study provides a fast, repeatable, and accurate method for X-ray focal spot size determination, not only quantifies focal spot dimensions but also enables dynamic monitoring of positional changes, offering significant advantages over traditional methods for enhancing NDT imaging quality assessment.
+
+Key words Electron linear accelerator, Focus size, Stability, Measuring instrument
+
+电子直线加速器是工业计算机断层扫描（Computed Tomography，CT）、数 字 射 线 检 测（Digital Radiography，DR）等无损检测成像系统的核心部件，已广泛应用于航空航天、国防军工、石油化工、交通运输等行业的大型构件和装备的缺陷检测和质量评估，以及海关大型集装箱货物检测系统。电子直线加速器X射线焦点尺寸是影响工业CT、DR等无损检测系统空间分辨率和成像质量等关键性能指标的主要因素之一，焦点尺寸越小，位置稳定性越好，成像的空间分辨率越高［1‒4］。
+
+目前，常规的电子直线加速器X射线焦点尺寸测量方法主要依据国际电工委员会（InternationalElectrotechnical Commission，IEC）62976：2021 标准的“三明治”法［5‒6］。然而，该传统方法依赖胶片曝光，需经过显影、定影及洗片等复杂流程，无法动态监测X射线焦点的位置稳定性。近年来，国内外研究团队针对电子直线加速器X射线焦点尺寸的测量提出了一些新方法。例如，Lutz等［7］采用层压束斑照相机测量8 MeV X射线的焦点尺寸；Munro等［8］、Jaffray等［9］结合CT重建技术及透射率测量，通过狭缝 在 不 同 横 向 和 角 度 位 置 表 征 焦 点 尺 寸 ；Loewenthal等［10］通过单个狭缝获取束轴各横向位置的狭缝图像，并利用高斯模型估算焦点尺寸；李成刚等［11］采用方孔编码成像法获取焦点尺寸及强度分布；陈浩等［12］使用钨-铜合金制成的狭缝替代小孔以测量焦点尺寸；李勤等［13］使用针孔法测量焦点尺寸，并定义了焦点形状因子以描述X光源的分布。上述方法也存在与“三明治”法类似的缺陷，操作流程复杂，并且尚未实现一体化测量仪器的研制。
+
+本文基于狭缝平移扫描法［14］设计了一种电子直线加速器X射线焦点尺寸测量仪，完成了狭缝装置、机械扫描运动系统、高能X射线探测与采集系统和上位机控制台的设计，并详细阐述了测量原理及相关软件与硬件的设计过程。利用该测量仪对$2 \mathrm { M e V } . 6 \mathrm { M e V } , 9 \mathrm { M e V }$ 等不同能量和型号的驻波电子直线加速器的焦点尺寸及其稳定性进行了测试，并与传统的“三明治”法进行了对比分析。

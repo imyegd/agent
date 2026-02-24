@@ -1,0 +1,8 @@
+21, 11: 021049   
+7 Shou Y, Wang P, Lee SG, et al. Brilliant femtosecond-laser-driven hard X-ray flashes from carbon nanotube plasma. Nat Photon, 2023, 17: 137-142   
+8 Kroll F, Brack F E, Bernert C, et al. Tumour irradiation in mice with a laser-accelerated proton beam. Nat Phys, 2022, 18: 316-322   
+9 Orji N G, Badaroglu M, Barnes B M, et al. Metrology for the next generation of semiconductor devices. Nat Electron, 2018, 1: 532-547   
+10 Daido H, Nishiuchi M, Pirozhkov A S. Review of laser-driven ion sources and their applications. Rep Prog Phys, 2012, 75: 056401   
+11 Principe I, Fuchs J, Pascarelli S, et al. Targets for high repetition rate laser facilities: needs, challenges and perspectives. High Pow Laser Sci Eng, 2017, 5: e17   
+12 Peng Z Y, Cao Z X, Gao Y, et al. Application of liquid film targets in laser-driven radiation sources and laser ion acceleration (in Chinese). High Power Laser Particle Beams, 2022, 34: 081003 [彭梓洋, 曹正轩, 高营, 等. 液体薄膜靶在激光驱动辐射源和激光离子加速中的应用. 强激光与粒子束, 2022, 34: 081003]   
+13 Stre

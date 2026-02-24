@@ -1,0 +1,10 @@
+(b)
+
+![](images/ae34aeff00af008fc41d02061b3dbf9670b5f8658d399178950fb7777572c57a.jpg)
+
+![](images/718039b584dc0e022d0d3e7e5bf42ab0700d3f011497e2c65f1ab7a146f3afce.jpg)  
+(c)   
+图5 刀边成像法测量焦点源尺寸. (a) 实验设置; (b) IP板刀边成像; (c) 刀边扩散函数和线扩散函数的拟合  
+Figure 5 Measurement of focal spot size using the knife-edge imaging method. (a) Experimental setup; (b) knife-edge image on the IP plate; (c) fitting of the edge spread function and the line spread function
+
+瓶颈提供了极具前景的解决方案。本文系统介绍了北京大学在液膜靶制备、原位表征与厚度理论等方面的系列创新工作：(1) 研发了集成厚

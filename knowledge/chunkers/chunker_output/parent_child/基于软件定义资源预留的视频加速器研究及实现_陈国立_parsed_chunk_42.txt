@@ -1,0 +1,6 @@
+[11] CIVANLAR S, PARLAKISIK M, TEKALP A M, et al. A QoS-enabled Open flow ENVIRONMENT for Scalable Video Streaming [C]/2010 IEEE Globecom Workshops.Miami: IEEE,
+
+2010: 351-356.   
+[12] ZHANG X, WANG T. Elastic and Reliable Bandwidth Reservation Based on Distributed Traffic Monitoring and Control [J]. IEEE Transactions on Parallel and Distributed Systems, 2022, 33 (12): 4563-4580.
+
+作者简介：陈国立（2003—），男，汉族，广东茂名人，研究方向：软件定义网络、大数据技术；通信作者：廖志文（1985—），女，汉族，江苏宿迁人，讲师，博士，研究方向：软件定义网络服务质量；陈红玲（1980—），女，汉族，湖南郴州人，副教授，硕士，研究方向

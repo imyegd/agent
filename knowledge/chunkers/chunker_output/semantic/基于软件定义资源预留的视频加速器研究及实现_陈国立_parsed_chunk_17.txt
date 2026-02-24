@@ -1,0 +1,5 @@
+![](images/0d17572aec51e50aa7eecab98148412dff2a0e0a9b8f8da448f3922f6dd9697f.jpg)
+
+![](images/969ad9015e16ad2fcdf2240d4b754da845d0301b72eb007361dfa938c46af3cf.jpg)  
+图3 ffmpeg启动参数  
+图4 ffplay启动参数

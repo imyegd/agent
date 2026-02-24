@@ -1,0 +1,3 @@
+![](images/279428bb214156b5959530ca7acecc2c04be2abe362ba631bafc90ba2cd7d448.jpg)  
+Fig. 12    Scanning trace and displacement waveforms in $x$ and y directions.   
+图 12    扫描轨迹和 x、y 方向位移波形

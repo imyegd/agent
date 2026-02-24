@@ -1,0 +1,7 @@
+or applied electron linear accelerator[J]. Atomic Energy Science and Technology, 2024, 58(Suppl.): 167-173(in Chinese).  
+[15] IEC 62976:2017 Industrial non-destructive testing equipment-electron linear accelerator[S]. Geneva: IEC, 2017.   
+[16] 李金海, 李智慧. 常温 CH-DTL 射频仿真计算[C]/中国核学会. 中国核科学技术进展报告 (第四卷)——中国
+
+核学会2015年学术年会论文集第7册(计算物理分卷、核物理分卷、粒子加速器分卷、核聚变与等离子体物理分卷、脉冲功率技术及其应用分卷、辐射物理分卷).北京：中国原子能出版社，2015.  
+[17] 秦成, 朱志斌, 杨誉, 等. $325\mathrm{MHz}$ 高功率波导窗设计研究[J]. 原子能科学技术, 2020, 54(5): 870-875.  
+QIN Cheng, ZHU Zhibin, YA

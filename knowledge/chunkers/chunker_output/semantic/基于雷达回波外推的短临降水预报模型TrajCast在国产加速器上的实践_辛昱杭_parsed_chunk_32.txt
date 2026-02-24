@@ -1,0 +1,9 @@
+收稿日期：2025年2月27日
+
+辛昱杭，国家气象信息中心先进计算室，工程师，研究方向为人工智能气象应用.
+
+本文中承担工作为TrajCast方案设计实现与在GPU上的实验。
+
+XIN Yuhang is an engineer at the Advanced Computing Division of the National Meteorological Information
+
+Center. His research direction is the application of artificial intelligence in meteorology.

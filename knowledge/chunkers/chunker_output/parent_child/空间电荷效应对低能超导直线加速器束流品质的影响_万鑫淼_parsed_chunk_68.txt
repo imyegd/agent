@@ -1,0 +1,3 @@
+, 阮玉芳, 肖帅, 等. 强流质子加速器束流剖面分布及束晕测量系统设计[J]. 强激光与粒子束, 2011, 23(01). （Sun Jilei, Ruan Yufang, Xiao Shuai, et[11]al. Design of beam profile and halo measurement system for high-intensity RFQ accelerator[J]. High Power Laser and Particle Beams, 2011, 23）  
+Li Zhihui, Cheng Peng, Geng Huiping, et al. Physics design of an accelerator for an accelerator-driven subcritical system[J]. Physical Review Accelerators and[12] Beams, 2013, 16: 080101.   
+Wangler T P, Crandall K R, Ryne R, et al. Particle-core model for trans

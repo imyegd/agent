@@ -1,0 +1,14 @@
+# 2）关键技术挑战及研究进展
+
+采用超导磁体设计虽然能大幅降低加速器体
+
+![](images/0eee0d47a2f45b762a7d15e4586402bc677d2a7ccbed75e33ce1c6d1bea03c5d.jpg)  
+图18 超紧凑多用途超导回旋加速器整机示意图  
+Fig. 18 Schematic diagram of ultra-compact multi-purpose superconducting cyclotron
+
+表 5 超紧凑多用途超导回旋加速器的主要参数  
+Table 5 Main parameters of ultra-compact multi-purpose superconducting cyclotron   
+
+<table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>磁铁扇叶数</td><td>4</td><td>高频频率, MHz</td><td>65.15、65.63</td></tr><tr><td>磁极半径, cm</td><td>45</td><td>加速电压, kV</td><td>50</td></tr><tr><td>镶条张角, (°)</td><td>42.3</td><td>磁铁重量, t</td><td>12.6</td></tr><tr><td>中心磁场, T</td><td>2.138</td><td></td><td></td></tr></table>
+
+积，但是对加速器物理和工程设计提出了更为苛刻的要求。重点需要解决强流外部离子源注入、超导紧凑型中心区设计、强场超紧凑剥离引出和偏转引出、高效率加速腔体和电场稳定控制等关键技术。在强流外部离子源方面，研究团队完成了多峰约束场、电磁线圈混合磁铁结构的离子源磁体装置的设计，已开始加工；在紧凑型中心区的设计方面，通过合理规划越隙相位、调整电极结构等技术手段，提高大相宽条件下的横向接受度，加速相宽为 $50^{\circ}$ ，满足强流束的高效率注入要求；在引出区紧凑结构中，完成了引出剥离靶、径向靶、静电偏转板、聚焦磁通道等多组引出元件的布局，多粒子跟踪结果表明 $\mathrm{H}_2^+$ 及 $\alpha$ 粒子的引出效率分别达到 $99\%$ 、 $65\%$ 以上。目前该加速器已完成整机物理设计，主磁铁、高频腔与高频机、低温超导系统等主要部件全面进入工程加工阶段。

@@ -1,0 +1,20 @@
+{
+  "source_file": "新一代通用型电子辐照直线加速器研制成功_parsed.txt",
+  "child_to_parent_map": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 1,
+    "4": 1
+  },
+  "parent_chunks": [
+    "# Progress and suggestions on international standardization work in the radiation protection field of ISO / TC85 / SC2 in China\n\nDONG Fangfang,PAN Jianjun,LIU Lipo,GUO Jianxin,YU Haoyang,NI Xueting (China Institute of Nuclear Industry Strategy,Beijing 100037)\n\nAbstract:International standards could facilitate technological progress and enhance economic efficiency, driving and coordinating international trade and technological exchange. In recent years, the International Organization for Standardization (ISO) and several developed countries generally formulated standardization strategies to address the new wave of scientific revolution and industrial transformation. Drawing on China′s practical experience in the radiation protection field of ISO / TC85 / SC2, this paper explores and analyzes the main challenges and issues within this domain. This paper also summarizes and evaluates the progress in international standardization work for radiation protection (ISO / TC85 / SC2) China has made in recent years, proposing targeted recommendations to further advance standardization efforts in this field.\n\nKey words:ISO; radiation protection; international standards\n\n(责任编辑:汤荣耀)",
+    "# •资 讯•\n\n# 新一代通用型电子辐照直线加速器研制成功\n\n近日 中国原子能科学研究院成功自主研制出新一代通用型 $1 0 \\ \\mathrm { M e V }$ 电子辐照直线加速器 技术指标达国际领先水平 该加速器脉冲流强可达 $4 0 0 ~ \\mathrm { m A }$ 加速结构俘获效率高达 $84 \\%$ 功率利用率高达 $7 5 \\%$ 在占空比仅为的情况下 束流功率可达 $3 2 \\ \\mathrm { k W }$ 凭借高束流功率 高俘获效率 高功率利用率等核心优势 该装备可为食品药品辐照、材料改性、农业辐照、医疗灭菌等场景规模化生产提供更经济、稳定、高效的解决方案。\n\n该装备全流程研制周期仅 余天 彰显了原子能院在核技术应用装备领域的深厚技术积累与创新实力新一代通用型 $1 0 \\ \\mathrm { M e V }$ 电子辐照直线加速器作为核技术应用领域的先进装备 可产生高能电子束或X射线 对物质进行辐照改性或杀菌消毒 具备常温 无损伤 无残毒 环保 低能耗 运行操作简便 自动化程度高 适宜于大规模工业化生产等显著优点 广泛应用于工业 医疗 环保等产业领域\n\n(来源:中国核能行业协会网站)"
+  ],
+  "parent_filenames": {
+    "0": "新一代通用型电子辐照直线加速器研制成功_parsed_chunk_1.txt",
+    "1": "新一代通用型电子辐照直线加速器研制成功_parsed_chunk_2.txt"
+  },
+  "total_children": 5,
+  "total_parents": 2
+}

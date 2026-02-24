@@ -1,0 +1,5 @@
+# 3.2  MLC 旋转中心（Spoke Shot）
+
+图 2 左侧是在 Spoke Shot 测试的 EPID 的成像结果，
+
+![](images/6eef24fe4fedf4a21f4dd3e47f3de0e37c0f1e059a3421b6d01adac5e8f52456.jpg)

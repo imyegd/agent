@@ -1,0 +1,10 @@
+# 5 研究成效与结果
+
+# 5.1 摆位精度提升
+
+校准技术的应用使直线加速器 6D 治疗床自动摆位精度得到大幅提高。在 $X ,$ 、Y、Z 三个平移方向，校准前平均摆位误差为 $0 . 8 ~ \mathrm { m m }$ ，校准后降至 $0 . 2 ~ \mathrm { m m }$ 以内；Pitch、Roll、Yaw 三个旋转方向，校准前平均摆位误差为 $0 . 5 ^ { \circ }$ °，校准后降低至 $0 . 1 5 ^ { \circ }$ 以内。选取 10 组典型数据进行对比，具体情况如表1和图2所示。
+
+表1 校准前后典型摆位误差对比  
+Tab.1 Comparison of typical positioning errors before and after calibration   
+
+<table><tr><td>方向</td><td>校准前误差均值</td><td>校准后误差均值</td></tr><tr><td>X平移</td><td>0.82 mm</td><td>0.18 mm</td></tr><tr><td>Y平移</td><td>0.79 mm</td

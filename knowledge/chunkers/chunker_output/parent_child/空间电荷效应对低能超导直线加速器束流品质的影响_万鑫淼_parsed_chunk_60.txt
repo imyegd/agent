@@ -1,0 +1,8 @@
+Envelope spectrum analysis   
+图 18    包络频谱分析  
+(a) 7 micro periods
+
+![](images/36b3274e7092a497080d82e5b01b05ccc06f9b9bcf89c86d76e9c7ead593f357.jpg)  
+(b) 5 micro periods   
+Fig. 19    Distribution of particles at the same position in the phase space   
+图 19    同一位置处粒子在相空间的分布图。

@@ -1,0 +1,9 @@
+\textrm { ~ } \textrm { m m }$ ）［28-29］，
+
+见图 11；第二代准直系统 Iris是一个照射野可自动切换的锥形孔准直器（照射野调整范围 $\Phi ^ { 5 \sim }$ $\Phi 6 0 \ \mathrm { m m }$ ）［30］ ；第三代准直系统InCise是一个小型MLC准直器（最大照射野 $1 1 5 \ \mathrm { m m } \times 1 0 0 \ \mathrm { m m }$ ）［31］。灵 活 精 确 的 准 直 系 统、精 准 的 图 像 引 导 及 运动 管 理 技 术、高 精 度 的 运 动 控 制 技 术 使 得CyberKnife成为开展立体定向放射治疗的重要手段 之 一。
+
+![](images/bb1a9ba11f818899d9e0d05d53d4754067c9e156ae2f306a3e613a4ca725ecc6.jpg)
+
+![](images/253eb9aa69323f5723a42853471c97cd86550e9b3fd675bf7a6f0ef577b66b96.jpg)
+
+![](image

@@ -1,0 +1,2 @@
+ig.10 Components of the mechanical scanning motion system (color online)   
+(a) Horizontal translation stage, (b) Vertical lifting stage, (c) Motion controller

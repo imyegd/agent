@@ -1,0 +1,10 @@
+[29] 李爱玲, 崔保群, 杨丙凡, 等. 基于LabVIEW的发射度测试仪[J]. 工业控制计算机, 2007, 20(11): 88, 90.  
+LI Ailing, CUI Baoqun, YANG Bingfan, et al. Emittance measurement instrument based on LabVIEW[J]. Industrial Control Computer, 2007, 20(11): 88, 90(in Chinese).   
+[30] XIONG Zhengfeng, ZHENG Shuxin, XING Qingzi, et al. The radio-frequency design of an IRIS-type coupler for the CPHS radio-frequency quadrupole[J]. Chinese Physics C, 2012, 36(1): 96-100.   
+[31] 张天爵, 关遐令, 崔保群. 串列加速器升级工程[C]/粒子加速器学会第七届全国会员代表大会暨学术报告会文集. [出版地不详]: [出版者不详], 2004: 94-106.  
+[32] 张天爵, 李振国, 殷治国, 等. 串列加速器升级工程的计算机控制系统方案设计[J]. 原子能科学技术, 2005, 39(2): 188-192.  
+ZHANG Tianjue, LI Zhenguo, YIN Zhiguo, et al. Design of computer control system for tandem accelerator upgrade project[J]. Atomic Energy Science and Technology, 2005, 39(2): 188-192(in Chinese).   
+[33] 杨丙凡, 关遐令, 曹小平, 等. HI-13 串列加速器升级工程进展与现状[C]/2006全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2006: 10-16.
+
+[34] 杨丙凡, 关遐令, 曹小平, 等. HI-13 串列加速器升级工程进展与现状[J]. 核技术, 2008, 31(1): 41-46.  
+YANG Bingfan, GUAN Xialing, CAO Xi

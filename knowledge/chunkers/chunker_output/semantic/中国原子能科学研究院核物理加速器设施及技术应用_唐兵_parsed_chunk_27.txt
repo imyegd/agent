@@ -1,0 +1,15 @@
+[出版者不详], 2007: 101.   
+[43] 闫芳, 崔保群, 舒能川, 等. ISOL靶-源中铀靶的放射性活度研究[J]. 高能物理与核物理, 2007, 31(6): 548-552.  
+YAN Fang, CUI Baoqun, SHU Nengchuan, et al. Investigation of radioactivity of uranium target in target-source of ISOL[J]. High Energy Physics and Nuclear Physics, 2007, 31(6): 548-552(in Chinese).   
+[44] 闫芳, 崔保群, 吴海成, 等. 在线同位素分离器靶-源中靶材料的放射性活度[J]. 原子能科学技术, 2008, 42(1): 28-32.  
+YAN Fang, CUI Baoqun, WU Haicheng, et al. Investigation of induced radioactivity in different target materials for on-line isotope separator target-source system[J]. Atomic Energy Science and Technology, 2008, 42(1): 28-32(in Chinese).   
+[45] 黄青华, 崔保群, 马瑞刚, 等. $300 \mathrm{kV}$ 穿墙管实验研究 [C]/第五届北京核学会核技术应用学术交流会论文集. [出版地不详]: [出版者不详], 2008: 273-275.  
+[46] 樊启文, 崔保群. 用于产生放射性核束 $^{37}\mathrm{K}$ 的高功率 ISOL 靶的设计与制备[C]/第十二届全国核靶技术学术交流会会议论文摘要集. [出版地不详]: [出版者不详], 2013: 12.  
+[47] 马鹰俊, 崔保群, 马瑞刚, 等. BRISOL 弱束流剖面成像仪的实验研究[J]. 原子能科学技术, 2013, 47(12): 2341-2345.  
+MA Yingjun, CUI Baoque, MA Ruigang, et al. Experimental investigation on beam profile monitor for BRISOL[J]. Atomic Energy Science and Technology, 2013, 47(12): 2341-2345(in Chinese).   
+[48] 马瑞刚, 崔保群, 马鹰俊, 等. 在线同位素分离器束测装置中弱电流测量系统[J]. 核技术, 2014, 37(8): 39-43.  
+MA Ruigang, CUI Baoqun, MA Yingjun, et al. Weak current measurement system for beam diagnostics at an online isotope separator[J]. Nuclear Techniques, 2014, 37(8): 39-43(in Chinese).   
+[49] 马鹰俊, 崔保群, 晏明芳, 等. BRISOL 放射性核束鉴别装置的研制[J]. 原子核物理评论, 2015, 32(增刊1): 1-4.  
+MA Yingjun, CUI Baoqun, YAN Mingfang, et al. Beam identification unit in BRISOL[J]. Nuclear Physics Review, 2015, 32(Suppl.1): 1-4(in Chinese).   
+[50] 黄青华, 崔保群, 陈立华, 等. BRISOL 靶源的远控操作系统[J]. 原子核物理评论, 2015, 32(增刊1): 29-32.  
+HUANG Qinghua, CUI Baoqun, CHEN Lihua, et al. Remote handling system of the BRISOL target

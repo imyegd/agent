@@ -1,0 +1,7 @@
+# Development and Performance Testing of DR Nondestructive Testing System Based on 2 MeV Mobile Accelerator X-ray Sources
+
+BAI Wei, MA Guo-wu, JIANG Yi, HUANG Qi-li, ZHANG Lu-qi, LIU Qing-hua, TU Guo-feng, LIU Yu, SUN Di-min*
+
+(National Key Laboratory of Science and Technology on Vacuum Electronics, School of Electronic, Science and Engineering, University of Electronic Science and Technology of China, Chengdu 611731, China)
+
+Abstract: At present, the X-ray non-destructive testing (NDT) field urgently needs

@@ -1,0 +1,5 @@
+{k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) / \sqrt {k _ {\mathrm {p}, \mathrm {v}}} \\ - \sqrt {k _ {\mathrm {p}, \mathrm {v}}} \sin (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) & \cos (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) \end{array} \right| \tag {5}
+$$
+
+$$
+\boldsymbol {M} _ {z _ {\mathrm {p}, \mathrm {v}}} = \left| \begin{array}{c c} \cosh (\sqrt {k _ {\mathrm {p , v}}} l _ {\mathrm {p , v}}) & \sinh (\sqrt {k _ {\mathrm {

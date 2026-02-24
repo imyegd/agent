@@ -1,0 +1,12 @@
+$ 。
+
+这几种发生器可代替同位素放射源 $^{252}\mathrm{Cf}$ ，用
+
+![](images/074d6b70ae856fbbd105b2db93dacea18c5cf46f8214d6196e5df5356a5d297a.jpg)  
+a——手提式；b——桌面式；c——立式；d——自屏蔽式  
+图8 原子能院可移动中子发生器系列  
+Fig. 8 Movable neutron generator series of CIAE
+
+于中子活化分析和中子单粒子效应等技术研究和应用。
+
+3.1.2 小型高压倍加器型中子发生器 2016—2018年，倍加器技术团队采用正高压加速技术研发出了小型高压倍加器型的中子发生器，该发生器总长为 $2.3\mathrm{m}$ ，加速电压为 $0\sim 300\mathrm{kV}$ ，束流强度为 $0\sim 2\mathrm{mA}$ ，D-D反应中子产额为 $0\sim 2\times 10^{9}\mathrm{s}^{-1}$ ，D-T反应中子产额为 $0\sim 2\times 10^{11}\mathrm{s}^{-1}$ ，采用了伴随粒子法实

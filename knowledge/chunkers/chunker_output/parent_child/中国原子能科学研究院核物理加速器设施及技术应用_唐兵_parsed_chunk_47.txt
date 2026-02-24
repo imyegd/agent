@@ -1,0 +1,5 @@
+haoxin, BAO Yiwen, et al. Recent status of the Beijing HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2008, 42(Suppl.): 251-253(in Chinese).   
+[16] 李康宁, 阙朝新, 王晓飞, 等. HI-13 串列加速器运维 35 周年的实践与创新[J]. 核技术, 2023, 46(8): 080005.  
+LI Kangning, KAN Chaoxin, WANG Xiaofei, et al. Practice and innovation in the operation and maintenance of HI-13 tandem accelerator for 35 years[J]. Nuclear Techniques, 2023, 46(8): 080005(in Chinese).
+
+[17] 曹清喜, 关遐令, 王荣文, 等. 倾斜场加速管的物理设计方法[J]. 原子能科学技术, 1980, 14(5): 5

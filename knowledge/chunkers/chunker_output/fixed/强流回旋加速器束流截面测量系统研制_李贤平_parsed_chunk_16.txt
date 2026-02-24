@@ -1,0 +1,3 @@
+am tuning personnel to rapidly adjust magnet parameters. Operational results demonstrate that the beam cross-section measurement system can run stably for a long time, accurately identify the beam spot, and quickly and precisely compute beam cross-section data. It has improved beam tuning efficiency and provided data support for intelligent beam tuning.
+
+Key words: BNCT; cyclotron; beam cross-section; system design; image processing

@@ -1,0 +1,31 @@
+# 2    斩束电压脉冲前后沿与束流脉冲前后沿关系
+
+对于斩束器而言，另一个重要关系是斩束电压脉冲前后沿和束流脉冲前后沿关系。实际上，静电斩束束流的上升（下降）沿由电压上升（下降）沿和带电粒子在斩束器内飞行时间决定[15]，假设束流偏转电压为 $\varphi$ ，图 12 是斩束器电压波形图，带电粒子在斩束器内飞行时间为 $t _ { 0 } { = } L / \nu$ ，$L$ 是极板长， $\nu$ 是粒子速度，在 $t _ { 0 } { \sim } 0$ 这段时间束流不被偏转， $\scriptstyle { t = 0 }$ 时刻斩束器开始工作，那么 $t _ { 0 } { + } t _ { 1 }$ 这段时间束流得不到有效的偏转，这就是束流下降沿时间，对于束流上升沿，与其反过来，是束流通过斩束器时间加上斩束器电压下降时间。
+
+![](images/34ddab9b5083529e0f726854f9fc3f920a1d43af4660f2e8fe382d340bf4a4d2.jpg)  
+Fig. 12    Voltage waveform diagram of the beam chopper   
+图 12    斩束器电压波形图
+
+束流的上升沿与下降沿越短越好，束流传输的波动会影响后续加速器的工作，而这主要取决于斩束器电压的上升沿于下降沿[16]，因此对于斩束器的驱动电压要求在尽量短时间完成工作，便于分析计算假设 $L ^ { \prime } { = } 1 5 \ \mathrm { m m }$ ，斩束器驱动电压有 $1 \%$ 波动会带来束流轴心位置偏离 $0 . 3 \mathrm { m m }$ ，这样带来的束流发散角为 $\pm 3 \mathrm { \ m r a d }$ ，若束斑为理想圆形束斑，假设半径为 $5 \mathrm { { m m } }$ ，则束流的归一化发射度为 $0 . 1 3 \pi$ ·mm·mrad，加速器入口要求束流归一化发射度 $< 0 . 3 \pi$ ·mm·mrad，由此可见斩束器电压的上升沿与下降沿时间对于束流发射度的影响还是较大的。
+
+为了让束流上升沿与下降沿时间降低，一般情况斩束器工作电压会采用高于 $\varphi$ 的 $\varphi _ { \mathrm { m } } ^ { \ [ 1 5 ] }$ ，这时束流的上升沿与下降沿计算式就要有所变化。根据文献 [8]，假设极板长 $L$ ，极板间距 $d ,$ ，电压实际输出幅值 $\varphi _ { \mathrm { m } } .$ ，踢束所需电压 $\varphi$ ，粒子飞行时间 $\tau ,$ ，电压由 0升至 $\varphi$ 所需时间 $t _ { 1 }$ ，升至 $\varphi _ { \mathrm { m } }$ 所需时间 $t _ { 2 \circ }$ 利用微积分知识易求得以下关系式
+
+$$
+\left\{ \begin{array}{l} \tau_ {1} = \tau^ {\prime} + t _ {1} \\ \tau^ {\prime} = \tau \frac {\varphi \tau}{\int_ {t _ {1}} ^ {t _ {1} + \tau} \varphi \mathrm {d} t} \end{array} \right. \tag {5}
+$$
+
+式中： $\tau ^ { \prime }$ 定义为归一化飞行时间。
+
+（1）当 $t _ { 2 } - t _ { 1 } < \tau$
+
+$$
+\left\{ \begin{array}{l} \int_ {t _ {1}} ^ {t _ {1} + \tau} \varphi \mathrm {d} t = \int_ {t _ {1}} ^ {t _ {2}} \varphi \mathrm {d} t + \int_ {t _ {2}} ^ {t _ {1} + \tau} \varphi \mathrm {d} t = \frac {\varphi_ {\mathrm {m}}}{t _ {2}} \frac {1}{2} \left(t _ {2} ^ {2} - t _ {1} ^ {2}\right) + \varphi_ {\mathrm {m}} (\tau + t _ {1} - t _ {2}) \\ \tau_ {1} = t _ {1} + \tau \frac {\varphi \tau}{\frac {\varphi_ {\mathrm {m}}}{t _ {2}} \frac {1}{2} \left(t _ {2} ^ {2} - t _ {1} ^ {2}\right) + \varphi_ {\mathrm {m}} (\tau + t _ {1} - t _ {2})} \end{array} \right. \tag {6}
+$$
+
+（2）当 $t _ { 2 } - t _ { 1 } > \tau$
+
+$$
+\left\{ \begin{array}{l} \int_ {t _ {1}} ^ {t _ {1} + \tau} \varphi \mathrm {d} t = \frac {\varphi_ {\mathrm {m}}}{t _ {2}} \frac {1}{2} \left(\left(t _ {1} + \tau\right) ^ {2} - t _ {2} ^ {2}\right) \\ \tau_ {1} = t _ {1} + \tau \frac {\varphi \tau}{\frac {\varphi_ {\mathrm {m}}}{t _ {2}} \frac {1}{2} \left(\left(t _ {1} + \tau\right) ^ {2} - t _ {1} ^ {2}\right)} \end{array} \right. \tag {7}
+$$
+
+通过式（6）与式（7）可以计算斩束器采取 $\varphi _ { \mathrm { m } }$ 斩束电压工况下的束流下降沿时间，例如束流参数 $E { = } 7 5 \ \mathrm { k e V } .$ 、$L { = } 5 0 \ \mathrm { m m }$ 、 $t _ { 1 } { = } 1 2$ ns、 $t _ { 2 } { = } 2 0$ ns、 $\varphi { = } 3 \mathrm { k V }$ 、 ${ \varphi _ { \mathrm { m } } } ^ { = 4 . 5 \mathrm { k V } }$ ，利用公式可求得 $t _ { 0 } { = } 1 3 . 2 \ \mathrm { n s }$ 、 $\tau ^ { \prime } { = } 8 . 3$ ns、 $\tau _ { 1 } { = } 2 0 . 3 ~ \mathrm { n s }$ ，显然通过采取使斩束器工作电压高于 $\varphi$ 的 $\varphi _ { \mathrm { m } }$ ，会降低束流下降沿时间。

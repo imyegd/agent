@@ -1,0 +1,12 @@
+产加速器K型号与GPU L20性能差异的原因，主要表现在 L2 Cache 容量的显著差距，GPUL20 的 L2 Cache 容量为 96MB，而国产加速器 K 型号的 L2 Cache 容量仅为 8MB，两者存在高达 12 倍的容量差距，导致国产加速器 K型号的数据读写速度显著低于 GPU L20 的数据读写速度。因此，在此硬件差距情况下，国产加速器 K 型号相较于 GPUL20 的性能表现已符合预期范围。
+
+# 5 结束语
+
+本文实现了 CUTLASS-Sparse 从 NVIDIA GPU到国产加速器的跨平台移植，并针对国产加速器的硬件特性对移植后的 CUTLASS-Sparse 进行性能优化，优化方法包括共享内存数据排布优化、数据流水线优化和数据写回优化。通过消融实验、同平台数学库对比实验及竞品平台对比实验，表明所提出的三种优化方法对移植后的 CUTLASS-Sparse 的性能提升均显著有效，移植优化后的性能显著高于同平台 SPARSE 数学库的性能，且能够接近 GPU L20
+
+上原库的性能水平，充分体现了移植与优化工作的成效。在未来，计划对 CUTLASS-Sparse 中的线程块重排算法进行优化，以提高 L2 Cache 的命中率；还计划实现 CUTLASS-Sparse 与常用激活函数（如ReLu 等）算子的融合，以减少 CUTLASS-Sparse 与激活函数算子间数据传输的开销。
+
+# 参考文献
+
+[1] FAN R, WANG W, CHU X W. Dtc-SpMM: bridging the gap in accelerating general sparse matrix multiplication with tensor cores[C]//Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3. New York, USA: ACM Press, 2024: 253-267.   
+[2] SONG Y C, WANG Y B, XIONG C Y, et al. An efficient sampling-based SpMM kernel for balanc

@@ -1,0 +1,7 @@
+![](images/51a715d0f72ff0670f5afe641f3d69171a3c3d00913cfaa86ada42b564276678.jpg)
+
+![](images/29cbb7905310627736abfc145613744e6b7baf73b335e44e15aaa3bb63dab106.jpg)  
+(a) complete periodic structure   
+(b) double periodic structure   
+Fig. 11    Schematic diagram of the envelope obtained from multi-particle simulation   
+图 11    多粒子模拟得到的包络仿真结果

@@ -1,0 +1,5 @@
+# (2) 辐射物理领域
+
+近地轨道的空间辐射环境中，数MeV至 $400\mathrm{MeV}$ 的质子占绝大部分；银河宇宙射线(GCR)及太阳粒子事件(SPE)中，质子占比也超过了 $85\%$ ，通量主要集中在百MeV能区。因此，不论是重大航天工程还是日益重要的商业航天，对于空间辐射环境的地面模拟与抗辐射加固研究，都需要中高能质子束。
+
+然而，这样的中高能质子加速器，以及成套质子治疗装备市场主要被欧、美及日本等国垄断，主要有比利时IBA（Ion Beam Applications S.A.），美国Varian（Varian Medical Systems, Inc.），日本日立（Hitachi, Ltd.）、住友（Sumitomo Corporation）等。

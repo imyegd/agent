@@ -1,0 +1,3 @@
+ror type</td><td>Error strength</td></tr><tr><td>四极铁</td><td>Shift / mm</td><td>0.05</td></tr><tr><td>Quadrupole</td><td>Tilt / mrad</td><td>0.1</td></tr><tr><td></td><td>Current ripple / 10-6</td><td>100</td></tr><tr><td>二极铁</td><td>Shift / mm</td><td>0.1</td></tr><tr><td>Bend</td><td>Tilt / mrad</td><td>0.1</td></tr><tr><td></td><td>Current ripple / 10-6</td><td>100</td></tr></table>
+
+200个随机误差种子的各项误差后，进行粒子追踪模拟。之后方案分别读取BPM处的水平和垂直方向轨道数据并分析，得到轨道畸变RMS（Root MeanSquare）校正前的结果，如图3和图4所示。从图中可以看出，水平方向轨道畸变 $2 0 0 {

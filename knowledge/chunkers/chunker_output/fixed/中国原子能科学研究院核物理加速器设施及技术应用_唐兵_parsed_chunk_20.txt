@@ -1,0 +1,9 @@
+Rongwen, et al. Physical design method of inclined field accelerating tube[J]. Atomic Energy Science and Technology, 1980, 14(5): 536-546(in Chinese).   
+[18] 曹清喜, 关遐令. 脉冲束在三维均匀倾斜场中的传输[J]. 原子能科学技术, 1981, 15(1): 19-28.  
+CAO Qingxi, GUAN Xialing. Propagation of pulse beam in three-dimensional uniform inclined field[J]. Atomic Energy Science and Technology, 1981, 15(1): 19-28(in Chinese).   
+[19] 关遐令. HI-13 串列加速器的光学特性[J]. 核科学与工程, 1983, 5(3): 281-285.  
+GUAN Xialing. Optical characteristics of the HI-13 tandem accelerator[J]. Chinese Journal of Nuclear Science and Engineering, 1983, 5(3): 281-285(in Chinese).   
+[20] 关遐令, 曹清喜, 张洁. 串列加速器束流的纵向输运特性分析[J]. 原子能科学技术, 1985, 19(4): 434-439.  
+GUAN Xialing, CAO Qingxi, ZHANG Jie. Analysis of longitudinal beam transport characteristics in tandem accelerators[J]. Atomic Energy Science and Technology, 1985, 19(4): 434-439(in Chinese).   
+[21] 关遐令. 串列加速器光学元件线性准直公差特性分析 [J]. 原子能科学技术, 1985, 19(4): 440-445.  
+GUAN Xialing. Analysis of linear collimation tolerance characteristics

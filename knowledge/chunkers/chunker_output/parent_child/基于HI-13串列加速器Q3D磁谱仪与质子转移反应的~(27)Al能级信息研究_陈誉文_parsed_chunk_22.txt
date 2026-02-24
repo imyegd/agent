@@ -1,0 +1,9 @@
+U _ { \mathrm { N T } } ( | R + r | )$ 为自由核子与靶核之间的相互作用。入射道和出射道的光学势均采用 JLMB 模型[16] 计算，并通过单折叠势拟合弹性散射角分布（图 3）。为进行对比，还拟合
+
+![](images/79dcd1ffc1a72be38c3cd7a0793dee5fbe44099e78260d0df075f27f20532ddd.jpg)  
+图 2    使用 FRESCO 计算得到的角分布与实验角分布
+
+![](images/9a86e813404ef9e6ef354a79ce5fae1073eff88d01a8f9ee9e39a2ec52b6aa91.jpg)  
+Fig. 2    Angular distribution from FRESCO calculation and experiment   
+图 3    单折叠势（SFP）和 Woods-Saxon 势（OMP）的拟合结果  
+Fig. 3    Fitting results for single-folding potential and Woods-Saxon potenti

@@ -1,0 +1,8 @@
+标准差为 0.32；来源于 VAC的OXⅡ平均值为 $1 3 4 . 1 2 { \scriptstyle \pm 0 . 6 6 ~ \mathrm { p M C } }$ $\mathrm { n } = 6 7$ ），长期标准差为0.52。两套系统制备的OXⅡ平均值高度接近，表明系统间不存在显著偏差。两组数据的长期标准偏差均小于其平均值的标准误差，且波动幅度与测量不确定度相当，即观测到的 $\mathrm { 0 X I } ^ { 1 4 } \mathrm { C }$ 测试值的长期
+
+![](images/b6eaed0b874d3d9dee0c818226b9ce20a78b6d883ec00c04b619b351c61f7580.jpg)
+
+![](images/011cf1d7035ad368661e84397aeb7c74687a29bcf3156e8e15b191e25a875d78.jpg)
+
+![](images/6a2b8ecc62e8f4657a99af5bb3bb39838806037009af0091bd0f44f522f32eec.jpg)  
+图 5 IHEG-CAGS

@@ -1,0 +1,8 @@
+![](images/41c47685d4024f68f30a37ca6d918b43f824fafea19d05e47c01cdf40c41d98d.jpg)  
+Fig. 2 Schematic of Cs sputtering negative ion source of the SO-110 type   
+图3 束流精确限时注入电极的原理图
+
+![](images/0319edae0f3c55efdf6be0a5dce66a09862d5062f1d514ab5d26aa23f6acad50.jpg)  
+Fig.3 Principle diagram of the beam blanking unit   
+图4 加速聚焦电极原理图  
+Fig.4 Principle diagram of the Q-snout

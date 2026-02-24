@@ -1,0 +1,15 @@
+# Lattice design of the transport system for the bypass line in the storage ring based fully coherent light source
+
+WANG Kun1,2,5 LI Changliang2 ZHANG Qinglei2 FENG Chao2 JIANG Bocheng3
+
+WAN Weishi4 GU Qiang2
+
+1(Shanghai Institute of Applied Physics, Chinese Academy of Sciences, Shanghai 201800, China)
+
+2(Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai 201210, China)
+
+3(Chongqing University, Chongqing 401331, China)
+
+4(ShanghaiTech University, Shanghai 201210, China)
+
+5(Universit

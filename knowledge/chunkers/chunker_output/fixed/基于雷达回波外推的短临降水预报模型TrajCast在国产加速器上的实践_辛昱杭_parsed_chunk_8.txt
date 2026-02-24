@@ -1,0 +1,26 @@
+\tag {5}
+$$
+
+在改进为TrajGRU单元后，其操作方式更新如下，其中warp代表重采样操作：
+
+$$
+Z _ {t} = \sigma \left(W _ {x z} * X _ {t} + \sum_ {l = 1} ^ {L} W _ {h z} ^ {l} * w a r p \left(H _ {t - 1}, U _ {t, l}, V _ {t, l}\right)\right) \tag {6}
+$$
+
+$$
+R _ {t} = \sigma \left(W _ {x r} * X _ {t} + \sum_ {l = 1} ^ {L} W _ {h r} ^ {l} * w a r p \left(H _ {t - 1}, U _ {t, l}, V _ {t, l}\right)\right) \tag {7}
+$$
+
+$$
+H _ {t} ^ {\prime} = f \left(W _ {x h} * X _ {t} + R _ {t} \circ \left(\sum_ {l = 1} ^ {L} W _ {h h} ^ {l} * w a r p \left(H _ {t - 1}, U _ {t, l}, V _ {t, l}\right)\right)\right) \tag {8}
+$$
+
+$$
+H _ {t} = \left(1 - Z _ {t}\right) \circ H ^ {\prime} _ {t} + Z _ {t} * H _ {t - 1} \tag {9}
+$$
+
+# 2 TrajCast短临降水预报方案
+
+# 2.1 数据集介绍
+
+本文的研究工作使用了国家气象信息中心研制的短时强降水AI应用专项数据集[15]，该数据集从更大范围的强对流天气人工智能应用训练基础数据集[20]中整理而来。在短时强降水AI应用专项数据集中收集了2016到2018年间福建、江西、安徽、浙江、湖南、湖北6个省份所有的强降水天气过程共计3,186个，数据帧间隔为逐6分钟，共计有约12万个逐6分钟的时次。而该数据集中每个时次均包括了组合反射率（CR）、混合扫描反射率（HBR）、 $0 . 5 \mathrm { k m }$ 等高面反射率（CAP05）、 $1 ~ \mathrm { k m }$ 等高面反射率（CAP10）、 $1 . 5 \mathrm { k m }$

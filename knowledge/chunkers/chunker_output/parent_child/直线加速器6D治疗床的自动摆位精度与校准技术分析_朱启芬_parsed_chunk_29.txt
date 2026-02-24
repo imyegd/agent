@@ -1,0 +1,10 @@
+变动 $1 ~ ^ { \circ } \mathrm { C }$ ，称重传感器会有 $_ { 2 \mathrm { ~ g ~ } }$ 左右的误差值存在。
+
+分为以下两种情况来处理：
+
+$$
+\text {当} \mathrm {B} = 0, \text {表 示 无 降 水} \left\{ \begin{array}{l l} \Delta x ^ {\prime} > 0, & \text {非 有 效 降 水} \\ \Delta x ^ {\prime} \leqslant 0, & \text {蒸 发 原 因 造 成 减 小} \end{array} \right. \tag {1}
+$$
+
+$$
+\text {当} \mathrm {B} = 1, \text {表 示 有 降 水} \left\{ \begin{array}{l l} \Delta x ^ {\prime} > 0, & \text {有 效 降 水} \\ \Delta x ^ {\prime} \leqslant 0, & \text {降 水 量 为 0 (无 效 降 水)} \end{array} \rig

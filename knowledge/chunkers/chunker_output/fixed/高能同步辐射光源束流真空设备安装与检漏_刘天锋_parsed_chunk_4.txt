@@ -1,0 +1,7 @@
+composition analysis, it systematically measures and compares the residual gas spectra in the vacuum chamber of the storage ring before and after beam loading. This study verifies the effectiveness and reliability of the adopted leak detection methods and analysis strategies, providing a solid guarantee for the qualification and stable operation of the HEPS storage ring vacuum system. Its experience holds important reference value for vacuum quality control and analysis of similar large scientific facilities.
+
+Keywords High Energy Photon Source (HEPS), Storage ring vacuum system, Vacuum leak detection, Helium mass spectrometer leak detection, Residual gas analysis
+
+摘要 高能同步辐射光源（HEPS）作为具有极高亮度和极低发射度的国际先进的第四代光源，其对真空系统的密封性和洁净度提出了严苛要求。真空检漏与残余气体分析是保障真空系统性能达标的关键环节。本文系统论述了 HEPS 储存环真空系统在安装、调试与运行阶段的真空检漏策略与实践。重点阐述了
+
+利用氦质谱检漏仪的真空模式法的检漏方案，详述了定位各类漏点（如焊缝缺陷、密封圈安装不当等）的流程与解决方案，并分析了检漏过程中仪器界面的典型响应特征。同时，本文深入探讨了四极质谱仪（QMS）在真空系统调试中的双重作用：一方面作为高灵敏度的检漏工具，辅助定位了氦质谱检漏仪在难以检漏情形下的疑难漏点；另一方面，作为残余气体成分分析的关键设备，系统测量并对比了储存环有束流加载前后真空腔内的残余气体谱图。本研究证实了所

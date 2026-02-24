@@ -1,0 +1,5 @@
+Performance Computing, Networking, Storage, and Analysis. Washington D. C., USA: IEEE Press, 2024: 1-14.   
+[14] LI S G, OSAWA K, HOEFLER T. Efficient quantized sparse matrix operations on tensor cores[C]//Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. Washington D. C., USA: IEEE Press, 2022: 1-15.   
+[15] NAUMOV M, CHIEN L S, VANDERMERSCH P, et al. CuSPARSE library [EB/OL]. [2025-06-03].
+
+https://www.nvidia.com/content/GTC-2010/pdfs/2070_G TC20

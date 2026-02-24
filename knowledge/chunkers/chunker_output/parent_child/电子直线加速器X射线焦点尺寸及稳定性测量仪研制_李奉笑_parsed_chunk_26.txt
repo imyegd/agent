@@ -1,0 +1,7 @@
+数转换。最终选用数据转换器芯片DDC118作为该电路采集板的模数 转 换 器（Analog-to-Digital Converter，ADC）。DDC118 是德州仪器（Texas Instruments，TI）公司生产的8通道、20位电流输入模数转换器，集成了模数（Analog-to-Digital，A/D）转换器和积分放大电路，每个通道配备两路电荷积分电路，采用乒乓模式［22］进行信号采集，如图8所示。该系统最终在4和5状态下工作，实现微弱电流信号向数字信号的转换。
+
+![](images/830b0e1bd5dcfa6eb638d3e854bc6ae25cd988d73931ed7f69fca2d1db2d226f.jpg)  
+图7 高能X射线探测与采集系统构件图
+
+![](images/ec1e0dc528696ec3fbfca5393f2fff652938d06e884a21cd34cace8f6e3e20ab.jpg)  
+Fig.7 Snapshots of components of the high-energy X-ray detection and acquisition system

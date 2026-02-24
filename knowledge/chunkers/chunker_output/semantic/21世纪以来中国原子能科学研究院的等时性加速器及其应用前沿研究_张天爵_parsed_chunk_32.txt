@@ -1,0 +1,4 @@
+Design of RF system for CYCIAE-230 superconducting cyclotron[J]. Nucl Instrum Methods Phys Res A, 2017, 854: 25-30.   
+[51] WANG Chuan, YIN Zhiguo, ZHANG Tianjue, et al. The commissioning of a 230 MeV superconducting cyclotron CYCIAE-230[C]/23rd Int Conf Cyclotrons Appl (CY-CLOTRONS 2022). Beijing: JACoW Publishing, 2022.   
+[52] SONG Q, HE A, ZHAO B, et al. Design and tuning of a fast beam energy selection control system for CYCIAE-230 cyclotron beamline[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 692-698.   
+[53] YIN Z, XIONG R, GUO Q, et al. Online parameter identification and control in the commissioning of nozzle for CIAE proton therapy system[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 462-468.

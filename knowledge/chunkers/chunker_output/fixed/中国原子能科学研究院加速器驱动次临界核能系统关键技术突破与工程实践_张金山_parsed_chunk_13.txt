@@ -1,0 +1,20 @@
+7d65f500dd18f3d3fa588de6af6c1.jpg)  
+图4散裂靶示意图  
+Fig. 4 Schematic diagram of spallation target
+
+采用堆靶集成方案后，散裂靶形成中子源的情况为：质子源模式下，能量为 $500\mathrm{MeV}$ 的质子束流强度为 $0.5\mathrm{mA}$ 时，靶功率达到 $0.25\mathrm{MW}$ ，反应堆装载燃料组件69盒，堆功率可达 $9.75\mathrm{MW}$ ；质子束流强度为 $5\mathrm{mA}$ 时，靶功率达到 $2.5\mathrm{MW}$ ，反应堆装载燃料组件18盒，堆功率为 $7.5\mathrm{MW}$ ；中子源模式下，单质子打靶产生的中子数为9.07个（散裂靶外套管侧壁泄漏中子产额），对应的中子源强为 $2.83\times 10^{16}\mathrm{s}^{-1}$ 。
+
+# 2）堆芯设计
+
+堆芯作为CiADS的核心组件，在散裂中子源驱动下维持次临界运行，实现反应堆、散裂靶与加速器的集成实验验证。CiADS堆芯布置如图5所示。堆芯内核裂变反应产生的中子辐照场，可满足核废料嬗变、材料辐照考验及科学实验等多场景需求。从临界安全角度，CiADS堆芯燃料装载量低于临界质量，始终处于深度次临界状态，当
+
+![](images/e1b66572fabc5359aab807c96e90b9d0711206d6fee57e5dd033d0032812bc94.jpg)  
+图5 CiADS堆芯布置  
+Fig. 5 Layout of CiADS core
+
+加速器束流关闭时可立即停堆，具备固有安全性。堆芯主要参数如表1所列。
+
+表 1 CiADS 堆芯系统的主要参数  
+Table 1 Main parameter of CiADS core system   
+
+<table><tr><td rowspan="2">参数</td><td colspan="2">参数值</td></tr><tr><td>模式1</td><td>模式2</td></tr><tr><td>总功率,MWt</td><td>10</td><td>10</td></tr><tr><td>靶功率,MW</td><td>0.25</td><td>2.5</td></tr><tr><td>堆功率,MW</td><td>

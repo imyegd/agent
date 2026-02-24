@@ -1,0 +1,8 @@
+99919d6459f55f1bf42cddb665a4500fbfffeecb8d1711b2880bd30a.jpg)  
+(b) solenoid   
+Fig. 7    Beam outlet emissivity corresponding to different focusing schemes and different $\eta$ in the three-dimensional simulation   
+图 7    三维模拟下不同聚焦方案与不同 $\eta$ 所对应的束流出口发射度。
+
+高斯分布，纵向归一化均方根发射度设定为 $0 . 3 \ \mathrm { \pi \cdot m m \cdot m r a d }$ ，该值位于 Hofmann图的非共振区域[20-21]。粒子数设置为100 000，横向粒子分布基于 KV模型。使用 TraceWin软件获得的仿真结果如图7所示。
+
+对于通过双组合四极透镜的束流，当 $\eta { = } 0 . 6$ 时， $\varepsilon$ 出现了大幅增加。 $\varepsilon$ 增加的原因有两个：一是空间电荷的影响，二是加

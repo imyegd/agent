@@ -1,0 +1,12 @@
+$0 . 0 1 6 ~ \mathrm { p M C }$ ， $^ { 1 0 } \mathrm { { B e } }$ e和$^ { 2 6 } \mathrm { A l }$ l本底达 $1 0 ^ { ^ { - 1 5 } } \sim 1 0 ^ { ^ { - 1 6 } }$ ）优势，有望提升第四纪研究的时空分辨率与多维解析能力，推动第四纪沉积物定年、地下水循环示踪及地表过程定量重建的相关研究。未来将进一步拓展 $^ { 4 1 } \mathrm { C a }$ 生物示踪与 $^ { 2 3 9 } \mathrm { { P u } }$ 环境行为监测，深化多核素协同分析在复杂地质过程解析中的应用，并重点聚焦全球变化响应研究、地下水循环机制及地质灾害预警等前沿领域，为地球系统科学的持续发展提供坚实技术支撑。
+
+致谢：感谢北京师范大学赵晓雷教授仪器调试指导和经验分享；感谢审稿专家及编辑部崔静怡老
+
+师和赵淑君老师在稿件修订过程中的专业指导和校对建议。
+
+# 参考文献（References）：
+
+［1］ BennettCL，BeukensRP，CloverM R，etal．Radiocarbondatingusingelectrostaticaccelerators：Negativeionsprovidethekey［J］Science，1977，198（4316）：508－510  
+［2］ NelsonDE，KortelingRG，StottW R．Carbon-14：Directdetectionatnaturalconcentrations［J］．Science，1977，198（4316）：507－508  
+［3］ 姜山，董克君，何明．超灵敏加速器质谱技术进展及应用［J］岩矿测试，2012，31（1）：7－23JiangShan，DongKejun，HeMing．Developmentandapplicationoultrasensitiveacceleratormassspectrometry［J］．RockandMineraAnalysis，2012，31（1）：7－23  
+［4］ 周卫健，卢雪峰，武振坤，等．西安加速器质谱中心多核素分析的加速器质谱仪［J］．核技术，2007，30（8）：702－708ZhouWeijian，LuXuefeng，WuZhenkun，

@@ -1,0 +1,17 @@
+# 2.1    束流加速性能与强流束运行验证
+
+在 CW 运行模式下，装置成功加速了覆盖质荷比在 $2 \sim 7$ 范围的多种离子，包括从轻离子（如： $\mathrm { H _ { 2 } } ^ { + }$ 、 $\mathrm { H e } ^ { 2 + }$ 、 $\mathrm { H e ^ { + } }$ 、$\mathrm { C ^ { 4 + } }$ 、 $\mathrm { N } ^ { 2 + }$ 、 $\mathrm { O } ^ { 6 + }$ ）到重离子（如： $\mathbf { A r } ^ { 9 + }$ 、56Fe1x+、 $^ { 1 2 7 } \mathrm { I } ^ { 2 5 + }$ 、 $^ { 1 3 3 } \mathrm { C S } ^ { 2 6 + }$ 、 $^ { 5 9 } \mathrm { K r } ^ { 1 3 + }$ 、 ${ } ^ { 1 2 9 } \mathrm { X e } ^ { 2 0 + }$ 、 $^ { 2 0 9 } \mathrm { B i } ^ { 3 5 + }$ 、 $^ { 2 3 8 } \mathrm { U } ^ { 3 5 + } ,$ ）在内的全谱系高电荷态离子。加速后的束流强度覆盖 $1 0 ^ { - 2 } \sim 1 0 ^ { 3 } ~ \mathrm { e } \mu \mathrm { A }$ ，充分验证了装置在大范围束流参数下的稳定加速能力。束流由超导ECR 离子源产生后，首先经过 LEBT，并通过静电加速器将束流能量预加速至 $1 4 \mathrm { k e V / u }$ ，以满足 RFQ加速器的入射能量要求[8]。束流随后进入 RFQ加速器，在 $8 1 . 2 5 \mathrm { M H z }$ 高频电场作用下实现束流从 $1 4 \mathrm { k e V / u }$ 至 $0 . 5 \mathrm { M e V / u }$ 的高效加速。束流的传输效率由布置于 RFQ前后两端的交流电流互感器（ACCT）测得；通过对入口 ACCT-1 与出口 ACCT-2的电流值比对，可获得 RFQ 的总传输效率。而加速效率定义为有效加速至设计能量 $\mathrm { ( 0 . 5 \mathrm { M e V / u } ) }$ ）的离子占入射总离子的比例，该指标由 MEBT 段法拉第筒（FC）与 ACCT-1所测电流比值确定。为进一步提高 RFQ的加速效率，LEAF平台在其前端布置了一台多谐波聚束器（MHB）[9]，通过优化入射离子束在纵向相位空间的分布，使其与RFQ 的加速相稳定区更加匹配，从而显著降低纵向发射度损失并提高加速捕获率。图 5展示了 LEAF 装置在加速
+
+$^ { 1 6 } \mathrm { O } ^ { 6 + }$ 束流强度超过 1.0 emA情况下，装置在传输与加速效率方面的性能表现。在该强流条件下，束流传输效率达到 $9 0 . 2 \%$ ，加速效率达 $8 6 . 9 \%$ 。值得指出的是，空间电荷效应[10] 在毫安级强流重离子束中尤为显著，其非线性库仑作用易导致束流发射度急剧增长（如图 6所示），引发发散或能散增加，甚至引发腔体放电等不稳定因素。然而在该实验中，LEAF 装置维持了 1.0 emA 级 $\mathrm { O } ^ { 6 + }$ 束流连续稳定运行超过 1小时，期间未发生任何腔体打火或束线故障事件，表明装置整体设计具备良好的微波性能与热稳定性，能够满足强流重离子加速的工况需求，同时，基于调能器系统中的 QWR聚束器，可以将强流束能散抑制在较低水平（ $1 \sigma$ 能散度约 $0 . 1 1 5 \%$ ，如图 7所示）。这一结果在国际同类装置中处于领先水平。
+
+![](images/891202f6456accb0cb8c89b78084e4668d1ab2873509859c212831740cb8db6c.jpg)  
+Fig. 5    RFQ efficiency measurement when the accelerated ${ } ^ { 1 6 } \mathrm { O } ^ { 6 + }$ current is stronger than 1.0 emA
+
+![](images/35a69b784e5c2f277c2d8b57ac3c7adc2f87ab6e628a936503c2963d1415a825.jpg)  
+图  5    加 速 $^ { 1 6 } \mathrm { O } ^ { 6 \cdot }$ 流强大于 $1 . 0 \mathrm { e m A }$ 时的 RFQ 效率测量  
+(a) horizontal direction
+
+![](images/e48750e7dd0df7b06f19885f3f835b74bed825c164b46842289ed341537fb851.jpg)  
+(b) vertical direction   
+Fig. 6    Initial emittance measurement of a milliampere-class high-current ${ \mathrm { O } } ^ { 6 + }$ heavy ion beam   
+图 6    毫安级强流 $\mathrm { O ^ { 6 + } }$ 重离子束流的初始发射度测量

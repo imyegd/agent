@@ -1,0 +1,6 @@
+(images/38a49026de4b5fc72bba6b5ad97b8ab8b851e0df0cb448cffb2d29f06f036fae.jpg)  
+(a) $\scriptstyle \eta = 0 . 4 8$ , $\sigma _ { 0 \mathrm { s } } { = } 1 0 2 ^ { \circ }$ , 5 micro periods   
+Fig. 17    Beam transported in 7 small-period structures undergoes 4∶1 resonance $( \eta = 0 . 4 8$ ); beam current transported in 5 small-period structures undergoes 4∶1 and 1∶1 resonance $( \eta = 0 . 4 8$ )   
+图 17    在 7 个小周期结构传输的束流发生 4∶1 共振 $\eta = 0 . 4 8$ )，在 5 个小周期结构传输的束流发生 4∶1 和 1∶1 共振 $( \eta = 0 . 4 8 )$
+
+![

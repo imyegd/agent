@@ -1,0 +1,7 @@
+X, JI B, et al. Digital control in LLRF system for CYCIAE-100 cyclotron[J]. Nucl Instrum Methods Phys Res A, 2016, 819: 33-36.   
+[37] YAO H, ZHANG T, LU Y, et al. Matching from $\mathrm{H}^-$ multicusp source to central region of a 100 MeV compact cyclotron for high current injection[J]. Review of Scientific Instruments, 2008, 79(2): 02C708.   
+[38] ZHANG T, AN S, LV Y, et al. mA beam acceleration efforts on 100 MeV H $^{-}$ cyclotron at CIAE[J]. Nucl Instrum Methods Phys Res B, 2017, 406: 250-255.   
+[39] LIU Jingyuan, ZHANG Tianjue, SONG Guofang, et al. Beam dump development for high power proton and electron beam[C]/23rd International Conference on Cyclotrons and Their Applications. Beijing: JACoW Publishing, 2022.   
+[40] 张天爵, 吕银龙, 王川, 等. 中国原子能科学研究院回旋加速器创新与发展60年[J]. 原子能科学技术, 2019, 53(10): 2023-2030.  
+ZHANG Tianjue, LYU Yinlong, WANG Chuan, et al. 60 years of innovation and development for cyclotron at CIAE[J]. Atomic Energy Science and Technology, 2019, 53(10): 2023-2030(in Chinese).  
+[41] LUY Yinlong

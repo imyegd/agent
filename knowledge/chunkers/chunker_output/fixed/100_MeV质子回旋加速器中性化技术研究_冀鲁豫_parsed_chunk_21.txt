@@ -1,0 +1,28 @@
+CIAE-100 中性束剥离系统束流轨迹  
+Fig. 9    Beam trajectory in CYCIAE-100 neutral beam stripping system
+
+当磁感应强度 $B$ 随半径 $r$ 变化时，存在磁降落指数 $n$ ：
+
+$$
+n = - \frac {r}{B} \frac {\mathrm {d} B}{\mathrm {d} r} \tag {10}
+$$
+
+磁场的聚焦能力和磁降落指数有关，径向自由振荡频率 $\nu _ { r }$ 和轴向自由振荡频率 $\nu _ { z }$ 为：
+
+$$
+v _ {r} = \sqrt {1 - n} \tag {11}
+$$
+
+$$
+v _ {z} = \sqrt {n} \tag {12}
+$$
+
+磁极尾部的磁场降落指数为较大的负值，表现出强径向聚焦和轴向散焦特性；而谷区的磁场随着方位角变化而下降，具有较高的调变度，相比磁极尾部，径向聚焦能力较弱，轴向聚焦能力较强。因此通过调节剥离点方位角可改变引出区的径向和轴向聚焦，且表现为 1 个方向聚焦能力增强、另1个方向聚焦能力减弱。
+
+使用多粒子跟踪方法模拟引出束流的分布。不同剥离靶方位角下质子束引出至开关磁铁时的横向相空间分布如图 10 所示，各椭圆为粒子在相空间分布的拟合结果。当剥离膜和粒子方向存在夹角 $\alpha$ 时，会导致粒子穿过剥离膜后的角度发生变化[18]：
+
+$$
+\left\{ \begin{array}{l} \Delta x ^ {\prime} = \frac {2 \tan \alpha}{\rho} x - \frac {2 n \tan \alpha}{\rho^ {2}} x ^ {2} - \frac {2 \tan \alpha}{\rho} x \delta \\ \Delta y ^ {\prime} = - \frac {2 n \tan \alpha}{\rho^ {2}} x y + \frac {2 n \tan \alpha}{\rho^ {2}} x y \delta \end{array} \right. \tag {13}
+$$
+
+式中： $x$ 为水平方向位置； $y$ 为竖直方向位置； $\Delta x$ '为水平方向角度变化量； $\Delta y$ '为竖直方向角度变化量； $\rho$ 为曲率半径； $\d

@@ -1,0 +1,10 @@
+ccelerator: IEC 62976 Ed. 1.0 b: 2017[S]. International Electrotechnical Commission, 2017.
+
+6 国家质量监督检验检疫总局, 中国国家标准化管理委员会 . 无损检测用电子直线加速器: GB/T 20129—2015[S]. 北京: 中国标准出版社, 2016.  
+General Administration of Quality Supervision, Inspection and Quarantine of the People's Republic of China, Standardization Administration of the People's Republic of China. Electron linac for non-destructive
+
+testing: GB/T 20129—2015[S]. Beijing: Standards Press of China, 2016.   
+7 Lutz W R, Maleki N, Bjärngard B E. Evaluation of a beam-spot camera for megavoltage X rays[J]. Medical Physics, 1988, 15(4): 614–617. DOI: 10.1118/1.596214.   
+8 Munro P, Rawlinson J A, Fenster A. Therapy imaging: source sizes of radiotherapy beams[J]. Medical Physics, 1988, 15(4): 517–524. DOI: 10.1118/1.596295.   
+9 Jaffray D A, Battista J J, Fenster A, et al. X-ray sources of medical linear accelerators: Focal and extra-focal radiation [J]. Medical Physics, 1993, 20(5): 1417 – 1427. DOI: 10.1118/1.597106.   
+10 Loewenthal E, Loewinger E, Bar-Avraham E,

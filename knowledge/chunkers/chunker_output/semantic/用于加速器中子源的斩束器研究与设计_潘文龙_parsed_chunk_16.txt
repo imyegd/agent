@@ -1,0 +1,15 @@
+为了让束流上升沿与下降沿时间降低，一般情况斩束器工作电压会采用高于 $\varphi$ 的 $\varphi _ { \mathrm { m } } ^ { \ [ 1 5 ] }$ ，这时束流的上升沿与下降沿计算式就要有所变化。根据文献 [8]，假设极板长 $L$ ，极板间距 $d ,$ ，电压实际输出幅值 $\varphi _ { \mathrm { m } } .$ ，踢束所需电压 $\varphi$ ，粒子飞行时间 $\tau ,$ ，电压由 0升至 $\varphi$ 所需时间 $t _ { 1 }$ ，升至 $\varphi _ { \mathrm { m } }$ 所需时间 $t _ { 2 \circ }$ 利用微积分知识易求得以下关系式
+
+$$
+\left\{ \begin{array}{l} \tau_ {1} = \tau^ {\prime} + t _ {1} \\ \tau^ {\prime} = \tau \frac {\varphi \tau}{\int_ {t _ {1}} ^ {t _ {1} + \tau} \varphi \mathrm {d} t} \end{array} \right. \tag {5}
+$$
+
+式中： $\tau ^ { \prime }$ 定义为归一化飞行时间。
+
+（1）当 $t _ { 2 } - t _ { 1 } < \tau$
+
+$$
+\left\{ \begin{array}{l} \int_ {t _ {1}} ^ {t _ {1} + \tau} \varphi \mathrm {d} t = \int_ {t _ {1}} ^ {t _ {2}} \varphi \mathrm {d} t + \int_ {t _ {2}} ^ {t _ {1} + \tau} \varphi \mathrm {d} t = \frac {\varphi_ {\mathrm {m}}}{t _ {2}} \frac {1}{2} \left(t _ {2} ^ {2} - t _ {1} ^ {2}\right) + \varphi_ {\mathrm {m}} (\tau + t _ {1} - t _ {2}) \\ \tau_ {1} = t _ {1} + \tau \frac {\varphi \tau}{\frac {\varphi_ {\mathrm {m}}}{t _ {2}} \frac {1}{2} \left(t _ {2} ^ {2} - t _ {1} ^ {2}\right) + \varphi_ {\mathrm {m}} (\tau + t _ {1} - t _ {2})} \end{array} \right. \tag {6}
+$$
+
+（2）当 $t _ { 2 } - t _ { 1 } > \tau$

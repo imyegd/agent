@@ -1,0 +1,14 @@
+ogies in targets for laser accelerators (in Chinese). Chin Sci Bull, 2023, 68: 1047-1053 [马文君. 激光加速器中的靶科学与技术. 科学通报, 2023, 68: 1047-1053]
+
+Summary for “激光加速器中的超薄液体薄膜: 理论、技术及应用前沿”
+
+# Ultra-thin liquid sheets in laser plasma accelerators: theory, technology, and application frontiers
+
+Ziyang Peng<sup>1</sup>, Xuan Liu<sup>1</sup>, Zhuoyang Song<sup>1</sup>, Tianhao Liang<sup>1</sup>, Hao Zhou<sup>1</sup>, Yuqi Li<sup>1</sup>, Jiarui Zhao<sup>1,2</sup> & Wenjun Ma<sup>1,2,3*</sup>
+
+$^{1}$ State Key Laboratory of Nuclear Physics and Technology, Institute of Heavy Ion Physics, School of Physics, Peking University, Beijing 100871, China   
+$^{2}$ Beijing Laser Acceleration Innovation Center, Beijing 101407, China   
+<sup>3</sup> Guangdong Institute of Laser Plasma Accelerator Technology, Guangzhou 510080, China   
+* Corresponding author, E-mail: wenjun.ma@pku.edu.cn
+
+The interaction of ultrashort, ultra-intense lasers with thin-film targets represents a frontier in modern physics, providing a pathway to high-brightn

@@ -1,0 +1,24 @@
+系统设计[J]. 核电子学与探测技术, 2017,37(2):171-173,177. (LI Jiaosai,GUO Yuhui,LIU Haitao,et al. Design of beam emittance measurement system for ECR ion source[J]. Nuclear Electronics & Detection Technology, 2017,37(2):171-173,177.) DOI:10.3969/j.issn.0258-0934.2017.02.014.   
+[14] Emerson. Interactively configuring LabVIEW EPICS I/O clients and servers EPICS I/O servers[EB/OL]. [2024-04-30]. http:// www.ni.com/white-paper/14149/en.
+
+# 作者简介：
+
+叶 毅(1973-)，男，本科，高级技师，主要研究方向为加速器装置研制 .email:13350991221@163.com.
+
+蒋 薇(1975-)，女，硕士，高级工程师，主要研究方向为强流加速器控制技术.
+
+李泽同(1996-)，男，硕士，助理工程师，主要研究方向为加速器控制技术.
+
+杨兴林(1969-)，男，博士，高级工程师，主要研究方向为加速器控制技术.
+
+江孝国(1968-)，男，博士，研究员，主要研究方向为加速器测试技术.
+
+荆晓兵(1979-)，男，博士，高级工程师，主要研究方向为加速器束物理技术.
+
+陈 楠(1979-)，男，学士，高级工程师，主要研究方向为加速器运维技术.
+
+刘邦亮(1985-)，男，学士，主要研究方向为加速器运维技术 .
+
+臧宗旸(1988-)，男，学士，主要研究方向为加速器运维技术.
+
+李 跃(1996-)，男，硕士，工程师，主要研究方向为加速器控制技术.

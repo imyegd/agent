@@ -1,0 +1,341 @@
+# 质子加速器束流调节电子单元设计与实现
+
+伍家香<sup>1</sup>, 张小虎<sup>2</sup>, 王祥晖<sup>1</sup>, 许鹏羽<sup>1</sup>, 赵林林<sup>1</sup>
+
+(1.中广核医疗科技(绵阳)有限公司，四川绵阳621000；2.中广核金沃科技有限公司，广东深圳518118)
+
+摘要：在质子治疗中，束流强度的精准控制是确保靶区剂量均匀性的关键。针对现有系统因开环控制、非线性漂移及噪声干扰导致的调节精度不足问题，本文提出一种基于每时钟指令数（Instruction Per Clock, IPC)与数字信号处理器（Digital Signal Processor，DSP)架构的束流调节电子单元（Beam Regulating Electronic Unit，BREU）。该单元通过加速器出口电离室实时采集束流反馈信号，结合DSP实现闭环控制，并创新性引入动态查找表(Look Up Table，LUT)技术，在每次照射前校准电弧电流与束流强度的非线性关系，消除长期漂移影响。实验结果表明，该束流调节电子单元性能稳定，且具备较高的调节精度。该系统通过自适应比例-积分-微分(Proportional Integral Derivative, PID)算法与噪声抑制的协同优化，显著提升了抗干扰能力与稳定性，为质子治疗设备的临床应用提供了高可靠性解决方案。
+
+关键词：质子加速器；束流调节；闭环控制；质子治疗；电离室
+
+中图分类号：TL506 文献标志码：A
+
+文章编号：0258-0934(2026)01-0100-09
+
+DOI:10.20173/j.cnki.ned.20251117.001
+
+# 0 引言
+
+质子治疗作为精准放射治疗的核心技术，其疗效高度依赖加速器束流强度的精确控制。束流剂量偏差可能导致靶区剂量不足或周围正常组织过量照射，直接影响治疗效果与患者安全[1-2]。现有束流调控系统多采用开环控制策略，如通过径向探针、直流电流变换器（Direct Current Current Transformer，DCCT)监测束流参数[3-5]，或依赖高压电源调节中心区偏转板电压[6-9]。然而，此类方法缺乏实时反馈机制，难以应对离子源参数漂移、射频噪声干扰等动态问题，导致调节滞后、非线性误差累积及长期稳定性不足[10-11]。
+
+针对上述挑战，本研究提出一种基于每时钟指令数(Instruction Per Clock，IPC)与数字信号处理器(Digital Signal Processor，DSP)架构的束流调节电子单元（Beam Regulating Electronic Unit，BREU）。该单元通过电离室实时采集束流反馈信号，结合DSP算法实现闭环控制，并创新性引入动态查找表(Look Up Table，LUT)技术，在每次治疗前建立电弧电流与束流强度的非线性关系，有效消除系统漂移。此外，通过自适应比例-积分-微分（Proportional Integral Derivative，PID)调节算法与噪声抑制的协同设计，进一步提升了抗干扰能力与调节精度。实验结果表明，束流调节电子单元可将束流强度误差控制在允许范围之内，为质子治疗设备的临床适用性提供了可靠技术支撑。
+
+# 1 系统描述
+
+BREU是质子治疗系统中实现束流精准控制的核心组件。其通过调控加速器离子源的电弧电流，动态调节束流强度。由于电弧电流与束流间存在非线性关联，且受长期漂移效应影
+
+响，BREU采用双路协同控制策略：
+
+（1）基础参数设定：治疗控制系统(Therapy Control System，TCS)在照射初始阶段预设最大束流电流，作为束流输出的峰值限制；  
+（2）动态调制信号：BREU生成实时调控信号，通过外部执行器（如离子源电弧电源（Ion Source Arc Power Supply，ISAPS)或射频D形盒电压)对束流进行微调，并支持脉冲式输出以适配不同治疗场景。
+
+BREU具备5个主要功能：
+
+（1）脉冲发生器：生成与主电源同步的触发脉冲，占空比可调；
+
+(2) 治疗室选择器: 支持 8 通道信号输入,通过以太网/硬线接口实现快速切换;  
+(3) 电离室束流放大与线性化: 对电离室微弱电流进行放大, 并采用二阶多项式校正非线性饱和效应;  
+(4) 束流调节器: 基于 DSP 的闭环算法,可动态配置比例-积分-微分(PID)参数;  
+(5) 束流开启及同步信号发生器: 生成纳秒级束流开启信号及同步脉冲。
+
+图1完整展示了BREU的功能架构与模块间的协同工作机制，为束流的高精度动态控制提供系统性解决方案。
+
+![](images/4eb7d1c792af54759061a788643326b1770b10d716e42a2f879b152667f30a0b.jpg)  
+图1 BREU功能框图
+
+# 2 功能设计
+
+# 2.1 脉冲发生器
+
+通过来自一个治疗室（Treatment Room，TR)的外部信号或由BREU生成的内部信号完成束流电流控制。该内部信号是与主交流电源频率同步的脉冲串。也可通过BREU前面板控件对其频率和工作周期进行自定义。默认设置是每个主电源电压周期的 $50\%$ ，如图2所示
+
+# 2.2 治疗室选择
+
+BREU多通道管理模块支持从8个治疗室输入信号中选通单一信号，其设计包含以下特性：
+
+# （1）信号隔离机制
+
+采用机架绝缘型卡口螺母连接器（Bayonet
+
+![](images/6800e9d14de5c117b01cf0def56a899490d22fac735b9684fd0e3198a1affae7.jpg)  
+图2 脉冲发生器输出
+
+Nut Connector, BNC), 通过物理隔离消除治疗室与机架间的接地环路干扰, 确保信号完整性;
+
+# (2）双模控制接口
+
+硬线连接：通过TCS专用接口实现毫秒级指令响应；以太网通信支持远程网络化控制，适
+
+配分布式治疗系统；
+
+# (3) 操作权限管理
+
+仅在本地模式下，用户可通过人机界面（User Interface，UI）主动切换治疗室通道或启用“无治疗室”状态，避免误操作风险。
+
+# 2.3 电离室束流放大和线性化
+
+束流电流检测采用非拦截式电离室（Ionization Chamber，IC）作为传感器，其设计包含以下关键技术特性：
+
+# (1) 探测原理
+
+电离室部署于加速器出口，质子束流与空气分子的电离作用产生微弱电流。
+
+# (2) 非线性补偿机制
+
+电离室的离子复合效应会导致高束流强度下输出饱和，表现为非线性响应。通过DSP内置的二阶多项式逆函数实时校正饱和曲线，动态补偿非线性误差。
+
+# 2.4 束流调节器
+
+束流调节在DSP中完成。需进行调节的原因：束流加速造成的长时间延迟；电弧电流和束流电流之间的非线性关系；系统在长时间内的显著漂移；束流上较高频率的噪声。
+
+进行调节的系统是非线性的，并在长时间内漂移。为了将这些影响考虑在内，BREU将在每次照射前建立系统LUT。从TCS传送需要的最大束流电流。通过将该信号与来自选定治疗室或内部脉冲发生器的信号进行调制，就获得了加速器实际所需电流。
+
+# 2.5 束流开启和同步信号发生器
+
+BREU根据设置信号判断束流是否需要开启或关闭。在快速比较器（上升时间/下降时间小于 $1\mu \mathrm{s}$ ）中对设置信号与可调阈值进行比较。比较器的输出与束流启用汇总信号构成束流开启信号的生成条件。
+
+此外，束流开启信号还会进入单稳态定时器，产生同步脉冲信号。此信号经过缓冲和放大，可驱动束流传输线上的所有设备。
+
+# 3 硬件设计
+
+# 3.1 结构设计
+
+图3为BREU的结构设计图。主要由三个电子单元组成：
+
+![](images/9b6935c99b7beac7658b2cb95f7ac418d948252007edaa103c5f7bd5a7f4973c.jpg)  
+图3 结构设计图
+
+（1）AC/DC电源单元：将 $220\mathrm{V}$ 输入电源转换为 $+5\mathrm{V}$ 直流电源输出，为其它部分供电；  
+（2）后面板单元：包含连接到外部设备的所有连接器（常规I/Os、TCS、TSS和SMPSI/Os等），均由DSP处理；  
+(3）前面板单元：包含所有用户控制（LEDs、按钮、LCD显示)及网络处理器。以太网连接由该板处理，并通过后面板连接到外部设备。前面板的应急开关不在前面板处理，直接连接到后面板的硬连线安全逻辑。前面板与后面板通过RS232接口进行数据通信。
+
+# 3.2 电路设计
+
+电路设计如图4所示。BREU内部使用一块主印制电路板(Printed Circuit Board,PCB)处理调节部分，另一快PCB处理前面板的按键与显示部分。
+
+信号隔离与放大通过低噪声运算放大器实现。通过16位分辨率、至少 $200\mathrm{kSPS}$ 的模数转换器（Analog-to-Digital Converter，ADC）与数模转换器（Digital-to-Analog Converter，DAC）进行信号转换。
+
+信号处理及调节功能使用数字信号处理器(DSP)进行处理。总的调节过程少于10 $\mu \mathrm{s}$ 。数字信号处理器首选德州仪器的产品。用户界面通过单独的微控制器(Microcontroller， $\mu \mathrm{C})$ 进行管理。DSP和 $\mu \mathrm{C}$ 的固件代码可通过以太网接口进行上传或下载。
+
+![](images/beb5846e73ab8f39262dc9858bc1c1643764a3ffba1615d761d7d1fd0d538c7d.jpg)  
+图4 电路设计框图
+
+# 4 软件设计
+
+# 4.1 IPC设计
+
+图5为IPC的软件架构。核心为配置管理器，通过6个线程完成参数获取、处理与显示。前面板接口线程用于处理LCD、LED及数码管显示；DSP同步线程用于与DSP进行串口通信；菜单接口线程用于处理按钮事件；主线程用于处理配方文件变化；MODBUS接口线程用于与上位机进行通信；HTTP接口线程用于设备维护。
+
+配置管理器处理和维护系统使用的参数列表。根据客户端(LCD、Modbus及Http)任务的性质，提供对这些参数的读写访问，并对读写操作进行限制。
+
+参数分为状态类与配置类。状态参数由DSP填充。这些参数通常对每个客户端都是只读的，但是为了在DSP内部执行状态修改，可以更改其中的一些参数。配置参数是用户可以修改并提供给DSP执行其调节的参数，这些参数存储在称为“配方”的记录中。
+
+# 4.2 DSP设计
+
+图6展示了DSP调节器的原理与各种增益、滤波及A/D、D/A转换器。该调节器主要分为调节设定值、调节反馈及调节输出三部分，采用PID调节器与查找表完成整个调节过程
+
+# 4.2.1 调节设定值
+
+调节设定值可在以下两个之间选择：
+
+(1)后面板8个TR输入 $(4\sim 20\mathrm{mA})$ 信号之一；  
+(2) BREU 内部脉冲发生器, 可产生单个脉冲或连续序列的最大振幅脉冲。
+
+调节设定值通过将上述来源中的一个与治疗开始时设置的最大束流相结合。处理后的设定值为最大束流电流与选择的输入源的乘积，可以看作是最大束流电流进行 $0\sim 100\%$ 的调制。该设计实现了治疗参数的动态缩放，确保束流强度始终处于安全阈值范围内。
+
+# 4.2.2 调节反馈
+
+调节反馈来自IC电离室。后面板相关接口如下：
+
+ICInBNC连接到电离室上。其输入范围为 $1\mu \mathrm{A},25~\mu \mathrm{A}$ （默认）或 $50~\mu \mathrm{A}$
+
+ICOutBNC提供 $0\sim 10\mathrm{V}$ 的具有可配置带
+
+![](images/2c090d8dc8ad27da4cbea38376ea88e0db428b04e13ab1e5ed1048f2cde1269b.jpg)  
+图5 IPC软件架构
+
+宽的信号。
+
+# 4.2.3 调节输出
+
+调节输出在 Reg Out 1 或 Reg Out 2 上提供。提供了一种旁路模式，用于将无调节输出连接到相应的旁路输入。
+
+调节输出通过软件配置(配方参数)为 $4\sim$ $20\mathrm{mA}$ 或 $0\sim 10\mathrm{V}$ 。当调节输出配置为 $4\sim$ $20\mathrm{mA}$ 模式时，选定的RegOut必须接上负载，以避免触发内部故障。
+
+# 4.2.4 PID调节器
+
+PID调节器如图7所示，其中比例系数 $K_{p}$ ：
+
+$$
+\frac {Y (z)}{X (z)} = K _ {p} \tag {1}
+$$
+
+积分项可以写成：
+
+$$
+Y (z) = Y (z) \cdot z ^ {- 1} + \frac {X (z) \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{2} \tag {2}
+$$
+
+$$
+\frac {Y (z)}{X (z)} = \frac {K _ {i} \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{\left(1 - z ^ {- 1}\right) \cdot 2} \tag {3}
+$$
+
+微分项可以写成：
+
+$$
+\frac {Y (z)}{X (z)} = \frac {K _ {d} \cdot \left(1 - z ^ {- 1}\right)}{T _ {s}} \tag {4}
+$$
+
+结合（1）、（3）、（4），我们得到：
+
+$$
+C (z) = K _ {p} + \frac {K _ {i} \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{\left(1 - z ^ {- 1}\right) \cdot 2} + \frac {K _ {d} \cdot \left(1 - z ^ {- 1}\right)}{T _ {s}} \tag {5}
+$$
+
+该式可以改写为：
+
+$$
+C (z) = \frac {1}{1 - z ^ {- 1}} \cdot \left(\left(K _ {p} + K _ {i} \cdot \frac {T _ {s}}{2} + \frac {K _ {d}}{T _ {s}}\right) + \right.
+$$
+
+$$
+\left(- K _ {p} + K _ {i} \cdot \frac {T _ {s}}{2} - \frac {2 \cdot K _ {d}}{T _ {s}}\right) \cdot z ^ {- 1} + \frac {K _ {d}}{T _ {s}} \cdot z ^ {- 2} \tag {6}
+$$
+
+BREU参数的表达方式如下：
+
+$$
+P = K _ {p} \tag {7}
+$$
+
+![](images/03db40ace1cfaf2f9dfa86594150ae4d27e5620eb38b6418dd645072f476776d.jpg)  
+图6DSP调节框图
+
+![](images/9e4c4f5923d45f0679a749742a250285146b51f4686f21a526b311e857a1b73d.jpg)  
+图7 PID调节器
+
+$$
+I = \frac {K _ {i}}{2 \cdot \pi} \tag {8}
+$$
+
+$$
+D = \frac {1}{2 \cdot \pi \cdot K _ {d}} \tag {9}
+$$
+
+结合(6)、(7)、(8)、(9)，我们得到：
+
+$$
+C (z) = \frac {1}{1 - z ^ {- 1}} \cdot \left(\left(P + \pi \cdot I \cdot T _ {s} + \frac {1}{2 \pi \cdot D \cdot T _ {s}}\right) + \right.
+$$
+
+$$
+\begin{array}{l} \left(- P + \pi \cdot I \cdot T _ {s} - \frac {1}{\pi \cdot D \cdot T _ {s}}\right) \cdot z ^ {- 1} + \\ \left. \frac {1}{2 \cdot \pi \cdot D \cdot T _ {s}} \cdot z ^ {- 2}\right) \tag {10} \\ \end{array}
+$$
+
+考虑到实际情况取值如下：
+
+$P = 0.85; I = 212; D = \infty$ （不使用）。
+
+最后，我们得到离散传递函数：
+
+$$
+C (z) = \frac {0 . 8 5 6 - 0 . 8 4 3 \cdot z ^ {- 1}}{1 - z ^ {- 1}} \tag {11}
+$$
+
+默认情况下，PID调节器作为PI调节器运行，在反馈输入上有一个一阶低通滤波器，截止频率与PI调节器的积分分量截止频率一致。PI调节器的所有参数均可软件配置（配方参数）。
+
+# 4.2.5 查找表
+
+查找表将BREU发送到离子源弧电源的请求电弧电流与实际产生的引出束流电流联系起来。其用途为使调节系统呈现线性表现和使BREU响应能够适应离子源参数的缓慢变化。
+
+如果线性化是唯一要求，那么可以记录一次LUT并用于所有治疗。但是，由于离子源响应随时间缓慢漂移，每次治疗前都必须记录新的LUT。
+
+在每次治疗前，BREU 都会将一系列上升的 $4 \sim 20 \mathrm{~mA}$ 斜坡（通常为 5 个）发送至 ISAPS，使离子源升温至其稳态温度。在最后一个斜坡期间，计算平均值并记录 LUT。
+
+# 5 测试与实验结果
+
+测试主要包括基本测试（安全测试、前面板测试和后面板测试）、调节测试及系统联调。
+
+# 5.1 基本测试
+
+安全测试通过在连接线上施加电流来验证设备与安全相关的保护连接，并检查其阻抗是否符合标准要求。前面板测试目的是验证LCD显示、LED和按钮均能正常工作。后面板测试主要是验证内部电源、内部参考电压、治疗室信号接口、电离室放大器和输出、调节输出、AC同步信号、治疗控制系统数字和模拟信号等指标是否符合要求。经测试，所有测试项均满足要求。
+
+# 5.2 调节测试
+
+调节测试框图如图8所示，电子单元连接如图9所示。通过二极管和电阻来模拟加速器进行完整的调节测试。波形发生器连接到TR1模拟治疗室产生的设定值信号，并连接到示波器进行显示。IC输入连接来自模拟回路的反馈信号，IC输出连接到示波器，调节输出连接到模拟回路。
+
+![](images/180b0dafc7f7e93a8c3a500f4e197e181a09c1db11e425408b5d99a790febddf.jpg)  
+图8 调节测试框图
+
+启动调节，确认查找表已生成。在TR1上依次输入 $0\mathrm{mA},4\mathrm{mA},8\mathrm{mA},12\mathrm{mA},16\mathrm{mA}$ 及 $20\mathrm{mA}$ 设定值信号，并检查连续输出是否使用已选TR1而非内部脉冲发生器调节的信号。在要求最大束流为 $50~\mathrm{nA}$ 的情况下，测试情况如表1所示。
+
+![](images/1d50d4c6e3b1317e8669408f7e5ff7b2e2b25e05052146ce13c9a0fd6c604062.jpg)  
+图9 BREU测试连接图
+
+表 1 调节测试表  
+
+<table><tr><td>设定值/mA</td><td>要求值/nA</td><td>测试值/nA</td></tr><tr><td>0</td><td>0 ± 0.1</td><td>0.0</td></tr><tr><td>4</td><td>0 ± 0.1</td><td>0.0</td></tr><tr><td>8</td><td>12.5 ± 0.1</td><td>12.53</td></tr><tr><td>12</td><td>25 ± 0.1</td><td>25.02</td></tr><tr><td>16</td><td>37.5 ± 0.1</td><td>37.53</td></tr><tr><td>20</td><td>50 ± 0.1</td><td>50.03</td></tr></table>
+
+由表1可以看出，所有测试结果均在允许的误差范围内，满足调节测试要求。
+
+# 5.3 系统联调
+
+系统联调将BREU集成至质子治疗系统中进行测试。将TR1连接到治疗室接收设定值信号，IC输入连接到加速器出口处的电离室获取产生的束流信号，OUT连接到离子源弧电源调节弧电流大小，束流开启连接到射频控制单元控制D形盒电压。
+
+图10为束流设定时间测试。质子治疗系统要求束流设定时间小于 $550~\mu \mathrm{s}$ 。TR1治疗室在 $241~\mu \mathrm{s}$ 时将束流电流设置为 $60~\mathrm{nA}$ ，在750 $\mu \mathrm{s}$ 时束流达到稳定值，束流设定时间为509 $\mu \mathrm{s}$ ，满足要求。
+
+图11为束流稳定性测试。质子治疗系统要求误差为设定值的 $\pm 3\%$ 。由图11可以看出，束流电流在 $800~\mu \mathrm{s}$ 左右达到稳定，从稳定后到 $4900\mu \mathrm{s}$ 的整个过程中误差均在允许范围(60 $\mathrm{NA}\pm 1.8\mathrm{nA})$ 内，满足要求。
+
+图12为束流下降时间测试。质子治疗系统要求束流下降时间小于 $130~\mu \mathrm{s}$ 。TR1 治疗室
+
+![](images/6f3fad192963be8ac2384b34c1129e0db19e3efdda648da8b77218243cc48d0f.jpg)  
+图10 设定时间测试
+
+![](images/3ae8f483909daefac0c49e58d67de596e6eee4fbb17cb805de3d1aa9f5b2f967.jpg)  
+图11 稳定性测试
+
+在 $858\mu \mathrm{s}$ 时将束流电流设置为 $0\mathrm{nA}$ ，在 $979\mu \mathrm{s}$ 时束流达到稳定值 $0\mathrm{nA}$ ，束流下降时间为121 $\mu \mathrm{s}$ ，满足要求。
+
+![](images/e5046b75de1bc64763fe48c2fbf4db4615574ab6cc0626053be39b263733aa27.jpg)  
+图12 下降时间测试
+
+图13为束流调节和静态误差测试结果。质子治疗系统要求静态误差为设定值的 $\pm 5\%$ 。依次将束流电流设置为 $40\mathrm{nA},60\mathrm{nA},100\mathrm{nA}$ $200\mathrm{nA},250\mathrm{nA}$ 及 $300\mathrm{nA}$ ，束流稳定后对应的测量值为 $41.3\mathrm{nA},62.1\mathrm{nA},104.6\mathrm{nA},208.3$ $\mathrm{nA},259.5\mathrm{nA}$ 及 $310.8\mathrm{nA}$ 。根据公式（（测量值-设定值)/设定值 $*100\%$ )计算静态误差，
+
+均在 $\pm 5\%$ 范围内，满足要求。
+
+![](images/4f99b41495abf983c46c35e7ab3400bcac3410f13c316b779393b328390526d8.jpg)  
+图13 束流调节和静态误差
+
+# 6 结论
+
+本文分析了质子加速器束流调节电子单元的背景与需求，对其功能、硬件及软件进行了详细设计。经实验验证，该电子单元实时性高、稳定性好，对束流能够进行精确控制，能较好地满足所有需求。目前，该电子单元主要用于等时性加速器束流调节，下一步将对其进行改进，增加射频频率与幅度测量、DEE电压及射频幅度调节等功能，用于同步加速器束流调节。
+
+# 参考文献：
+
+[1]瞿少成，陈婵，童金．基于ARM的加速器平均流强的数据采集系统[J].电子测量技术，2012,35(3):117-119.  
+[2] 宋睿. 基于嵌入式 EPICS 的重离子加速器束流损失监测系统设计[D]. 兰州: 兰州大学, 2020.  
+[3] 钟黎明. 紧凑型 THz-FEL 束流测量与优化研究 [D]. 武汉: 华中科技大学, 2022.  
+[4] 郑侠,管锋平,温立鹏,等. $230\mathrm{MeV}$ 超导回旋加速器束流测量装置的设计研究[J].真空，2021，58(4):54-57.  
+[5] WEN L P, GUAN F P, XIE H D. Radial probe installation and experiment for the CRM cyclotron [J]. Annual Report of China Institute of Atomic Energy, 2009, 129(1): 62-63.   
+[6] 李鹏, 邱瑞阳, 李芳, 等. 中国散裂中子源直线加速器束流流强测量系统[J]. 强激光与粒子束, 2018, 30(7): 153-157.  
+[7] 游尧尧, 李敏, 毛瑞士, 等. 用于重离子治癌回旋引出的实时流强测量系统[J]. 强激光与粒子束, 2022, 34(11):83-89.  
+[8] Yang J C, Shi J, Chai W P, et al. Design of a compact structure cancer therapy synchrotron [J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers,
+
+Detectors and Associated Equipment, 2014, 756: 19-22.   
+[9] 合肥中科离子医学技术装备有限公司.一种基于加速器束流调节的高压电源系统：201711365139.6[P].2020-04-14.  
+[10] 上海集成电路研发中心有限公司. 一种高能离子
+
+注入机束流的调节装置和调节方法：201911334322.9[P].2022-04-01.  
+[11] 合肥中科离子医学技术装备有限公司.一种基于相位探针实现加速器束流自反馈调节的系统：201822065096.6[P].2019-09-27.
+
+# Design and Implementation of Beam Regulating Electronic Unit for Proton Accelerator
+
+WU Jiaxiang $^{1}$ , ZHANG Xiaohu $^{2}$ , WANG Xianghui $^{1}$ , XU Pengyu $^{1}$ , ZHAO Linlin $^{1}$
+
+(1. CGN Medical Technology (Mianyang) Co., LTD, Mianyang 621000, China;
+
+2. CGN Jinwo Technology Co., LTD, Shenzhen 518118, China)
+
+Abstract: In proton therapy, precise control of beam intensity is critical to ensuring dose uniformity in the target area. To address the insufficient regulation accuracy of existing systems caused by open-loop control, nonlinear drift, and noise interference, this paper proposes a Beam Regulating Electronic Unit (BREU) based on an Instructions Per Clock (IPC) and a Digital Signal Processor (DSP) architecture. The BREU collects real-time beam feedback signals from ionization chambers at the accelerator exit, implements closed-loop control via the DSP, and innovatively incorporates dynamic Look-Up Table (LUT) technology. This LUT calibrates the nonlinear relationship between arc current and beam intensity before each irradiation session, effectively eliminating the effects of long-term drift. Experimental results demonstrate that the BREU exhibits stable performance and high regulation accuracy. Through collaborative optimization of an adaptive PID algorithm and a noise suppression, the system significantly enhances anti-interference capability and stability. This research provides a highly reliable solution for the clinical application of proton therapy equipment.
+
+Key words: proton accelerator; beam conditioning; closed-loop control; proton therapy; ionization chamber

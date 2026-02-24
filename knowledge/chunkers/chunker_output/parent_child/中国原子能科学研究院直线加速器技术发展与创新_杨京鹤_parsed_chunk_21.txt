@@ -1,0 +1,10 @@
+e cavity Ridgetron accelerator (a) and   
+prototype of $10\mathrm{MeV} / 50\mathrm{kW}$ high-energy high-power electron irradiation accelerator (b)
+
+![](images/d321ee1e3c6078a5bfdaead7caf7879dde5898bf4a88a65aec508200c1003597.jpg)
+
+![](images/60d163ec630c44d47002663a8e0af91cbeae4644c7b1527d4ebc65722d9d6f57.jpg)  
+图2边腔失谐棒模型(a)及 $\mathrm{keV / MeV}$ 能量可切换电子直线加速管腔链(b)  
+Fig. 2 Model of detuning bar inside-coupling cavity (a) and cavity chain of keV/MeV energy switchable accelerating tube (b)
+
+2021年，原子能院成功开发了X波段

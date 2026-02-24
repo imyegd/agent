@@ -1,0 +1,3 @@
+# 2.1  直线加速器与 EPID 系统型号
+
+本 研 究 采 用 的 直 线 加 速 器 型 号 为 VarianTrueBeam， 配 备 有 Millennium 型 号 MLC， 共 60 对 叶

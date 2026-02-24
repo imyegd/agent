@@ -1,0 +1,16 @@
+# 2）堆芯设计
+
+堆芯作为CiADS的核心组件，在散裂中子源驱动下维持次临界运行，实现反应堆、散裂靶与加速器的集成实验验证。CiADS堆芯布置如图5所示。堆芯内核裂变反应产生的中子辐照场，可满足核废料嬗变、材料辐照考验及科学实验等多场景需求。从临界安全角度，CiADS堆芯燃料装载量低于临界质量，始终处于深度次临界状态，当
+
+![](images/e1b66572fabc5359aab807c96e90b9d0711206d6fee57e5dd033d0032812bc94.jpg)  
+图5 CiADS堆芯布置  
+Fig. 5 Layout of CiADS core
+
+加速器束流关闭时可立即停堆，具备固有安全性。堆芯主要参数如表1所列。
+
+表 1 CiADS 堆芯系统的主要参数  
+Table 1 Main parameter of CiADS core system   
+
+<table><tr><td rowspan="2">参数</td><td colspan="2">参数值</td></tr><tr><td>模式1</td><td>模式2</td></tr><tr><td>总功率,MWt</td><td>10</td><td>10</td></tr><tr><td>靶功率,MW</td><td>0.25</td><td>2.5</td></tr><tr><td>堆功率,MW</td><td>9.75</td><td>7.5</td></tr><tr><td>冷却剂类型</td><td>LBE</td><td>LBE</td></tr><tr><td>燃料类型</td><td>富集度19.75%的UO2</td><td>富集度19.75%的UO2</td></tr><tr><td>燃料组件装载数,盒</td><td>69</td><td>18</td></tr><tr><td>燃料总装载,tU</td><td>3.98</td><td>1.04</td></tr><tr><td>活性区高度/直径,mm</td><td>1300/1500</td><td>1300/1500</td></tr><tr><td>堆芯中心预留散裂靶孔道直径,mm</td><td>500</td><td>500</td></tr><tr><td>keff</td><td>0.97</td><td>0.66</td></tr></table>
+
+经计算分析，热中子（中子能量 $E_{\mathrm{n}} < 1 \mathrm{eV}$ ）和高能中子（ $E_{\mathrm{n}} > 20 \mathrm{MeV}$ ）所占份额极小，快中子（ $E_{\mathrm{n}} > 0.1 \mathrm{MeV}$ ）份额超过 $60\%$ 。堆芯内引起燃料裂变的中子平均能量为 $0.49 \mathrm{MeV}$ ，属于典型的快中子反应堆。在核设计计算中，径向和轴向功率峰因子的相对不确定度按 $10\%$ 取值，全堆功率峰因子 $(F_{\mathrm{q}})$ 不确定度约为 $20\%$ ， $F_{\mathrm{q}}$ 的计算值约为 2.08。

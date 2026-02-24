@@ -1,0 +1,6 @@
+Horizontal electric field intensity distribution curve of circular arc plate chopper   
+图 5    圆弧极板斩束器横向电场强度分布曲线图
+
+![](images/925c36d2f28debc7dd906ee793a09cc7a7013c23b2e5782545fbfca403729874.jpg)  
+Fig. 6    Vector diagram of electric field strength for arc plate chopper   
+图 6    圆弧极板斩束器电场强度矢量图

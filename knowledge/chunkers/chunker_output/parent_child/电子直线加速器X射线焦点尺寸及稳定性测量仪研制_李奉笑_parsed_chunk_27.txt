@@ -1,0 +1,13 @@
+high-energy X-ray detection and acquisition system   
+图8 DDC118乒乓模式的工作状态转化图  
+Fig.8 Working status conversion diagram of DDC118 ping-pong mode
+
+为实现数据的在线实时采集与处理，信号经模数转换器（ADC）转换后，发送现场可编程门阵列（Field-Programmable Gate Array，FPGA）进行进一步处理。FPGA 芯片选用 Altera 公司的 EP3C5E144A7，主要承担以下三项功能：1）控制DDC118的积分
+
+时序；2）处理DDC118转换后的数字信号；3）通过RS-485串行通信总线发送数字信号。
+
+FPGA固件包括以下模块：ADC数据接口、ADC积分状态控制、数据缓存程序及指令解析中心，如图9所示。
+
+![](images/dcca2900c9ac4b0e52d00fb3b09359ca08ffc6b299ac7c45d0f850080a45442d.jpg)  
+图9 FPGA固件设计框架  
+Fig.9 Framework diagram

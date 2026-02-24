@@ -1,0 +1,5 @@
+物理与核物理, 2006, 30(增刊1): 111-113.  
+YAN Fang, GUAN Xialing, HE Xinfu, et al. Modification project of the terminal electrode of the HI-13 tandem accelerator[J]. High Energy Physics and Nuclear Physics, 2006, 30(Suppl.1): 111-113 (in Chinese).   
+[29] 李爱玲, 崔保群, 杨丙凡, 等. 基于LabVIEW的发射度测试仪[J]. 工业控制计算机, 2007, 20(11): 88, 90.  
+LI Ailing, CUI Baoqun, YANG Bingfan, et al. Emittance measurement instrument based on LabVIEW[J]. Industrial Control Computer, 2007, 20(11): 88, 90(in Chinese).   
+[30] XIONG Zhengfeng, ZHENG

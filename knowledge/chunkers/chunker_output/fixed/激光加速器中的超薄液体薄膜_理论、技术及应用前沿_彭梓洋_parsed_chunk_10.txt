@@ -1,0 +1,17 @@
+术为高重频激光加速中的靶材
+
+表 2 国际上超薄液膜制备水平总结  
+Table 2 Summary of the state-of-the-art in ultra-thin liquid sheet preparation internationally   
+
+<table><tr><td>单位</td><td>制备方法</td><td>最薄厚度</td><td>喷嘴尺寸D(μm)</td><td>归一化厚度(h/D)</td></tr><tr><td>北京大学[16]</td><td>射流对撞法</td><td>238 nm</td><td>50</td><td>4.76</td></tr><tr><td>美国空军研究实验室[31]</td><td>射流对撞法</td><td>450 nm</td><td>30</td><td>15</td></tr><tr><td>塞格德大学[32]</td><td>射流对撞法</td><td>182 nm</td><td>11</td><td>16.5</td></tr><tr><td>帝国理工学院[33]</td><td>收束喷嘴</td><td>1.02 μm</td><td>69.8×18.4(D=24.1)</td><td>20.9</td></tr><tr><td>西点军校[34]</td><td>收束喷嘴</td><td>250 nm</td><td>260×30(D=48.8)</td><td>10.4</td></tr></table>
+
+![](images/f3a3f5bca4a8c731c0de3b6352af7b2c8892fed8c59f0ce6ec50a1d55cb11498.jpg)  
+图4 液膜真空循环系统示意图
+
+![](images/6cee5cf3151599522ec2a98b3590eb63b891669e2121566b8870537d035759c7.jpg)  
+Figure 4 Schematic diagram of LST vacuum circulation system   
+(b)
+
+![](images/ae34aeff00af008fc41d02061b3dbf9670b5f8658d399178950fb7777572c57a.jpg)
+
+![](images/718039b584dc0e022d0d

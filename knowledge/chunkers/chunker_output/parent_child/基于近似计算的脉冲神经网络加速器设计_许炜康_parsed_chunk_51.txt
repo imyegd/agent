@@ -1,0 +1,2 @@
+pprox8b: Library of approximate adders and multipliers for circuit design and benchmarking of approximation methods [C] // Proceedings of the 2017 Design, Automation & Test in Europe Conference & Exhibition, 2017:258-261.   
+[16] LIANG J H, HAN J, LOMBARDI F. New metrics for the reliability of approximate and probabilistic adders[J]. IEEE Transactions on Computers, 2013, 62(9):1760-1771.

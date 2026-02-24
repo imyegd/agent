@@ -1,0 +1,6 @@
+s 4 0 . 0 \ \mathrm { c m } \ 3$ 种规格的固定照射野和 $1 . 0 \sim 2 . 5 ~ \mathrm { c m } \times 4 0 . 0 ~ \mathrm { c m }$ 、 $1 . 0 \sim 5 . 0 \ \mathrm { c m } \times 4 0 . 0 \ \mathrm { c m } \ 2$ 种可调照射野，最大治疗野为 $4 0 ~ \mathrm { c m } \times 1 3 5 ~ \mathrm { c m } ^ { \ [ 3 5 - 3 7 ] }$ ，见表 7。
+
+![](images/01450eb1993b40de80cfd423c71193cb2a26f6b68f2a2627b17199de88318201.jpg)
+
+![](images/258729caa3867e3756f88c21519772e3b222b148fe19415dde06ee94df1a1167.jpg)  
+图 15 TomoTherapy 的二元光栅准直器 A 为二元光栅准直器结构外观；B为二元光栅准直器叶片成野示意

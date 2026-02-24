@@ -1,0 +1,3 @@
+. Superconducting ECR ion source: from 24-28 GHz SECRAL to 45 GHz fourth generation ECR[J]. Review of Scientific Instruments, 2018, 89: 052301.   
+[4] Yang Yao, Tian Ruixia, Zhai Yuhan, et al. Development of a beam energy adjustment system after a Radio-Frequency-Quadrupole[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2022, 1039: 167095.   
+[5] Yang Yao, Zhai Yuhan, Tian Ruixia, et al. Longitudinal emittance measurement f

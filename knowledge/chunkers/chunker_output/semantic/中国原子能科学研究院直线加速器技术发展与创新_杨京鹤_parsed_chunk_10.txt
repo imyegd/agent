@@ -1,0 +1,9 @@
+![](images/d321ee1e3c6078a5bfdaead7caf7879dde5898bf4a88a65aec508200c1003597.jpg)
+
+![](images/60d163ec630c44d47002663a8e0af91cbeae4644c7b1527d4ebc65722d9d6f57.jpg)  
+图2边腔失谐棒模型(a)及 $\mathrm{keV / MeV}$ 能量可切换电子直线加速管腔链(b)  
+Fig. 2 Model of detuning bar inside-coupling cavity (a) and cavity chain of keV/MeV energy switchable accelerating tube (b)
+
+2021年，原子能院成功开发了X波段6MeV驻波加速管，通过高功率测试验证设计，奠定了高波段加速结构开发的工程实践基础[10]。X波段加速结构尺寸小，增加了物理设计、精密加工及调谐的难度。物理设计过程中，创新性地采用 $\alpha$ 函数结合包络曲线的方式，综合分析加速过程中射频聚焦力的变化，提升了物理设计的准确性和设计效率；加工过程中，由于X波段加速腔体
+
+对于直径尺寸变化的频率敏感度远大于S波段，因此通过精密加工工艺的突破实现粗糙度 $Ra \leqslant 0.05\mu \mathrm{m}$ ，获得高一致性的腔体；测试过程中开发了高精度、高稳定冷测系统，通过非谐振方法对精密加工后的加速管微波调谐，高精度地实现了设计的电场分布。X波段6MeV加速管 $\alpha$ 函数沿纵向 $z$ 的变化及X波段6MeV加速管样管如图3所示。

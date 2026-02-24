@@ -1,0 +1,14 @@
+［49］ KirnerDL，BurkyR，TaylorRE，etal．Radiocarbondatingorganicresiduesatthemicrogramlevel［J］．NuclearInstrumentsandMethodinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，1997，123（1－4）：214－217  
+［50］ ErlenkeuserH，BergerR．Athermaldiffusionplantforradiocarbonisotopeenrichmentfrom naturalsamples［M］∥ TaylorR E edRadiocarbonDating．Berkeley：UniversityofCaliforniaPress，1979：216－237  
+［51］HuaQ，BarbettiM，RakowskiAZ．Atmosphericradiocarbonforthperiod1950－2010［J］．Radiocarbon，2013，55（4）：2059－2072  
+［52］ LalD．Oncosmic-rayexposureagesofterrestrialrocks：Asuggestion［J］．Radiocarbon，1995，37（3）：889－898  
+［53］ GrangerDE，MuzikarP F．Datingsedimentburialwithinsituproducedcosmogenicnuclides：Theory，techniques，andlimitation［J］．EarthandPlanetaryScienceLetters，2001，188（1－2）：269－281  
+［54］ HeinAS，HultonN R J，DunaiT J，etal．MiddlePleistocenglaciationinpatagoniadatedbycosmogenic-nuclidemeasurementsonoutwashgravels［J］．EarthandPlanetaryScienceLetters，2009，28（1－2）：184－197  
+［55］ BraucherR，DelCastilloP，SiameL，etal．Determinationofboth exposuretimeanddenudationratefromaninsitu-produced10Bedepth profile：A mathematicalproofofuniqueness．Modelsensitivityand applicationstonaturalcases［J］．QuaternaryGeochronology，2009， 4（1）：56－67   
+［56］SchallerM，EhlersTA，BlumJD，etal．Quantifyingglacialmorainage，denudation，andsoilmixingwithcosmogenicnuclidedepthprofiles［J］．JournalofGeophysicalResearch：EarthSurface，2009，114（F1）：F01020．doi：10．1029／2007JF000921  
+［57］ DehnertA，SchlüchterC．Sedimentburialdatingusingterrestriacosmogenicnuclides［J］．Eiszeitalterund GegenwartQuaternarScienceJournal，2008，57（1－2）：210－225  
+［58］GrangerDE．Cosmogenicnuclideburialdatinginarchaeologyandpaleoanthropology［M］∥HollandHD，TurekianKKeds．TreatiseonGeochemistry（2nded）．Amsterdam：Elsevier，2014：81－97  
+［59］BalcoG，RoveyCW．Anisochronmethodforcosmogenic-nucliddatingofburiedsoilsandsediments［J］．AmericanJournalofScience，2008，308（10）：1083－1114  
+［60］GrangerDE．Areviewofburialdatingmethodsusing $^ { 2 6 } \mathrm { A l }$ land10B［M］∥ Alonso-ZarzaA M，TannerL H eds．In Situ-ProducedCosmogenicNuclidesandQuantificationofGeologicalProcesses．NewYork：GeologicalSocietyofAmerica，2006：415．doi：10．1130／20062415（01）  
+［61］BraucherR， MerchelS， Borgomano J， etal．Production ocosmogenicradionuclidesatgreatdepth：A multielementapproach［J］．EarthandPlanetaryScienceLetters，2011，309（1－2）：1－9．doi：10．1016／j．epsl．2011．06．036  
+［62］HofmannH J， BeerJ， BonaniG， etal．10Be：Half-lifeandAMS-standards［J］．NuclearInstrumentsandMethodsin PhysicResearchSectionB：Beam InteractionswithMaterialsandAtoms，1987，29（1）：32－36.

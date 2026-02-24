@@ -1,0 +1,19 @@
+# The Design of Hardware Accelerator for FOC Control Based on CORDIC Algorithm
+
+ZHANG Cao<sup>1</sup>, GUAN Zhongxu<sup>2</sup>, BAO Huricha<sup>2</sup>, LI Linnan<sup>2</sup>, SHI Gang<sup>1</sup>
+
+(1.Hefei Zhixin Semiconductor Company Limited, Hefei 230000, China; 2.Intelligent Connected Vehicle Development Institute, China FAW Group Company Limited, Changchun 130011, China)
+
+Abstract: The Cortex-M architecture is designed around the concept of low-power, real-time control, with the advantage of being able to tightly couple I/O and peripherals through a very lightweight software layer. However, this architecture is not ideal for tasks that process large amounts of data, and due to the increasing complexity of motor control algorithms, the computational performance requirements for local data analysis are also growing, which poses some challenges to microcontroller unit (MCU) with Cortex-M architecture. In order to solve this problem, this paper designs a new hardware accelerator, which uses the simplicity and efficiency of the CORDIC algorithm to achieve high-precision trigonometric function operation, and uses the hardware module to realize the entire
+
+control process of field oriented control (FOC), and the maximum delay for completing a FOC operation is 264.5 ns. This drastically reduces the runtime and energy consumption of signal processing algorithms, and the new accelerator module will provide users with more precise and complex running algorithms while maintaining energy efficiency.
+
+Key words: FOC control; hardware accelerators; CORDIC algorithm; motor control
+
+当应用特定集成电路（Application-Specific Integrated Circuit, ASIC）芯片采用硬件加速器模块后，各模块间实现了自动硬件顺序计算[1-3]，使得无刷电机的磁场定向控制（Field-Oriented Control, FOC）仅需一次调用即可完成所有计算[4-7]，省去了软件对各个模块分别调用的繁琐步骤。因此，中央处理器（Central Processing Unit, CPU）的访问时间得到了显著缩短，整体运算效率也随之大幅提升。
+
+带有硬件加速器模块的芯片应用前景广阔，尤其适用于由直流电机驱动的多种零部件控制器。如汽车电动车窗、汽车散热风扇、电动天窗、电动遮阳帘、电动折叠后视镜、电子水泵油泵、电动助力转向（Electric Power Steering, EPS）等，这些均离不开高效、精准的电机控制[8-10]。
+
+现在汽车领域对电机控制的精度、响应时间、稳定性以及可靠性要求越来越高。如在EPS系统中要求响应时间小于 $1\mathrm{ms}$ ，低转矩波动小于 $2\%$ ，而新能源汽车驱动电机要求转速范围在 $0\sim 15000\mathrm{r / min}$ ，角度误差必须小于 $0.5^{\circ}$ ，且长期运行下的可靠性大于 $1.0\times 10^{5}\mathrm{h}^{[8]}$ 。若通过CPU来实现对电机的精确且可靠控制将耗费大量的CPU资源，不符合实际应用场景。因此，带有电机控制的硬件加速器芯片成为汽车芯片领域的热门研究。研究发现FOC控制的精度、响应速度、稳定性等参数更佳。
+
+而此硬件加速器模块[1]的核心优势在于其两大内置算法：其一为CORDIC算法[2]，它在三角函数计算领域表现卓越、性能斐然；其二为FOC算法[4]，它专注于实现电机控制的精细化，确保动力输出的精准无误。并且FOC算法中有大量的三角函数运算，因此，CORDIC算法为实现高精度与快速响应的FOC控制提供坚实的基础。

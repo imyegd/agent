@@ -1,0 +1,20 @@
+of beam deflection under the action of chopper
+
+![](images/2c50cacf6d065153dccf05eb97458f2465e0a8be6a6fa8bfe1454cccee81364c.jpg)  
+图 8    斩束器作用下束流偏转相图  
+Fig. 9    Beam envelope diagram under the action of arc plate chopper   
+图 9    圆弧极板斩束器作用下束流包络图
+
+![](images/0df6f112b56816605ea87ddd009f3beb6faaaceb62e5265f85205d515eab89e6.jpg)  
+Fig. 11    Phase diagram of beam deflection under the action of arc plate chopper   
+图 11    圆弧极板斩束器作用下束流偏转相图
+
+# 2    斩束电压脉冲前后沿与束流脉冲前后沿关系
+
+对于斩束器而言，另一个重要关系是斩束电压脉冲前后沿和束流脉冲前后沿关系。实际上，静电斩束束流的上升（下降）沿由电压上升（下降）沿和带电粒子在斩束器内飞行时间决定[15]，假设束流偏转电压为 $\varphi$ ，图 12 是斩束器电压波形图，带电粒子在斩束器内飞行时间为 $t _ { 0 } { = } L / \nu$ ，$L$ 是极板长， $\nu$ 是粒子速度，在 $t _ { 0 } { \sim } 0$ 这段时间束流不被偏转， $\scriptstyle { t = 0 }$ 时刻斩束器开始工作，那么 $t _ { 0 } { + } t _ { 1 }$ 这段时间束流得不到有效的偏转，这就是束流下降沿时间，对于束流上升沿，与其反过来，是束流通过斩束器时间加上斩束器电压下降时间。
+
+![](images/34ddab9b5083529e0f726854f9fc3f920a1d43af4660f2e8fe382d340bf4a4d2.jpg)  
+Fig. 12    Voltage waveform diagram of the beam chopper   
+图 12    斩束器电压波形图
+
+束流的上升沿与下降沿越短越好，束流传输的波动会影响后续加速器的工作，而这主要取

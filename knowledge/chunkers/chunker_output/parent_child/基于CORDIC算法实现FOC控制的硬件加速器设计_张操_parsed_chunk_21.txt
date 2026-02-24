@@ -1,0 +1,7 @@
+# 1.4 CORDIC算法应用模式
+
+CORDIC算法在应用上可以计算三角函数（正弦、余弦）的值，可以让 $z_0$ 为待求角度 $\theta$ ， $y_0$ 为0， $x_0$ 为 $K$ ，并将其代入式（9）中，可简化输出为
+
+$$
+\left\{ \begin{array}{l} x _ {n} = \cos \theta \\ y _ {n} = \sin \theta \\ z _ {n} = 0 \end{array} \right. \tag {10}
+$$

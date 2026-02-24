@@ -1,0 +1,7 @@
+on and jitter of free-flowing thin liquid sheets as target for high-repetition-rate laser-ion acceleration. Front Phys, 2023, 11: 1172075   
+20 Zhu J G, Wu M J, Liao Q, et al. Experimental demonstration of a laser proton accelerator with accurate beam control through image-relaying transport. Phys Rev Accel Beams, 2019, 22: 061302   
+21 Oefelein J C, Yang V. Comprehensive review of liquid-propellant combustion instabilities in F-1 engines. J Propulsion Power, 1993, 9: 657-677   
+22 Baber R, Mazzei L, Thanh N T K, et al. Synthesis of silver nanoparticles using a microfluidic impinging jet reactor. J Flow Chem, 2016, 6: 268-278   
+23 Visser C W, Kamperman T, Karbaat L P, et al. In-air microfluidics enables rapid fabrication of emulsions, suspensions, and 3D modular (bio) materials. Sci Adv, 2018, 4: eaao1175   
+24 Hasson D, Peck R E. Thickness distribution in a sheet formed by impinging jets. AIChE J, 1964, 10: 752-754   
+25 Ibrahim E A, Przekwas A J. Impinging jets atomization. Phys Fluids A-Fluid Dyn, 1991, 3

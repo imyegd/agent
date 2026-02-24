@@ -1,0 +1,11 @@
+冲高压倍加器低能传输效率的提高和脉冲宽度的降低研究[D].北京：中国原子能科学研究院，2007.  
+[64] 陈红涛, 赵芳, 于伟翔, 等. 原子能院高压倍加器的改进[C]/2010全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2010:78-81.  
+[65] 陈红涛, 赵芳. 高压倍加器微秒脉冲束系统的建立[J]. 原子能科学技术, 2014, 48(7): 1300-1303.  
+CHEN Hongtao, ZHAO Fang. Establishment of microsecond pulse beam system on Cockcroft-Walton accelerator[J]. Atomic Energy Science and Technology, 2014, 48(7): 1300-1303(in Chinese).   
+[66] 陈红涛, 赵芳. 单漂移聚束腔的改进[J]. 原子能科学技术, 2012, 46(4): 493-496.
+
+CHEN Hongtao, ZHAO Fang. Improvement of single-drif buncher[J]. Atomic Energy Science and Technology, 2012, 46(4): 493-496 (in Chinese).   
+[67] 刘世龙, 杨毅, 冯晶, 等. 14.8 MeV 中子诱发 $^{232}$ Th 裂变产额测量[J]. 原子能科学技术, 2013, 47(6): 901-906.  
+LIU Shilong, YANG Yi, FENG Jing, et al. Fission product yields measurement of $^{232}\mathrm{Th}$ induced by 14.8 MeV neutron[J]. Atomic Energy Science and Technology, 2013, 47(6): 901-906(in Chinese).   
+[68] 王黎明, 蒋婧, 鲍杰, 等. 高压倍加器靶单元组件对源中子能谱影响研究[J]. 原子核物理评论, 2016, 33(1): 67-71.  
+WANG Liming, JIANG Jing, BAO Jie, et al. Effect of t

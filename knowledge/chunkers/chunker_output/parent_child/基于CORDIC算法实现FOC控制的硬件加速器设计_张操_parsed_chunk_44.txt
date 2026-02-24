@@ -1,0 +1,7 @@
+d></tr><tr><td>Actual_speed</td><td>Output</td><td>32</td><td>电机实际转速</td></tr><tr><td>Common_value</td><td>Output</td><td>32</td><td>普通计算值</td></tr><tr><td>Interrupt</td><td>Output</td><td>11</td><td>计算中断反馈</td></tr></table>
+
+图13是上位机测试记录的电机加减速FOC控制波形图，转速从 $300\mathrm{r / min}$ 平滑加速并稳定至 $3000\mathrm{r / min}$ ，然后再减速至 $300\mathrm{r / min}$ 。转速控制误
+
+差在 $1 \%$ 以内，优于行业典型 $3 \%$ 的标准。且转矩随转速在 $0.4 \sim 0.8 \mathrm{~N}$ 之间波动，在低转速下仍能保持转矩稳定，验证了 CORDIC 对角度估算的精度较高。
+
+![](images/db30cf4081cd7d274c24e019b35df640dcb5b2ef87d3

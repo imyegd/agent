@@ -1,0 +1,3 @@
+ee-Dimensional[3] Crossbar  Arrays  of  Self-Rectifying $\mathrm { S i } / \mathrm { S i O } _ { 2 } / \mathrm { S i }$ Memristors[J]. Nature Communications, 2017, 8: 15666.   
+Rivu  Midya,  Zhongrui  Wang,  Jiaming  Zhang,  et  al.[4] Anatomy  of  Ag/Hafnia-Based  Selectors  with 1010 ${ 1 0 } ^ { 1 0 }$ Nonlinearity[J].  Advanced Materials,  2017,  29(12): 1604457.   
+Mingyi  Rao,  Wenhao  Song,  Fatemeh  Kiani,  et  al.  Timing[5] Selector: Using Transient Switching Dynamics to Solve the Sneak  Path  Iss

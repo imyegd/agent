@@ -1,0 +1,4 @@
+t Switching Dynamics to Solve the Sneak  Path  Issue  of  Crossbar  Arrays[J].  Small Science, 2022, 2(1): 2100072.   
+Yi Huang, Takashi Ando, Abu Sebastian, et al. Memristor-[6] based  Hardware  Accelerators  for  Artificial  Intelligence[J]. Nature Reviews Electrical Engineering, 2024, 1: 286−299.   
+Pengxiao  Sun,  Nianduan  Lu,  Ling  Li,  et  al.  Thermal[7] Crosstalk  in  3-Dimensional  RRAM  Crossbar  Array[J]. Scientific Reports, 2015, 5: 13504.   
+Jinpeng Liu, Wei Tong, Bing Wu, et al. ICON: An IR

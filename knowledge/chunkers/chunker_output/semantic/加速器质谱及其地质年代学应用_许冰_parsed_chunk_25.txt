@@ -1,0 +1,23 @@
+Fig.5 Theeffectofcalibrationcurvevariationsoncalibrated $^ { 1 4 } \mathrm { C }$ ages．（a）Theerrorofthecalibratedageissmallduringtheperiod withhighvariationrateof $^ { 1 4 } \mathrm { C }$ activityinatmospheric $\mathrm { C O } _ { 2 }$ ；（b）Theerrorofthecalibratedageislargeduringtheperiodwithlow variationrateo $^ { 1 4 } \mathrm { C }$ activityinatmospheric $\mathrm { C O } _ { 2 }$   
+![](images/dcf3d73db67798ea0eaa82da387362004b031c84c6b7350b0d083f80c2d08f57.jpg)  
+大气 $\mathrm { C O } _ { 2 }$ 中 $^ { 1 4 } \mathrm { C }$ 活度变率对校正年龄的影响：（a）大气 $\mathrm { C O } _ { 2 }$ 中 ${ } ^ { 1 4 } \mathrm { C }$ 活度变率较大，校正后年代误差较小；（b）大气 $\mathrm { C O } _ { 2 }$ 中 $^ { 1 4 } \mathrm { C }$ 活度变率较小，校正后年代误差较大
+
+图 5 校正曲线对 $^ { 1 4 } \mathrm { C }$ 校正年龄的影响
+
+对于暴露时间较短 $t \ll t _ { 1 / 2 }$ ）的表面，宇宙成因核素为稳定同位素，公式（1）可简化为：
+
+$$
+N _ {\text {t o t a l}} (t, z) = N _ {\text {i n h}} (z) + \sum \left(P _ {i} (z)\right) \times t \tag {3}
+$$
+
+在继承核素为 0或可以单独计算的情况下$\mathrm { \Delta } N _ { \mathrm { { c o s } } } = N _ { \mathrm { { t o t a l } } } - N _ { \mathrm { { i n h } } } \mathrm { \Delta }$ ），暴露年龄 $\cdot \ : T _ { \mathrm { e x p } }$ ）如下［52］ ：
+
+$$
+\begin{array}{l} T _ {\exp} = - 1 / \lambda \times \ln [ 1 - (\lambda N _ {\cos} (z, T _ {\exp}) / \\ \left. \left(\sum \left(P _ {i} (z) e ^ {- z \rho / \Lambda_ {i}}\right) \right] \right. \tag {4} \\ \end{array}
+$$
+
+对于表层样品 ${ \it z } = 0$ ），方程简化为：
+
+$$
+T _ {\exp} = - 1 / \lambda \times \ln \left[ 1 - \lambda N _ {\cos} (0, T _ {\exp}) / \sum \left(P _ {i} (0)\right) \right] \tag {5}
+$$

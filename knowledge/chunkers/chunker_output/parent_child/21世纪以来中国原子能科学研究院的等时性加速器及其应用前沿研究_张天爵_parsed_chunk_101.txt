@@ -1,0 +1,4 @@
+Superconductivity, 2016, 26(4): 4101504.   
+[35] YIN Zhiguo, ZHAO Z, WEI S, et al. Design, construction and commissioning of the 100 kW RF amplifier for cyciae-100[C]/The 19th International Conference on Cyclotrons and Their Applications. Lanzhou: [s. n.], 2010.   
+[36] YIN Z, FU X, JI B, et al. Digital control in LLRF system for CYCIAE-100 cyclotron[J]. Nucl Instrum Methods Phys Res A, 2016, 819: 33-36.   
+[37] YAO H, ZHANG T, LU Y, et al. Matching from $\mathrm{H}^-$ multicusp source to central region of

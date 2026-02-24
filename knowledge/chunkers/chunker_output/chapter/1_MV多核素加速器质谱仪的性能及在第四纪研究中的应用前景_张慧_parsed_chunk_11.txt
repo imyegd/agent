@@ -1,0 +1,10 @@
+# 2.1 ${ } ^ { 1 4 } \mathbf { C }$ 验收测试
+
+$^ { 1 4 } \mathrm { C }$ 验收测试在 1MV端电压下采用 $2 ^ { + }$ 电荷态进行，氩气剥离气压 $3 . 5 \times { { 1 0 } ^ { - 2 } }$ mbar，束流传输效率$52 \%$ 。利用 $^ { 1 3 } \mathrm { C }$ 导航束优化各电磁元件至最佳，随后将高能分析系统参数调整为 $^ { 1 4 } \mathrm { C }$ 对应值，并重新优化参数后进行测量。使用4个由科隆 AMS实验室提供的 NISTSRM4990C草酸标准样（OxⅡ）及未处理商业石墨本底样进行验证， $\operatorname { O x } \mathbb { I }$ 标称 $^ { 1 4 } \mathrm { C } / ^ { 1 2 } \mathrm { C }$ 值为1.57×10－12［25］ 。 $1 . 5 7 \times { 1 0 } ^ { - 1 2 ^ { [ 2 5 ] } }$ 所有 $\operatorname { O x } \mathbb { I }$ 标样均测量 10次，每次
+
+表 2 14C验收测试结果  
+Table2 Resultsoftheacceptancetestsfo $^ { 1 4 } \mathrm { C }$   
+
+<table><tr><td>14C标准样品</td><td>14C计数</td><td>13C/12C</td><td>14C/12C</td><td>12C2+平均束流(A)</td></tr><tr><td>Ox II 1</td><td>155243</td><td>1.056×10-2</td><td>1.408×10-12</td><td>2.550×10-5</td></tr><tr><td>Ox II 2</td><td>156226</td><td>1.055×10-2</td><td>1.405×10-12</td><td>2.623×10-5</td></tr><tr><td>Ox II 3</td><td>155831</td><td>1.055×10-2</td><td>1.409×10-12</td><td>2.496×10-5</td></tr><tr><td>Ox II 4</td><td>155740</td><td>1.055×10-2</td><td>1.406×10-12</td><td>2.582×10-5</td></tr><tr><td>平均统计误差(‰)</td><td></td><td></td><td>2.53</td><td></td></tr><tr><td>平均值</td><td></td><td>1.055×10-2</td><td>1.407×10-12</td><td></td></tr><tr><td>相对标准偏差(‰)</td><td></td><td>0.42</td><td>1.26</td><td></td></tr><tr><td>本底</td><td>90</td><td>1.07×10-2</td><td>1.71×10-16</td><td>2.455×10-5</td></tr></table>
+
+采集 20个数据块 $1 0 ~ \mathrm { s } /$ ／块），本底样品测量时长为$^ { 1 \mathrm { ~ h ~ } }$ ，结果（表 2）显示，4个 $\operatorname { O x } \mathbb { I }$ 平均值的相对标准偏差（RSD）为 $1 . 2 6 \text{‰}$ ，符合单靶平均统计误差，本底值为 $1 . 7 1 \times 1 0 ^ { - 1 6 } ( 0 . 0 1 6 \ \mathrm { p M C } )$ ），对应 B．P．年龄为70320a，数据同位素分馏校正是基于 AMS在线测试的 $\delta ^ { 1 3 } \mathrm { C }$ 值进行的， $^ { 1 4 } \mathrm { C }$ 标样和本底样品能谱图如图 2所示，横坐标是剩余能量，纵坐标是损失能量，单位均为道，下同。

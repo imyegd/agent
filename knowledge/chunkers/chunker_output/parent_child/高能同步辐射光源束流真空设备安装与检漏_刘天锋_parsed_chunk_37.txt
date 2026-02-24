@@ -1,0 +1,7 @@
+# 参 考 文 献
+
+[1] Jiao Y, Cui X H, Duan Z, et al. Progress of lattice design and physics studies on the high energy photon source [C]//Proceedings of the 10th International Particle Accelerator Conference (IPAC2019). Melbourne, Australia: JACoW, 2019: 1510-1513   
+[2] Zhang L, Lu H H, Sun S C. Design of the cpmu vacuum system at the HEPS [C]//Proceedings of the 8th International Particle Accelerator Conference (IPAC2017). Copenhagen, Denmark:
+
+JACoW, 2017: TUPAB068   
+[3] Wang X H, Celli A, Kramer S, et al. Va

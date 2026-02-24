@@ -1,0 +1,10 @@
+![](images/e6628088d4ba9758755d21b586e7b212d7b6be4af2719f759dfa40b8e62dfbfe.jpg)
+
+![](images/4140b43a9876edbd9f62b2f4f1618b1b7f61a3247d67ed717820066259cc7563.jpg)  
+图12 射波刀的Iris锥形孔准直器 A为Iris准直器整体结构示意；B为Iris准直器成野示意
+
+表3 Fixed和Iris锥形孔准直器的半影比较（mm）
+
+<table><tr><td rowspan="2">项目</td><td colspan="12">成野规格（mm）</td></tr><tr><td>5.0</td><td>7.5</td><td>10.0</td><td>12.5</td><td>15.0</td><td>20.0</td><td>25.0</td><td>30.0</td><td>35.0</td><td>40.0</td><td>50.0</td><td>60.0</td></tr><tr><td>Fixed准直器半影</td><td>2.0</td><td>2.4</td><td>2.6</td><td>2.6</td><td>2.8</td><td>2.8</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.5</td><td>3.5</td></tr><tr><td>Iris准直器半影</td><td>2.2</td><td>2.4</td><td>2.6</td><td>2.8</td><td>2.8</td><td>2.8</td><td>3.0</td><td>3.0</td><td>3.0</td><td>4.5</td><td>3.0</td><td>4.0</td></tr></table>
+
+# 2.3 RayerKnife 准直器

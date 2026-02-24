@@ -1,0 +1,9 @@
+增长的情况，充分表明模型的扩展效率较高，为后续模型大规模训练的高效和资源充分利用提供了理论支持。
+
+表3 单机多卡并行训练性能（CPU 单核心）  
+Table 3 Multi-GPU training performance on a single server (with a single CPU core)   
+表4 多机多卡并行训练性能（CPU 32个核心）  
+
+<table><tr><td>资源</td><td>每秒处理样本数(个)</td><td>加速比</td></tr><tr><td>单机单卡</td><td>3.85</td><td>—</td></tr><tr><td>单机2卡</td><td>27.13</td><td>7.05</td></tr><tr><td>单机4卡</td><td>51.88</td><td>13.47</td></tr><tr><td>单机8卡</td><td>90.98</td><td>23.63</td></tr></table>
+
+Table 4 Multi-GPU training performance on multi servers (with

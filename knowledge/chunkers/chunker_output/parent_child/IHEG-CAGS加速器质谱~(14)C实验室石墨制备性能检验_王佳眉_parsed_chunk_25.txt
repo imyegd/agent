@@ -1,0 +1,6 @@
+应 的 等 效 年 龄 接 近 51000年，即51kaB．P．，表明其本底水平处于良好控制状态。综上所述，IHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ 实验室具备高质量
+
+表 1 IHEG-CAGSAMS ${ } ^ { 1 4 } \mathbf { C }$ 实验室标准样品石墨化准确度对比  
+Table1 ComparisonofgraphitizationaccuracyfordifferentstandardsamplesatIHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ Laboratory   
+
+<table><tr><td colspan="2">样品名称</td><td>14C参考值</td><td>14C测量平均值</td><td>平均误差(1σ)</td><td>样品数量(n)</td></tr><tr><td rowspan="4">副标</td><td>IAEA-C8</td><td>15.03±0.17 pMC</td><td>15.00 pMC</td><td>0.10 pMC</td><td>10</td><

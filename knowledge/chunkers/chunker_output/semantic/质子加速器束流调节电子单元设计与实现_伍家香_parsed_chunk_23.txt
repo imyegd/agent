@@ -1,0 +1,19 @@
+BREU参数的表达方式如下：
+
+$$
+P = K _ {p} \tag {7}
+$$
+
+![](images/03db40ace1cfaf2f9dfa86594150ae4d27e5620eb38b6418dd645072f476776d.jpg)  
+图6DSP调节框图
+
+![](images/9e4c4f5923d45f0679a749742a250285146b51f4686f21a526b311e857a1b73d.jpg)  
+图7 PID调节器
+
+$$
+I = \frac {K _ {i}}{2 \cdot \pi} \tag {8}
+$$
+
+$$
+D = \frac {1}{2 \cdot \pi \cdot K _ {d}} \tag {9}
+$$

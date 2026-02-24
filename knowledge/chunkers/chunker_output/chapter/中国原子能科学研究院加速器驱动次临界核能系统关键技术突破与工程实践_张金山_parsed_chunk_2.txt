@@ -1,0 +1,21 @@
+# Key Technological Breakthrough and Engineering Practice of Accelerator-driven Subcritical System in China Institute of Atomic Energy
+
+ZHANG Jinshan, QIN Bo, NING Tong, ZHANG Jingchi, QIAN Yanyue, SUN Zhiyong,
+
+YU Huajin, WANG Rongdong, LONG Bin, ZHU Qingfu, YANG Hongyi
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: Accelerator-driven subcritical system (ADS), as an innovative nuclear energy technology, is designed to break through two major limitations of conventional reactors: low uranium utilization $(< 1\%)$ and high-level waste requiring more than 100 000 a of decay. By enabling efficient waste transmutation, improving fuel use, and supporting closed fuel cycles, ADS offers a pathway to safer, low-carbon nuclear energy. This paper reviews two decades of ADS research and engineering practice led by the China Institute of Atomic Energy (CIAE), focusing on the progress of the China Initiative Accelerator-driven System (CiADS) and its relevance for international development. Since the early 2000s, CIAE has led ADS research in China. The Venus zero-power facilities were constructed to support basic studies: Venus- I (2005) and Venus- II (2016). To address key challenges, CIAE conducted targeted R&D (research and development). In spallation target design, a solid metal composite target
+
+was optimized and an integrated "reactor-target" scheme was proposed, lowering costs relative to separated designs. For coolant chemistry, an electrochemical oxygen sensor (zirconia electrolyte) and gas-phase control system were developed to maintain dissolved oxygen in lead-bismuth eutectic $(10^{-4}\% - 10^{-6}\%)$ . In collaboration with ENEA (Italy) and PSI (Switzerland), long-term corrosion tests of CLAM steel and 316LN stainless steel were carried out in flowing lead-bismuth at $550~^\circ \mathrm{C}$ for up to $10000\mathrm{h}$ . In core design, a 12-core subsystem (9.75 MW, 69 fuel assemblies, $k_{\mathrm{eff}} = 0.97$ ) was completed and its safety was validated. Since 2016, CiADS has advanced to engineering-scale demonstrations. Key achievements include ton-scale solid-phase oxygen control, a combined "magnetic+deep-bed filtration" method for corrosion product removal, and a prototype $^{210}\mathrm{Po}$ purification system with $>0\%$ efficiency. The integrated "reactor-target" design simplified plant layout, reduced land area by over $30\%$ , and aligned with international development trends. Lead-bismuth coolant technologies were qualified to ensure structural safety, while the primary loop design and major component fabrication have been completed, enabling upcoming accelerator-target-reactor coupling tests of at least $1\mathrm{h}$ . Through these efforts, CIAE has established an independent ADS platform. The Venus facilities serve as international benchmarks, providing high-quality data for heavy-metal coolant systems. CiADS demonstrates that ADS can reduce the hazardous lifetime of nuclear waste to hundreds of years, raise uranium utilization above $95\%$ , and provide a route to inherently safe, low-carbon power. Looking ahead, CIAE is exploring artificial intelligence for ADS simulation and control to further optimize design. These achievements represent substantial progress in China's ADS program and offer valuable reference for international peers advancing advanced nuclear technologies.
+
+Key words: accelerator-driven subcritical system; nuclear waste transmutation; China Initiative Accelerator-driven System; artificial intelligence
+
+传统热堆核电站面临铀资源利用率不足 $1\%$ 长寿命核废料处置周期超过10万年的行业瓶颈，加速器驱动次临界系统(ADS)通过次临界反应堆与外部中子源耦合，可将核废料放射性危害期缩短至数百年，并实现铀资源利用率大幅提升的目标，同时为核燃料闭式循环提供革命性方案。其“停机即停堆”的固有安全性，从原理上解决了临界反应堆的失控风险，对我国构建“安全、高效、可持续”的核能体系具有战略意义[1-2]
+
+21世纪初，中国原子能科学研究院（简称原子能院）牵头国内ADS研究，依托两期科技部的“973计划”项目建成启明星系列零功率装置，率先突破散裂靶耦合设计、铅铋冷却剂控氧等关键技术。2016年启动的加速器驱动嬗变研究装置(CiADS)作为全球首个ADS工程化项目，标志着我国在该领域从理论研究跃升至工程实践阶段。目前，原子能院已完成次临界反应堆与散裂靶的一体化设计，形成自主化技术体系。
+
+本文围绕ADS构成、关键技术挑战及工程实践进展进行论述，揭示其在核废料嬗变与清洁能
+
+源领域的应用潜力。

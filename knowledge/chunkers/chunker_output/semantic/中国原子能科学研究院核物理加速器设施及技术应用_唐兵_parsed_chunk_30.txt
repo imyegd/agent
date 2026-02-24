@@ -1,0 +1,15 @@
+CHEN Hongtao, ZHAO Fang. Improvement of single-drif buncher[J]. Atomic Energy Science and Technology, 2012, 46(4): 493-496 (in Chinese).   
+[67] 刘世龙, 杨毅, 冯晶, 等. 14.8 MeV 中子诱发 $^{232}$ Th 裂变产额测量[J]. 原子能科学技术, 2013, 47(6): 901-906.  
+LIU Shilong, YANG Yi, FENG Jing, et al. Fission product yields measurement of $^{232}\mathrm{Th}$ induced by 14.8 MeV neutron[J]. Atomic Energy Science and Technology, 2013, 47(6): 901-906(in Chinese).   
+[68] 王黎明, 蒋婧, 鲍杰, 等. 高压倍加器靶单元组件对源中子能谱影响研究[J]. 原子核物理评论, 2016, 33(1): 67-71.  
+WANG Liming, JIANG Jing, BAO Jie, et al. Effect of the high-voltage multiplier target assembly on the source neutron spectrum[J]. Nuclear Physics Review, 2016, 33(1): 67-71(in Chinese).   
+[69] 张凯, 侯龙, 陈红涛, 等. D-T 中子源束斑尺寸测量技术及应用[J]. 原子能科学技术, 2020, 54(12): 2289-2295.  
+ZHANG Kai, HOU Long, CHEN Hongtao, et al. Measurement technique and application of D-T neutron source beam spot size[J]. Atomic Energy Science and Technology, 2020, 54(12): 2289-2295(in Chinese).   
+[70] YANG X, LAN C, NIE Y, et al. Cumulative fission yield measurements with 14.7 MeV neutrons on $^{238}\mathrm{U}[\mathrm{J}]$ . Chinese Physics C, 2023, 47(2): 024001.   
+[71] 李炎锟, 陈红涛, 宋应民, 等. 不同基底氘钛靶性能研究[J]. 原子能科学技术, 2024, 58(7): 1548-1556.  
+LI Yankun, CHEN Hongtao, SONG Yingmin, et al. Performance study of deuterium-titanium targets with different substrates[J]. Atomic Energy Science and Technology, 2024, 58(7): 1548-1556(in Chinese).   
+[72] 徐阔之, 聂阳波, 张时宇, 等. 氪氚中子与 Fe 作用后泄漏 $\gamma$ 能量沉积谱测量与计算[J]. 原子能科学技术, 2024, 58(12): 2452-2461.  
+XU Kuozhi, NIE Yangbo, ZHANG Shiyu, et al. Measurement and calculation of the energy deposition spectrum of leakage $\gamma$ -rays following D-T neutron interaction with Fe[J]. Atomic Energy Science and Technology, 2024, 58(12): 2452-2461 (in Chinese).   
+[73] 崔保群, 李立强, 马鹰俊, 等. ${ }^{62} \mathrm{Zn}$ 放射性核束的产生 [C]/2004 全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2004: 14-18.  
+[74] 崔保群, 李立强, 马鹰俊, 等. ${ }^{62} \mathrm{Zn}$ 放射性核束的产生 [J]. 核技术, 2006, 21(2): 81-84.  
+CUI Baoqun, LI Liqiang, MA Yingjun, et al. Production of the $^{62}\mathrm{Zn}$ radioactive ion beam[J]. Nuclear Tech-

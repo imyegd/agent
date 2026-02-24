@@ -1,0 +1,8 @@
+} \tag {1}
+$$
+
+式中： $A$ 为放射性活度； $N _ { \mathrm { s } }$ 为单位面积靶上的靶核数； $\sigma$ 为质子与靶原子核反应产生某种放射性核素的平均截面；I为束流强度； $T _ { 1 / 2 }$ 为放射性核素的半衰期； $t _ { 0 } \cdot t _ { \mathrm { c } }$ 分别为辐照时间和冷却时间。当束流种类、能量、靶材料不变时，式（1）中的因子均为常量，式（1）中括号项即为辐照 $t _ { 0 }$ 时间后的该放射性核素的饱和程度，当辐照5个半衰期后，饱和程度约达到$9 7 \%$ 。使用FLUKA的RESNUCLE计数卡得到三种
+
+![](images/76e6da6a46a46a0c6875597978aa5fd33760fed9497eacdb03e91f3b23056b1a.jpg)  
+图9 束流垃圾桶入口处残余剂量率随冷却时间的衰减（彩图见网络版）  
+Fig.9 Residual dose rate as a function of cooling time at the dump entrance (colo

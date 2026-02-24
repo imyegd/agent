@@ -1,0 +1,4 @@
+# 参考文献
+
+[1] FAN R, WANG W, CHU X W. Dtc-SpMM: bridging the gap in accelerating general sparse matrix multiplication with tensor cores[C]//Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3. New York, USA: ACM Press, 2024: 253-267.   
+[2] SONG Y C, WANG Y B, XIONG C Y, et al. An efficient sampling-based SpMM kernel for balancing accuracy and speed in GNN inference[C]//Proceedings of the 2024 IEEE International Symposium on P

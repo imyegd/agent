@@ -1,0 +1,22 @@
+# A Review of Memristor-Based Computing in Memory Accelerators
+
+Heng Zhou1,2,3 ,4, Jinpeng Liu1,2,3,4, Dan Feng1,2,3,4, Wei Tong1,2,3,4
+
+1. Wuhan National Laboratory for Optoelectronics   
+2. Key Laboratory of Information Storage System, Ministry of Education of China   
+3. Engineering Research Center of Data Storage Systems and Technology, Ministry of Education of China   
+4. Huazhong University of Science and Technology
+
+Abstract:  To  meet  the  rapid  evolution  of  artificial  intelligence  (AI)  algorithms,  the  demand  for  computing  resources  is  growing exponentially, posing significant challenges for deploying AI models on hardware. Memristor-based computing in memory accelerators offer a promising solution to the energy efficiency and latency issues in large-scale AI model deployment—by performing computation directly within the memory cells where data are stored. This approach eliminates the frequent data transfers between processing units and memory units inherent in the von Neumann architecture, thereby greatly reducing both time and energy consumption. In recent years, research in this field has progressed rapidly, and memristor technology is undergoing a critical transition from proof-of-concept to commercialization, with prototype  systems  already  capable  of  accelerating  AI  model  inference  across  various  application  scenarios.  This  article  systematically reviews memristor devices and crossbar arrays, system architectures, software tools, representative applications, and development trends, and highlights the key technical challenges that remain to be addressed.
+
+Keywords: memristors; crossbar array; computing-in-memory; accelerators; non-ideal effects of memristors; compiler; simulator
+
+摘　要：为应对人工智能（artificial intelligence, AI）算法的快速发展，计算资源的需求正呈指数级增长，这为 AI 模型的硬件部署带来了巨大挑战。基于忆阻器的存算一体加速器为解决大型 AI 模型部署中的能效与时延问题提供了极具前景的方案——即计算直接在存储数据的存储单元中完成。这种方式显著减少了冯·诺依曼架构中处理单元与存储单元之间频繁的数据搬运，从而极大降低了时间和能耗开销。近年来，该领域研究发展迅速，忆阻器技术正经历从概念验证走向商业化产品的关键转变，现有产品原型系统已能在多种应用场景中加速 AI 模型推理。本文系统地梳理了忆阻器件及交叉阵列、系统架构、软件工具、典型应用及发展趋势，并给出了当前仍需解决的关键技术问题。
+
+关键词：忆阻器；交叉阵列；存算一体；加速器；忆阻器非理想因素；编译器；仿真工具
+
+中图分类号：TP303
+
+中文引用格式： 周恒, 刘锦鹏, 冯丹, 等. 基于忆阻器的存算一体加速器综述[J]. 计算, 2025, 1(6): 18−27.
+
+英文引用格式： Heng Zhou, Jinpeng Liu, Dan Feng, et al. A Review of Memristor-Based Computing in Memory Accelerators[J]. ComputingMagazine of the CCF, 2025, 1(6): 18−27.

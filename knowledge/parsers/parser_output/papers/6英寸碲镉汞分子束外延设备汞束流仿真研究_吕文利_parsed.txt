@@ -1,0 +1,181 @@
+# 引用格式:
+
+吕文利, 龚欣, 刘博渊. 6 英寸碲镉汞分子束外延设备汞束流仿真研究[J]. 湖南文理学院学报(自然科学版), 2025, 37(4):56–61.
+
+LV Wenli, GONG Xin, LIU Boyuan. Simulation research on Hg beam flux distribution of 6-inch HgCdTe molecular beam epitaxy equipment [J]. Journal of Hunan University of Arts and Science(Science and Technology), 2025, 37(4): 56–61.
+
+# 6 英寸碲镉汞分子束外延设备汞束流仿真研究
+
+吕文利, 龚欣, 刘博渊
+
+(湖南烁科晶磊半导体科技有限公司, 湖南 长沙,410114)
+
+摘要: 超大规模中长波红外探测器是第三代红外探测器发展的重要方向, 其制造过程中核心环节的 6 英寸硅基碲镉汞外延材料面临薄膜均匀性差、国产分子束外延设备特殊束源炉工艺性能不足等问题, 亟需开展热蒸发形式 $\mathrm { H g }$ 束源炉研究。本文使用多物理场有限元仿真技术, 研究蒸发口孔径、角度及坩埚直径等不同结构参数对 $\mathrm { H g }$ 束源炉出射束流在 6 英寸衬底上的分布、大小及沉积均匀性的影响规律, 并进行优化, 膜厚不均匀性降低至 $1 . 2 3 \%$ 以下。本研究为大尺寸碲镉汞分子束外延系统的设计和优化实现提供了思路及理论基础。
+
+关键词: 分子束外延装备; $\mathrm { H g }$ 束源炉; 模型仿真; 优化设计
+
+中图分类号: TN 305
+
+文献标志码: A
+
+DOI: 10.3969/j.issn.1672–6146.2025.04.008
+
+文章编号: 1672–6146(2025)04–0056–06
+
+# Simulation research on Hg beam flux distribution of 6-inch HgCdTe molecular beam epitaxy equipment
+
+LV Wenli, GONG Xin, LIU Boyuan
+
+(Hunan SemicorEPI Co., Ltd., Changsha 410114, China)
+
+Abstract: Ultra-large-scale mid-wave and long-wave infrared detectors have become an important development trend for the third-generation infrared detectors. However, a core device fabrication process of 6-inch silicon-based mercury cadmium telluride (HgCdTe) epitaxy faces challenges such as poor film uniformity and inadequate performance of mercury sources in domestically produced molecular beam epitaxy systems. There is an urgent need to develop a thermal evaporation-type $\mathrm { H g }$ source. This paper employs multiphysics finite element simulation to investigate the influence of various structural parameters, including size and angle of the evaporation outlet aperture and crucible diameter, on the distribution, magnitude, and deposition uniformity of the $\mathrm { H g }$ source’s emitted beam flux on a 6-inch substrate. Through optimization, the film thickness non-uniformity is reduced to below $1 . 2 3 \%$ . This study offers insights and a theoretical basis for design and optimization of large-scale HgCdTe molecular beam epitaxy systems.
+
+Key words: molecular beam epitaxy equipment; Hg source; model simulation; optimization design
+
+红外探测器在军事侦察、红外制导及民用工业等领域都有着十分重要的应用, 碲镉汞(HgCdTe)因其宽的可调谐禁带宽度和极高的吸收系数成为实现高性能红外探测器的最佳材料之一[1–3]。高性能探测
+
+器对材料质量提出了严格要求, 尤其是薄膜均匀性、载流子迁移率等关键指标, 而分子束外延方法由于其低生长温度、精确的厚度与组分控制及高质量的界面状态已经成为 HgCdTe 材料外延生长的主流方法。目前, 红外探测器正向大尺寸、大规模阵列的方向发展, 这要求外延生长设备能够满足在更大尺寸衬底上进行高质量外延生长的需求[3–4]。然而, 国内分子束外延设备厂商主要聚焦于Ⅲ–Ⅴ族化合物材料外延生长的设备研究, 对于Ⅱ–Ⅵ族外延生长设备的研究较少, 尚未掌握具有高可靠性、高工艺重复性的6英寸以上大尺寸硅基碲镉汞分子束外延设备技术[5], 严重制约我国大尺寸红外探测器阵列的发展。
+
+束源炉是分子束外延系统的关键组件, 其原理基于电阻加热机制, 采用钽丝或热解氮化硼\热解石墨\热解氮化硼(PBN\PG\PBN)加热器将坩埚内原料加热至饱和蒸汽压温度, 再通过特定形状蒸发口形成分子束流, 定向喷射至衬底表面发生吸附、迁移、结晶等动力学过程实现薄膜外延生长。在HgCdTe材料外延过程中, Hg 束流的稳定性及其在衬底表面的分布均匀性直接决定外延层 3 个关键质量参数:厚度均匀性、组分均匀性及宏观缺陷密度[6–7]。研究表明, 上述参数受多重几何因素调控, 主要包括束流传输距离、束源—衬底表面相对取向及束源炉坩埚几何结构等[8]。随着科技发展, 通过有限元仿真的方法对具体对象建模进行多物理场分析, 预测其潜在表现并进行结构参数优化已经成为一种主流研究手段[9–10]。
+
+本文针对 6 英寸硅基碲镉汞材料外延生长中的束流调控难题, 构建完整的 6 英寸分子束外延生长室仿真模型, 采用多物理场有限元仿真技术, 在固定束源偏置角与束流传输距离的条件下, 通过系统性的参数扫描, 定量分析了 $\mathrm { H g }$ 束源炉坩埚的关键几何参数对6 英寸衬底表面 $\mathrm { H g }$ 束流强度、束流分布均匀性以及材料沉积均匀性的影响规律, 最终建立了具有最佳束流特性的坩埚结构模型。
+
+# 1 仿真与实验
+
+束源炉坩埚的几何形状与开口方式对束流在衬底上的分布起到了决定性的作用, 大尺寸分子束外延设备的实际使用过程中对衬底表面的薄膜沉积均匀性提出了很高的要求, 因此需要对束源炉喷射束流在衬底表面的分布情况进行仿真, 以此优化束源炉结构参数, 实现在大尺寸衬底上高均匀性薄膜沉积的理论设计。在本实验中利用COMSOL软件中的分子流模块进行 6英寸衬底上 $\mathrm { H g }$ 束流分布及薄膜沉积均匀性的仿真, 其计算原理基于Knudsen M提出的束源炉小孔蒸发模型[11], 该模型中束源炉蒸发分子通量 $T _ { e } ( \mathbf { s } ^ { - 1 } )$ 可由小孔面积 $A _ { e } ( \mathbf { m } ^ { 2 } )$ 与温度 $T$ 的关系式如式(1)所示。
+
+$$
+\Gamma_ {e} = A _ {e} \left(p _ {e q} - p _ {v}\right) \sqrt {\frac {N _ {A}}{2 \pi M k _ {B} T}} \tag {1}
+$$
+
+式中, $p _ { e q }$ 为饱和蒸汽压 $\mathrm { ( P a ) }$ , $p _ { \nu }$ 为出口压强 $\mathrm { ( P a ) }$ , $M$ 为分子质量 $\mathrm { ( k g / m o l ) }$ ), $N _ { A }$ 为阿伏伽德罗常数 $( \mathrm { m o l ^ { - 1 } } )$ ,$k _ { B }$ 为玻尔兹曼常数(J/K)。而由于在大尺寸衬底情况下, 分子束流从束源炉口到达衬底表面各点处距离不同, 其任一点处K分子通量大小 $\cdot N _ { K } ( \mathbf { m } ^ { 2 * } \mathbf { s } )$ 可由式(2)表示。
+
+$$
+N _ {K} = I _ {A} \left(\frac {r}{r _ {K}}\right) ^ {2} \cos \theta \cos (\theta + \varphi) \cos \delta \tag {2}
+$$
+
+式中, $r _ { \setminus } r _ { K }$ 分别为蒸发口到衬底中心点和任意一点K的距离, 单位为mm, $I _ { A }$ 为衬底中心点处束流大小,可由余弦出射定律确定, θ、 $\varphi$ 、 $\delta$ 分别为衬底中心点与 K 点、蒸发口与衬底中心点、蒸发口与 K 点的夹角, 单位为(°)。计算确定各点分子通量大小后可以从压强与分子通量的关系式求得衬底表面各点束流压强的大小分布, 压强P(Torr)与分子通量 $N _ { K }$ 的关系由式(3)给出。
+
+$$
+N _ {K} = \frac {P}{\sqrt {2 \pi M k _ {B} T _ {s}}} \tag {3}
+$$
+
+式中, $T _ { s } ( \mathrm { K } )$ 为衬底温度, $M$ 为分子质量 $\mathrm { ( k g / m o l ) }$ ), $k _ { B }$ 为玻尔兹曼常数(J/K), 在 HgCdTe 材料实际生长过程中, 实际生长温度通常在 $1 8 0 ~ ^ { \circ } \mathrm { C }$ 附近。综合式(1)～(3)可以看出, 束流在衬底表面分布大小与材料分子质量、蒸发口偏角、束流传输距离、束源炉工作温度及衬底温度有关。以适合 6英寸衬底外延生长的分子束外延设备为基础进行仿真研究, 构建的分子束外延生长室模型如图1所示。
+
+![](images/582ea2256171241edc80a34ef8c75de6f9e53c269ccced11cfd755d7d415e616.jpg)  
+(a)
+
+![](images/d6316a701afd36058f3a4d49909f3084324525cd9118482b0e8dc2dd31977faa.jpg)  
+  
+图 1 分子束外延系统中的生长室模型(a)和实物图(b)
+
+分子束外延系统中, 束源炉坩埚的结构设计需根据蒸发材料的物理特性及工艺参数要求进行针对性优化。根据形状通常可分为3类, 即圆柱形坩埚、缩颈形坩埚和锥形坩埚。本研究采用的 $\mathrm { H g }$ 束源炉
+
+为热蒸发式设计(不同于阀控式 Hg束源炉), 其坩埚采取复合结构, 以圆柱形石英坩埚为主体, 耦合倒梯形钽罩来对 Hg 束流分布及大小进行调控。这种复合式设计能够实现束流出射孔径及角度的灵活调控。本文中 Hg 束源炉坩埚模型如图 2所示, 图 2 中的右图为蒸发口钽罩锥形开口处的结构参数。
+
+![](images/094a9d0a629f1593751c55c41bb4d73f4e252a7dbe681ec2be31d0dbd6524df3.jpg)  
+图 2 Hg束源炉坩埚模型
+
+# 2 讨论与分析
+
+依据实际进行外延生长时常用 $\mathrm { H g }$ 束源炉的相关使用参数进行整体模型的构建, 模型中的各项参数如表 1所示。
+
+以表 1中各项参数、装料体积 $5 0 \%$ 及衬底尺寸为6英寸为基础条件, 采用COMSOL中分子流模块进行瞬态仿真, 得到0时刻衬底表面束流压强分布如图3所示。
+
+由图 3(a)可以看出, 衬底静止状态下, 表面束流大小分布不均匀, 沿衬底直径靠近束源炉一侧的束流强度明显增大。在实际外延生长过程中, 通过衬底的匀速旋转来尽量消除这种束流分布的不均匀性。设定 $2 0 \mathrm { r a d / s }$ 的速度旋转衬底, 沉积 $2 \mathrm { m i n }$ 后表面膜厚均匀性如图3(b)所示。
+
+表 1 源炉参数  
+
+<table><tr><td>变量名称</td><td>值</td></tr><tr><td>束源炉倾角/(°)</td><td>41</td></tr><tr><td>分子质量/(kg·mol-1)</td><td>0.20059</td></tr><tr><td>与衬底距离/mm</td><td>336.4</td></tr><tr><td>蒸发温度/℃</td><td>100</td></tr><tr><td>蒸汽压/pa</td><td>36.3</td></tr><tr><td>钽罩上孔径/mm</td><td>19</td></tr><tr><td>钽罩下孔径/mm</td><td>13</td></tr><tr><td>钽罩锥度/(°)</td><td>28</td></tr><tr><td>坩埚直径/mm</td><td>37</td></tr><tr><td>衬底温度/℃</td><td>180</td></tr></table>
+
+可以看出在现有设计条件下, 经过 $2 \ \mathrm { m i n }$ 沉积暂未达到稳态,
+
+6 英寸衬底表面膜厚均匀性较差, 呈现不规则分布, 通过公式±(max-min)/(max+min)计算得到此时膜厚不均匀性为 $\pm 3 . 7 8 \%$ , 无法满足实际材料生长对膜厚均匀性的需求。因此需要对束源炉结构与均匀性之间的关系进行分析并进行设计优化。基于描述衬底表面各点束流分子通量的公式(2), 现可从蒸发口开口角度、开口孔径及坩埚直径三方面入手分析束源炉结构参数与束流大小、沉积均匀性之间的关系。
+
+首先在不改变束源炉蒸发口的情况下, 缩小坩埚直径到 $3 0 \ \mathrm { m m }$ , 此时根据仿真结果计算得出膜厚不均匀性为 $\pm 5 . 1 9 \%$ , 这是由于坩埚直径的缩小导致内部分子与坩埚壁碰撞反射更加剧烈, 得到了更加发散的分子束流。因此, 相较于直接缩减坩埚直径, 为实现更加精确可控的束流分布及更好的膜厚均匀性,需要进一步减小束源炉蒸发口开口角度或开口孔径来实现束流的收缩, 仿真结果如表2所示。
+
+![](images/3fa37b338a50577a33e91e1f8c7072b2134f06961e2090997b707d395b96c7a9.jpg)
+
+![](images/ce0ecc099eb25135c562e5471dd741fbfa337e2174826974ea687b2c57903fa3.jpg)  
+图 3 (a) 衬底表面0 时刻束流压强分布; (b) 旋转后衬底表面膜厚均匀性
+
+表 2 不同参数蒸发口的仿真结果  
+
+<table><tr><td>变量名称(单位)</td><td>初版蒸发口</td><td>上孔径16mm下孔径10mm锥度28°</td><td>上孔径17.8mm下孔径13mm锥度24°</td></tr><tr><td>最大膜厚/nm</td><td>302</td><td>183</td><td>303</td></tr><tr><td>最小膜厚/nm</td><td>280</td><td>167</td><td>288</td></tr><tr><td>最大束流强度/(1E-5Torr)</td><td>7.85</td><td>4.5</td><td>7.58</td></tr><tr><td>最小束流强度/(1E-5Torr)</td><td>2.26</td><td>1.29</td><td>2.26</td></tr><tr><td>膜厚不均匀性/%</td><td>±3.78</td><td>±4.57</td><td>±2.54</td></tr></table>
+
+仿真结果表明, 直接缩小蒸发孔径的方法会大幅降低束流强度, 高达 $4 2 . 9 \%$ , 同时引起膜厚均匀性
+
+的恶化。相比之下, 优化蒸发口锥角来调控分子束流出射角度的方法能够明显提高膜厚均匀性, 同时束流强度没有发生大的衰减。对以上3 种蒸发口喷出束流路径进行几何分析, 得到初版蒸发口束流的几何路径覆盖$1 8 3 ~ \mathrm { \ m m }$ , 缩小孔径的蒸发口束流几何路径覆盖 $1 7 3 \mathrm { ~ m m }$ , 改变蒸发口锥角的束流几何路径覆盖为 $1 5 0 \ \mathrm { m m }$ , 由此得出结论当分子束流恰好覆盖6英寸衬底表面时具有更好的膜厚均匀性。基于以上仿真结果, 在保证束流几何覆盖不变的情况下, 对不同蒸发孔径大小对膜厚不均匀性的影响进行仿真研究,结果如图 4所示。
+
+![](images/d463508c07e15c336eb896a3cf5376813b6db25deb30f0a44c481aa2022e50b3.jpg)  
+图 4 蒸发口下孔径大小对膜厚不均匀性和束流大小的影响
+
+仿真分析结果表明, 束流强度与蒸发口下孔径尺寸呈正相关关系。但随着束流强度的增加, 膜厚不均匀性呈现先降低后升高的变化趋势。基于此优化结果, 选取该组关键结构参数(蒸发口上孔径$1 7 . 8 \mathrm { m m }$ 、下孔径 $1 3 \mathrm { m m }$ 、锥度 $2 4 ^ { \circ }$ , 坩埚直径 $3 7 ~ \mathrm { m } )$ )进行长时间沉积过程的数值模拟, 相应的仿真数据汇总如表 3所示, 束流达到稳态后的长时间薄膜沉积结果如图5 所示。
+
+分析仿真结果可知, 当薄膜沉积过程中稳态建立后, 膜厚不均匀性由 $\pm 2 . 5 4 \%$ 降低到 $\pm 1 . 2 3 \%$ , 并且在长时间的沉积过程中具有良好的稳定性, 为适用于 6 英寸 HgCdTe 分子束外延生长的束源炉设计及
+
+制造提供了坚实的理论基础。
+
+表 3 优化蒸发口参数长时间镀膜仿真结果  
+
+<table><tr><td>变量名称(单位)</td><td>沉积2min</td><td>沉积30min</td><td>沉积60min</td></tr><tr><td>最大膜厚/nm</td><td>303</td><td>4520</td><td>9040</td></tr><tr><td>最小膜厚/nm</td><td>288</td><td>4410</td><td>8829</td></tr><tr><td>最大束流强度/(1E-5Torr)</td><td>7.58</td><td>7.58</td><td>7.58</td></tr><tr><td>最小束流强度/(1E-5Torr)</td><td>2.26</td><td>2.26</td><td>2.26</td></tr><tr><td>膜厚不均匀性/%</td><td>±2.54</td><td>±1.23</td><td>±1.23</td></tr></table>
+
+![](images/264805da9b92b504ea9f94603ce3cde441cf306cefc037fdd5ecc238727cfcef.jpg)  
+（a)
+
+![](images/c47b8a0d5e872e2ccdcae8975ead295a8e3e5be41e01ae62058f6d4e34c3c2b7.jpg)
+
+![](images/4131ab66fb2b47a8792dd9f7deab8aaa222ef29ff0dcc90805db3d2bae12abb0.jpg)
+
+![](images/e7a37ec13ddbbc6a30080f47353b3a5aaa9c343b9ad14609d1d4c598feaf9e68.jpg)
+
+![](images/848bd7b080bde9e2a102735d72622154d8fffc2d0b0ed304370e33a7dd48ef6e.jpg)
+
+![](images/325a81234f3078416819e279b135d3f49995035a1ca124e49f00016f29293549.jpg)  
+图 5 稳态束流在6 英寸衬底表面沉积(a) $2 \mathrm { m i n }$ ; (b) $3 0 \mathrm { { m i n } }$ ; (c) $6 0 \mathrm { { m i n } }$
+
+基于前期的分析与仿真成果, 本研究将其应用于国产6英寸 $\mathrm { H g C d T e }$ 分子束外延生长系统, 成功制备出高质量的 $\mathrm { H g C d T e }$ 单晶薄膜。利用高分辨双晶XRD测量其半峰宽(FWHM), 沿 $X$ 轴和Y 轴分别选取 13 个测试点, 以系统评估薄膜的结晶质量与均匀性。图 6 为高分辨双晶 XRD 测量结果及均匀性分
+
+布图。
+
+测试结果显示, $X$ 方向的 FWHM 介于$9 8 \sim 1 0 2 $ arcsec 之间, Y 方向介于 $9 8 \sim 1 0 3$ arcsec 之间, 整体数值较低且波动较小, 表明薄膜结晶质量优异、分布均匀。特别是在晶圆中心(Wafer Distance $= 0 \ \mathrm { m m }$ )处, $X$ 和 Y方向的 FWHM 均达到最小值(98 arcsec), 显示出最佳的晶体完整性。随着测试点向边缘移动, FWHM 值略有上升, 但仍维持在较低水平, 说明 6 英寸晶圆范围内薄膜质量一致性良好。该结果验证了分子束外延系统中汞束源炉在 HgCdTe 材料生长中具备良好的工艺稳定性。
+
+![](images/d1e98a51fb91c5285f609446c7dd517df09caa939a9267849cdc360072f7fec9.jpg)  
+图 6 高分辨双晶XRD 测量结果及均匀性分布图
+
+# 3 结论
+
+本文从分子束外延系统中束源炉的束流产生及喷射分布的原理出发, 简述了束流的产生及分布的计算过程, 针对其中影响束流分布的源炉结构参数进行分析, 明确了优化方向。利用多物理场仿真软件COMSOL 构建 6 英寸分子束外延设备沉积模型, 首次开展了 $\mathrm { H g }$ 束源炉束流仿真, 并利用其中分子流模块对不同坩埚直径、不同开口角度及不同开口孔径的蒸发口钽罩出射束流的膜厚均匀性进行仿真分析, 发现当分子束流恰好覆盖 6 英寸衬底表面时具有更好的膜厚均匀性, 同时蒸发口的孔径与束流大小呈正相关关系, 膜厚均匀性则表现为先改善后恶化的非单调变化。与同类研究相比, 本研究聚焦 6英寸大尺寸衬底, 通过结构参数精细化优化实现膜厚不均匀性 $\leq \pm 1 . 2 3 \%$ , 且明确了“束流恰好覆盖衬底表面”的关键调控机制, 在尺寸适配性与均匀性指标上均有提升。最终通过结构参数的优化, 成功实现了 6 英寸衬底上沉积膜厚不均匀性 $\leq \pm 1 . 2 3 \%$ 的高稳定性、高均匀性 $\mathrm { H g }$ 束源炉设计, 能够较好地满
+
+足目前科研机构或生产企业对 6 英寸分子束外延设备的需求, 为大尺寸碲镉汞分子束外延系统的设计和优化实现提供了思路及理论基础。本研究基于国产热蒸发式 $\mathrm { H g }$ 源炉设计, 在设备成本更低的前提下达到更优的均匀性, 更贴合国内产业化需求。本研究为国产6 英寸热蒸发式 $\mathrm { H g }$ 源炉的结构优化提供了专属理论方案, 填补了国内大尺寸碲镉汞外延设备源炉仿真优化的技术空白。
+
+# 参考文献:
+
+[1] Lei W, Antoszewski J, Faraone O. Progress, challenges, and opportunities for HgCdTe infrared materials and detectors [J]. Applied Physics Reviews, 2015, 2(4): 041303.   
+[2] Wang X, Wang M, Liao Y, et al. Molecular-beam epitaxy-grown HgCdTe infrared detector: Material physics, structure design, and device fabrication [J]. Science China Physics, Mechanics & Astronomy, 2023, 66(3): 237302.   
+[3] 赵俊, 王晓璇, 李雄军, 等. 碲镉汞红外探测器研究进展[J]. 中国科学: 技术科学, 2023, 53(9): 1 419–1 433.  
+[4] 折伟林, 邢晓帅, 邢伟荣, 等. 中国电科 11 所碲镉汞薄膜材料制备技术进展[J]. 激光与红外, 2024, 54(4): 483–494.  
+[5] 陈峰武, 吕文利, 龚欣, 等. 分子束外延设备国内外进展及展望[J]. 人工晶体学报, 2024, 53(9): 1 494–1 503.  
+[6] 李震, 王丹, 邢伟荣, 等. 分子束外延中波/中波双色 HgCdTe 材料研究[J]. 红外, 2024, 45(9): 1–6.  
+[7] 李震, 王丹, 姜梦佳, 等. 基于分子束外延的 6 in 短波硅基碲镉汞材料的表面缺陷研究[J]. 红外, 2025, 46(5): 11–16.  
+[8] 陶先童, 段莹瑞, 李壮壮, 等. 束源炉结构及布局对分子束外延薄膜材料均匀性影响的仿真[J]. 真空科学与技术学报, 2025, 45(6): 461–468.  
+[9] 张国政, 周元枝, 柯伟. 对称式夹具体结构设计的多件装夹方法应用研究[J]. 湖南文理学院学报(自然科学版),2023, 35(3): 44–47.  
+[10] 戴甜杰. 内置方钢管高强再生混凝土叠合柱轴压性能有限元分析[J]. 湖南文理学院学报(自然科学版), 2023, 35(4):73–78.  
+[11] Knudsen M. Die Gesetze der Molekularströmung und der inneren Reibungsströmung der Gase durch Röhren [J]. Annalen der Physik, 1909, 333(1): 75–130.
+
+(责任编校: 郭冬生)
+
+# (上接第 55 页)
+
+[9] 刘先文. 特高压直流输电系统换流变压器故障分析与保护[J]. 电力设备管理, 2024(23): 9–11.  
+[10] 祝金金, 蔡孝文, 饶雄文, 等. 某直流逆变站两起线路再启动事件过程分析[J]. 电工技术, 2024(22): 214–216.  
+[11] 罗隆福, 付颖, 李勇, 等. 直流输电控制器原理及稳态特性分析[J]. 电力自动化设备, 2009, 29(1): 65–69  
+[12] 张汝莲, 赵成勇, 卫鹏杰. 直流馈入后交流线路故障对换相失败瞬态特征的影响[J]. 电力自动化设备, 2011, 31(7):82–87．  
+[13] 张健康, 索南加乐, 何方明, 等. 交直流混联电网工频变化量距离保护动作特性分析[J]. 电力系统自动化, 2013,37(4): 98–103  
+[14] YANG Z, JIA K, FANG Y, et al. High-frequency fault component-based distance protection for large renewable power plants [J]. IEEE Transactions on Power Electronics, 2020, 35(10): 10 352–10 362.   
+[15] 张保会, 尹项根. 电力系统继电保护[M]. 北京: 中国电力出版社, 2005: 52–58.  
+[16] 孙士云. 交直流电力系统中重合时序问题研究[D]. 哈尔滨: 哈尔滨工业大学, 2011  
+[17] 束洪春, 孙士云, 刘可真, 等. 换流站近端交流输电线路重合时序问题研究[J]. 中国电机工程学报, 2012, 32(7):114–123, 199.  
+[18] 刘俊磊, 王钢, 李海峰, 等. HVDC系统换相失败对交流电网继电保护影响的机理分析[J]. 中国电机工程学报, 2013,33(19): 111–118, 13.
+
+(责任编校: 张红)

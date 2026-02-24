@@ -1,0 +1,28 @@
+# 参考文献：
+
+[1] 王国宝, 曾自强, 朱志斌, 等. CIAE 直线加速器技术的创新发展[J]. 原子能科学技术, 2020, 54(增刊): 293-302. WANG Guobao, ZENG Ziqiang, ZHU Zhibin, et al. Innovation and development of CIAE linear accelerator technology[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 293-302(in Chinese).   
+[2] 本刊记者. 毛主席革命科技路线的一曲凯歌——北京市医用电子直线加速器建成[J]. 现代物理知识, 1977, 2(1): 10-11.  
+[3] 顾本广, 林郁正, 童德春. BF-5辐照电子直线加速器的主要技术特性[J]. 原子能科学技术, 1986, 20(6): 665-669. GU Benguang, LIN Yuzheng, TONG Dechun. Performance characteristics of BF-5 linac for radiation processing[J]. Atomic Energy Science and Technology, 1986, 20(6): 665-669(in Chinese).  
+[4] 杨京鹤, 王国宝, 王修龙, 等. 原子能院电子直线加速器技术的研究与应用[J]. 真空电子技术, 2021, 34(1): 11-13. YANG Jinghe, WANG Guobao, WANG Xiulong, et al. Research and application of electron linear accelerator technology at CIAE[J]. Vacuum Electronics, 2021, 34(1): 11-13(in Chinese).  
+[5] 杨誉, 朱志斌, 吴青峰, 等. $10 \mathrm{MeV} / 50 \mathrm{kW}$ 脊型加速器输入耦合器的研制[J]. 原子能科学技术, 2021, 55(3): 555-560. YANG Yu, ZHU Zhibin, WU Qingfeng, et al. Development of input coupler for $10 \mathrm{MeV} / 50 \mathrm{kW}$ Ridgetron accelerator[J]. Atomic Energy Science and Technology, 2021, 55(3): 555-560(in Chinese).  
+[6] 张立锋, 杨圣, 刘保杰, 等. 多能量档电子直线加速器用栅控电子枪电源研究[J]. 原子能科学技术, 2018, 52(12): 2302-2307. ZHANG Lifeng, YANG Sheng, LIU Baojie, et al. Study on power supply for grid-controlled electron gun of mul
+
+ti-energy electron linac[J]. Atomic Energy Science and Technology, 2018, 52(12): 2302-2307(in Chinese).   
+[7] 杨京鹤, 余国龙, 佟迅华, 等. 基于电子直线加速器的空间电子环境地面模拟用电子源设计与实现[J]. 原子能科学技术, 2022, 56(9): 1794-1800. YANG Jinghe, YU Guolong, TONG Xunhua, et al. Design and implementation of electron linear accelerator for ground simulation facility of space electronic environment[J]. Atomic Energy Science and Technology, 2022, 56(9): 1794-1800(in Chinese).   
+[8] 王常强, 向益淮, 李金海, 等. 地面模拟空间电子环境束流均匀化设计[J]. 核技术, 2020, 43(12): 120201. WANG Changqiang, XIANG Yihuai, LI Jinhai, et al. Design of beam homogenization for ground simulation of space electron environment[J]. Nuclear Techniques, 2020, 43(12): 120201(in Chinese).   
+[9] 杨誉, 杨京鹤, 韩广文, 等. keV/MeV 能量可切换加速结构设计与调配[J]. 原子能科学技术, 2022, 56(增刊): 279-286. YANG Yu, YANG Jinghe, HAN Guangwen, et al. Design and deployment of keV/MeV energy switchable acceleration structure[J]. Atomic Energy Science and Technology, 2022, 56(Suppl.): 279-286(in Chinese).   
+[10] 杨京鹤, 杨誉, 王常强, 等. X波段6MeV射频直线加速管的研究与开发[J]. 原子能科学技术, 2021, 55(增刊): 435-439. YANG Jinghe, YANG Yu, WANG Changqiang, et al. Research and development of X-band 6 MeV RF linear accelerator[J]. Atomic Energy Science and Technology, 2021, 55(Suppl.): 435-439(in Chinese).  
+[11] 杨誉, 杨京鹤, 余国龙, 等. C 波段 6 MeV 轴耦合驻波加速管的研制[J]. 原子能科学技术, 2022, 56(12): 2773-2779. YANG Yu, YANG Jinghe, YU Guolong, et al. Development of C-band 6 MeV on-axis coupled standing wave accelerating tube[J]. Atomic Energy Science and Technology, 2022, 56(12): 2773-2779(in Chinese).   
+[12] 李诗琳, 杨京鹤, 范雨轩, 等. C波段9MeV小焦点驻波电子直线加速结构设计[J].原子能科学技术, 2025, 59(1):213-219. LI Shilin, YANG Jinghe, FAN Yuxuan, et al. Design of C-band 9 MeV small focus standing wave electron linear accelerating structure[J]. Atomic Energy Science and Technology, 2025, 59(1):213-219(in Chinese).   
+[13] 杨誉, 杨京鹤, 王常强, 等. 应用型电子直线加速器用 C 波段大功率速调管物理设计[J]. 原子能科学技术, 2023, 57(增刊): 289-296.
+
+YANG Yu, YANG Jinghe, WANG Changqiang, et al. Research and development of C-band high-power klystron for applied electron linear accelerator[J]. Atomic Energy Science and Technology, 2023, 57(Suppl.): 289-296(in Chinese).   
+[14] 杨誉, 杨京鹤, 王常强, 等. 应用型电子直线加速器用 C 波段大功率速调管研究与开发[J]. 原子能科学技术, 2024, 58(增刊): 167-173. YANG Yu, YANG Jinghe, WANG Changqiang, et al. Research and development of C-band high-power klystron for applied electron linear accelerator[J]. Atomic Energy Science and Technology, 2024, 58(Suppl.): 167-173(in Chinese).  
+[15] IEC 62976:2017 Industrial non-destructive testing equipment-electron linear accelerator[S]. Geneva: IEC, 2017.   
+[16] 李金海, 李智慧. 常温 CH-DTL 射频仿真计算[C]/中国核学会. 中国核科学技术进展报告 (第四卷)——中国
+
+核学会2015年学术年会论文集第7册(计算物理分卷、核物理分卷、粒子加速器分卷、核聚变与等离子体物理分卷、脉冲功率技术及其应用分卷、辐射物理分卷).北京：中国原子能出版社，2015.  
+[17] 秦成, 朱志斌, 杨誉, 等. $325\mathrm{MHz}$ 高功率波导窗设计研究[J]. 原子能科学技术, 2020, 54(5): 870-875.  
+QIN Cheng, ZHU Zhibin, YANG Yu, et al. Design of 325 MHz high power RF window[J]. Atomic Energy Science and Technology, 2020, 54(5): 870-875(in Chinese).   
+[18] 王常强, 杨京鹤, 杨誉, 等. 强流质子直线加速器低能输运线束流动力学研究[J]. 原子能科学技术, 2025, 59(2): 487-493.  
+WANG Changqiang, YANG Jinghe, YANG Yu, et al. Study on flow mechanics of low energy transport beam in intense proton linear accelerator[J]. Atomic Energy Science and Technology, 2025, 59(2): 487-493(in Chinese).

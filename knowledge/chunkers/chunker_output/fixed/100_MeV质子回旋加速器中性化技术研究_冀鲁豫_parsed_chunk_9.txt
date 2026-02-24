@@ -1,0 +1,19 @@
+密度 t：
+
+$$
+t = \int_ {0} ^ {L} n \mathrm {d} x \tag {1}
+$$
+
+其中， $L$ 为距离。对于氢的中性化，已知 $\mathrm { H } ^ { + }$ 、 $\mathrm { H } ^ { 0 }$ 和$\mathrm { H } ^ { - } \ 3$ 种电荷态初始束流成分占比分别为 $F _ { 1 } , F _ { 0 }$ $F _ { 0 }$ 和$F _ { - 1 }$ ，以及电荷转移碰撞截面。则可通过微分方程组计算束流成分随靶分子数线密度的变化[10]：
+
+$$
+\left\{ \begin{array}{l} \frac {\mathrm {d} F _ {0}}{\mathrm {d} t} = \sigma_ {1 0} F _ {1} - \left(\sigma_ {0 1} + \sigma_ {0 - 1}\right) F _ {0} + \sigma_ {- 1 0} F _ {- 1} \\ \frac {\mathrm {d} F _ {1}}{\mathrm {d} t} = - \left(\sigma_ {1 0} + \sigma_ {1 - 1}\right) F _ {1} + \sigma_ {0 1} F _ {0} + \sigma_ {- 1 1} F _ {- 1} \\ \frac {\mathrm {d} F _ {- 1}}{\mathrm {d} t} = \sigma_ {1 - 1} F _ {1} + \sigma_ {0 - 1} F _ {0} - \left(\sigma_ {- 1 1} + \sigma_ {- 1 0}\right) F _ {- 1} \end{array} \right. \tag {2}
+$$
+
+且有：
+
+$$
+F _ {0} + F _ {1} + F _ {- 1} = 1 \tag {3}
+$$
+
+本方案中剥离膜材料选用碳，在高能量粒子与电荷转移靶碰撞的情况下，粒子与靶材料之间的电子获得截面几乎可忽略不计。因此，假定$\sigma _ { 0 - 1 } , \sigma _ { 1 0 }$ $\sigma _ { 1 0 }$ 和 $\sigma _ { 1 - 1 }$ 均为 0。对于 $1 0 0 \mathrm { M e

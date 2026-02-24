@@ -1,0 +1,26 @@
+# 核素分析的加速器质
+
+# 卢雪峰 1,2,3 武振坤 1,2 赵稳年 1,3 黄春海 1,3 李琳琅
+
+2（中国科学院地球环境研究所黄土与第四纪地质国家重点实验室 西安 710075）
+
+3（西安交通大学 西安 710049）
+
+台 3MV 的分析多核素的加速器质
+
+$^ { 2 6 } \mathrm { A l }$ ${ } ^ { 1 4 } C / { } ^ { 1 2 } C$ $0 . 2 \%$ $3 . 6 5 \times 1 0 ^ { - 1 5 } \mathrm { ~ o ~ }$
+
+$^ { 1 4 } \mathrm { C }$ 样品的 C 测量精度优于0.5%，可达 $^ { 1 2 9 } \mathrm { I }$ ％—0.3％，本文 $^ { 1 4 } \mathrm { C }$ 绍 Xi’an-AMS $0 . 5 \% ,$ 术特 $0 . 2 \%$ Be、 C、$1 0 ^ { - 1 5 }$
+
+${ } ^ { 1 2 9 } \mathrm { I }$
+
+# 四台产品[1,2]。与 JAERI[3]、L
+
+分析的专用 AMS 系统。为各自的特殊应用目的，
+
+![](images/c6a0e9ac33166f8eb2c39e5f0d76451f8ae17bfd0b2364fb5d5a30b655d9816b.jpg)
+
+表1 西安加速器质谱仪（Xi’an-AMS）的主要设备部件  
+Table 1 Main components of the Xi’an AMS   
+
+<table><tr><td>部件 Component</td><td>说明 Description</td></tr><tr><td>离子源</td><td>固体样品和 CO2共用的铯溅射负离子源</td></tr><tr><td>Ion source</td><td>Cs sputtering negative ion source accepting solid and CO2 samples</td></tr><tr><td>低能注入器</td><td>54°球形静电分析器(R=470mm)</td></tr><tr><td rowspan="5">Low energy Injector</td><td>54° spherical electrostatic analy

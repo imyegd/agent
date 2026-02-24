@@ -1,0 +1,8 @@
+5ff7b2e2b25e05052146ce13c9a0fd6c604062.jpg)  
+图9 BREU测试连接图
+
+表 1 调节测试表  
+
+<table><tr><td>设定值/mA</td><td>要求值/nA</td><td>测试值/nA</td></tr><tr><td>0</td><td>0 ± 0.1</td><td>0.0</td></tr><tr><td>4</td><td>0 ± 0.1</td><td>0.0</td></tr><tr><td>8</td><td>12.5 ± 0.1</td><td>12.53</td></tr><tr><td>12</td><td>25 ± 0.1</td><td>25.02</td></tr><tr><td>16</td><td>37.5 ± 0.1</td><td>37.53</td></tr><tr><td>20</td><td>50 ± 0.1</td><td>50.03</td></tr></table>
+
+由表1可以看出，所有测试结果均在允许的误差范围内，满足调节测试要求。

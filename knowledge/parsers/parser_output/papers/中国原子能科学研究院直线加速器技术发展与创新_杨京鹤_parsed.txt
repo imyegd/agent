@@ -1,0 +1,276 @@
+# 中国原子能科学研究院直线加速器技术发展与创新
+
+杨京鹤, 范雨轩, 朱志斌, 张立锋, 向益淮, 王国宝*
+
+（中国原子能科学研究院，北京 102413）
+
+摘要：直线加速器是核科学与技术应用的重要装置，中国原子能科学研究院(简称原子能院)自建院以来，已经历70余年的直线加速器技术的发展与创新，在加速器的多学科、多应用领域取得重要成果，并由此带动了我国核科学技术基础研究和应用技术的发展。本文在回顾直线加速器发展历程的基础上，重点阐述近十年原子能院围绕直线加速器的技术创新和应用拓展，梳理了原子能院电子直线加速器从固定型号的定型产品到能量可调、紧凑小型等系列化新型加速器的不断创新发展、强流质子直线加速器在多脉冲模式实验平台建设以及超导技术的突破，并进一步展望未来原子能院直线加速器的技术发展趋势以及战略发展方向，以期继续引领创新，满足新形势下国家核科技快速发展的需要。
+
+关键词：电子直线加速器；质子直线加速器；加速结构；加速器技术
+
+中图分类号：TL50
+
+文献标志码：A
+
+文章编号：1000-6931（2025）09-1958-10
+
+doi: 10.7538/yzk.2025.youxian.0503
+
+# Development and Innovation of Linear Accelerator in China Institute of Atomic Energy
+
+YANG Jinghe, FAN Yuxuan, ZHU Zhibin, ZHANG Lifeng, XIANG Yihuai, WANG Guobao*
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: The linear accelerator is a key technology of nuclear science and technology applications. Since its establishment, China Institute of Atomic Energy (CIAE) has been committed to the research and development of linear accelerator technology, and has a history of more than 70 years of innovative development. It has made great achievements and historic contributions to the multi-disciplinary and multi-application fields at CIAE, which has led to the progress of basic research and application technology of nuclear science and technology in China. After a review of the development history of linear accelerator, this paper focuses on the scientific and technological innovation and application of linear accelerator in the last 10 years. This paper has sorted out the continuous innovative development of the electron linear accelerator and high-intensity proton linear accelerator of CIAE. The electron linear accelerator has evolved from a standardized products to a series of new electron linear accelerators, such as adjustable energy electron linear accelerators and compact size electron linear
+
+accelerators. The high-intensity proton linear accelerator has broken through the construction of multipulse mode experimental platforms and superconducting technology. This paper further explores the future technological trends and strategic directions of the linear accelerator of CIAE, with the aim of continuing to lead innovation and meeting the urgent needs of the rapid development of national nuclear technology in the new era.
+
+Key words: electron linear accelerator; proton linear accelerator; accelerating structure; accelerator technology
+
+直线加速器作为核技术应用的核心装备，在物质结构与材料、核物理等科研领域以及工业无损检测、医疗灭菌、材料改性等应用领域具有不可替代的战略价值。作为我国核科学技术的发祥地，中国原子能科学研究院（简称原子能院）在直线加速器的研究、开发与应用领域发挥着至关重要的作用。从首台自主设计的 $30\mathrm{MeV}$ 电子直线加速器到型谱化的电子直线加速器研发体系以及强流质子直线加速器的技术创新发展，75年来，原子能院的直线加速器发展历程映射了我国核工业从实验室研究到产业化应用，从技术封锁到自主创新的完整轨迹。原子能院不仅推动了核技术的国防应用，更使“看不见的核技术”成为服务国民经济的重要力量。
+
+本文系统梳理原子能院电子直线加速器的研发进程、技术演进脉络与创新体系以及强流质子直线加速器的技术突破，揭示其对国家战略与民生发展的重大意义。
+
+# 1 原子能院电子直线加速器研发历程
+
+电子直线加速器是研究开发历史最早的加速器类型之一，通过电磁场在直线轨道上对带电粒子进行加速以达到所需的高能量。随着20世纪40年代后微波技术的快速发展，采用射频微波场加速电子的直线加速器在核科学与技术领域发挥了重要作用，性能上飞跃式发展，应用领域迅速拓展到高能物理科研和多种中低能应用。原子能院是我国中低能电子直线加速器的重要研发基地。从首台 $30\mathrm{MeV}$ 电子直线加速器的诞生，到 $10\mathrm{MeV} / 20\mathrm{kW}$ 高能大功率电子辐照加速器的工业化应用，再到无损检测加速器的海外出口，原子能院电子直线加速器的研发历程不仅是一部自力更生的创新史，更见证了我国核技术从依赖进口到全球输出的跨越。
+
+# 1.1 早期奠基
+
+原子能院电子直线加速器的研发始于20世纪50年代末的技术引进与消化吸收，于1963年成功研制出我国首台自主设计的 $30\mathrm{MeV}$ 电子直线加速器[1]，标志着我国迈入电子直线加速器自主研发的新阶段。这台加速器主要服务于基础科研与国防任务，包括中子物理研究和轻核反应实验，为后续应用型加速器开发奠定了技术基础。
+
+进入1970年代，我国创建电子直线加速器科技攻关会战组，集中清华大学、北京整流器厂、原子能院等40余个单位的力量开展电子直线加速器技术攻关。1977年成功开发出BJ-10和ZJ-10医用电子直线加速器[2]，1979年成功研制出首台专用于辐照的电子直线加速器[3]，这些成果标志着我国加速器从单纯科研仪器向工业化应用装备的转变，原子能院作为会战组成员推动了加速器技术向专业化应用领域的拓展。
+
+原子能院加速器技术的早期发展也是我国核科学技术的发展，我国通过引进、消化吸收部分国外技术，为自主研发奠定了基础。在这一时期，原子能院科研人员开始探索电子直线加速器的基本原理与技术路线，培养专业人才队伍，搭建基础实验设施。虽然技术水平与国际先进水平存在较大差距，但这些早期工作为后续发展积累了宝贵经验，是我国直线加速器事业从无到有的关键开端。
+
+# 1.2 自主研发
+
+20世纪80年代到90年代是我国电子直线加速器应用多元化的关键时期，国民经济的迅速发展推动各领域对应用型电子直线加速器的需求持续增长。20世纪80年代，中央对核科技工作提出“保军转民”方针，原子能院随之实施战略转移，开启了自主研发电子直线加速器的征程。针对国内工业、科研等领域对电子直线加速器的需求，
+
+在多个应用领域实现技术突破与国产化替代。
+
+1987年，原子能院研制成功国内首台S波段 $12\mathrm{MeV}$ 高能电子直线辐照加速器[1]，主要服务于半导体器件等材料辐照改性领域，实现了我国半导体器件性能的大幅度提升，这一成果成为工业辐照发展的里程碑节点。
+
+1989年成为我国工业检测领域的里程碑时刻——原子能院成功研制出国内首台4MeV无损检测S波段驻波电子直线加速器[1],填补了国内空白,打破了国外对相关装置的禁运封锁。该设备能够产生高能X射线检测大型结构件,在压力容器焊缝检测、大型铸件缺陷识别等领域具有不可替代的优势,迅速应用于武器制造、火箭发动机及核电设备等国家安全关键领域。
+
+此后数十年随着科研实力的增强，原子能院进一步推进电子直线加速器技术研发，攻克了栅控电子枪、高能辐照电子束均匀化等一大批技术难题，在提高加速器性能指标方面取得了重要突破，如提升电子束的能量稳定性、束流强度等。同时，不断拓展电子直线加速器的应用领域，开始涉足医疗、科研等更广泛的领域，推动相关学科的发展。
+
+# 1.3 应用发展
+
+21世纪后，随着核技术应用的迅速发展，原子能院电子直线加速器领域也面临新的机遇。通过在电子直线加速器的领域开展的大量创新性科研工作，原子能院实现了高能大功率电子直线加速器的产业化发展并推动了市场的国际化进程。
+
+21世纪初，国内 $10\mathrm{MeV}$ 电子辐照加速器尚不能满足工业化应用的经济性要求，随着工业辐照需求的激增，原子能院将研发重点转向高能大功率电子直线加速器的技术攻关。2007年，原子能院成功研制出了我国首台 $10\mathrm{MeV}$ 大功率高能电子辐照加速器，平均束流功率达到 $15\mathrm{kW}$ ，极大地提升了加速器工业化应用的经济性。2010年，在 $10\mathrm{MeV} / 15\mathrm{kW}$ 加速器样机的基础上，原子能院采用热屏蔽结构与可更换阴极提升电子枪寿命，开发出自适应冷却技术实现大功率高效散热，通过科技攻关与自主创新进一步提升加速器功率水平，成功研制出具有自主知识产权的 $10\mathrm{MeV} / 20\mathrm{kW}$ 高能大功率电子辐照加速器装置[4]。
+
+大功率加速器的成功研发显著提升了我国重
+
+要辐照装置的制造能力，并且迅速推进原子能院电子直线加速器的产业化进程。电子直线加速器灭菌具有可控性强、无核废物、环境友好等显著优势。相关企业纷纷开始引进原子能院大功率加速器，在给企业带来显著经济效益的同时推动了原子能院加速器产业化的快速发展。2015年高能大功率电子辐照加速器获国防科技工业军民融合发展产业先锋提名奖，2016年获国防科技进步一等奖。2019年该加速器成功实现科技成果转化，对促进核技术应用推广普及意义重大。
+
+# 2 原子能院型谱化电子直线加速器的创新发展技术体系
+
+近10年来，原子能院电子直线加速器的发展方向从固定型号的定型产品逐渐过渡到系列化自主研发的新型加速器，通过自主研发体系，坚持全链条创新，从基础加速器物理研究到工程实现的系统突破，形成了自主知识产权体系。原子能院通过加速器技术的发展与创新，实现加速器性能的提升和应用范围的拓展，推动了核技术应用的发展。
+
+# 2.1 大功率辐照电子直线加速器创新发展
+
+电子直线加速器在辐照杀菌领域发挥着极其重要的作用。用电子直线加速器产生的高能电子束照射可实现高效、无残留、非热力灭菌，具有绿色环保、无污染、效率高等优点，可广泛应用于消毒灭菌、材料改性和食品保鲜等领域。高能大功率电子直线加速器可大大缩短消毒灭菌时间，提升产线单位小时产出效能，创造更高经济效益。为发挥技术创新优势、不断推动高端产品研制与升级，原子能院完成了 $10\mathrm{MeV} / 50\mathrm{kW}$ 高能大功率电子辐照加速器研制工作[5]，采用双腔脊型加速结构的方案，先后突破了低发射度的强流微脉冲电子束形成、高稳定性强流电子束的双腔谐振加速、强流电子束的精确控制和高效率传输等关键技术，掌握了研发设计、关键设备研制、安装调试、稳定运行的加速器全流程研发工艺技术，为我国辐射加工装置的升级换代提供了重要技术支撑。双腔脊型加速器原理模型及 $10\mathrm{MeV} / 50\mathrm{kW}$ 高能大功率电子辐照加速器样机如图1所示。
+
+# 2.2 能量可调型电子直线加速器创新发展
+
+能量可调型电子直线加速器的核心价值在于
+
+单设备覆盖多场景需求，具有广泛的应用前景，例如在工业无损检测领域，能量可调型加速器可以进行复杂工件分层检测，通过输出不同能量电子束转换为X射线后实现透射成像，适应不同密度物质识别，提升缺陷识别灵敏度。原子能院针对能量可调型电子直线加速器广泛的应用需求开展了一系列研究。
+
+2019年12月，原子能院研制了高能电子直线加速器，在国内首次实现了“一机双束”，可提供 $10\mathrm{MeV} / 20\mathrm{kW}$ 和 $12\mathrm{MeV} / 5\mathrm{kW}$ 的电子束以及 $7.5\mathrm{MeV}$ 的X射线输出。该加速器的研制过程中发展了多能量加速管、束流分束输出、电子枪独立调节等[6]多项新技术，主要用于科研教学及射线应用技术研究，对提高我国核技术应用科研水平具有重要作用。
+
+2021年8月，原子能院成功研制出航天器部件充放电效应模拟电子加速器，提供能量 $1\sim 5\mathrm{MeV}$ 范围内的电子。针对宽能量范围电子束需求，综合能量开关调节、束流负载调节和输入功率调节等多种方法实现连续的能量调变[7]。通过能量开关结构改变轴向加速场，通过调节磁控管输出功率以及电子枪发射流强控制加速电场幅值，研究过程中还突破了能量调节、束流光学、束流测量、辐照均匀化等[8]关键技术，完成了具有能量调节范围广、束流强度低、调节范围大、辐照面积大、均匀性好等特点的电子直线加速器及辐射屏蔽系统的研制。该电子直线加速器提供覆盖中轨道(MEO,medium earth orbit)和静止轨道(GEO,geostationary earth orbit)最恶劣高能电子环
+
+境的高品质电子束，为我国卫星平台用部件或星上单机设备的电子器件的研发提供关键的抗辐射测试评估等技术支持，填补了该类装置的国内外空白。
+
+2022年，原子能院开发了keV/MeV能量可切换电子直线加速器，实现 $450\mathrm{keV}$ 、6MeV两档能量的切换输出[9]，能量开关模型及加速管腔链如图2所示。keV/MeV能量可切换电子直线加速器采用能量开关方案，通过边腔失谐方式调整选定的边耦合腔工作状态，从而使得失谐边耦合腔之后的加速腔轴向电场分布变化，达到大幅度改变束流输出能量的目的。研究过程中通过选择合适的腔链耦合方式并优化腔间耦合系数，降低能量切换时结构引起的工作频率变化；设计输入耦合器，良好兼顾能量切换前后的耦合度要求，减小甚至避免对功率源进行调节；优化确定适合两档能量的聚束段，保持弱电场加速起到一定的聚焦作用，实现两档均有较优的束流品质，可应用于医疗和检测领域。
+
+# 2.3 紧凑小型化电子直线加速器创新发展
+
+紧凑小型化电子直线加器凭借径向尺寸更小、体积更小、重量更轻的优势，能够实现应用场景的有效扩展。提高微波频率是实现紧凑小型化电子直线加速器的重要手段，原子能院开展了X波段、C波段系列化紧凑小型化电子直线加速器的研究。
+
+X波段加速结构能显著提高便携性，实现小型化，是电子直线加速器的重要发展方向之一，在无损检测、医疗等领域具有应用需求。
+
+![](images/40b20831286ef289587be3a908d3b108907d919ed54c7fd03732ac92a225f0cd.jpg)
+
+![](images/6d0811979a8f8319aaa2fa76e8d7bb4e4a986486e1a77eb3efea907855708980.jpg)  
+图1双腔脊型加速器原理模型(a)及 $10\mathrm{MeV} / 50\mathrm{kW}$ 高能大功率电子辐照加速器样机(b)  
+Fig. 1 Working principle of double cavity Ridgetron accelerator (a) and   
+prototype of $10\mathrm{MeV} / 50\mathrm{kW}$ high-energy high-power electron irradiation accelerator (b)
+
+![](images/d321ee1e3c6078a5bfdaead7caf7879dde5898bf4a88a65aec508200c1003597.jpg)
+
+![](images/60d163ec630c44d47002663a8e0af91cbeae4644c7b1527d4ebc65722d9d6f57.jpg)  
+图2边腔失谐棒模型(a)及 $\mathrm{keV / MeV}$ 能量可切换电子直线加速管腔链(b)  
+Fig. 2 Model of detuning bar inside-coupling cavity (a) and cavity chain of keV/MeV energy switchable accelerating tube (b)
+
+2021年，原子能院成功开发了X波段6MeV驻波加速管，通过高功率测试验证设计，奠定了高波段加速结构开发的工程实践基础[10]。X波段加速结构尺寸小，增加了物理设计、精密加工及调谐的难度。物理设计过程中，创新性地采用 $\alpha$ 函数结合包络曲线的方式，综合分析加速过程中射频聚焦力的变化，提升了物理设计的准确性和设计效率；加工过程中，由于X波段加速腔体
+
+对于直径尺寸变化的频率敏感度远大于S波段，因此通过精密加工工艺的突破实现粗糙度 $Ra \leqslant 0.05\mu \mathrm{m}$ ，获得高一致性的腔体；测试过程中开发了高精度、高稳定冷测系统，通过非谐振方法对精密加工后的加速管微波调谐，高精度地实现了设计的电场分布。X波段6MeV加速管 $\alpha$ 函数沿纵向 $z$ 的变化及X波段6MeV加速管样管如图3所示。
+
+![](images/54f22a948a7b80251102c0f7f65843b1e86091f54c683984f824f7c0c42b7af9.jpg)
+
+![](images/195365676fe23603152b4ef8d66babba0e1e79c4d9ba7e42094c8c9ee0283ea3.jpg)  
+图3X波段6MeV加速管 $\alpha$ 函数沿纵向的变化(a)及加速管样管(b)  
+Fig. 3 $\alpha$ function along longitudinal direction (a) and accelerating tube prototype (b) for X-band 6 MeV accelerating tube
+
+针对C波段紧凑型电子直线加速器，原子能院发展了小型化驻波加速器，实现了驻波加速器关键部件自主研发。
+
+2022年原子能院研发了C波段6MeV轴耦合驻波加速管，突破了高效聚束与高精度测试调配技术[11]。基于射频相位聚焦理论，在无外加磁场条件下，通过注入孔径大于束流孔径的首腔不对称设计减弱空间电荷力散焦，聚束腔浅锥深的鼻锥设计增强了聚束效果，最终实现C波段6MeV轴耦合驻波加速管加速过程中良好的纵向聚束和横向聚焦。C波段轴耦合驻波加速管的设计开发为无损检测等领域加速器的小型化提供相关技术
+
+积累。
+
+检测精度是高能X射线检测的主要性能评价指标，直线加速器X射线源的焦点尺寸对检测精度有着重要影响。为了实现加速器的小型化应用拓展、满足高分辨率无损检测对高性能加速器X射线源的需求，原子能院开展了C波段9MeV小焦点电子直线加速器的创新研究。通过非对称首腔抑制空间电荷效应、聚束腔相速度分布优化强化相位聚焦效果以及射频场型调整减弱非线性力散焦，实现横向强聚焦[12]，于2024年9月成功研制C波段9MeV无损检测加速器，将加速器焦点由传统的 $1\sim 2\mathrm{mm}$ 减小到 $0.5\mathrm{mm}$ ，大幅提升了
+
+检测精度，为无损检测领域所需的高分辨率加速器X射线源的研究与开发提供了技术路径，推动
+
+了无损检测技术高质量发展。C波段9MeV加速结构腔链模型及加速管样管如图4所示。
+
+![](images/32d9732e6bd3f06445f385c78b207eb12d4e995370adc03dece77fc931244857.jpg)  
+图4C波段9MeV加速结构腔链模型(a)及加速管样管(b)  
+Fig. 4 Whole tube cavity chain model for C-band $9\mathrm{MeV}$ accelerating cavity (a) and accelerating tube prototype (b)
+
+2024年原子能院研发了C波段高平均功率速调管，提出了一种低波动率的C波段速调管聚焦系统，改进了群聚-校正-收集法[13]，实现了较高注-波转换效率，缩短了速调管长度，达到了C波段 $3.5\mathrm{MW} / 7\mathrm{kW}$ 速调管的紧凑化研制目标[14]，使我国掌握了电子直线加速器小型化与紧凑化的关键技术，有力推动新一代大功率、小型化工业加速器发展。C波段高平均功率速调管高功率测试台架实物图及输出功率测试结果如图5所示。
+
+# 2.4 电子直线加速器标准体系建设
+
+原子能院在提升直线加速器技术性能的同时，积极推进标准体系建设。2013年原子能院启动工业无损检测加速器国际标准编制工作。在中核集团组织领导下，通过与各国专家充分交流协商以及核工业标准化研究所的积极协助，2017年5月原子能院牵头编制的《工业无损检测用电子直线加速器标准》发布[15]，这是我国在通用核仪器领域发布的首个国际标准，这项标准的生效改变了欧美主导标准体系的局面，为开拓国际市场奠定了技术基础，也为我国今后的国际标准制定工作起到了典型示范作用。
+
+2024年5月，国际标准化组织国际电工委员
+
+会宣布原子能院主导申报的国际标准项目——《直线加速器——辐射加工用电子直线加速器第一部分：一般要求及测试方法》成功立项，成为我国立项的首个辐射加工用电子直线加速器国际标准项目，对推动我国直线加速器创新研发、型谱化规模化发展，以及塑造中国品牌、增强直线加速器技术国际影响力具有深远影响。
+
+国际标准的制定直接推动了市场国际化进程，无损检测电子直线加速器、电子辐照直线加速器陆续出口土耳其、泰国等国家，标志原子能院电子直线加速器的国际影响力的巨大提升。
+
+# 3 原子能院强流质子直线加速器技术的创新发展
+
+强流质子直线加速器在物质结构与材料、核物理、辐射效应等方面具有重要的应用价值，是科学技术发展的重要方向。原子能院在质子直线加速器领域深耕多年，通过对多模式强流质子束的多项关键技术研究，提升和拓展了加速器的性能和应用范围，并提升其应用效率，后续推动核技术应用的发展。
+
+20世纪初原子能院牵头提出在我国开展强流
+
+![](images/5efc10a4aafccdae2a670620d85d91a8b510b604507dd49a75383937e2b25831.jpg)  
+a——高功率测试台架；b——C波段大功率速调管；c——测试结果  
+图5C波段高平均功率速调管高功率测试台架实物图及输出功率测试结果  
+Fig. 5 Diagram of high-power test bench and output power test result of C-band high-power klystron
+
+质子直线加速器驱动洁净能源研究。2002—2010年，由原子能院牵头负责两期973计划项目，完成了包括强流ECR离子源、低能束流传输系统和RFQ加速器主体的建造和整机调束。2013年，原子能院开展了强流束漂移管直线加速结构的设计[16]、加工及模型腔测试，研究掌握了强流脉冲质子直线加速器前端低能段DTL加速结构技术[17]。其后原子能院陆续开展975MHz耦合腔加速结构的设计及实验研究、射频耦合器和射频谐振控制技术研究、高功率射频功率源技术研究，为强流质子加速器加速结构的研制奠定了技术基础。
+
+2022年12月，原子能院建立了多模式强流质子直线加速器研究平台，突破了快斩波器和大压缩比聚束器技术[18]，首次实现 $400\mu \mathrm{s} / 50\mathrm{Hz}$ 、 $100\mathrm{ns}/$ $1\mathrm{MHz},10\mathrm{ns} / 1\mathrm{MHz}$ 多脉冲束流模式的引出，极大地提高了质子加速器应用的多样性和灵活性。多模式强流质子直线加速器研究平台如图6所示。
+
+![](images/c6fe3f333e464fb986e92f22d00245ee5d65ce97eaa6dcc462f6eb6436494234.jpg)  
+图6 多模式强流质子直线加速器研究平台  
+Fig. 6 Multimode intense proton beam linac research platform
+
+2023年，原子能院开展强流质子直线加速器超导加速段研究工作，开展了高功率输入耦合器设计、975MHz高占空比高品质因子超导腔物理以及加工工艺研究，指标优异，裸腔加工后的初步测试取得了良好的效果，扩展了质子超导腔的频
+
+率范围，推动我国超导技术以及加速器重大实验设施的创新发展。强流质子超导加速腔如图7所示。
+
+# 4 原子能院直线加速器技术未来展望
+
+# 4.1 技术发展趋势
+
+面向未来，原子能院以“高效化、多场景化、智能化”为核心，将直线加速器发展聚焦于更高功率、更高效率、小型化和便携化、智能化与精准化四大方向。
+
+# 1) 更高功率
+
+原子能院研制的S波段 $10\mathrm{MeV} / 20\mathrm{kW}$ 电子直线加速器是国内工程化加速器中应用最广泛的工业辐照电子直线加速器类型，取得了显著效益，通过技术研究与攻关进一步提升束流功率至 $40\mathrm{kW}$ 甚至更高是原子能院下一步发展的重要目标。原子能院还具有大功率电子加速器型谱化的自主研发能力，在 $10\mathrm{MeV} / 50\mathrm{kW}$ 高能大功率脊型腔电子辐照加速器研发基础上，一方面要开展产品化应用推广工作，满足商业化应用需求，另一方面在我国辐射加工装置的升级换代需求下研发下一代百千瓦量级电子辐照加速器。
+
+# 2）更高效率
+
+持续开展常温电子直线加速器高俘获效率、高功率效率研究，同时随着超导技术的成熟与成本降低，应用型超导电子直线加速器有望从实验室走向更广泛的应用场景。欧美等发达国家已纷纷布局新一代应用型超导加速器项目，我国开展应用型超导加速器研究可保障国家在相关领域的技术安全，提升科技创新影响力，并为民生、工业和能源等领域服务。
+
+# 3) 小型化和便携化
+
+便携式电子直线加速器具有灵活性、低功耗
+
+![](images/31ca484c10c534a6b65cc1d32125876f349f17eff29e2acdd676a71188a6a843.jpg)  
+图7 强流质子超导加速腔  
+Fig. 7 Intense proton beam superconducting cavity
+
+和快速部署等特点，其核心价值在于突破传统大型设备的空间限制，随着高波段射频功率源等技术的突破，发展高梯度X波段及Ku波段手提箱式小型化便携式加速器，满足特殊场景的应用需求。
+
+# 4) 智能化与精准化
+
+人工智能(AI)技术等智能算法正深刻变革医疗、工业及科研领域的加速器技术，发展AI技术与电子直线加速器的结合，在束流控制、故障诊断、设备运维等全链条环节实现AI技术的应用，显著提升加速器的精度、效率与安全性，实现性能突破与应用场景拓展。
+
+# 4.2 战略发展方向
+
+在应用型加速器市场上，原子能院具有完整的自主研发能力体系，可根据需求设计开发相应直线加速器装备，将直线加速器应用到更广阔的领域。面对全球核技术产业的万亿美元市场，原子能院将实施如下发展策略。
+
+# 1）新兴应用拓展
+
+通过直线加速器技术的创新发展，满足新兴应用产业的加速器装置要求，拓宽应用领域范围，如零碳农业采用辐照杀虫技术替代化学熏蒸、环保治理通过电子束处理工业废水实现难降解污染物高效去除以及中药材辐照灭菌、高原及草原特色农产品辐照保鲜等。
+
+# 2）技术输出
+
+依托国家加速器发展战略规划和“一带一路”布局，推动直线加速器出口。
+
+# 3）标准延伸
+
+在无损检测加速器国际标准基础上，主导制定多项直线加速器国际标准，提升国际影响力。
+
+# 4）产业链整合
+
+构建“核心部件-整机制造-应用服务”全产业链，提升市场竞争力。
+
+# 4.3 发展挑战与建议
+
+原子能院直线加速器技术已在国家安全、工业、医学、核科学技术、空间科学等领域得到了广泛应用，并产生了一定的经济效益和社会效益。随着我国迈向高质量发展新阶段，直线加速器技术和产品在国民经济和人民健康领域将会有更加广阔的应用市场，原子能院的直线加速器产业化规模和水平亟待提升，直线加速器技术在发展过
+
+程中存在的主要问题和挑战如下。
+
+# 1) 政策支持力度需加强
+
+高性能直线加速器研发依赖长期稳定投入，应进一步加强政策支持与激励等，加快直线加速器产业化推进，提升技术转化速度。
+
+# 2）部分关键部件依赖进口
+
+直线加速器的核心技术与供应链尚未完全自主，部分医疗和工业加速器的核心部件仍依赖进口，影响技术自主创新和产品性能提升。
+
+# 3）专业人才缺口
+
+直线加速器设计、制造、运维等需要复合型人才，涵盖物理、工程、医学等多领域，国内加速器人才培养体系不尽完善，专业人才供给不足。
+
+立足当下，面对机遇和挑战，本文提出以下的发展建议：1）政策与市场资本协同，争取社会资本参与加速器研发建设，对重点发展方向和领域给予全方位扶持，强化核技术应用领域的研究基础和先进技术开发与储备基础，以需求带发展；2）技术自主创新，围绕加速器优势产业方向及未来加速器发展学科方向和产业领域，加大加速器核心技术与部件研发投入，因地制宜地延伸产业链，确保核心部件的供应保障；3）深入实施新时代人才强国战略，强化联合培养机制，加大研究所与高校、高校与企业、研究所与企业的人才间相互交流，全方位培养、引进、用好人才，“出成果”和“出人才”并重。
+
+在全面建设核工业强国的历史性阶段，原子能院当以国家战略需求为导向，集聚力量进行直线加速器技术引领性科技攻关，助力国家核科技高质量发展。
+
+# 5 总结
+
+回首过去，原子能院电子直线加速器的70余年发展，是一条从“器”到“产”的跃升之路。从首台30MeV实验装置，到主导国际标准的直线加速器装备，原子能院已形成了完整的直线加速器研制、开发、生产体系，具备研制从电子到质子、从低能到中高能的直线加速器的能力，其技术演进不仅满足了国家战略需求，也推动了核技术服务国民经济发展。
+
+展望未来，作为我国直线加速器技术研发的中坚力量，原子能院将继续贯彻习近平总书记关
+
+于核工业一系列重要指示批示精神，坚持“四个面向”，全面提升原始创新能力，加快核心关键技术和瓶颈短板技术攻关，大力发展具有核工业特色的先进直线加速器重大研究设施与装备，推动先进直线加速器设计研发和运行的数字化智能化，以型谱化直线加速器装备推动加速器技术在国家安全、工业、医疗等重点领域的应用，全面持续创新发展，使“看不见的核技术”赋能“看得见的生活”。
+
+# 参考文献：
+
+[1] 王国宝, 曾自强, 朱志斌, 等. CIAE 直线加速器技术的创新发展[J]. 原子能科学技术, 2020, 54(增刊): 293-302. WANG Guobao, ZENG Ziqiang, ZHU Zhibin, et al. Innovation and development of CIAE linear accelerator technology[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 293-302(in Chinese).   
+[2] 本刊记者. 毛主席革命科技路线的一曲凯歌——北京市医用电子直线加速器建成[J]. 现代物理知识, 1977, 2(1): 10-11.  
+[3] 顾本广, 林郁正, 童德春. BF-5辐照电子直线加速器的主要技术特性[J]. 原子能科学技术, 1986, 20(6): 665-669. GU Benguang, LIN Yuzheng, TONG Dechun. Performance characteristics of BF-5 linac for radiation processing[J]. Atomic Energy Science and Technology, 1986, 20(6): 665-669(in Chinese).  
+[4] 杨京鹤, 王国宝, 王修龙, 等. 原子能院电子直线加速器技术的研究与应用[J]. 真空电子技术, 2021, 34(1): 11-13. YANG Jinghe, WANG Guobao, WANG Xiulong, et al. Research and application of electron linear accelerator technology at CIAE[J]. Vacuum Electronics, 2021, 34(1): 11-13(in Chinese).  
+[5] 杨誉, 朱志斌, 吴青峰, 等. $10 \mathrm{MeV} / 50 \mathrm{kW}$ 脊型加速器输入耦合器的研制[J]. 原子能科学技术, 2021, 55(3): 555-560. YANG Yu, ZHU Zhibin, WU Qingfeng, et al. Development of input coupler for $10 \mathrm{MeV} / 50 \mathrm{kW}$ Ridgetron accelerator[J]. Atomic Energy Science and Technology, 2021, 55(3): 555-560(in Chinese).  
+[6] 张立锋, 杨圣, 刘保杰, 等. 多能量档电子直线加速器用栅控电子枪电源研究[J]. 原子能科学技术, 2018, 52(12): 2302-2307. ZHANG Lifeng, YANG Sheng, LIU Baojie, et al. Study on power supply for grid-controlled electron gun of mul
+
+ti-energy electron linac[J]. Atomic Energy Science and Technology, 2018, 52(12): 2302-2307(in Chinese).   
+[7] 杨京鹤, 余国龙, 佟迅华, 等. 基于电子直线加速器的空间电子环境地面模拟用电子源设计与实现[J]. 原子能科学技术, 2022, 56(9): 1794-1800. YANG Jinghe, YU Guolong, TONG Xunhua, et al. Design and implementation of electron linear accelerator for ground simulation facility of space electronic environment[J]. Atomic Energy Science and Technology, 2022, 56(9): 1794-1800(in Chinese).   
+[8] 王常强, 向益淮, 李金海, 等. 地面模拟空间电子环境束流均匀化设计[J]. 核技术, 2020, 43(12): 120201. WANG Changqiang, XIANG Yihuai, LI Jinhai, et al. Design of beam homogenization for ground simulation of space electron environment[J]. Nuclear Techniques, 2020, 43(12): 120201(in Chinese).   
+[9] 杨誉, 杨京鹤, 韩广文, 等. keV/MeV 能量可切换加速结构设计与调配[J]. 原子能科学技术, 2022, 56(增刊): 279-286. YANG Yu, YANG Jinghe, HAN Guangwen, et al. Design and deployment of keV/MeV energy switchable acceleration structure[J]. Atomic Energy Science and Technology, 2022, 56(Suppl.): 279-286(in Chinese).   
+[10] 杨京鹤, 杨誉, 王常强, 等. X波段6MeV射频直线加速管的研究与开发[J]. 原子能科学技术, 2021, 55(增刊): 435-439. YANG Jinghe, YANG Yu, WANG Changqiang, et al. Research and development of X-band 6 MeV RF linear accelerator[J]. Atomic Energy Science and Technology, 2021, 55(Suppl.): 435-439(in Chinese).  
+[11] 杨誉, 杨京鹤, 余国龙, 等. C 波段 6 MeV 轴耦合驻波加速管的研制[J]. 原子能科学技术, 2022, 56(12): 2773-2779. YANG Yu, YANG Jinghe, YU Guolong, et al. Development of C-band 6 MeV on-axis coupled standing wave accelerating tube[J]. Atomic Energy Science and Technology, 2022, 56(12): 2773-2779(in Chinese).   
+[12] 李诗琳, 杨京鹤, 范雨轩, 等. C波段9MeV小焦点驻波电子直线加速结构设计[J].原子能科学技术, 2025, 59(1):213-219. LI Shilin, YANG Jinghe, FAN Yuxuan, et al. Design of C-band 9 MeV small focus standing wave electron linear accelerating structure[J]. Atomic Energy Science and Technology, 2025, 59(1):213-219(in Chinese).   
+[13] 杨誉, 杨京鹤, 王常强, 等. 应用型电子直线加速器用 C 波段大功率速调管物理设计[J]. 原子能科学技术, 2023, 57(增刊): 289-296.
+
+YANG Yu, YANG Jinghe, WANG Changqiang, et al. Research and development of C-band high-power klystron for applied electron linear accelerator[J]. Atomic Energy Science and Technology, 2023, 57(Suppl.): 289-296(in Chinese).   
+[14] 杨誉, 杨京鹤, 王常强, 等. 应用型电子直线加速器用 C 波段大功率速调管研究与开发[J]. 原子能科学技术, 2024, 58(增刊): 167-173. YANG Yu, YANG Jinghe, WANG Changqiang, et al. Research and development of C-band high-power klystron for applied electron linear accelerator[J]. Atomic Energy Science and Technology, 2024, 58(Suppl.): 167-173(in Chinese).  
+[15] IEC 62976:2017 Industrial non-destructive testing equipment-electron linear accelerator[S]. Geneva: IEC, 2017.   
+[16] 李金海, 李智慧. 常温 CH-DTL 射频仿真计算[C]/中国核学会. 中国核科学技术进展报告 (第四卷)——中国
+
+核学会2015年学术年会论文集第7册(计算物理分卷、核物理分卷、粒子加速器分卷、核聚变与等离子体物理分卷、脉冲功率技术及其应用分卷、辐射物理分卷).北京：中国原子能出版社，2015.  
+[17] 秦成, 朱志斌, 杨誉, 等. $325\mathrm{MHz}$ 高功率波导窗设计研究[J]. 原子能科学技术, 2020, 54(5): 870-875.  
+QIN Cheng, ZHU Zhibin, YANG Yu, et al. Design of 325 MHz high power RF window[J]. Atomic Energy Science and Technology, 2020, 54(5): 870-875(in Chinese).   
+[18] 王常强, 杨京鹤, 杨誉, 等. 强流质子直线加速器低能输运线束流动力学研究[J]. 原子能科学技术, 2025, 59(2): 487-493.  
+WANG Changqiang, YANG Jinghe, YANG Yu, et al. Study on flow mechanics of low energy transport beam in intense proton linear accelerator[J]. Atomic Energy Science and Technology, 2025, 59(2): 487-493(in Chinese).

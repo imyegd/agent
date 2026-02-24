@@ -1,0 +1,7 @@
+# 1.2  CT 扫描和计划设计
+
+# 1.2.1  标准辐照
+
+将2个装入真空密封袋的血袋模体放入辐照箱中，注入蒸馏水至 $1 2 ~ \mathrm { c m }$ 处。然后将辐照箱放置在二维电离室矩阵（德国IBA Dosimetry）上方，用大孔径 CT 模拟定位机（荷兰 Philips Medical Systems，型号：Brilliance Big Bore）扫描 $3 \mathrm { m m }$ 层厚的定位图像，导入 Monaco 系统（version 6.00.11）进行辐照计划设计。在定位图像上勾画血袋模体，作为临床靶区（clinical target volume，CTV），处方剂量为$2 5 \ \mathrm { G y }$ 。设计计划时，采用等中心前后对穿照射，等中心点位于水深 $4 \mathrm { \ c m }$ 处，射野为 $3 4 \mathrm { c m } \times 2 4 \mathrm { c m }$ ，
+
+加速器选择 Elekta Infinity，能量选择 6 MV，最大剂量率 $6 0 0 ~ \mathrm { M U / m i n

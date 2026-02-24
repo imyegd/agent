@@ -1,0 +1,11 @@
+三维包络方程
+
+$$
+\left\{ \begin{array}{l} \frac {\mathrm {d} ^ {2} r _ {x}}{\mathrm {d} z ^ {2}} + \left(k _ {x} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) r _ {x} - I _ {x} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) - \frac {\varepsilon_ {x} ^ {2}}{r _ {x} ^ {3}} = 0 \\ \frac {\mathrm {d} ^ {2} r _ {y}}{\mathrm {d} z ^ {2}} + \left(k _ {y} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) r _ {y} - I _ {y} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) - \frac {\varepsilon_ {y} ^ {2}}{r _ {y} ^ {3}} = 0 \\ \frac {\mathrm {d} ^ {2} r _ {z}}{\mathrm {d} z ^ {2}} + k _ {z} ^ {2} r _ {z} - I _ {z} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) - \frac {\varepsilon_ {z} ^ {2}}{r _ {z} ^ {3}} = 0 \end{array} \right. \tag {8}
+$$
+
+三维粒子运动方程
+
+$$
+\left\{ \begin{array}{l} \frac {\mathrm {d} ^ {2} x}{\mathrm {d} z ^ {2}} + \left(k _ {x} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) x - I _ {x} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) x = 0 \\ \frac {\mathrm {d} ^ {2} y}{\mathrm {d} z ^ {2}} + \left(k _ {y} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) y - I _ {y} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) y = 0 \\ \frac {\mathrm {d} ^ {2} \Delta z}{\mathrm {d} z ^ {2}} + k _ {z} ^ {2} \Delta z - I _ {z} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) \Delta z = 0 \end{array} \right. \tag {9}
+$$

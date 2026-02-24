@@ -1,0 +1,8 @@
+33.200132.   
+14 宋文龙, 李奉笑, 安康, 等. 高能工业CT电子直线加速器焦点测量方法与装置研制[J]. 光学学报, 2023, 43(23): 341–348.SONG Wenlong, LI Fengxiao, AN Kang, et al.Development of focus measurement method and devicefor high energy industrial CT electron LINAC[J]. ActaOptica, 2023, 43(23): 341–348.  
+15 牟启航, 李杰成, 柳淘, 等. X波段2 MeV小焦点加速器 研制及应用[J]. 原子核物理评论, 2024, 41(1): 418–425. MOU Qihang, LI Jiecheng, LIU Tao, et al. Development and application of X-band 2 MeV small focus accelerator [J]. Nuclear Physical Review, 2024, 41(1): 418–425.
+
+16 王爱涛, 孟超, 康达, 等. 2 MeV-X波段小焦点加速管的研制及应用[J]. 医疗装备, 2023, 36(3): 10–12+19.  
+WANG Aitao, MENG Chao, KANG Da, et al. Development and application of 2 MeV-X band small focus accelerator tube[J]. Medical Equipment, 2023, 36 (3): $1 0 ^ { - } 1 2 { + } 1 9$ .   
+17 李诗琳, 杨京鹤, 范雨轩, 等. C波段9 MeV小焦点驻波电子直线加速结构设计[J]. 原子能科学技术, 2025, 59(1): 213–219.  
+LI Shilin, YANG Jinghe, FAN Yuxuan, et al. Design of Cband 9 MeV small focus standing wave electron linear acceleration structure[J]. Atomic Energy Science and Technology, 2025,

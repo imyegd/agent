@@ -1,0 +1,4 @@
+amics study for the CYCIAE-100 cyclotron[J]. Nucl Instrum Methods Phys Res A, 2012, 676: 90-95.   
+[33] ZHANG T, WANG C, ZHONG J, et al. Investigation for the vertical focusing enhancement of compact cyclotron by asymmetrical shimming bar[J]. Nucl Instrum Methods Phys Res B, 2011, 269(24): 2968-2971.   
+[34] LI M, ZHONG J, CUI T, et al. Application and development of a method to shim the isochronous field in small cyclotrons[J]. IEEE Transactions on Applied Superconductivity, 2016, 26(4): 4101504.   
+[35] Y

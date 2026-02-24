@@ -1,0 +1,5 @@
+MS 交替注入系统研制[J]. 原子能科学技术, 2000, 34(4): 296-301. YANG Bingfan, KAN Chaoxin, CUI Xinyi, et al. Development of the alternating injection system for AMS on the HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2000, 34(4): 296-301(in Chinese).   
+[88] 包轶文, 关遐令, 胡跃明, 等. AMS 专用高分辨注入器系统研制[J]. 原子能科学技术, 2008, 42(9): 254-256. BAO Yiwen, GUAN Xialing, HU Yueming, et al. Development of AMS special high resolution injector system[J]. Atomic Energy Science and Technology, 2008, 42(9): 254-256(in Chinese).   
+[89] LI Chaoli, HE Ming, ZHANG Wei, et al. AMS Measurement of $^{36}\mathrm{Cl}$ with a Q3D magnetic spectrometer at CIAE[J]. Plasma Science and Technology, 2012, 14(6): 543-547.   
+[90] 郑元丰,阮向东,何明,等.低能核反应产物 $^{26}\mathrm{Al}$ 的AMS测量方法研究[J].质谱学报,2003,24(1):295-297.ZHENG Yuanfeng,RUAN Xiangdong,HE Ming,etal.Study on the measurement method of $^{26}\mathrm{Al}$ by AMS[J].Journal of Chinese Mass Spectrometry Society,2003,24(1):295-297(in Chinese).   
+[91] 何明, 姜山, 蒋崧生, 等. 中国原子能科学研究院的 PX-AMS系统及其应用[M]//中国核科技报

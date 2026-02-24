@@ -1,0 +1,5 @@
+# 参考文献：
+
+[1] MAASS W. Networks of spiking neurons: The third generation of neural network models[J]. Neural Networks, 1997, 10(9): 1659-1671.   
+[2] VENKATESAN R, AGARWAL A, ROY K, et al. MACACO: Modeling and analysis of circuits for approximate computing [C] // Proceedings of the 2011 IEEE/ACM International Conference on Computer-Aided Design, 2011:667-673.   
+[3] ESHRAGHIAN J K, WARD M, NEFTCI E O, et al. Training spiking neural networks using lessons from deep learning[J]. Proceedings of the IEEE, 2023,

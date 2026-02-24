@@ -1,0 +1,4 @@
+yberknife的系统构成及临床应用［J］. 医疗卫 生装备, 2009, 30(4): 104-105, 107.   
+［30］宋会民. VSI射波刀圆形和Iris准直器的物理特性对比与分析［D］. 北京: 清华大学, 2016.  
+［31］ Biasi G, Petasecca M, Guatelli S, et al. CyberKnife® fixed cone and Iris™ defined small radiation fields: assessment with a high-resolution solid-state detector array［J］. J Appl Clin Med Phys, 2018, 19(5): 547-557.   
+［32］ Neupane T, Galanakou P, Shang C, et al. A novel Monte Carlo (MC) dose model for small MLC fields of the cyberknife® M 6TM radiosurgery system using the EGSnrc［J］.

@@ -1,0 +1,9 @@
+27a395919d0a5a5a804bf6ef1ab.jpg)  
+图14 考虑冲击磁铁和切割铁引入色散后200个误差种子产生的畸变校正后的水平(a)和垂直(b)轨道图（彩图见网络版）
+
+![](images/b886cac766287089e47e767b026bd8737a44bc45317a2909cfe2131d88d82db2.jpg)  
+Fig.14 Horizontal (a) and vertical (b) orbit distortion after orbit correction with 200 seeds with consideration of dispersion introduced by the kicker and septum (color online)
+
+![](images/3bc751de4bffc6afb06b03e95c4d19681b7da7be1d1423aa25ede7a68d5bad6e.jpg)  
+图15 考虑冲击磁铁和切割铁引入色散后的轨道畸变RMS校正后频度分布图 (a) 水平，(b) 垂直  
+Fig.15 Frequency dis

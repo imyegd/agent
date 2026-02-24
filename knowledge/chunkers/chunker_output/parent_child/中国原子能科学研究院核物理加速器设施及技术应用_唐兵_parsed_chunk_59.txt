@@ -1,0 +1,5 @@
+Yan, JIANG Weisheng, GUAN Xialing. Physical design of thick target producing radioactive nuclear beam[J]. Atomic Energy Science and Technology, 1998, 32(1): 39-43 (in Chinese).   
+[39] 崔保群, 秦久昌, 李立强, 等. 放射性核束靶源试验及应用装置[C]/2001全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2001: 94-99.  
+[40] 崔保群. keV 放射性核束系统中的几个重要问题研究 [D]. 北京: 中国原子能科学研究院, 2001.  
+[41] 彭朝华, 关遐令, 崔保群. HI-13 串列加速器升级工程在线同位素分离器高质量分辨谱仪物理设计[J]. 原子能科学技术, 2006, 40(2): 133-138.  
+PENG Zhaohua, GUAN Xialing, CUI Baoqun. Physical design of high mass resolution

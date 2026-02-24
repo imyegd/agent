@@ -1,0 +1,12 @@
+# 3.3 应用测试
+
+将该加速器芯片实际应用到汽车散热风扇上，如图12所示，散热风扇上配备了智芯半导体Z20M1343L硬件加速器模块的ASIC芯片。
+
+![](images/19802df9ceed2768621a6ab8d253dd5b9b25e32b83baa5e83195d447af29b917.jpg)
+
+![](images/a5f4e71ad7ca8c614b9d7d1f9a2541e2847e726d51dc224cb4fde26676a57832.jpg)  
+图12 汽车散热风扇测试图与加速器芯片实物图
+
+表5是对加速器模块输入输出关键信号的说明，Ctrl_run信号用于控制加速器模块开始工作；Motor_sel信号用于选择单个电机做计算或者两个电机自动交替工作；Machine_op是选择做普通数学运算或者FOC运算；Machine Decode表示普通运算的操作码或者FOC运算的操作码；Target_speed和Actual_speed表示当前电机的目标转速和实际转速；Common_value表示加速器做普通数学运算后的结果；Interrupt表示计算结束反馈以及计算错误反馈。
+
+表

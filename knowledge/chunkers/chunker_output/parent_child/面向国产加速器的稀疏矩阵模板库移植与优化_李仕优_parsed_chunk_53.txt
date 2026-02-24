@@ -1,0 +1,12 @@
+k 冲突率分别求平均值，得到的结果如表3 所示。两种共享内存数据重排算法可以将 bank 冲突率降低至 0%，完全消除 bank 冲突。
+
+![](images/f48b2968a9dad6649dc8faa0a2e6478e199b580fceb6ead9d6020b6f4a14c476.jpg)  
+图 11 消融实验
+
+表 3 优化前后 bank 冲突率对比
+
+Table 3 Comparison of bank conflict rate before and after optimization
+
+Fig.11 The ablation study   
+
+<table><tr><td rowspan="2">Data Type</td><td colspan="3">Original(%)</td><td rowspan="2">Optimized (%)</td></tr><tr><td>Max</td><td>Min</td><td>Average</td></tr><tr><td>TF32</td><td>24.36</td><td>7.38</td><td>19.43</td><td>0<

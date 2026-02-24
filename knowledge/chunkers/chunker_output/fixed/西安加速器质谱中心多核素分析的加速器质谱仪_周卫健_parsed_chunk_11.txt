@@ -1,0 +1,29 @@
+AMS 设备性能较好，各个样品座样
+
+品的 $\delta _ { \mathrm { j } }$ 相差不会太大， 所以我们不考虑权重
+
+令求得 $N$ 个样品座样品测量值的算术平均值为
+
+$$
+\bar {Y} = \frac {1}{N} \sum_ {1} ^ {N} \overline {{X _ {j}}} \quad (j = 1, 2, \dots \dots N)
+$$
+
+各个 holder 样品测量值相对于该算术平均值的标准偏差 $\sigma$ 为
+
+$$
+\sigma = \sqrt {\frac {\sum_ {1} ^ {N} \left(\bar {X _ {j}} - \bar {Y}\right) ^ {2}}{(N - 1)}} \quad (j = 1, 2, \dots \dots N)
+$$
+
+它们的相对标准偏差为
+
+$$
+\sigma_ {r e l a t i v e} = \frac {1}{\bar {Y}} \sqrt {\frac {\sum_ {1} ^ {N} \left(\bar {X _ {j}} - \bar {Y}\right) ^ {2}}{(N - 1)}} \quad (j = 1, 2, \dots \dots N)
+$$
+
+这就是要达到的精度验收指标，它表示 AMS测量相同样品的不确定性。文献表明，HVEE[3-5,17-19]和 NEC[21]公司的产品都采用了这一验收精度的方法。显然，所达到的验收精度是与 holder 数目有关的。
+
+# 2.3 影响 ${ } ^ { 1 0 } \mathrm { \mathbf { B } } \mathbf { e }$ 测量中的本底的因素
+
+任何产生具有足够能量的 $^ 7 \mathrm { B e }$ 、 $^ { 9 } \mathrm { { B e } }$ 、 $^ { 1 0 } \mathrm { { B e } }$ 的化学过程或物理(核反应)过程都将叠加到 $^ { 1 0 } \mathrm { { B e } }$ 的谱上形成本底干扰。根据文献[22]—[24]报道综述影响$^ { 1 0 } \mathrm { { B e } }$ 测量中的本底的因素如下：
+
+2.3.1 本底 ${ } ^ { 1 0 } \mathrm { B }$ 同量异位素 ${ } ^

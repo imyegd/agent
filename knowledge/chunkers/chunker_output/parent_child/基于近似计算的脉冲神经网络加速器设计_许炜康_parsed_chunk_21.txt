@@ -1,0 +1,16 @@
+# 算法1 最优近似加法器选择
+
+输入：候选近似加法器列表candidates。
+
+输出：最优近似加法器 optimalAdder。
+
+1. 设定AARE阈值AARE_threshold；  
+2. 初始化最优加法器 optimalAdder = null;  
+3. 初始化最小代价 $\minCost = \inf$   
+4. for adder in candidates:   
+5. if adder.AARE $<$ AARE_THRESHOLD:   
+6. 将该 adder 添加到满足阈值的候选列表 filteredCandidates 中；  
+7. max_AARE = max( adder. AARE for adder in filteredCandidates);   
+8. max\_power = max(adder.power for adder in filteredCandidates);   
+9. max_area = max(adder.area for adder in filteredCandidates);   
+10. for adder in filtered

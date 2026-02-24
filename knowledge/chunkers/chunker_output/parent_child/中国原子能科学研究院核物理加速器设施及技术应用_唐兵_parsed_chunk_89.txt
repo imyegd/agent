@@ -1,0 +1,5 @@
+[出版地不详]: [出版者不详], 2009.  
+[102] 沈洪涛, 姜山, 何明, 等. 基于 $\mathrm{SnF}_2$ 靶样的加速器质谱测量裂变产物 $^{126}\mathrm{Sn}$ 的方法研究[J]. 原子能科学技术, 2012, 46(2): 155-159.
+
+SHEN Hongtao, JIANG Shan, HE Ming, et al. Measurement of fission product nuclide $^{126}\mathrm{Sn}$ with accelerator mass spectrometry based on $\mathrm{SnF}_2$ target[J]. Atomic Energy Science and Technology, 2012, 46(2): 155-159(in Chinese).   
+[103] 蓝小浙, 阮向东, 何明, 等. AMS测量反应堆热中子 $^{78}\mathrm{Se}(\mathrm{n}, \gamma)^{79}\mathrm{Se}$ 反应截面的方法研究[C]//中国核科学技术进展报告(第三

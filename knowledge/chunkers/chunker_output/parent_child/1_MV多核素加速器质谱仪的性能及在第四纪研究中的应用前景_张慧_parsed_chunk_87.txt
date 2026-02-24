@@ -1,0 +1,3 @@
+# Abstrac
+
+TheInstituteofHydrogeologyandEnvironmentalGeology，ChineseAcademyofGeologicalSciences（IHEG CAGS）hascommissionedthefirst1MV multi-elementacceleratormassspectrometer（HVE4110Bo-AMS）within theMinistryofNaturalResourcesofChina．ThisAMSsystempossesseshighprecisionmeasurementcapabilitiesfo $^ { 1 4 } \mathrm { C }$ ， $^ { 1 0 } \mathrm { { B e } }$ e， $^ { 2 6 } \mathrm { A l }$ l， $^ { 4 1 } \mathrm { C a }$ a， ${ } ^ { 1 2 9 } \mathrm { I }$ Iand $\mathrm { P u }$ ．Acceptancetesthasshownthatitsperforman

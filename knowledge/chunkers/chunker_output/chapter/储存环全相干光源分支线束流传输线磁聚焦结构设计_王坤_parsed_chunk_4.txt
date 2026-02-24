@@ -1,0 +1,63 @@
+# 2 束流传输线轨道校正方案
+
+束流传输线磁铁元件的安装误差、磁场误差等各种误差，会引起束流轨道相对理想轨道产生畸变，畸变量取决于误差的大小和分布。不同的磁铁元件和误差类型对束流的影响不同，较大的轨道畸变将造成束流光学函数失配，降低传输效率，进而影响分支线输出辐射的稳定性。因此设计方案需要限定磁铁元件误差，对影响较大的误差进行分析和控制。方案同时使用轨道校正系统来校正传输线轨道，通过校正铁尽量降低轨道畸变，以此保障束流传输线和能量调制反调制段的稳定运行［13‒15］。储存环全相干光源束流传输线的轨道校正方案设计，主要对磁铁元件偏移和旋转等安装误差和磁场误差引起的轨道畸变做误差分析和轨道校正。常用的轨道校正方法有基于奇异值分解的响应矩阵方法［16‒18］ ，近年来已有文献研究了基于机器学习的轨道校正方法［19‒20］ ，与此紧密相关的电子束参数测量和诊断技术等也有新的进展［21‒23］。
+
+储存环全相干光源束流传输线采用基于响应矩阵和奇异值分解的轨道校正方案。通常响应矩阵中校正铁数目和束流位置探测器（Beam PositionMonitor，BPM）数目是不相等的，响应矩阵的逆矩阵需要通过奇异值分解求得伪逆矩阵。之后校正铁所需的校正量可由轨道畸变和响应矩阵的逆矩阵计算得出。最终校正量设置到相应的校正铁并实施轨道校正。轨道校正方案在相同的误差强度设置下，不同的误差种子对轨道校正的效果也不相同。因此在每个误差强度设置下，方案随机生成200个误差种子，基于AT编写程序进行轨道校正模拟计算。
+
+束流传输线共有水平垂直组合校正铁20块，BPM 21个。在分支线的束流传输线段，校正铁和BPM放置在 $\beta _ { y }$ 峰值处四极铁后的漂移节和部分 $\beta _ { x }$ 较大峰值处四极铁后的漂移节。在分支线的能量调制和反调制段，校正铁和BPM放置在 $\beta _ { y }$ 和 $\beta _ { x }$ 峰值处四极铁前后的漂移节。传输线轨道校正方案单独设置不同强度的磁铁元件各项误差强度，通过BPM测量获取当前轨道并与理想轨道进行对比分析。结果显示二极铁垂直方向偏移误差、四极铁水平和垂直方向偏移误差以及二极铁垂直方向旋转误差，引起的轨道畸变较大。因此，方案对上述类型误差设置了更为严格的限制。磁铁元件各项误差强度设置如表1所示。为了使轨道校正模拟更为接近实际情况，方案中设置的误差包含了表中所有误差类型。为了便于分析磁铁偏移误差、旋转误差和电源纹波的影响，方案此处误差设置不包含BPM读数误差和校正铁设置误差。传输线轨道校正方案在进行误差分析时，磁铁元件按设置的误差强度生成误差。在实际中如发现个别磁铁元件误差较大，则可通过准直和优化降低其误差，因此高斯分布的误差做了 $3 \sigma$ 截断。
+
+传输线束流校正方案按储存环束流参数及分支 线交接点处的束流光学参数，生成水平发射度为 1 nmrad，耦合度为0.01的初始粒子。方案在设置
+
+表1 磁铁元件误差强度设置  
+Table 1 Error strength of magnet   
+
+<table><tr><td>磁铁类型</td><td>误差类型</td><td>误差强度</td></tr><tr><td>Magnet type</td><td>Error type</td><td>Error strength</td></tr><tr><td>四极铁</td><td>Shift / mm</td><td>0.05</td></tr><tr><td>Quadrupole</td><td>Tilt / mrad</td><td>0.1</td></tr><tr><td></td><td>Current ripple / 10-6</td><td>100</td></tr><tr><td>二极铁</td><td>Shift / mm</td><td>0.1</td></tr><tr><td>Bend</td><td>Tilt / mrad</td><td>0.1</td></tr><tr><td></td><td>Current ripple / 10-6</td><td>100</td></tr></table>
+
+200个随机误差种子的各项误差后，进行粒子追踪模拟。之后方案分别读取BPM处的水平和垂直方向轨道数据并分析，得到轨道畸变RMS（Root MeanSquare）校正前的结果，如图3和图4所示。从图中可以看出，水平方向轨道畸变 $2 0 0 { \sim } 1 8 0 0 ~ { \mu } \mathrm { m }$ （均值$8 5 1 . 8 ~ \mu \mathrm { m }$ ，方差 $3 9 6 . 5 ~ \mu \mathrm { m } \lambda$ ），垂直方向轨道畸变 $5 0 0 \sim$ $4 5 0 0 \mu \mathrm { m }$ （均值 $1 6 9 8 . 9 \mu \mathrm { m }$ ，方差 $8 6 5 . 8 ~ \mu \mathrm { m } )$ ）。由此可见，在当前误差强度设置下，水平方向和垂直方向轨道均有较大扰动。
+
+![](images/eb466319d81d254135f6271fe3549c92cace7658001a4cd25d79d21e5562de8f.jpg)
+
+![](images/4173596e28a5ebc3708b93401729e4ca90804f7e726d3f4ca2f9ff0453028d11.jpg)  
+图3 轨道畸变RMS校正前频度分布图 (a) 水平，(b) 垂直 Fig.3 Frequency distribution of RMS orbit distortion before correction (a) Horizontal, (b) Vertical
+
+![](images/7ad2b44654fb7db09e81b12769c8bffc43cff1874a8b84f8dd208a0a3d00c9a0.jpg)
+
+![](images/54c44e6572fa331adb811250f964255c1299a548f2d8f8e8c4a40e8401526a46.jpg)  
+图4 轨道畸变RMS校正前轨道畸变分布图(a) 水平，(b) 垂直  
+Fig.4 Distribution of RMS orbit distortion before correction (a) Horizontal, (b) Vertical
+
+通过预先得到的响应矩阵进行轨道校正，校正后200个随机种子的轨道扰动如图5所示。轨道畸变RMS校正后的结果如图6和图7所示。经过轨道校正后 ，水平方向轨道畸变 $1 0 { \sim } 1 0 0 ~ \mu \mathrm { m }$ （均值$5 0 . 2 ~ \mu \mathrm { m }$ ，方差 $1 5 . 4 ~ \mu \mathrm { m } )$ ），约为校正前轨道畸变的$5 \%$ ；垂直方向轨道畸变 $2 0 { \sim } 1 6 0 ~ { \mu \mathrm { m } }$ （均值 $8 1 . 1 \mu \mathrm { m }$ ，方差 $2 8 . 2 ~ \mu \mathrm { m } )$ ），约为校正前轨道畸变的 $5 \%$ 。由此说明，轨道校正方案达到了较好的轨道校正效果。
+
+![](images/14792e0344bdc8d56d5b917a4ced8e6c2b19ff216f8dbe049a59c8e7e5dd7a8e.jpg)
+
+![](images/2373210669914322424274247e4c8ed16cb89c96a7376de1c89c5733591988b3.jpg)  
+图5 200个误差种子产生的轨道畸变校正后的水平(a)和垂直(b)轨道畸变图（彩图见网络版）  
+Fig.5 Horizontal (a) and vertical (b) orbit distortion after orbit correction with 200 seeds (color online)
+
+传输线轨道校正方案中，200个随机种子对应的校正铁强度分布如图8所示。校正后RMS校正铁强度的结果如图9和图10所示，校正铁最大强度均低于0.25 mrad，在校正铁强度允许范围内。水平校正铁强度均值 $0 . 0 4 \mathrm { m r a d }$ ，方差0.01 mrad。垂直校
+
+正铁强度均值0.05 mrad，方差 0.01 mrad。
+
+由以上结果可得，按目前的束流传输线磁聚焦结构设计，束流传输线轨道校正方案可以有效校正束流轨道的畸变。在轨道校正后采用粒子追踪方法进行束流传输线的动力学模拟，评估传输线的传输
+
+![](images/4d828b00e9d154c2e624597d706a825ece0d4aed259bc93d145478870547ff74.jpg)
+
+![](images/592393ddb106cdff2915e9fabed881ad57b9a4bffccecd3cd7e5d9300ac4223e.jpg)  
+图6 轨道畸变RMS校正后频度分布图 (a) 水平，(b) 垂直  
+Fig.6 Frequency distribution of RMS orbit distortion after correction (a) Horizontal, (b) Vertical
+
+效率。束流传输线起始点的粒子参数由储存环束流参数及分支线交接点处的束流光学参数确定，设置200个随机误差种子，使用10 000个宏粒子进行粒
+
+![](images/957cb6f2460bd7af94289b6931ff895a19df63660dac3614430628aef82f0cb1.jpg)
+
+![](images/f371a7b1c2f7951f6de48adbe180ad72de2eb14557f43c9c27210bff32b2b1d7.jpg)  
+图7 轨道畸变RMS校正后分布图 (a) 水平，(b) 垂直  
+Fig.7 Distribution of RMS orbit distortion after correction (a) Horizontal, (b) Vertical
+
+子追踪模拟计算。粒子追踪结果表明，在设置真空管道尺寸 $\pm 1 7 . 5 \ \mathrm { m m }$ 、磁铁元件安装误差和磁场误差的情况下，束流传输线的传输效率可达 $1 0 0 \%$ 。
+
+![](images/41692c8c05069793acb72d3bba24d7cd56a0f81975197f76cfdcab980d15c393.jpg)
+
+![](images/eb8790c0eff457f224be5707ba7d13562af4e9b631b6f17a36931595afa88f59.jpg)  
+图8 200个种子的校正铁强度图（彩图见网络版） (a) 水平，(b) 垂直  
+Fig.8 Corrector strength with 200 seeds (color online) (a) Horizontal corrector, (b) Vertical corrector

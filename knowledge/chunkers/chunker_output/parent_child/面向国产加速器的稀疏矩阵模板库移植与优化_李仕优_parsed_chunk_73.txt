@@ -1,0 +1,3 @@
+l. Tensor core-adapted sparse matrix multiplication for accelerating sparse deep neural networks[J]. Electronics, 2024, 13(20): 3981.   
+[22] 刘丽, 陈长波. 带状稀疏矩阵乘法及高效 GPU 实现[J]. 计算机应用, 2023, 43(12): 3856-3867. LIU L, CHEN C B. Band sparse matrix multiplication and efficient GPU implementation[J]. Journal of Computer Applications, 2023, 43(12): 3856-3867.   
+[23] BARRETT R, BERRY M, CHAN T F, et al. Templates for the solution of linear systems: building blocks for iterative methods[M]. 2nd Edition. PA, USA: Soci

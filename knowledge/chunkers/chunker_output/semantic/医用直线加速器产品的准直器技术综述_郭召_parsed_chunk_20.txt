@@ -1,0 +1,12 @@
+![](images/23091042420dc772735c3ceefc965cbe8789f3739ca9523339cf688a631678df.jpg)  
+图 13 RayerKnife 的锥形孔准直器
+
+表 4 RayerKnife 锥形孔准直器半影
+
+<table><tr><td rowspan="2">项目</td><td colspan="12">成野规格（mm）</td></tr><tr><td>5.0</td><td>7.5</td><td>10.0</td><td>12.5</td><td>15.0</td><td>20.0</td><td>25.0</td><td>30.0</td><td>35.0</td><td>40.0</td><td>50.0</td><td>60.0</td></tr><tr><td>RayerKnife准直器半影（mm）</td><td>1.8</td><td>1.9</td><td>2.1</td><td>2.2</td><td>2.2</td><td>2.4</td><td>2.5</td><td>2.6</td><td>2.7</td><td>2.8</td><td>3.1</td><td>3.5</td></tr></table>
+
+# 2.4 ZAP-X 准直器
+
+ZAP-X 是一款专用于头部 SRS治疗的放射外科产品，采用了 3MV的加速器系统，最大剂量率为 $1 5 0 0 ~ \mathrm { c G y / m i n }$ ，SAD为 $4 5 0 \ \mathrm { m m }$ ，见图 14。ZAP-X通过有 8组锥形孔的圆盘型准直器形成所需照射野，成野规格 $4 . 0 \ \mathrm { m m }$ 、 $5 . 0 \ \mathrm { m m }$ 、 $7 . 5 ~ \mathrm { m m }$ 、 $1 0 . 0 \ \mathrm { m m }$ 、
+
+$1 2 . 5 ~ \mathrm { \ m m }$ 、 $1 5 . 0 \ \mathrm { { m m } }$ 、 $2 0 . 0 \ \mathrm { \ m m }$ 和 $2 5 . 0 \ \mathrm { \ m m }$ ，漏 辐 射${ < } 0 . 0 1 \% _ { > }$ 。在 源 皮 距（source-surface distance, SSD） $=$ $4 5 \mathrm { { c m } }$ 的 $5 \mathrm { c m }$ 和 $1 0 \mathrm { c m }$ 深度下，测量了 $4 . 0 \mathrm { m m }$ 、 $5 . 0 \mathrm { m m }$ 、$7 . 5 ~ \mathrm { \ m m }$ 、 $1 0 . 0 ~ \mathrm { \ m m }$ 、12.5 mm、 $1 5 . 0 ~ \mathrm { \ m m }$ 、20.0 mm和 $2 5 . 0 ~ \mathrm { \ m m }$ 所 有 准 直 器 尺 寸 的 光 束 半 影，见表 5 ［33-34］。

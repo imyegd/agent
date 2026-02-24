@@ -1,0 +1,7 @@
+# A spiking neural network accelerator based on approximate computing
+
+XU Weikang, SUN Yan, ZHANG Jianmin
+
+(College of Computer Science and Technology, National University of Defense Technology, Changsha 410073, China)
+
+Abstract: Spiking neural network (SNN) achieves a closer simulation of biological neurons, and their high energy efficiency makes them exceptionally suitable for edge and end-device computing scenarios. However, in applications highly sensitive to power consumption, further reducing power co

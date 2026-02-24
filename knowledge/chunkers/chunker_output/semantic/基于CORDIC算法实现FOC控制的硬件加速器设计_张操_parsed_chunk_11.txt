@@ -1,0 +1,5 @@
+$$
+\left\{ \begin{array}{l} x _ {i + 1} = x _ {i} - y _ {i} \tan \theta_ {i} = x _ {i} - y _ {i} d _ {i} 2 ^ {- i} \\ y _ {i + 1} = y _ {i} + x _ {i} \tan \theta_ {i} = y _ {i} + x _ {i} d _ {i} 2 ^ {- i} \\ z _ {i + 1} = z _ {i} - d _ {i} 2 ^ {- i} \\ d _ {i} = \left\{ \begin{array}{l l} 1 & z _ {i} \geq 0 \\ - 1 & z _ {i} <   0 \end{array} \right. \end{array} \right. \tag {6}
+$$
+
+伪旋转迭代完成后，需要进行补偿（也可以在旋转开始前补偿）。令补偿因子为 $K$ ，如式（7）所示，则实际旋转迭代方程如式（8）所示：

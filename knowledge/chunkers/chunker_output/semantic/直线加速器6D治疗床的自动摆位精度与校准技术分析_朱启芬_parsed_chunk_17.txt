@@ -1,0 +1,1 @@
+首先根据试验结果，订正出温度变温 $\Delta t$ 增大或减少时造成称重传感器的误差值 $\Delta z$ ，加在称重增量 $\Delta x$ 上形成Δx’，即 $\Delta x ^ { \prime } \ = \Delta x + \Delta z$ ，试验表明，每当温度变动 $1 ~ ^ { \circ } \mathrm { C }$ ，称重传感器会有 $_ { 2 \mathrm { ~ g ~ } }$ 左右的误差值存在。

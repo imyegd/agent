@@ -1,0 +1,10 @@
+# 5.2.3 AxSpike设计实现
+
+经过一系列的实验分析与对比，本节将清晰地呈现出AxSpike在功耗与面积优化方面的显著优势。在脉冲神经网络中，add8u_2LL近似加法器被选中以替代传统的精确加法器，并与原始的脉冲神经网络加速器进行了全面深入的对比。实验数据明确显示，在引入add8u_2LL近似加法器后，AxSpike不仅极大地降低了功耗，而且在维持相对较高计算精度的同时，也实现了面积上的优化。
+
+表4和表5所示是功耗方面的对比数据。
+
+Table 4 Power consumption of full-precision spiking neural network accelerator   
+表 4 完整精度脉冲神经网络加速器功耗  
+
+<table><tr><td>组别</td><td>内部功耗/mW</td><td>开关功耗/mW</td><td>泄露功耗/μW</td><td>总功耗/mW</td><td>占总功耗的百分比/%</td></tr><tr><td>时序电路</td><td>30.10</td><td>2.86</td><td>0.21</td><td>32.96</td><

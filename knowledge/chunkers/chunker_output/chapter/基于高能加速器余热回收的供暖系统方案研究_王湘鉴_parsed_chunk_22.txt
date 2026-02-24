@@ -1,0 +1,29 @@
+# Chinese)
+
+[13]Gao Jie.CEPC Technical Design Report: Accelerator[J].Radiation Detection Technology and Methods,2024,8(1):1-1105.   
+[14]中 国 科 学 院 高 能 物 理 研 究 所 ,中 国 科 学 院 理 化 技 术 研 究 所 .一 种 超 导 加 速 器 余 热 回 收 利 用 平台:202310851744.3[P].2023-10-20.  
+Institute of High Energy Physics, Technical Institute of Physics and Chemistry, Chinese Academy of Sciences.A Waste Heat Recovery and Utilization Technical Platform for Superconducting Accelerators:202310851744.3[P].2023-10-20.(in Chinese)   
+[15]周文,刘守英,郑红亮,等.专题笔谈：发展新质生产力的理论与实践问题[J].东北财经大学学报,2024,(4):3-18.  
+ZHOU Wen, LIU Shouying, ZHEN Hongliang,et al.Symposium: Theoretical and practical issues in the development of newquality productive forces[J].Journal of Dongbei University of Finance and Economics,2024, (4):3-18.(in Chinese)   
+[16]田红宇,孟娜娜,付玮琼,等.大科学装置集群布局与新质生产力加速形成——基于合肥综合性国家科学中心设立的准自然实验分析[J/OL]．重庆大学学报(社会科学版). https://link.cnki.net/urlid/50.1023.C.20240914.1640.004.  
+TIAN Hongyu, MENG Nana, FU Weiqiong, et al.Clustering of large scientific devices and accelerated formation of the new quality productivity: Experimental evidence from the establishment of Hefei Comprehensive National Science Center[J/OL].Journal of Chongqing University (Social Science Edition). https://link.cnki.net/urlid/50.1023.C.20240914.1640.004.(in Chinese)   
+[17]焦毅,潘卫民.高能同步辐射光源[J].强激光与粒子束,2022,34(10):14-20.  
+JIAO Yi,PAN Weimin.High Energy Photon Source[J].High Power Laser and Particle Beams,2022,34(10):14-20.(in Chinese)   
+[18]陈和生.李政道先生和北京正负电子对撞机重大改造工程[J].现代物理知识,2021,33(Z1):73-80.  
+[18]CHEN Hesheng.Mr. Tsung-Dao Lee and the Major Upgrade Project of the Beijing Electron-Positron Collider (BEPCII) [J].Modern Physics,2021,33(Z1):73-80.(in Chinese)   
+[19]张闯,马力.北京正负电子对撞机重大改造工程加速器的设计与研制[M].上海:上海科学技术出版社,2015.  
+ZHANG Chang,MA Li.The Design and Development of the Accelerator for the Major Upgrade Project of the Beijing Electron-Positron Collider (BEPCII)[M]. Shanghai:Shanghai Scientific and Technical Publishing House,2015.(in Chinese)   
+[20]崔科,马长明,檀志恒,等.数据中心余热在城镇供热中的应用研究[J].建筑节能(中英文),2023,51(07):74-78.  
+CUI Ke,MA Changming,TAN Zhiheng,et al.Application of Waste Heat of Data Center in Urban Heating[J].Building Energy Efficiency,2023,51(7):74-78.(in Chinese)   
+[21]陈雨晴,张兴惠,刘沛,等.低品位工业余热供暖技术分析与案例实践研究[J].建筑节能(中英文),2025,53(11):48-56.  
+CHEN Yuqing,ZHANG Xinghui,LIU Pei,et al.Analysis and Case Study of Low-grade Industrial Waste Heat Heating Technology[J].Building Energy Efficiency,2025,53(11):48-56.(in Chinese)   
+[22]唐志伟,张宏宇,牛利敏.热泵原理与工程设计[M].北京:化学工业出版社, 2022.  
+TANG Zhiwei,ZHANG Hongyu,NIU Limin.Principles of Heat Pumps and Engineering Design[M].Beijing:Chemical Industry Press,2022(in Chinese)   
+[23]晋欢欢.绿色建筑技术在大科学工程建设中的应用实践[J].建筑节能(中英文),2022,50(8):8-11.  
+Jin Huanhuan. Application and Practice of Green Building Technology in the Construction of Large Scientific Projects[J]. Building Energy Efficiency,2022,50(8):8-11.(in Chinese)   
+[24]胡琦玥,郑景文,刚文杰,等.基于多元热回收的数据中心空调系统性能研究[J].暖通空调,2025,55(4):128-135.  
+HU Qiyue,ZHENG Jingwen,GANG Wenjie,et al.Performance analysis of multi-source heat recovery air conditioning systems for data centers[J].Heating Ventilating and Air Conditioning,2025,55(4):128-135.(in Chinese)   
+[25]北京市发展和改革委员会等.北京市发展和改革委员会等十部门关于印发全面推进新能源供热高质量发展实施意 见 的 通 知 [EB/OL].(2023-10-09)[2025-06-25].https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202311/t20231108_3727652.htm.  
+Beijing Municipal Commission of Development and Reform.Notice by the Beijing Municipal Commission of Development and Reform and Nine Other Departments on Issuing the Implementation Opinions on Comprehensively Promoting the High-Quality Development of New Energy Heating[EB/OL].(2023-10-09)[2025-06- 25].https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/bwqtwj/202311/t20231108_3727652.htm.(in Chinese)
+
+△作者简介（通信作者）：王湘鉴（1984），男，辽宁辽阳人，毕业于中国科学院大学，核技术及应用专业，硕士，高级工程师，研究方向为大科学装置节能管理与节能技术应用（wangxj@ihep.ac.cn）。

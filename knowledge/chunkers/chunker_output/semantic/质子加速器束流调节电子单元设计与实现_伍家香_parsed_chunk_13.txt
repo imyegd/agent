@@ -1,0 +1,7 @@
+# 3.2 电路设计
+
+电路设计如图4所示。BREU内部使用一块主印制电路板(Printed Circuit Board,PCB)处理调节部分，另一快PCB处理前面板的按键与显示部分。
+
+信号隔离与放大通过低噪声运算放大器实现。通过16位分辨率、至少 $200\mathrm{kSPS}$ 的模数转换器（Analog-to-Digital Converter，ADC）与数模转换器（Digital-to-Analog Converter，DAC）进行信号转换。
+
+信号处理及调节功能使用数字信号处理器(DSP)进行处理。总的调节过程少于10 $\mu \mathrm{s}$ 。数字信号处理器首选德州仪器的产品。用户界面通过单独的微控制器(Microcontroller， $\mu \mathrm{C})$ 进行管理。DSP和 $\mu \mathrm{C}$ 的固件代码可通过以太网接口进行上传或下载。

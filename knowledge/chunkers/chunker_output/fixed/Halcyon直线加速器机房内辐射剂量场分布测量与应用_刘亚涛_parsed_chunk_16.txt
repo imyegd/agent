@@ -1,0 +1,6 @@
+23, 32（3）: 288-292. DOI: 10.13491/j.issn. 1004-714X.2023.03.013. (in Chinese)   
+孟令广, 王元, 程晓军. 某医院 Halcyon直线加速器机房辐射屏[11]蔽 评 估 [J]. 中 国 职 业 医 学 ， 2021， 48（ 5） ： 582-586. DOI: 10.20001/j.issn.2095-2619.20210906.  
+Meng LG, Wang Y, Cheng XJ. Evaluation on radiation shielding of the Halcyon linear accelerator room in a hospital[J]. China Occup Med, 2021, 48（ 5） : 582-586. DOI: 10.20001/j.issn.2095-2619. 20210906. (in Chinese)   
+Altergot  A,  Schürmann  M,  Jungert  T,  et  al. Imaging  doses  for[12] different  CBCT  protocols  on  the  Halcyon  3.0  linear  accelerator - TLD  measurements  in  an  anthropomorphic  phantom[J]. Z  Med Phys, 2024, 34（4）: 580-595. DOI: 10.1016/j.zemedi.2023.03.002.   
+Ghoneam  SM,  Mahmoud  KR,  Diab  HM,  et  al. Studying  the  dose[13] level for different X-ray energy conventional radiography by TLD-100[J]. Appl  Radiat  Isot, 2022, 181: 110066. DOI: 10.1016/j. apradiso.2021.110066.   
+Kron  T,  Lonski  P,  Yukihara  EG. Thermoluminescence  dosimetry[14] (TLD)  in  medicine:  fiv

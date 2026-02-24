@@ -1,0 +1,5 @@
+r system design: propulsion system adjustable speed drive［M］． Hoboken， NJ: Wiley-IEEE Press，2019: 21－28．   
+［9］ WANG Z，WANG S， LIU Q． Influence analysis of current limiting reactor on pole-to-pole short circuit fault in DC distribution system ［C］． 2021 International Conference on Power System and Energy Internet． Chengdu，China，2021: 1－6．
+
+［10］ HOU J． Operation strategy of shore to ship power based on improved droop control ［C］． 2017 IEEE ITEC Asia-Pacific． Harbin， China: IEEE 2017: 1－6   
+［11］刘刚． 调压式电网无功自动补

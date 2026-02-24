@@ -1,0 +1,10 @@
+hase diagram of beam deflection under the action of chopper
+
+![](images/2c50cacf6d065153dccf05eb97458f2465e0a8be6a6fa8bfe1454cccee81364c.jpg)  
+图 8    斩束器作用下束流偏转相图  
+Fig. 9    Beam envelope diagram under the action of arc plate chopper   
+图 9    圆弧极板斩束器作用下束流包络图
+
+![](images/0df6f112b56816605ea87ddd009f3beb6faaaceb62e5265f85205d515eab89e6.jpg)  
+Fig. 11    Phase diagram of beam deflection under the action of arc plate chopper   
+图 11    圆弧极板斩束器作用下束流偏转相图

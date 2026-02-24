@@ -1,0 +1,7 @@
+<table><tr><td>EX/keV</td><td>Jπ</td><td>l</td><td>S</td></tr><tr><td>7858</td><td>3/2+</td><td>2</td><td>0.181(20)</td></tr><tr><td>8952</td><td>5/2+</td><td>2</td><td>0.020(2)</td></tr><tr><td>9080</td><td>5/2+</td><td>2</td><td>0.049(5)</td></tr></table>
+
+量对应的结果。根据计算结果，最终认为其自旋宇称为 $5 / 2 ^ { + }$ 。所有态的谱因子结果误差来源分别是光学势误差（由对应该激发态的 6 种光学势组合计算结果平均得到）、测量误差 $( 5 \% )$ ）以及 $^ \mathrm { 7 L i }$ 的谱因子误差（ $10 \%$ ）[6-7]，根据误差传递公式， $^ { 2 7 } \mathrm { A l }$ 谱因子的相对误差由下式得到：
+
+$$
+\epsilon_ {\mathrm {A l}} ^ {2} = \epsilon_ {\mathrm {L i}} ^ {2} + \epsilon_ {\mathrm {O M P}} ^ {2} + \epsilon_ {\mathrm {D}} ^ {2} \tag {4}
+$$

@@ -1,0 +1,6 @@
+![](images/f48b2968a9dad6649dc8faa0a2e6478e199b580fceb6ead9d6020b6f4a14c476.jpg)  
+图 11 消融实验
+
+表 3 优化前后 bank 冲突率对比
+
+Table 3 Comparison of bank conflict rate before and after optimization

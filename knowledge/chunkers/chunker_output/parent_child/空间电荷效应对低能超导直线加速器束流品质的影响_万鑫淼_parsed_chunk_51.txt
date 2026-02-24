@@ -1,0 +1,10 @@
+一个位于2∶1 共振岛的粒子进行观察，发现粒子在 10个大周期内跑了 15次，也就是和束核振荡的 3 倍频产生 2∶1共振，如图14所示。
+
+通过对包络的频谱分析，如图 15所示，发现横向包络振荡的三倍频为 0，但纵向包络的能量很高，说明纵向包
+
+![](images/8f3d085c4a64a0520fa4024dc70bec37e776943b891ead0f6ecce26af51505a7.jpg)
+
+![](images/fd5f7103f2c9ecf1b7e7c6144da31398d4fc2d2384800bd4ba4034a551bf46ef.jpg)  
+Fig. 13    Beam current dominated by emittance undergoes 4∶1 resonance $\gamma = 0 . 7 2$ ), and the beam current dominated by space charge undergoes 2∶1 resonance $( \eta = 0 . 6 9$ )
+
+![](images/9507543bc06d2c24f863cbf83d

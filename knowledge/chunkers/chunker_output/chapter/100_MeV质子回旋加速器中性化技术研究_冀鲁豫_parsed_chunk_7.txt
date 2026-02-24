@@ -1,0 +1,86 @@
+# 3.2 多圈剥离引出研究
+
+基于图 7 模拟得到的剥离膜上的粒子分布，开展后续粒子跟踪模拟。根据图 2 的计算结果，
+
+![](images/1deff676287ec381ce418843bd19d949864cdebf9cbbd872d398f5f7f23966dd.jpg)
+
+![](images/207469601689e2258bda369bf0ded898d5ba8fa297c3c592a7e5b43cd49644bf.jpg)
+
+![](images/51296e9b2fd19f4e94f25e9362a30ee1866c8d799a9329d4d3cf654909aa40cb.jpg)
+
+图 6    剥离膜上粒子分布  
+Fig. 6    Particle distribution on stripping foil   
+![](images/ef8d53775dcb81859feba941feaf563d1fe420097355f94b1c22f13261af2ea7.jpg)  
+a——径向相空间分布；b——轴向相空间分布；c——径向和轴向位置分布；d——纵向分布
+
+当 $1 0 0 \mathrm { M e V }$ 负氢离子束穿过 $2 0 \mu \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 碳剥离膜时，其转化为氢原子、质子以及保持未剥离状态的概率分别为 $4 6 . 4 5 \%$ 、 $4 7 . 5 0 \%$ 和 $6 . 0 5 \%$ 。记录各
+
+粒子通过剥离膜后的电荷态变化，并对其中未被剥离的负氢离子继续进行跟踪模拟，直至其完成剥离过程，结果如图 7 所示。
+
+![](images/44b46a3b3decc726987cde3a32cfa6bcf673228ade2108976de2c5aa0baefcbb.jpg)
+
+![](images/22d0ed85226f8417f49c70f92dd4797ed3be7f323a395065cd5163cc80423173.jpg)
+
+![](images/d45daf022640d8993c686df780c6721c8292bb49dd9d03c139322cacc2d1ed76.jpg)
+
+![](images/fa52761543103a6a03f38be9f35de5b5e09834f298862b5b9277c668a3155695.jpg)
+
+![](images/f6b4199acf433e7e96cc9d6f9f837aa0f7b355ec76678ad298d62d869c8f91d8.jpg)
+
+![](images/3d3a392f9034c67f4df33c021f7039831fd195f920b65e2e54750301d4eaeeda.jpg)
+
+![](images/27752b20ad98ba4f991488d6ca7f479b75d4e44cb53663672d6aa5f8d0fa6102.jpg)
+
+![](images/fd10aa565d65d804d88cfc12a6a506bf95a1fd63cdd5fd7be8a762184808987d.jpg)
+
+图 7    多圈剥离的剥离膜上粒子分布  
+Fig. 7    Particle distribution on stripping foil with multi-pass stripping   
+![](images/dc0b7ce6eae669d33fcf347285f8c3d65a9f55707f6d3a9c92c5a8e627d21fe5.jpg)  
+a——负氢离子径向相空间分布；b——负氢离子轴向相空间分布；c——负氢离子纵向分布；d——氢原子径向相空间分布；e——氢原子轴向相空间分布；f——氢原子纵向分布；g——质子径向相空间分布；h——质子轴向相空间分布；i——质子纵向分布
+
+计算中关于粒子通过剥离膜后能量损失的考虑如下。粒子通过剥离膜的能量损失主要来源于被剥离电子的能量损失，每个被剥离电子导致粒子能量降低约 $0 . 0 5 \%$ ，对应约 $5 0 \mathrm { k e V }$ 。粒子与剥离膜碰撞引起的电离和激发导致的能量变化可忽略不计。根据文献 [14]， $1 0 0 \ \mathrm { M e V }$ 质子在碳剥离膜中的能量损失率为 $6 . 5 \mathrm { \ : M e V \cdot c m ^ { 2 } \ : g ^ { - 1 } }$ ， $2 0 ~ { \mu \mathrm { g } } { \cdot } { \mathrm { c m } } ^ { - 2 }$ 的剥离膜对应的能量损失约为 $1 3 0 \ \mathrm { e V }$ ，因此在计算中未计入该效应。
+
+粒子穿过剥离靶时由于库仑散射产生的散角分布 $\theta _ { 0 }$ 可通过经验公式估算[15]：
+
+$$
+\theta_ {0} = \frac {1 4 . 1}{\beta c p} z \sqrt {\frac {T}{X _ {0}}} \left(1 + \frac {1}{9} \lg \frac {T}{X _ {0}}\right) \tag {9}
+$$
+
+其中： $\beta$ 为相对论速度参数； $c$ 为光速； $p$ 为动量；$z$ 为入射粒子电荷态； $T$ 为质量厚度； $X _ { 0 }$ 为辐射长度，碳的取 $4 2 . 7 \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 。
+
+式（9）在 $1 0 ^ { - 3 } < T / X _ { 0 } < 1 0 ^ { 3 }$ 内精确度较高。本方案采用的剥离膜厚度小于公式的适用范围，计算结果存在一定误差。考虑到当 $T / X _ { 0 } { = } 1 0 ^ { 3 }$ ，即剥离膜质量厚度为 $4 2 . 7 \mathrm { m g } { \cdot } \mathrm { c m } ^ { - 2 }$ 时，散射角为 1.56 mrad，和束散角的量级相当。本方案采用的剥离膜质量厚度小于该厚度 3 个量级，因此研究中忽略库仑
+
+散射对束散角的影响。
+
+根据计算结果，薄剥离膜多圈剥离引出的束流分布与常规厚剥离膜引出相比，主要在径向和纵向上呈显著差异。未被剥离的粒子在加速器内经历了更多圈次的旋转和加速过程，其能量积累效应导致束流能散增大。与此同时，回旋加速器中固有的纵向-径向耦合效应使得高能粒子的轨道半径随之增大，进而引起束流径向分布的发散。而在轴向维度上，由于缺乏轴向-径向或轴向-纵向耦合机制，其变化幅度相对微弱，未观察到明显发射度增长。统计每圈通过剥离膜后的各成分束流的粒子数列于表 3。结果表明，到达剥离膜的粒子在 3 圈内被剥离，每圈剥离的粒子占总粒子数的比例依次为 $9 4 . 0 \%$ 、 $5 . 7 \%$ 和 $0 . 3 \%$ 。表 4 列出了剥离后各束流成分的分布参数拟合值。统计数
+
+表 3 剥离后的各成分束流的粒子数  
+Table 3 Particle counts of beam components after stripping   
+
+<table><tr><td rowspan="2">圈数</td><td colspan="4">粒子数</td></tr><tr><td>H-</td><td>H0</td><td>H+</td><td>合计</td></tr><tr><td>1</td><td>600</td><td>4634</td><td>4766</td><td>10000</td></tr><tr><td>2</td><td>36</td><td>278</td><td>286</td><td>600</td></tr><tr><td>3</td><td>2</td><td>17</td><td>17</td><td>136</td></tr></table>
+
+表 4 剥离膜上各成分束流参数  
+Table 4 Beam parameters of beam components on stripping foil   
+
+<table><tr><td rowspan="2">参数</td><td colspan="4">粒子数值</td></tr><tr><td>剥离前 H-</td><td>H-</td><td>H0</td><td>H+</td></tr><tr><td>径向尺寸,mm</td><td>1.99</td><td>2.37</td><td>2.32</td><td>2.31</td></tr><tr><td>轴向尺寸,mm</td><td>1.66</td><td>1.66</td><td>1.66</td><td>1.66</td></tr><tr><td>能散,%</td><td>0.14</td><td>0.16</td><td>0.15</td><td>0.16</td></tr></table>
+
+据显示，剥离膜位置处各成分的束流参数基本一致。受多圈剥离过程的累积效应影响，束流径向尺寸与能散较剥离前分别增大 $1 6 . 6 \%$ 和 $1 4 . 3 \%$ ，轴向分布基本不变，这一结果与前述分析结论相符。
+
+以图 7 中被剥离的氢原子和质子的粒子分布作为初始条件继续进行粒子跟踪模拟。其中，氢原子束被跟踪至加速器谷区对称线位置，质子束被跟踪至引出开关磁铁处。模拟获得了这两个位置的束流分布，结果如图 8 所示。图中采用平面曲线坐标系：以束团中心为坐标原点，束团前进方向定义为纵向（ $z$ 轴） ，高度方向为竖直方向（y 轴），水平方向 $\scriptstyle { \mathbf { \mathit { x } } }$ 轴）则根据右手定则由纵向和竖直方向确定。计算结果表明，在薄剥离膜多圈引出的条件下，氢原子束和质子束的水平方向和纵向分布均呈现显著发散，而竖直方向几乎未受
+
+![](images/8d926702d9a66dd6046eeb53ca36d0e3dde3ce231c07328b6bd1f52bc4bd627f.jpg)
+
+![](images/617beb15a233358f39d6ccb2c91f033223221dc82183d0dbb82fec7f95a0c878.jpg)
+
+![](images/6f316ee77cb1b77c5b5ecb4b2f746d78e4a70d6b6ec9e001f1c9fb2ee15fd96a.jpg)
+
+![](images/08aa815b6d7bc6afa6d5ef6eecdd5e2e501a8f192573e77b3676aeb48b7d0c6f.jpg)
+
+![](images/52740c347c8411452df9aad8391035461ef3452ea672d127acb3ef1c7df3f50f.jpg)
+
+图 8    剥离后的氢原子束和质子束分布  
+Fig. 8    Distribution of stripped $\mathrm { H } ^ { 0 }$ and $\mathrm { H } ^ { + }$ beams   
+![](images/f1ea2a21d65454a154e1622eafe15284a91571be0a7ce72f16b4676a7c369c16.jpg)  
+a——氢原子束水平方向相空间分布；b——氢原子束竖直方向相空间分布；c——氢原子束纵向分布；d——质子束水平方向相空间分布；e——质子束竖直方向相空间分布；f——质子束纵向分布
+
+影响。由于质子束传输距离更长，其水平方向发散更为明显。在竖直方向上，质子束受到边缘场的磁场聚焦作用，包络尺寸更小。

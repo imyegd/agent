@@ -1,0 +1,3 @@
+itional graphite core, polyethylene demonstrates approximately $7 5 \%$ lower upstream dose while maintaining equivalent downstream shielding performance. Analysis of residual dose under the
+
+three operational scenarios shows consistent decay patterns, with all cases reaching the dose constraint of $2 . 5 ~ \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 }$ after 2~3 h cooling time. [Conclusions] The polyethylene-core composite beam dump design provides effective radiation protection for the XiPAF facil

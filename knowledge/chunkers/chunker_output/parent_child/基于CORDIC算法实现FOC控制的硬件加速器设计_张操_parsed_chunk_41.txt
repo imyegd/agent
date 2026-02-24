@@ -1,0 +1,1 @@
+>CORDIC 周期/ns</td><td>36</td><td>42</td><td>120 (软件实现)</td></tr><tr><td>FOC周期/ns</td><td>264.5</td><td>未集成</td><td>500.0</td></tr><tr><td>面积/μm²</td><td>2982.67</td><td>3500.00</td><td>N/A(芯片级)</td></tr><tr><td rowspan="2">功耗</td><td>0.99 V@</td><td>1.0 V@</td><td>1.2 V@</td></tr><tr><td>320 MHz</td><td>300 MHz</td><td>200 MHz</td></tr></table>

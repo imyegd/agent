@@ -1,0 +1,11 @@
+14f6083e9ae5db16cf223536d109b0aad0902a624777bad1e11de667a92b6.jpg)  
+图 3   不同高度平面机房内剂量场分布测量结果  
+Figure 3    Radiation field distribution measured in the treatment room at different heights
+
+![](images/404c34defc594fdb88c9f5a607cd05309edd9a031e58c8f7463a7c8498e859b3.jpg)
+
+![](images/4d2b447e2c5442c5a64e1379d73122baad831d4eaa20cac80e9fc1670dd742c1.jpg)
+
+图 4    机房内辐射剂量随距离变化趋势  
+Figure 4    Variation of radiation dose with distance in the treatment room   
+![](images/4503b7b87b0849e3b727d8e3973eb4360baa1e806507

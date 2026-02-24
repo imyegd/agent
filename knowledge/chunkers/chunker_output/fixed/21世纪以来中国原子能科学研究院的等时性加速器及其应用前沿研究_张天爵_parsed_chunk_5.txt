@@ -1,0 +1,32 @@
+493029dae61fc2d1a29cb1e8e46d76ab78c85aab1.jpg)  
+图1 整体型等时性回旋加速器的磁极结构  
+Fig. 1 Magnetic pole structure of isochronous cyclotron
+
+$$
+B = B _ {\mathrm {p}, \mathrm {v}} (1 + f \cos N \theta) \tag {1}
+$$
+
+其中， $B_{\mathrm{p,v}}$ 为径向分布函数，峰谷区对应的径向分布函数 $(B_{\mathrm{p}},B_{\mathrm{v}})$ 可以写为泰勒展开形式：
+
+$$
+B _ {\mathrm {p}} = \sum_ {i = 0} ^ {n} a _ {i} r ^ {i} \tag {2}
+$$
+
+$$
+B _ {\mathrm {v}} = \sum_ {i = 0} ^ {n} b _ {i} r ^ {i} \tag {3}
+$$
+
+其中： $i$ 为径向磁场的阶数，可类比为同步加速器中的多极磁场； $a_{i},b_{i}$ 为磁场梯度调节系数。
+
+考虑一阶近似下，粒子沿轨道运动的方程为：
+
+$$
+u ^ {\prime \prime} + K (s) u = 0 \tag {4}
+$$
+
+其中： $u$ 为横向位移； $K(s)$ 为一个周期内的聚焦函数。
+
+进一步地，采用薄透镜近似，在式(2)、(3)具有一阶梯度的情况下，可以将峰谷区的径向、轴向传输矩阵写为：
+
+$$
+\boldsymbol {M} _ {x _ {\mathrm {p}, \mathrm {v}}} = \left| \begin{array}{c c} \cos (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) & \sin (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) / \sqrt {k _ {\mathrm {p}, \mathrm {v}}} \\ - \sqrt {k _ {\mathrm {p}, \mathrm {v}}} \sin (\sqrt {k _ {\mathrm {p}, \mathrm {v}}

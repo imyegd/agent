@@ -1,0 +1,9 @@
+# 3.2 多圈剥离引出研究
+
+基于图 7 模拟得到的剥离膜上的粒子分布，开展后续粒子跟踪模拟。根据图 2 的计算结果，
+
+![](images/1deff676287ec381ce418843bd19d949864cdebf9cbbd872d398f5f7f23966dd.jpg)
+
+![](images/207469601689e2258bda369bf0ded898d5ba8fa297c3c592a7e5b43cd49644bf.jpg)
+
+![](images/51296e9b2fd19f4e94f25e9362a30ee1866c8d799a9329d4d3cf654909aa40cb.jpg)

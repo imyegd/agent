@@ -1,0 +1,10 @@
+# 四台产品[1,2]。与 JAERI[3]、L
+
+分析的专用 AMS 系统。为各自的特殊应用目的，
+
+![](images/c6a0e9ac33166f8eb2c39e5f0d76451f8ae17bfd0b2364fb5d5a30b655d9816b.jpg)
+
+表1 西安加速器质谱仪（Xi’an-AMS）的主要设备部件  
+Table 1 Main components of the Xi’an AMS   
+
+<table><tr><td>部件 Component</td><td>说明 Description</td></tr><tr><td>离子源</td><td>固体样品和 CO2共用的铯溅射负离子源</td></tr><tr><td>Ion source</td><td>Cs sputtering negative ion source accepting solid and CO2 samples</td></tr><tr><td>低能注入器</td><td>54°球形静电分析器(R=470mm)</td></tr><tr><td rowspan="5">Low energy Injector

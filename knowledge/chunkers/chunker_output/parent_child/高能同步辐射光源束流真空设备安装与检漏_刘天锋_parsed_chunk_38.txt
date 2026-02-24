@@ -1,0 +1,4 @@
+B068   
+[3] Wang X H, Celli A, Kramer S, et al. Vacuum technology for diffraction-limited storage rings [J]. Journal of Vacuum Science & Technology A, 2020, 38(3): 030801   
+[4] Mao Y S, He P, Dong H Y, et al. Vacuum system development of HEPS [R]. Beijing: Institute of High Energy Physics, Chinese Academy of Sciences, 2023   
+[5] Santana M M, Kunst S R, Araujo R G O, et al. Leak detection and localization in the large vacuum system of Sirius [J]. Journal of Vacuum Science & Technology A, 2020, 38(3): 03320

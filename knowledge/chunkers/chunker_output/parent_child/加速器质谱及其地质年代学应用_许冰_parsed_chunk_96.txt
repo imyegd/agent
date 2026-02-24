@@ -1,0 +1,10 @@
+# 4.3.3 等时线方法
+
+等 时 线 年 代 学 方 法 是 Balco和 Rovey［59］提 出的，首先应用于土壤和沉积剖面不同深度样品，通过多样品分析来进行埋藏年代计算，其有两个重要前提［59］ ：1）无侵蚀，暴露时间（t）足够短，暴露过程中核素衰变量可以忽略不计；2）埋藏足够深，埋藏后产率可以忽略不计。在满足上述两个条件下，公式（16）和（17）变为
+
+$$
+N _ {1 0} = \left(N _ {1 0, \text {i n h}} + P _ {1 0} t _ {\mathrm {e}} \mathrm {e} ^ {- Z / \Lambda_ {\mathrm {i}}} \right) \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} \rightarrow t _ {\mathrm {e}} \mathrm {e} ^ {- Z / \Lambda_ {\mathrm {i}}} =
+$$
+
+$$
+\left(N _ {1 0} \mathrm {e} ^ {\lambda_ {1 0} t _ {\mathrm {h}}}

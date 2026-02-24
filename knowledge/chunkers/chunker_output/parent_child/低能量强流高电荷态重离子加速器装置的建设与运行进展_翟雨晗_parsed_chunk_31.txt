@@ -1,0 +1,6 @@
+jpg)  
+Fig. 7    Measurement of the energy spread of a milliampere-class high-current $\mathrm { O } ^ { 6 ^ { + } }$ heavy ion beam (suppressed by the QWR cavity, with a $1 \sigma$ energy spread of approximately $0 . 1 1 5 \%$ )
+
+![](images/e96fc08bb19ae2154f7f293bbc1ebb6f3a561e59794861dc8f4483bb34fa148d.jpg)  
+图 7    毫安级强流 $\mathrm { O } ^ { 6 ^ { + } }$ 重离子束流的能散度测量（通过 QWR腔体抑制， $1 \sigma$ 能散度约为 $0 . 1 1 5 \%$ ）  
+Fig. 8 $\mathrm { H _ { 2 } } ^ { + }$ and $^ { 4 } \mathrm { H e } ^ { 2 + }$ beam resolutio

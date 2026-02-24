@@ -1,0 +1,5 @@
+me  ReRAM-Based Accelerator  for  Online  Deep  Learning[C]//2023 Design, Automation & Test in Europe Conference & Exhibition. Piscataway: IEEE, 2023: 1−6.   
+Heng  Zhou,  Bing  Wu,  Huan  Cheng,  et  al.  DRCTL:  A[10] Disorder-Resistant  Computation  Translation  Layer Enhancing  the  Lifetime  and  Performance  of  Memristive CIM  Architecture[C]//2024 57th IEEE/ACM International Symposium on Microarchitecture. Piscataway: IEEE, 2024: 263−277.   
+Anteneh Gebregiorgis, Hoang Anh Du Nguyen, Jintao Yu, et[11] al. A Survey on Memory-Centric Computer Architectures[J]. ACM Journal on Emerging Technologies in Computing Systems, 2022, 18(4): 1−50.   
+Mohsen  Imani,  Saransh  Gupta,  Yeseong  Kim,  et  al.[12] FloatPIM:  In-Memory  Acceleration  of  Deep  Neural Network Training with High Precision[C]//2019 ACM/IEEE 46th Annual International Symposium on Computer Architecture. Piscataway: IEEE, 2019: 802−815.   
+Minh S. Q. Truong, Eric Chen, Deanyone Su, et al. RACER:[13] Bit-Pipelined  Processing  Using  Resistive

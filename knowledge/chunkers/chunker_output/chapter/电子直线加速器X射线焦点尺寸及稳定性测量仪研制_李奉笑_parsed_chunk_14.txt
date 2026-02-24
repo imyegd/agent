@@ -1,0 +1,43 @@
+# 参考文献
+
+1 Yeboah C. Characterization of linear accelerator X-ray source size using a laminated beam-spot camera[J]. Journal of Applied Clinical Medical Physics, 2011, 12(3): 178–182. DOI: 10.1120/jacmp.v12i3.3463.   
+2 唐利华, 张国光, 肖丹, 等. X射线与中子融合成像技术研究现状及展望[J]. 核技术, 2025, 48(1): 010001. DOI:10.11889/j.0253-3219.2025.hjs.48.240014. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.240014.
+
+TANG Lihua, ZHANG Guoguang, XIAO Dan, et al. Research status and prospect of combined X-ray and neutron imaging technology[J]. Nuclear Techniques, 2025, 48(1): 010001. DOI: 10.11889/j. 0253-3219.2025. hjs.48.240014. CSTR: 32193.14.hjs.CN31-1342/TL.2025. 48.240014.
+
+3 孙爱赟, 贾文宝, 黑大千, 等. 基于小型电子感应加速器的二维/三维X射线成像系统研制[J]. 核技术, 2024, 47(12): 120202. DOI: 10.11889/j. 0253-3219.2024. hjs. 47.120202. CSTR: 32193.14. hjs. CN31-1342/TL. 2024.47.120202.
+
+SUN Aiyun, JIA Wenbao, HEI Daqian, et al. Development of 2D/3D X-ray imaging system based on small size betatron[J]. Nuclear Techniques, 2024, 47(12): 120202. DOI: 10.11889/j.0253-3219.2024.hjs.47.120202. CSTR: 32193.14.hjs.CN31-1342/TL.2024.47.120202.
+
+4 张少东, 金宝亮, 张小东. 基于液闪EJ301研制的中子探测器的性能测试[J]. 核技术, 2024, 47(8): 080402. DOI:10.11889/j.0253-3219.2024.hjs.47.080402.
+
+ZHANG Shaodong, JIN Baoliang, ZHANG Xiaodong. Evaluation of self-developed neutron detector based on EJ301 liquid scintillator[J]. Nuclear Techniques, 2024, 47 (8): 080402. DOI: 10.11889/j. 0253-3219.2024. hjs. 47. 080402.
+
+5 IEC. Industrial non-destructive testing equipment - Electron linear accelerator: IEC 62976 Ed. 1.0 b: 2017[S]. International Electrotechnical Commission, 2017.
+
+6 国家质量监督检验检疫总局, 中国国家标准化管理委员会 . 无损检测用电子直线加速器: GB/T 20129—2015[S]. 北京: 中国标准出版社, 2016.  
+General Administration of Quality Supervision, Inspection and Quarantine of the People's Republic of China, Standardization Administration of the People's Republic of China. Electron linac for non-destructive
+
+testing: GB/T 20129—2015[S]. Beijing: Standards Press of China, 2016.   
+7 Lutz W R, Maleki N, Bjärngard B E. Evaluation of a beam-spot camera for megavoltage X rays[J]. Medical Physics, 1988, 15(4): 614–617. DOI: 10.1118/1.596214.   
+8 Munro P, Rawlinson J A, Fenster A. Therapy imaging: source sizes of radiotherapy beams[J]. Medical Physics, 1988, 15(4): 517–524. DOI: 10.1118/1.596295.   
+9 Jaffray D A, Battista J J, Fenster A, et al. X-ray sources of medical linear accelerators: Focal and extra-focal radiation [J]. Medical Physics, 1993, 20(5): 1417 – 1427. DOI: 10.1118/1.597106.   
+10 Loewenthal E, Loewinger E, Bar-Avraham E, et al. Measurement of the source size of a 6- and 18-MV radiotherapy linac[J]. Medical Physics, 1992, 19(3): 687 –690. DOI: 10.1118/1.596812.   
+11 李成刚, 邓建军, 李勤, 等. 一体化高能 X 射线参数测量装置设计及应用[J]. 核技术, 2011, 34(6): 433–436.LI Chenggang, DENG Jianjun, LI Qin, et al. Design andapplication of integrated high energy X-ray parametermeasurement device[J]. Nuclear technology, 2011, 34(6):433–436.  
+12 陈浩, 许州, 金晓, 等. 高能工业 CT 用新型 X 射线源焦 点测量[J]. 强激光与粒子束, 2004, 16(3): 390–394. CHEN Hao, XU Zhou, JIN Xiao, et al. Focal spot measurement with a new X-ray source for high energy industrial CT[J]. Intense Laser and Particle Beams, 2004, 16(3): 390–394.   
+13 李勤, 王毅, 刘云龙, 等. 针孔法测量X光源焦斑尺寸 [J]. 强激光与粒子束, 2021, 33: 044007. DOI: 10.11884/ HPLPB202133.200132. LI Qin, WANG Yi, LIU Yunlong, et al. The focal spot size of X-ray source was measured by pinhole method[J]. Intense Laser and Particle Beams, 2021, 33: 044007. DOI: 10.11884/HPLPB202133.200132.   
+14 宋文龙, 李奉笑, 安康, 等. 高能工业CT电子直线加速器焦点测量方法与装置研制[J]. 光学学报, 2023, 43(23): 341–348.SONG Wenlong, LI Fengxiao, AN Kang, et al.Development of focus measurement method and devicefor high energy industrial CT electron LINAC[J]. ActaOptica, 2023, 43(23): 341–348.  
+15 牟启航, 李杰成, 柳淘, 等. X波段2 MeV小焦点加速器 研制及应用[J]. 原子核物理评论, 2024, 41(1): 418–425. MOU Qihang, LI Jiecheng, LIU Tao, et al. Development and application of X-band 2 MeV small focus accelerator [J]. Nuclear Physical Review, 2024, 41(1): 418–425.
+
+16 王爱涛, 孟超, 康达, 等. 2 MeV-X波段小焦点加速管的研制及应用[J]. 医疗装备, 2023, 36(3): 10–12+19.  
+WANG Aitao, MENG Chao, KANG Da, et al. Development and application of 2 MeV-X band small focus accelerator tube[J]. Medical Equipment, 2023, 36 (3): $1 0 ^ { - } 1 2 { + } 1 9$ .   
+17 李诗琳, 杨京鹤, 范雨轩, 等. C波段9 MeV小焦点驻波电子直线加速结构设计[J]. 原子能科学技术, 2025, 59(1): 213–219.  
+LI Shilin, YANG Jinghe, FAN Yuxuan, et al. Design of Cband 9 MeV small focus standing wave electron linear acceleration structure[J]. Atomic Energy Science and Technology, 2025, 59(1): 213–219.   
+18 Li F X, Zhong G W, Yu H J, et al. Measuring size and stability of focal spot for linear accelerator in industrial CT by slit translation scanning method[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 1–7.   
+19 Gambaccini M, Cardarelli P, Taibi A, et al. Measurement of focal spot size in a $5 . 5 \mathrm { M e V }$ linac[J]. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2011, 269 (10): 1157–1165. DOI: 10.1016/j.nimb.2011.02.089.   
+20 Li F X, Zhong G W, Yu H J, et al. Measuring size and stability of focal spot for linear accelerator in industrial CT by slit translation scanning method[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 4506207. DOI: 10.1109/TIM.2024.3406806.   
+21 Bagramova A, Zhumadilov K, Endo S, et al. Gamma ray registration efficiency simulation of a HPGe detector with PHITS[J]. Journal of Radioanalytical and Nuclear Chemistry, 2025, 334(1): 381 – 387. DOI: 10.1007/ s10967-024-09839-2.   
+22 陈刚. 高能X射线ICT数据采集系统（DAS）的研究[D].重庆: 重庆大学, 2007.  
+CHEN Gang. Study on high energy X-ray ICT Data acquisition System (DAS) [D]. Chongqing: Chongqing University, 2007.   
+23 王永泉, 杨朝旭, 周淳, 等. 应用LabVIEW软件开发的气体绝缘金属封闭开关设备声振联合检测系统[J]. 西安交通大学学报, 2021, 55(6): 131–140.  
+WANG Yongquan, YANG Chaoxv, ZHOU Chun, et al. The sound and vibration joint detection system of gas insulated metal enclosed switchgear is developed by using LabVIEW software[J]. Journal of Xi'an Jiaotong University, 2021, 55(6): 131–140.

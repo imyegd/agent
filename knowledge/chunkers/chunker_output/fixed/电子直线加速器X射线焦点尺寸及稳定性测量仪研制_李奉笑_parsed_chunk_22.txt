@@ -1,0 +1,5 @@
+re[J]. Atomic Energy Science and Technology, 2025, 59(1): 213–219.   
+18 Li F X, Zhong G W, Yu H J, et al. Measuring size and stability of focal spot for linear accelerator in industrial CT by slit translation scanning method[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 1–7.   
+19 Gambaccini M, Cardarelli P, Taibi A, et al. Measurement of focal spot size in a $5 . 5 \mathrm { M e V }$ linac[J]. Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2011, 269 (10): 1157–1165. DOI: 10.1016/j.nimb.2011.02.089.   
+20 Li F X, Zhong G W, Yu H J, et al. Measuring size and stability of focal spot for linear accelerator in industrial CT by slit translation scanning method[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 4506207. DOI: 10.1109/TIM.2024.3406806.   
+21 Bagramova A, Zhumadilov K, Endo S, et al. Gamma ray registration efficiency simulation of a HPGe detector with PHITS[J]. Journal of Radioanalytical and Nuclear Che

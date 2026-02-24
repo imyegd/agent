@@ -1,0 +1,10 @@
+$^ { 1 2 9 } \mathrm { X e } ^ { 3 3 + } + ^ { 4 } \mathrm { H e } ^ { + } + ^ { 1 6 } \mathrm { O } ^ { 4 + } { } ^ { , , }$ 等多元离子混合的“鸡尾酒式”束流（cocktail beam）的制备，为研究核能材料在多粒子协同辐照环境下的损伤行为提供了独特的实验
+
+![](images/4ea87965ba72c302fc0baf67962cf1c399840c06c54f2d1c8dfab80871e03161.jpg)  
+Fig. 1    Layout of the LEAF platform   
+图 1    LEAF 平台布局图
+
+表 1    FECR 主要设计参数  
+Table 1    Main design parameters of FECR   
+
+<table><tr><td>operating frequency/GHz</td><td>RF power/kW</td><td>magnet coils</td><td>mirror fields/T</td

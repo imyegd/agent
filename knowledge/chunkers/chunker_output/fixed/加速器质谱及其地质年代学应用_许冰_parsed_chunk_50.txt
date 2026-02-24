@@ -1,0 +1,9 @@
+8－510  
+［12］NelsonDE，KortelingRG，StottW R．Carbon-14：Directdetectionatnaturalconcentrations［J］．Science，1977，198（4316）：507－508  
+［13］ PurserKH，LiebertRB，LitherlandAE，etal．AnattempttodetecstableN-ionsfromasputterionsourceandsomeimplicationsoftheresultsforthedesignoftandemsforultra-sensitivecarbonanalysis［J］RevuedePhysiqueAppliquée，1977，12（10）：1487－1492  
+［14］ MullerRA．Radioisotopedatingwithaccelerators［J］．PhysicsToday，1979，32（2）：23－30  
+［15］KutscheraW．Anoverviewofworld-wideAMSfacilities［J］．NucleaInstrumentsand Methodsin PhysicsResearch Section B：BeamInteractionswithMaterialsandAtoms，2023，538：87－94．doi：101016／j．nimb．2023．02．016  
+［16］VandeGraaffRJ，ComptonKT，VanAttaLC．Theelectrostaticproductionofhighvoltagefornuclearinvestigations［J］．PhysicaReview，1933，43（3）：149－157
+
+［17］ HerbRG，ParkinsonDB，KerstDW．AVandeGraaffelectrostaticgeneratoroperatingunderhighairpressure［J］．ReviewofScientifiInstruments，1935，6（9）：261－265  
+［18］SynalHA，DöbeliM，JacobS，etal．RadiocarbonAMStowardsitlow-energylimits［J］．NuclearInstrumentsandMethods

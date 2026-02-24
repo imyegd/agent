@@ -1,0 +1,4 @@
+K R, Ryne R, et al. Particle-core model for transverse dynamics of beam halo[J]. Physical Review Accelerators and Beams, 1998, 1:[13] 084201.   
+[14] Wang T S F. Particle-core study of halo dynamics in periodic-focusing channels[J]. Physical Review E, 2000, 61（1）: 855-861.   
+Hofmann I, Laslett L J, Smith L, et al. Stability of the Kapchinskij-Vladimirskij (K-V) distribution in long periodic transport systems[J]. Particle Accelerators,[15] 1983, 13: 145-178.   
+[16] Chernin D. Evolution of RMS beam envelop

@@ -1,0 +1,17 @@
+# 参考文献：
+
+MOHAN R, GROSSHANS D. Advanced Drug Delivery Reviews,[1]2017, 109: 26.  
+BRADA  M,  PIJLS-JOHANNESMA  M,  DE  RUYSSCHER  D.[2] Journal of Clinical Oncology, 2007, 25(8): 965.   
+LI  P  Z,  ZHANG  T  J,  JI  B,  et  al. Journal  of  Nuclear  Science  and[3] Technology, 2022, 59(9): 1162.   
+STORM  D  W,  AU  Y,  COHEN  R  C,  et  al. IEEE  Transactions  on[4] Nuclear Science, 1977, 24(3): 1634.   
+WU  X  Y.  Conceptual  Design  and  Orbit  Dynamics  in  a[5] $2 5 0 ~ \mathrm { M e V }$ Superconducting  Synchrocyclotron[D].  Michigan:  Michigan  State University, 1990.   
+KLEEVEN W, ABS M, FORTON E, et al. The IBA Superconduct-[6] ing Synchrocyclotron Project S2C2[C]// Proceedings of the 20th International  Conference  on  Cyclotrons  and  their  Applications, September  16-20, 2013,  Vancouver,  BC,  Canada.  Geneva:   JAC-
+
+OW, 2013.   
+GREWAL S, AHMAD S, JIN H. The International Journal of med-[7] ical Physics Research and Practice, 2021, 48(4): 1508.   
+POWER W M, HENRICH L R, KERNS Q A, et al. Review of Sci-[8] entific Instruments, 1948, 19(8): 506.   
+[9] LE COUTEUR K J. Proc. Phys. Soc. B, 1951, 64(12): 1073.   
+LE COUTEUR K J, LIPTON S. Philosophical Magazine Series 1,[10] 1955, 46(383): 1265.
+
+PEARSON E, ABS M, HENROTIN S, et al. Mapping of the New[11] IBA Superconducting Synchrocyclotron (S2C2) for proton therapy [C]// Proceedings  of  the  20th  International  Conference  on   Cyclotrons  and  their  Applications,  September  16-20,  2013,  Vancouver, BC, Canada. Geneva: JACOW, 2013.   
+Chen Jiaer. Fundamentals of Accelerator Physics[M]. Beijing: Pek-[12] ing University Press, 2012. (in Chinese) (陈佳洱. 加速器物理基础[M]. 北京: 北京大学出版社, 2012.)

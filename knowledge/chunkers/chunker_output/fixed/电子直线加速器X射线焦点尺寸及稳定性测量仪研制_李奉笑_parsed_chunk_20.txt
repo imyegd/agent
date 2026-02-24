@@ -1,0 +1,6 @@
+6.   
+10 Loewenthal E, Loewinger E, Bar-Avraham E, et al. Measurement of the source size of a 6- and 18-MV radiotherapy linac[J]. Medical Physics, 1992, 19(3): 687 –690. DOI: 10.1118/1.596812.   
+11 李成刚, 邓建军, 李勤, 等. 一体化高能 X 射线参数测量装置设计及应用[J]. 核技术, 2011, 34(6): 433–436.LI Chenggang, DENG Jianjun, LI Qin, et al. Design andapplication of integrated high energy X-ray parametermeasurement device[J]. Nuclear technology, 2011, 34(6):433–436.  
+12 陈浩, 许州, 金晓, 等. 高能工业 CT 用新型 X 射线源焦 点测量[J]. 强激光与粒子束, 2004, 16(3): 390–394. CHEN Hao, XU Zhou, JIN Xiao, et al. Focal spot measurement with a new X-ray source for high energy industrial CT[J]. Intense Laser and Particle Beams, 2004, 16(3): 390–394.   
+13 李勤, 王毅, 刘云龙, 等. 针孔法测量X光源焦斑尺寸 [J]. 强激光与粒子束, 2021, 33: 044007. DOI: 10.11884/ HPLPB202133.200132. LI Qin, WANG Yi, LIU Yunlong, et al. The focal spot size of X-ray source was measured by pinhole method[J]. Intense Laser and Particle Beams, 2021, 33: 044007. DOI: 10.11884/HPLPB202133.200132.   
+14 宋文龙, 李奉笑, 安康, 等. 高能工业CT电子直线加速器焦点测

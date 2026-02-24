@@ -1,0 +1,67 @@
+# 参考文献（References）：
+
+［1］ BennettCL，BeukensRP，CloverM R，etal．Radiocarbondatingusingelectrostaticaccelerators：Negativeionsprovidethekey［J］Science，1977，198（4316）：508－510  
+［2］ NelsonDE，KortelingRG，StottW R．Carbon-14：Directdetectionatnaturalconcentrations［J］．Science，1977，198（4316）：507－508  
+［3］ 姜山，董克君，何明．超灵敏加速器质谱技术进展及应用［J］岩矿测试，2012，31（1）：7－23JiangShan，DongKejun，HeMing．Developmentandapplicationoultrasensitiveacceleratormassspectrometry［J］．RockandMineraAnalysis，2012，31（1）：7－23  
+［4］ 周卫健，卢雪峰，武振坤，等．西安加速器质谱中心多核素分析的加速器质谱仪［J］．核技术，2007，30（8）：702－708ZhouWeijian，LuXuefeng，WuZhenkun，etal．TheAMSfacilityaXi,anAMSCentre［J］．NuclearTechniques，2007，30（8）：702－708  
+［5］ KutscheraW．Applicationsofacceleratormassspectrometry［J］InternationalJournalofMassSpectrometry，2013，349：203－218．doi：10．1016／j．ijms．2013．05．023  
+［6］姜山．超高灵敏加速器质谱技术及应用进展［J］．质谱学报，2019，40（5）：401－415JiangShan．Developmentandapplicationofultrasensitiveacceleratomassspectrometry［J］．JournalofChineseMassSpectrometrySociety，2019，40（5）：401－415  
+［7］SynalHA．Acceleratormassspectrometry：Ultra-sensitivedetectiotechniqueoflong-livedradionuclides［J］．Chimia，2022，76（1－2）：45－51  
+［8］刘起，侯小琳．阿克量级放射性同位素分析的加速器质谱分析技术及其进展［J］．分析测试学报，2024，43（10）：1525－1535LiuQi， Hou Xiaolin．Progressofacceleratormassspectrometrytechnologyfordeterminationofradioisotopesatatto-gram level［J］JournalofInstrumentalAnalysis，2024，43（10）：1525－1535  
+［9］管永精，王慧娟，鞠志萍，等．加速器质谱技术及其在地球科学中的应用［J］．岩矿测试，2005，24（4）：277－283GuanYongjing，WangHuijuan，JuZhiping，etal．Acceleratormasspectrometryanditsapplicationsingeosciences［J］．RockandMineraAnalysis，2005，24（4）：277－283  
+［10］ YiC，Liu K， CuiZ， etal．AMS radiocarbon dating ofLateQuaternaryglaciallandforms，sourceoftheÜrümqiRiver，TienSha $- \mathbf { A }$ pilotstudyo $^ { 1 4 } \mathrm { C }$ datingoninorganiccarbon［J］．QuaternaryInternational，2004，121：99－107．doi：10．1016／j．quaint．2004．01．026  
+［11］ ZhaoM，ShenGJ，HeJN，etal．AMS $^ { 1 4 } \mathrm { C }$ datingofthehomininarchaeological site Chuandong cave in Guizhou Province，SouthwesternChina［J］．QuaternaryInternational，2017，447：102－110．doi：10．1016／j．quaint．2017．04．037  
+［12］孔屏．宇宙成因核素在地球科学中的应用［J］．地学前缘，2002，9（3）：41－48KongPing．ApplicationsofcosmogenicnuclidesintheEarthscience
+
+［J］．EarthScienceFrontiers，2002，9（3）：41－48  
+［13］孔屏．宇宙成因核素埋藏年龄法：原理及应用［J］．第四纪研究，2012，32（3）：388－393KongPing．Cosmogenicnuclideburialdating：Theoryandapplication［J］．QuaternarySciences，2012，32（3）：388－393  
+［14］ HouX．Applicationo $^ { 1 2 9 } \mathrm { I }$ Iasanenvironmentaltracer［J］．JournaloRadioanalyticalandNuclearChemistry，2004，262（1）：67－75  
+［15］ WirsigC，Ivy-OchsS，NakiAkçar，etal．Combinedcosmogenic$^ { 1 0 } \mathrm { { B e } }$ e，insitu $^ { 1 4 } \mathrm { C }$ and $3 6$ 6ClconcentrationsconstrainHolocenehistoryanderosiondepthofGruebenglacier（CH）［J］．SwissJournaloGeosciences，2016，109（3）：379－388  
+［16］ YoungNE，LampJ，KoffmanT，etal．DeglaciationofcoastalsouthwesternSpitsbergen dated with in situ cosmogenic $1 0$ Beand $^ { 1 4 } \mathrm { C }$ measurements［J］．JournalofQuaternaryScience，2018，33（7）：763－776  
+［17］ SynalHA，WackerL．AMSmeasurementtechniqueafter30years：Possibilitiesand limitationsoflow energy systems［J］．NucleaInstrumentsand Methodsin PhysicsResearch Section B：BeamInteractionswithMaterialsandAtoms，2010，268（7－8）：701－707  
+［18］ SynalHA．Developments in acceleratormass spectrometry［J］InternationalJournalofMassSpectrometry，2013，349－350：192－202doi：10．1016／j．ijms．2013．05．008  
+［19］何明，包轶文，苏胜勇，等．小型加速器质谱系统研制及分析技术研究［J］．原子核物理评论，2020，37（3）：784－790HeMing， Bao Yiwen， Su Shengyong etal．DevelopmenttheminiaturizedAMSsystem anditsanalysistechnique［J］．NucleaPhysicsReview，2020，37（3）：784－790  
+［20］ 姜山．我国加速器质谱仪器技术在国际上的地位［J］．质谱学报，2021，42（5）：672－680JiangShan．InternationalstatusoftheChineseAMS instrumentechnique［J］．JournalofChineseMassSpectrometrySociety，2021，42（5）：672－680  
+［21］何明，赵庆章，张文慧，等．加速器质谱及其小型化技术［J］原子核物理评论，2022，39（1）：54－64HeMing，ZhaoQingzhang，ZhangWenhui，etal．Acceleratormassspectrometryanditsminiaturizationtechnology［J］．NuclearPhysicReview，2022，39（1）：54－64  
+［22］沈洪涛，陈定雄，张国峰，等．国产小型加速器质谱仪及其应用前景［J］．原子核物理评论，2023，40（2）：257－263Shen Hongtao， Chen Dingxiong， Zhang Guofeng， et al．Thehomemadecompactacceleratormassspectrometryanditsapplication［J］．NuclearPhysicsReview，2023，40（2）：257－263  
+［23］ ZhangH，YuB，SongL，etal．Preliminaryprogressreporton10Beand $^ { 2 6 } \mathrm { A l }$ lsamplepreparationattheIHEG，CAGSAMSlaboratory［J］NuclearInstrumentsandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2023，535：38－42．doi：10．1016／j．nimb．2022．11．020  
+［24］KleinM，GottdangA，MousDJW．High-curren $^ { 1 4 } \mathrm { C }$ measurementsonanHVE 1MV AMSsystem［J］．Radiocarbon，2013，55（2）：224－230  
+［25］HeinemeierJ，OlsenJ，KleinM，etal．ThenewextendedHVE1MV multi-elementAMSsystemforlowbackgroundinstalledattheAarhus
+
+AMSDatingCentre［J］．NuclearInstrumentsandMethodsinPhysicResearchSectionB：Beam InteractionswithMaterialsandAtoms，2015，361：143－148．doi：10．1016／j．nimb．2015．05．039  
+［26］ MüllerAM，ChristlM，DöbeliM，etal．10BeAMSmeasurementsalowenergies（E＜1MeV）［J］．NuclearInstrumentsandMethodsinPhysicsResearchSectionB：Beam InteractionswithMaterialsandAtoms，2008，266（10）：2207－2212  
+［27］BraucherR，GuillouV，BourlèsDL，etal．PreparationofASTERin-house10Be／9Bestandardsolutions［J］．NuclearInstrumentsandMethodsin PhysicsResearch Section B：Beam InteractionswithMaterialsandAtoms，2015，361：335－340．doi：10．1016／j．nimb．201506．012．  
+［28］ WilckenKM，HotchkisM，LevchenkoV，etal．From carbontoactinides：A new universal1MV acceleratormassspectrometeraANSTO［J］．NuclearInstrumentsandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2015，361：133－138．doi：10．1016／j．nimb．2015．04．054  
+［29］ BraucherR，OslislyR，MesfinPP，etal．Insitu-produced10Beand26AlindirectdatingofElarmékoraEarlierStoneAgeartefacts：FirsattemptinasavannahforestmosaicinthemiddleOgoouévalley，Gabon［J］．PhilosophicalTransactionsofthe RoyalSociety B：BiologicalSciences，2022，377（1849）：20200482．doi：10．1098／rstb2020．0482  
+［30］Schulze-KönigT，MadenC，DenkE，etal．Comparisonof41Caanalysison0.5MVand5MV-AMSsystems［J］．NuclearInstrumentandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2010，268（7－8）：752－755  
+［31］ZhaoXL，LitherlandAE，EliadesJ，etal．PartialfragmentationoCaF－ atlowMeVenergiesanditspotentialusefor41Cameasuremen［J］．NuclearInstrumentsandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2013，294：369－373doi：10．1016／j．nimb．2012．01．046  
+［32］Stan-SionC，EnachescuM，GhitaDG，etal．AnewAMSfacilitybasedon a Cockcroft-Walton type 1MV tandetron atIFIN-HHMagurele，Romania［J］．NuclearInstrumentsandMethodsinPhysicResearchSectionB：Beam InteractionswithMaterialsandAtoms，2014，319：117－122．doi：10．1016／j．nimb．2013．07．073  
+［33］ ChamizoE，EnamoradoS M， García-León M， etal．Plutoniummeasurementsonthe1MVAMSsystem attheCentroNacionaldeAceleradores（CNA）［J］．NuclearInstrumentsandMethodsinPhysicResearchSectionB：Beam InteractionswithMaterialsandAtoms，2008，266（22）：4948－4954  
+［34］陈雅茹，刘兴起．新疆艾里克湖炭屑记录的中亚干旱区 MIS3中期 以 来 的 古 火 灾 演 化 ［J］．第 四 纪 研 究，2024，44（1）：48－58ChenYaru，LiuXingqi．FirehistoryinaridCentralAsiasincethemiddleMIS3inferredfromcharcoalrecordsinLakeAilike，Xinjiang［J］．QuaternarySciences，2024，44（1）：48－58  
+［35］汪洪娇，曾蒙秀，彭海军，等．红原泥炭记录的晚冰期以来若尔盖地区粉尘通量变率及其气候影响 ［J］．第四纪研究，2023，43（1）：57－73WangHongjiao，ZengMengxiu，PengHaijun，etal．Significanceo
+
+climateconditionsinthevariabilityofeoliandustdepositionsincethlastdeglaciationintheZoigêregionrecordedbytheHongyuanpea［J］．QuaternarySciences，2023，43（1）：57－73．  
+［36］ ReimerPJ，AustinW EN，BardE，etal．TheIntCal20NorthernHemisphereradiocarbonagecalibrationcurve（0－55calkBP）［J］Radiocarbon，2020，62（4）：725－757  
+［37］ WangL，JiangW Y，JiangD B，etal．ProlongedheavysnowfalduringtheYoungerDryas［J］．JournalofGeophysicalResearch：Atmospheres，2018，123（24）：13748－13762  
+［38］ ChengH，EdwardsRL，SinhaA，etal．TheAsianmonsoonoverthpast640,000yearsandiceageterminations［J］．Nature，2016，534：640－646．doi：10．1038／nature18591  
+［39］GoslarT，Hercman H，PazdurA．Comparison ofU-seriesandradiocarbondatesofspeleothems［J］．Radiocarbon，2000，42（3）：403－414  
+［40］ ZhouW，DonahueD，JullAJT．RadiocarbonAMSdatingofpollenconcentratedfromeoliansediments：ImplicationsformonsoonclimatchangesincetheLateQuaternary［J］．Radiocarbon，1997，39（1）：19－26．  
+［41］HaasM，BliedtnerM，BorodynkinI，etal．Radiocarbondatingofleawaxesintheloess-paleosolsequenceKurtak，centralSiberia［J］Radiocarbon，2017，59（1）：165－176  
+［42］孙楠，李夏博，尚雪，等．黄土高原南部白水河流域全新世中期植 被 特 征 及 气 候 意 义 ［J］．第 四 纪 研 究，2022，42（6）：1541－1553SunNan，LiXiabo，ShangXue，etal．Mid-HolocenevegetationcharacteristicsandclimaticsignificanceofthesouthernChineseLoesPlateauintheBaishuiRivervalley［J］．QuaternarySciences，2022，42（6）：1541－1553  
+［43］陈雨露，郭利成，崔静怡，等．全新世年代框架约束下的东北地区土 壤 有 机 碳 储 库 时 空 格 局 ［J］．第 四 纪 研 究，2022，42（5）：1311－1327ChenYulu，GuoLicheng，CuiJingyi，etal．Spatiotemporalvariationofwell-datedsoilorganiccarbonpoolinNortheastChinaduringthHolocene［J］．QuaternarySciences，2022，42（5）：1311－1327  
+［44］ OwenLA，CaffeeM W，FinkelRC，etal．QuaternaryglaciationotheHimalayan-Tibetanorogeny［J］．JournalofQuaternaryScience，2008，23（6－7）：513－531  
+［45］LiY，LiY，HarborJ，etal．Cosmogenic10BeconstraintsonlittleiceageglacialadvancesintheeasternTianShan，China［J］．QuaternarScienceReviews，2016，138：105－118．doi：10．1016／j．quascirev．201602．023  
+［46］ ZengQ，YuanG，DaviesT，etal $1 0$ 0BedatingandseismicoriginoLuanshibaorockavalancheinSETibetanPlateauandimplicationsonLitangactivefault［J］．Landslides，2020，17：1091－1104．doi：101007／s10346－019－01319-z  
+［47］GrangerDE．Areviewofburialdatingmethodsusing $^ { 2 6 } \mathrm { A l }$ land10Be［J］．GeologicalSocietyofAmericaSpecialPaper，2006，415：1－16doi．org／10．1130／2006．2415（01）  
+［48］田晴映，张培震，梁浩，等．应用河流阶地 $^ { 1 0 } \mathrm { { B e } }$ 深度剖面计算千年至十万年尺度流域平均古侵蚀速率［J］．第四纪研究，2022，42（5）：1247－1259
+
+TianQingying，ZhangPeizhen，LiangHao，etal．Averagecatchmentwidepaleoerosionratesovertimescalesof $1 0 ^ { 3 } \sim 1 0 ^ { 5 }$ yearsfrom $^ { 1 0 } \mathrm { { B e } }$ depthprofilesin riverterraces［J］．QuaternarySciences，2022，42（5）：1247－1259  
+［49］ 邹俊杰，何宏林，周永胜，等．断层面高精度形貌对比研究：基岩区古地震研究的选址［J］．第四纪研究，2022，42（3）：768－782  
+ZouJunjie，HeHonglin，ZhouYongsheng，etal．Comparativestudyo high-precisionmorphologyoffaultsurfaces：A discussion ofsite selectionforpaleo-seismologicalstudyinbedrockarea［J］．Quaternar Sciences，2022，42（3）：768－782   
+［50］VonBlanckenburgF．The control mechanisms of erosion andweatheringatbasinscalefromcosmogenicnuclidesinriversedimen［J］．EarthandPlanetaryScienceLetters，2005，237（3－4）：462－479  
+［51］ LupkerM，Blard P H， Lavé J， etal． $1 0$ 0Be-derived HimalayandenudationratesandsedimentbudgetsintheGangabasin［J］．EartandPlanetaryScienceLetters，2012，333－334：146－156．doi：101016／j．epsl．2012．04．020
+
+［52］ LiuX，ShenG，TuH，etal．Initial26Al／10BeburialdatingofthehomininsiteBailongcaveinHubeiProvince，CentralChina［J］QuaternaryInternational，2015，389：235－240．doi：10．1016／j．quaint2014．10．028  
+［53］ FavilliF，EgliM，BrandovaD，etal．Combinationofnumerica datingtechniquesusing10Beinrockbouldersand $^ { 1 4 } \mathrm { C }$ Cofresilientsoi organicmatterforreconstructing the chronology ofglacialand periglacialprocessesinahigh alpinecatchmentduringtheLat PleistoceneandEarlyHolocene［J］．Radiocarbon，2009，51（2）： 537－552   
+［54］HippeK，JansenJD，SkovDS，etal．Cosmogenicinsitu ${ } ^ { 1 4 } \mathrm { C } - { } ^ { 1 0 }$ 0BrevealsabruptLateHolocenesoillossintheAndeanAltiplano［J］NatureCommunications，2021，12：2546．doi：10．1038／s41467－021－22825－6  
+［55］ FülöpRH，BishopP，FabelD，etal．Quantifyingsoillosswithin-situ cosmogenic 10Be and $^ { 1 4 } \mathrm { C }$ depth-profiles［J］．QuaternaryGeochronology，2015，27：78－93．doi：10．1016／j．quageo．2015．01．003

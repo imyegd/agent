@@ -1,0 +1,3 @@
+nsport line orbit distortion correction based on response matrix and SVD algorithm [J]. High Energy Physics and Nuclear Physics, 2006, 30 (z1): 37–39.   
+17 Han Y, Hou J, Liu G, et al. Analysis of transmission efficiency of SSRF electron beam transfer lines[J]. Nuclear Science and Techniques, 2006, 17(2): 65 – 70. DOI: 10.1016/s1001-8042(06)60014-6.   
+18 Chung Y, Decker G, Evans K. Closed orbit correction using singular value decomposition of the response matrix [C]. Proceedings of 1993 IEEE Particle Accel

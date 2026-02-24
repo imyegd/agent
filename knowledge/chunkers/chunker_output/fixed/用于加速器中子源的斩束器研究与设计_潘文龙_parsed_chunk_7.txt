@@ -1,0 +1,21 @@
+算可得斩束器所需偏转电压取决于极板长度L，一般设计斩束器时，斩束器工作电压不宜过高，过高工作电压会对束流输运有较大影响[15]，通过相关计算 $L$ 取 $8 5 ~ \mathrm { m m }$ ，偏转电压 $\varphi _ { \mathrm { d } } { = } 8 5 6 4 . 7 \ \mathrm { V }$ ，这个数值相对于一般的斩束器偏转电压是略低的，因此对于斩束器工作效果较好，实际生产也比较容易。
+
+在 CST Studio Suite 软件中建立斩束器模型，进行其静电学仿真计算，图 2 是斩束器电场强度矢量分布图，图 3是斩束器横向电场强度变化曲线。
+
+通过仿真结果可以发现斩束器的电场横向分布较为不均匀，变化较大，为了解决这一问题，将斩束器极板几何形状
+
+![](images/00c36536cb63f4bf9f2f96f7f5188da93d255868c0a7a53fbc0a3bdf17cee100.jpg)  
+Fig. 2    Vector diagram of electric field strength for chopper   
+图 2    斩束器电场强度矢量图
+
+进行优化，采用圆弧极板来替代平行极板。通过 CST Studio Suite软件模拟最终选取最优参数，图 4为入口束流范围电场强度变化与曲率半径的关系。
+
+![](images/f1a3e3dcdba5c9297c9625b5a10c47583c42207c966947b8cde14e23b5445aaf.jpg)  
+Fig. 3    Transverse electric field intensity distribution curve of chopper   
+图 3    斩束器横向电场强度分布曲线图
+
+![](images/a45a62cac68298b77981e7ae7d90bf8d0b66f4c7df8110fd2d8e5ba4baf2cdeb.jpg)  
+Fig. 4    Relationship diagram between transverse electric field variation and curvature radius   
+图 4    横向电场变化与曲率半径关系图
+
+斩束器曲率半径选取为 $2 1 0 \mathrm { m m }$ ，

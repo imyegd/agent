@@ -1,0 +1,9 @@
+和吸收作用使射线通量减少 $\mathrm { e } ^ { - 1 }$ 所需的厚度，取值范围在 $1 2 0 \sim 1 7 0 ~ \mathrm { g / c m } ^ { 2 }$ ，对于密度为 $2 . 7 \ \mathrm { g } / \mathrm { c m } ^ { 3 }$ 的岩石，取值范围在 $4 5 \sim 6 5 ~ \mathrm { c m }$ ； $\lambda$ 是核素的衰变常数，其是半衰期的倒数与 ln2的乘积。
+
+Fig.5 Theeffectofcalibrationcurvevariationsoncalibrated $^ { 1 4 } \mathrm { C }$ ages．（a）Theerrorofthecalibratedageissmallduringtheperiod withhighvariationrateof $^ { 1 4 } \mathrm { C }$ activityinatmospheric $\mathrm { C O } _ { 2 }$ ；（b）Theerrorofthecalibratedageislargeduringtheperiodwithlow variationrateo $^ { 1 4 } \mathrm { C }$ activityinatmospheric $\mathrm { C O } _ { 2 }$   
+![](images/dcf3d73db67798ea0eaa82da387362004b031c84c6b7350b0d083f80c2d08f57.jpg)  
+大气 $\mathrm { C O } _ { 2 }$ 中 $^ { 1 4 } \mathrm { C }$ 活度变率对校正年龄的影响：（a）大气 $\mathrm { C O } _ { 2 }$ 中 ${ } ^ { 1 4 } \mathrm { C }$ 活度变率较大，校正后年代误差较小；（b）大气 $\mathrm { C O } _ { 2 }$ 中 $^ { 1 4 } \mathrm { C }$ 活度变率较小，校正后年代误差较大
+
+图 5 校正曲线对 $^ { 1 4 } \mathrm { C }$ 校正年龄的影响
+
+对于暴露时间较短 $t \ll t _ { 1 / 2 }$ ）的表面，宇宙

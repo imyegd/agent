@@ -1,0 +1,14 @@
+[15] 刘洋, 朱庆福, 罗皇达, 等. 启明星 II 号安全控制部件的实验验证[J]. 原子能科学技术, 2019, 53(2): 256-260.  
+LIU Yang, ZHU Qingfu, LUO Huangda, et al. Experiment verification of safety control component in Venus-II [J]. Atomic Energy Science and Technology, 2019, 53(2): 256-260(in Chinese).   
+[16] 陈效先, 王璠, 周琦, 等. 启明星Ⅱ号中子吸收体反应性价值测量[J]. 原子能科学技术, 2020, 54(2): 302-306.  
+CHEN Xiaoxian, WANG Fan, ZHOU Qi, et al. Measurement of reactivity value of neutron absorber in Venus-II [J]. Atomic Energy Science and Technology, 2020, 54(2): 302-306(in Chinese).   
+[17] 万俊生, 张颖, 张利兴, 等. $150 \mathrm{MeV}$ 加速器驱动的反应堆系统固态金属靶优化研究[J]. 原子能科学技术, 2004, 38(1): 5-9.  
+WAN Junsheng, ZHANG Ying, ZHANG Lixing, et al. Study on optimization of solid spallation target in 150 MeV accelerator-driven reactor system[J]. Atomic Energy Science and Technology, 2004, 38(1): 5-9(in Chinese).   
+[18] 樊胜, 叶沿林, 赵志祥, 等. 150 MeV 质子入射固态金属靶性质研究[J]. 原子能科学技术, 2001, 35(3): 239-244.  
+FAN Sheng, YE Yanlin, ZHAO Zhixiang, et al. Study on the properties of solid metal neutron production target bombarded by protons at 150 MeV[J]. Atomic Energy Science and Technology, 2001, 35(3): 239-244(in Chinese).   
+[19] 樊胜, 叶沿林, 肖玉衡, 等. 散裂中子靶能量沉积研究 [J]. 原子能科学技术, 2001, 35(4): 293-299.  
+FAN Sheng, YE Yanlin, XIAO Yuheng, et al. The energy deposition of the spallation neutron target[J]. Atomic Energy Science and Technology, 2001, 35(4): 293-299(in Chinese).   
+[20] 秦博, 付晓刚, 马浩然, 等. 铅铋合金气相氧含量控制初步实验研究[J]. 材料导报, 2019, 33(11): 1821-1824.  
+QIN Bo, FU Xiaogang, MA Haoran, et al. Preliminary experiment study on control of oxygen concentration via gas phase in liquid lead-bismuth alloy[J]. Materials Reports, 2019, 33(11): 1821-1824(in Chinese).   
+[21] 秦博, 鲁盛会, 刘思涵, 等. 面向材料腐蚀防护的铅铋合金氧测氧控研究进展[J]. 材料导报, 2025, 39(4): 139-150.  
+QIN Bo, LU Shenghui, LIU Sihan, et al. Progress on the development of measurement and control of dissolved oxygen in lead-bismuth alloy for the materials corrosion protection[J]. Materials Reports, 2025, 39(4): 139-150(in Chinese).

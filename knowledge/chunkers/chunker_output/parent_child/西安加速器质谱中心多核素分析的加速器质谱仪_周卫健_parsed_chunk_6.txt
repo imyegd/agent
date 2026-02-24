@@ -1,0 +1,1 @@
+measurement</td></tr><tr><td>探测器 Detector</td><td>气体电离室探测器 Gas ionization chamber detector</td></tr><tr><td>控制系统</td><td>带光纤的高低级控制系统</td></tr><tr><td>Control system</td><td>High-low level control with fiber optics</td></tr></table>

@@ -1,0 +1,49 @@
+# 参考文献：
+
+[1] 方守贤, 王乃彦, 何多慧, 等. 关于加速器驱动次临界系统 (ADS) 研发促进我国核能可持续发展的建议[J]. 中国科学院院刊, 2009, 24(6): 641-644.  
+FANG Shouxian, WANG Naiyan, HE Duohui, et al. Suggestions on R and D of accelerator driving sub-critical
+
+system (ADS) facilitating sustainable development of nuclear energy[J]. Bulletin of Chinese Academy Sciences, 2009, 24(6): 641-644(in Chinese).   
+[2] 詹文龙, 徐珊珊. 未来先进核裂变能——ADS 僵变系统 [J]. 中国科学院院刊, 2012, 27(3): 375-381.  
+ZHAN Wenlong, XU Hushan. Advanced fission energy program-ADS transmutation system[J]. Bulletin of Chinese Academy of Sciences, 2012, 27(3): 375-381(in Chinese).   
+[3] 史永谦, 夏普, 罗璋琳, 等. ADS 次临界实验装置——启明星 1#[J]. 原子能科学技术, 2005, 39(5): 447-450.  
+SHI Yongqian, XIA Pu, LUO Zhanglin, et al. ADS subcritical experimental assembly-Venus 1#[J]. Atomic Energy Science and Technology, 2005, 39(5): 447-450(in Chinese).   
+[4] 王璠, 朱庆福, 陈熙萌, 等. 启明星 1#次临界装置的裂变分布[J]. 原子能科学技术, 2010, 44(10): 1191-1194.  
+WANG Fan, ZHU Qinfu, CHEN Ximeng, et al. Fission rate distribution for Venus 1# sub-critical assembly[J]. Atomic Energy Science and Technology, 2010, 44(10): 1191-1194(in Chinese).   
+[5] 朱庆福, 罗皇达, 张巍, 等. 跳源法在启明星 1#次临界装置中的应用[J]. 原子能科学技术, 2010, 44(5): 567-570.  
+ZHU Qingfu, LUO Huangda, ZHANG Wei, et al. Application of source-Jerk method on Venus 1# sub-critical assembly[J]. Atomic Energy Science and Technology, 2010, 44(5): 567-570(in Chinese).   
+[6] 曹健, 史永谦, 夏普, 等. 基于启明星 1#的 ADS 壄变研究[J]. 原子能科学技术, 2012, 46(10): 1185-1188.  
+CAO Jian, SHI Yongqian, XIA Pu, et al. ADS transmutation research based on Venus 1#[J]. Atomic Energy Science and Technology, 2012, 46(10): 1185-1188(in Chinese).   
+[7] 刘锋, 史永谦, 朱庆福, 等. ADS启明星1#次临界反应堆缓发中子有效份额的测量[J].原子能科学技术, 2016, 50(8): 1445-1448.  
+LIU Feng, SHI Yongqian, ZHU Qingfu, et al. Measurement of effective delayed neutron fraction for ADS Venus 1# sub-criticality reactor[J]. Atomic Energy Science and Technology, 2016, 50(8): 1445-1448(in Chinese).   
+[8] 朱庆福, 王璠, 史永谦, 等. 启明星 1#次临界装置热中子能谱区裂变率分布测量[J]. 原子能科学技术, 2010, 44(9): 1089-1092.  
+ZHU Qingfu, WANG Fan, SHI Yongqian, et al. Fission rate distribution measurement of thermal neutron spec
+
+trum zone in Venus 1# sub-critical assembly[J]. Atomic Energy Science and Technology, 2010, 44(9): 1089-1092(in Chinese).   
+[9] 朱庆福, 周琦, 梁淑红, 等. 启明星 II 号双堆芯零功率装置[J]. 原子能科学技术, 2019, 53(10): 1842-1849.  
+ZHU Qingfu, ZHOU Qi, LIANG Shuhong, et al. Venus-II dual-core zero power reactor[J]. Atomic Energy Science and Technology, 2019, 53(10): 1842-1849(in Chinese).   
+[10] 朱庆福, 周琦, 夏兆东, 等. 启明星 II 号零功率装置铅堆堆芯首次物理启动[J]. 原子能科学技术, 2021, 55(4): 577-583.  
+ZHU Qingfu, ZHOU Qi, XIA Zhaodong, et al. First physics start-up of lead core of Venus-II zero power reactor[J]. Atomic Energy Science and Technology, 2021, 55(4): 577-583(in Chinese).   
+[11] 杨懿宸, 郑友琦, 朱庆福, 等. 基于启明星临界实验装置的小型铅堆确定论中子学计算方法研究及验证[J]. 原子能科学技术, 2025, 59(3): 644-655.  
+YANG Yichen, ZHENG Yongqi, ZHU Qingfu, et al. Deterministic neutronics calculation method of small lead-cooled reactor based on Venus-II criticality experimental facility and its verification[J]. Atomic Energy Science and Technology, 2025, 59(3): 644-655(in Chinese).   
+[12] 梁淑红, 朱庆福, 史永谦, 等. 跳源法测量 ADS 启明星 II 号的次临界度及动态特性[J]. 原子能科学技术, 2018, 52(2): 302-306.  
+LIANG Shuhong, ZHU Qingfu, SHI Yongqian, et al. Sub-critical reactivity and dynamic characteristic measured by source-Jerk method on Venus-II [J]. Atomic Energy Science and Technology, 2018, 52(2): 302-306(in Chinese).   
+[13] 姜韦, 顾龙, 朱庆福, 等. 启明星 2 号轻水堆燃料棒价值实验和模拟研究[J]. 原子能科学技术, 2018, 52(9): 1665-1670.  
+JIANG Wei, GU Long, ZHU Qingfu, et al. Experiment and simulation study for fuel rod worth of Venus-II light water reactor[J]. Atomic Energy Science and Technology, 2018, 52(9): 1665-1670(in Chinese).   
+[14] 刘洋, 周琦, 朱庆福, 等. 周期法测量启明星 II 号散裂靶材料的反应性价值[J]. 原子能科学技术, 2018, 52(10): 1769-1773.  
+LIU Yang, ZHOU Qi, ZHU Qingfu, et al. Reactivity measurement of solid spallation target in Venus-II by period method[J]. Atomic Energy Science and Technology, 2018, 52(10): 1769-1773 (in Chinese).
+
+[15] 刘洋, 朱庆福, 罗皇达, 等. 启明星 II 号安全控制部件的实验验证[J]. 原子能科学技术, 2019, 53(2): 256-260.  
+LIU Yang, ZHU Qingfu, LUO Huangda, et al. Experiment verification of safety control component in Venus-II [J]. Atomic Energy Science and Technology, 2019, 53(2): 256-260(in Chinese).   
+[16] 陈效先, 王璠, 周琦, 等. 启明星Ⅱ号中子吸收体反应性价值测量[J]. 原子能科学技术, 2020, 54(2): 302-306.  
+CHEN Xiaoxian, WANG Fan, ZHOU Qi, et al. Measurement of reactivity value of neutron absorber in Venus-II [J]. Atomic Energy Science and Technology, 2020, 54(2): 302-306(in Chinese).   
+[17] 万俊生, 张颖, 张利兴, 等. $150 \mathrm{MeV}$ 加速器驱动的反应堆系统固态金属靶优化研究[J]. 原子能科学技术, 2004, 38(1): 5-9.  
+WAN Junsheng, ZHANG Ying, ZHANG Lixing, et al. Study on optimization of solid spallation target in 150 MeV accelerator-driven reactor system[J]. Atomic Energy Science and Technology, 2004, 38(1): 5-9(in Chinese).   
+[18] 樊胜, 叶沿林, 赵志祥, 等. 150 MeV 质子入射固态金属靶性质研究[J]. 原子能科学技术, 2001, 35(3): 239-244.  
+FAN Sheng, YE Yanlin, ZHAO Zhixiang, et al. Study on the properties of solid metal neutron production target bombarded by protons at 150 MeV[J]. Atomic Energy Science and Technology, 2001, 35(3): 239-244(in Chinese).   
+[19] 樊胜, 叶沿林, 肖玉衡, 等. 散裂中子靶能量沉积研究 [J]. 原子能科学技术, 2001, 35(4): 293-299.  
+FAN Sheng, YE Yanlin, XIAO Yuheng, et al. The energy deposition of the spallation neutron target[J]. Atomic Energy Science and Technology, 2001, 35(4): 293-299(in Chinese).   
+[20] 秦博, 付晓刚, 马浩然, 等. 铅铋合金气相氧含量控制初步实验研究[J]. 材料导报, 2019, 33(11): 1821-1824.  
+QIN Bo, FU Xiaogang, MA Haoran, et al. Preliminary experiment study on control of oxygen concentration via gas phase in liquid lead-bismuth alloy[J]. Materials Reports, 2019, 33(11): 1821-1824(in Chinese).   
+[21] 秦博, 鲁盛会, 刘思涵, 等. 面向材料腐蚀防护的铅铋合金氧测氧控研究进展[J]. 材料导报, 2025, 39(4): 139-150.  
+QIN Bo, LU Shenghui, LIU Sihan, et al. Progress on the development of measurement and control of dissolved oxygen in lead-bismuth alloy for the materials corrosion protection[J]. Materials Reports, 2025, 39(4): 139-150(in Chinese).

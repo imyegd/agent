@@ -1,0 +1,5 @@
+ant code for accelerator simulation[C]. Darmstadt, Germany: 6th International Computational Accelerator Physics Conference, ICAP2000, 2000.   
+12 Terebilo A. Accelerator toolbox for MATLAB[EB/OL]. [2021-05-01]. https://www. slac. stanford. edu/pubs/ slacpubs/8500/slac-pub-8732.pdf.   
+13 Wiedemann H. Particle accelerator physics[M]. Berlin, Heidelberg: Springer, 1993. DOI: 10.1007/978-3-662- 02903-9.   
+14 赵振堂. 先进X射线光源加速器原理与关键技术[M].上海: 上海交通大学出版社, 2021.  
+ZHAO Zhentang. Principles and key technologies of adv

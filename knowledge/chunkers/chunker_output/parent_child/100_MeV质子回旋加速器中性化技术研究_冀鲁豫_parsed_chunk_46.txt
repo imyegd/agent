@@ -1,0 +1,23 @@
+轨迹差异较大，束流经过的磁场分布也有所不同。
+
+![](images/bf139c0e2ce43c514fc8fe0d6fa2a12a0223a83ec21120cfaee94382568b5c73.jpg)  
+图 9    CYCIAE-100 中性束剥离系统束流轨迹  
+Fig. 9    Beam trajectory in CYCIAE-100 neutral beam stripping system
+
+当磁感应强度 $B$ 随半径 $r$ 变化时，存在磁降落指数 $n$ ：
+
+$$
+n = - \frac {r}{B} \frac {\mathrm {d} B}{\mathrm {d} r} \tag {10}
+$$
+
+磁场的聚焦能力和磁降落指数有关，径向自由振荡频率 $\nu _ { r }$ 和轴向自由振荡频率 $\nu _ { z }$ 为：
+
+$$
+v _ {r} = \sqrt {1 - n} \tag {11}
+$$
+
+$$
+v _ {z} = \sqrt {n} \tag {12}
+$$
+
+磁极尾部的磁场降落指数为较大的负值，表现出强径向聚焦和轴向散焦特性；而谷区的磁场随着方位角变

@@ -1,0 +1,11 @@
+![](images/14792e0344bdc8d56d5b917a4ced8e6c2b19ff216f8dbe049a59c8e7e5dd7a8e.jpg)
+
+![](images/2373210669914322424274247e4c8ed16cb89c96a7376de1c89c5733591988b3.jpg)  
+图5 200个误差种子产生的轨道畸变校正后的水平(a)和垂直(b)轨道畸变图（彩图见网络版）  
+Fig.5 Horizontal (a) and vertical (b) orbit distortion after orbit correction with 200 seeds (color online)
+
+传输线轨道校正方案中，200个随机种子对应的校正铁强度分布如图8所示。校正后RMS校正铁强度的结果如图9和图10所示，校正铁最大强度均低于0.25 mrad，在校正铁强度允许范围内。水平校正铁强度均值 $0 . 0 4 \mathrm { m r a d }$ ，方差0.01 mrad。垂直校
+
+正铁强度均值0.05 mrad，方差 0.01 mrad。
+
+由以上结果可得，按目前的束流传输线磁聚焦结构设计，束流传输线轨道校正方案可以有效校正束流轨道的畸变。在轨道校正后采用粒子追踪方法进行束流传输线的动力学模拟，评估传输线的传输

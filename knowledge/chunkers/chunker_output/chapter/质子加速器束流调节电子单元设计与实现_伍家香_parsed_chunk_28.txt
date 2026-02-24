@@ -1,0 +1,11 @@
+# Design and Implementation of Beam Regulating Electronic Unit for Proton Accelerator
+
+WU Jiaxiang $^{1}$ , ZHANG Xiaohu $^{2}$ , WANG Xianghui $^{1}$ , XU Pengyu $^{1}$ , ZHAO Linlin $^{1}$
+
+(1. CGN Medical Technology (Mianyang) Co., LTD, Mianyang 621000, China;
+
+2. CGN Jinwo Technology Co., LTD, Shenzhen 518118, China)
+
+Abstract: In proton therapy, precise control of beam intensity is critical to ensuring dose uniformity in the target area. To address the insufficient regulation accuracy of existing systems caused by open-loop control, nonlinear drift, and noise interference, this paper proposes a Beam Regulating Electronic Unit (BREU) based on an Instructions Per Clock (IPC) and a Digital Signal Processor (DSP) architecture. The BREU collects real-time beam feedback signals from ionization chambers at the accelerator exit, implements closed-loop control via the DSP, and innovatively incorporates dynamic Look-Up Table (LUT) technology. This LUT calibrates the nonlinear relationship between arc current and beam intensity before each irradiation session, effectively eliminating the effects of long-term drift. Experimental results demonstrate that the BREU exhibits stable performance and high regulation accuracy. Through collaborative optimization of an adaptive PID algorithm and a noise suppression, the system significantly enhances anti-interference capability and stability. This research provides a highly reliable solution for the clinical application of proton therapy equipment.
+
+Key words: proton accelerator; beam conditioning; closed-loop control; proton therapy; ionization chamber

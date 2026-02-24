@@ -1,0 +1,19 @@
+在迪卡尔坐标系中定义横坐标为：
+
+$$
+x = a _ {H} = - \ln T \left(E _ {H}, Z, t\right) \cdot s \tag {6}
+$$
+
+纵坐标为：
+
+$$
+\mathrm {y} = \mathrm {a} _ {\mathrm {L}} - \mathrm {a} _ {\mathrm {H}} = (\ln \mathrm {T} \left(\mathrm {E} _ {\mathrm {H}}, \mathrm {Z}, \mathrm {t}\right) - \ln \mathrm {T} \left(\mathrm {E} _ {\mathrm {L}}, \mathrm {Z}, \mathrm {t}\right)) \cdot \mathrm {s} \tag {7}
+$$
+
+式中，s 是比例因子， $\mathrm { T } ( \mathrm { E _ { H } , Z , t } )$ 、 $\mathrm { T } ( \mathrm { E _ { L } , Z , t } )$ 是高低能对应的透视度：
+
+$$
+\mathrm {T} (\mathrm {E}, \mathrm {Z}, \mathrm {t}) = \frac {\int_ {0} ^ {\mathrm {E M}} \mathrm {P} (\mathrm {E}) \exp (- \mu (\mathrm {Z} , \mathrm {E}) \mathrm {t}) \mathrm {d E}}{\int_ {0} ^ {\mathrm {E M}} \mathrm {P} (\mathrm {E}) \mathrm {d E}} \tag {8}
+$$
+
+式中，P(E) 涉及探测器能量相应函数以及 $\pmb { \times }$ 光源能谱分布函数， $\mu$ (Z,E) 是质量衰减系数，t 是质量厚度， $\mathsf { E } _ { \mathsf { M } }$ 是能谱最高能量。

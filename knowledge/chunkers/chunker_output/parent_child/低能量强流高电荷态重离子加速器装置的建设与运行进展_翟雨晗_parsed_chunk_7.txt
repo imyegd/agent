@@ -1,0 +1,3 @@
+d a  high-current,  low-energy-spread $^ { 1 2 } { \mathrm { C } } ^ { 2 + }$ beamline  for  precise  reaction  measurements  in  the  Gamow  window.  These results  verify  LEAF’s  excellent  beam  quality  and  operational  reliability.  Planned  upgrades—including  an  extended energy  tuning  range  and  triple-ion  beam  capability—will  further  enhance  its  role  as  a  frontier  platform  for experimental studies in nuclear astrophysics and radiation effects in advanced materials.
+
+Key words：   hea

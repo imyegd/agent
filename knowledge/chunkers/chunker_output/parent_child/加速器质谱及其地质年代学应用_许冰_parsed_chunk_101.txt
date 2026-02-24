@@ -1,0 +1,7 @@
+right) / \left(\lambda_ {2 6} - \lambda_ {1 0}\right) \tag {25}
+$$
+
+Grang er［58］将这一方法延伸到考古年代学中。考古遗址中，地层埋藏的石英样品 $^ { 1 0 } \mathrm { { B e } }$ e和 $^ { 2 6 } \mathrm { A l }$ l，如果矿物 的 埋 藏 过 程 和 时 间 相 同，则 样 品 埋 藏 后（postbural）的产率相同，即样品中的核素浓度由埋藏时的初始浓度和埋藏后的浓度 $( N _ { \mathrm { i , p b } } )$ ）产生的组分所组成，公式如下：
+
+$$
+\begin{array}{l} N _ {1 0} = \left(N _ {1 0, \text {i n h}}\right) e ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} + N _ {1 0, \mathrm {p b}} \longrightarrow N _ {1 0} - N _ {1 0, \mathrm {p b}} \\ = \left(N _

@@ -1,0 +1,27 @@
+因为其性能直接关系到整个系统的功耗、面积以及计算精度。为了在功耗、面积和计算精度之间找到最佳平衡点，本文提出了一种基于应用敏感相对误差(AARE)、功耗和面积的近似加法器选择策略，具体算法如算法1所示。
+
+# 算法1 最优近似加法器选择
+
+输入：候选近似加法器列表candidates。
+
+输出：最优近似加法器 optimalAdder。
+
+1. 设定AARE阈值AARE_threshold；  
+2. 初始化最优加法器 optimalAdder = null;  
+3. 初始化最小代价 $\minCost = \inf$   
+4. for adder in candidates:   
+5. if adder.AARE $<$ AARE_THRESHOLD:   
+6. 将该 adder 添加到满足阈值的候选列表 filteredCandidates 中；  
+7. max_AARE = max( adder. AARE for adder in filteredCandidates);   
+8. max\_power = max(adder.power for adder in filteredCandidates);   
+9. max_area = max(adder.area for adder in filteredCandidates);   
+10. for adder in filteredCandidates:   
+11. normalized_AARE $\equiv$ adder.AARE/max_AARE;   
+12. normalized\_power = adder. power / max\_power;   
+13. normalized_area = adder.area / max_area;   
+14. 计算 adder 的代价 cost = AAREWeight × normalized_AARE + POWER Weight × normalized_power + AREA Weight × normalized_area;   
+15. if cost $<$ minCost:   
+16. 更新 $\text{minCost} = \text{cost}$   
+17. 更新 optimalAdder = adder;   
+18. end if   
+1

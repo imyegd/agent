@@ -1,0 +1,11 @@
+1f988647ec53b81791.jpg)  
+Fig.3 Energyspectrao $^ { 1 0 } \mathrm { { B e } ( \mathrm { { a } ) } }$ ）referencesampleand（b）blanksample
+
+![](images/691d49a8892d50efd92251d9b3be1bb27d67df2aeaea36b4b50ff40675512091.jpg)  
+图 4 $^ { 2 6 } \mathrm { A l }$ l能谱图（a）标准样品和（b）本底样品  
+Fig.4 Energyspectraof26Al（a）referencesampleand（b）blanksample
+
+表 5 验收测试 6核素性能参数结果  
+Table5 Detailsoftheperformanceresultsobtainedduringtheon-siteacceptancetestsforthe6nuclide   
+
+<table><tr><td>核素</td><td>\( ^{10}\mathrm {Be} \)</td><td>\( ^{14}\mathrm {C} \)</td><td>\( ^{26}\mathrm {Al} \)</td><td>\( ^{41}\mathrm {Ca} \)</td><td>\( ^{129}\mathrm {I} \)</td><td>\( ^{239}\mathrm {Pu} \)</td><td>\( ^{240}\mathrm {Pu} \)</td></tr><tr><td>低能端束流</td><td>\( 2.4( ^{9}\mathrm {BeO}^{-}) \)</td><td>\( 25(^{12}\mathrm {C}^{-}) \)</td><td>\( 0.14 (^{27}\mathrm {Al}^{-}) \)</td><td>\( 0.55 (^{40}\mathrm {CaF}_{3}^{-}) \)</td><td>\( 3.3 (^{127}\mathrm {I}^{-}) \)</td><td>\( ^{239}\mathrm {PuO}^{-} \)</td><td>\( ^{240}\mathrm {PuO}^{-} \)</td></tr><tr><td>

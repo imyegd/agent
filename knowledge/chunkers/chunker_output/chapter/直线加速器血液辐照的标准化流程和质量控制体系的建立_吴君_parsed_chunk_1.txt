@@ -1,0 +1,31 @@
+# 直线加速器血液辐照的标准化流程和质量控制体系的建立
+
+吴君，王克强，王鹏，张弘扬，张文学（通信作者）
+
+天津医科大学总医院　（天津　300052）
+
+〔摘　要〕目的　利用直线加速器建立血液辐照的标准化流程和质量控制体系，以实现精准、安全、高效的血液辐照。方法　以加速器自带的锥形束 CT（CBCT）校准水箱作为辐照箱，设计标准辐照流程和质量控制措施，处方剂量为 $2 5 \ \mathrm { G y }$ ，同传统辐照（血袋上下方放置固体水）进行比较，评估剂量分布、辐照效率及质量控制效果。结果　标准辐照中，血袋受量均匀，最小剂量达到 $2 5 . 0 ~ \mathrm { G y }$ ，而传统辐照中血袋的最小剂量为 $1 6 . 3 \ \mathrm { G y }$ 。标准辐照的出束时间为 $4 . 5 7 \mathrm { m i n }$ ，略长于传统辐照的 $4 . 1 0 \mathrm { m i n }$ 。标准辐照的质控措施包括辐照前的设备检测和摆位验证、辐照中的剂量监测和辐照后的辐照指示，保障了辐照安全性与准确性。结论　建立的直线加速器血液辐照标准流程和质量控制体系可显著提高辐照的精度与安全，解决目前辐照设备短缺问题。
+
+〔关键词〕辐照血液；直线加速器；质量控制
+
+〔中图分类号〕R457.1 〔文献标识码〕B 〔文章编号〕1002-2376（2025）20-0025-06
+
+〔DOI〕10.3969/j.issn.1002-2376.2025.20.007
+
+Research on the Standardized Process and Quality Control of Linear Accelerators for Blood Irradiation　Wu Jun, Wang Keqiang, Wang Peng, Zhang Hongyang, Zhang Wenxue (Corresponding Authorl).The General Hospital of Tianjin Medical University，Tianjin 300052, China
+
+【Abstract】Objective To establish a standardized process and quality control system for blood irradiation by using a linear accelerator, aiming to achieve precise, safe and efficient blood irradiation. Methods　With the use of the cone beam CT (CBCT) calibration water tank provided by the accelerator as the irradiation chamber, standard irradiation procedures and quality control measures were designed. The prescription dose was 25 Gy. Compared with traditional irradiation (solid water placed above and below the blood bag), the dose distribution, irradiation efficiency and quality control effect were evaluated. Results　In the standard irradiation, the blood bag received uniform dose, and the minimum dose reached 25.0 Gy, while the minimum dose in the traditional irradiation was 16.3 Gy. The emission time of standard irradiation was 4.57 minutes, slightly longer than the 4.10 minutes of traditional irradiation. The quality control measures for standard irradiation included equipment testing and positioning verification before irradiation, dose monitoring during irradiation, and irradiation indication after irradiation, ensuring irradiation safety and accuracy. Conclusion　The standard process and quality control system for blood irradiation using a linear accelerator established can significantly improve irradiation accuracy and safety, and solve the current shortage of irradiation equipment.
+
+【Key words】　Irradiation blood; Linear accelerator; Quality control
+
+输血相关移植物抗宿主病（transfusion associ-atedgraft versus hostdisease，TA-GVHD） 是 一 种 罕见却十分严重的由输血引发的并发症，病死率达 $90 \%$
+
+基金项目：吴阶平医学基金（320.6750.2020-18-3）
+
+收稿日期：2025-06-23
+
+以上 [1]。辐照血液是目前国际公认预防该并发症的有效方法，日本作为 TA-GVHD 的高发国家，血液辐照的比例已超 $90 \%$ ，美国、加拿大、英国、澳大利亚、新西兰等国的辐照血液临床应用比例已达$3 0 \% \sim 5 0 \% ^ { [ 2 ] }$ 。我国血液辐照的应用仍然处于起步阶
+
+段，一方面临床医师对辐照血液的作用及适应证了解不足，部分应接受辐照血的患者未能应用，另一方面，目前只有少数采供血机构和医院开展血液辐照技术。截至 2020 年 12 月，我国安装的血液辐照仪不到 100 台，远远不能满足临床对辐照血液的需求 [3]。近年来，我国相继完成了《辐照血液临床应用中国专家共识》[3] 及《辐照血液使用指南》[4]等指导性文件，有利于提高医务人员对辐照血液的认识及合理应用，但血液辐照设备的不足仍是现今亟待解决的问题。
+
+γ 射线血液辐照仪是一种传统的辐照设备，但由于辐射源的审批、监管难度大且回收成本高，限制了其推广应用。近年来，X 线血液辐照仪因其易审批和防护要求较低而逐渐普及，但其能量较低导致穿透力不足，难以实现辐射剂量的均匀分布。直线加速器可以提供高能 X 线，目前是 $\gamma$ 射线源的最好替代，可有效解决辐照设备短缺的问题。利用直线加速器进行血液辐照的传统方法是在血袋上方和下方放置固体水，然后进行前后对穿照射 [5]，操作简单，但其存在一定缺陷，如血袋周边无法达到带电粒子平衡，易造成剂量不均。近年来，研究者们设计了多种辐照箱进行血液辐照，证实了利用加速器进行血液辐照的可行性，不仅能使血液中的T淋巴细胞失去增殖活性，同时可以保护血液制品中的其他成分[6-10]，但这些研究中缺少辐照质量控制措施，难以保证辐照的精准。另外，制作专用辐照箱对多数医疗机构也存在一定困难，不利于推广普及。因此，本研究拟在加速器自带水箱的基础上设计一套基于直线加速器的标准化血液辐照流程及质控体系，实现精准辐照，从而解决目前国内辐照设备不足的问题，进一步推动辐照血液临床应用的普及。

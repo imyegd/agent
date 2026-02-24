@@ -1,0 +1,8 @@
+# 参考文献：
+
+[1] 张宏 ， 金晨涛 ， 钟燕 ， 等. 基于PET分子影像的肿瘤重离子治疗精准评价[J]. 肿瘤学杂志 2025 31(8) 651-656.
+
+ZHANG H JIN C T ZHONG Y et al. PET molecularimaging-based precision evaluation of heavy ion therapyfor tumors[J]. Journal of Chinese Oncology ， 2025 ， 31(8) ：651-656.  
+[2] 杨根 ， 赵梓茗 ， 张艺宝 ， 等. 肿瘤放射治疗的发展[J]. 原子能科学技术 2024 58(S2) ： 492-500.  
+YANG G ZHAO Z M ZHANG Y B et al. Development of tumor radiotherapy[J]. Atomic Energy Science and Technology 2024 58(S2) ： 492-500.   
+[3] 唐靖宇 ，周路平. 中国粒子加速器的发展现状和趋势[J].原子能科学技术 2022 56(9) ：

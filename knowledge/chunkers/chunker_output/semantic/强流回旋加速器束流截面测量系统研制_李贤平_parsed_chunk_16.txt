@@ -1,0 +1,5 @@
+对于 $\mathbf{X}$ 方向：
+
+$$
+\bar {x} = \frac {\sum_ {i = 1} ^ {n} \sum_ {j = 1} ^ {m} I (i , j) \cdot i}{\sum_ {i = 1} ^ {n} \sum_ {j = 1} ^ {m} I (i , j)} \tag {5}
+$$

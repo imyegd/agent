@@ -1,0 +1,15 @@
+# 5.2.2 近似加法器选择策略
+
+对于每个数据集，本文选用的10种近似加法器的AARE如表1所示。通过表1，能够更为直
+
+![](images/f74e77a8b95c2f672e113f26289b6bfdee791720c3b093afcf9fd520d7999f37.jpg)  
+Figure 4 Probability statistics of input data $b$ for approximate adder   
+图4近似加法器输入数据 $b$ 概率统计
+
+观地评估这些近似加法器在特定应用场景下的结果质量，进而为优化脉冲神经网络中的加法器选择提供有力依据。
+
+Table 1 AARE for ten types of approximate adders on each dataset   
+表 1 各数据集上 10 种近似加法器的 AARE  
+
+<table><tr><td rowspan="2">近似
+加法器</td><td colspan="4">数据集</td></tr><tr><td>MNIST</td><td>FMNIST</td><td>DVS</td><td>SHD<

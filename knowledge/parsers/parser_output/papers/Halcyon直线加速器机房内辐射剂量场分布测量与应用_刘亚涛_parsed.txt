@@ -1,0 +1,149 @@
+# Halcyon 直线加速器机房内辐射剂量场分布测量与应用
+
+刘亚涛1，易艳玲2，赵文涛2，刘海宽2，鄂翔宇1，于静萍1，曾宏伟1
+
+1. 上海中医药大学附属曙光医院, 上海 201203；2. 复旦大学放射医学研究所, 上海 200032
+
+摘要：目的 测量瓦里安公司 Halcyon 医用电子直线加速器机房内辐射水平分布，为该类型设备机房屏蔽设计和潜在照射分析提供依据。方法 在设备6 MV X射线（FFF）模式下，最大剂量率为 $8 0 0 \mathrm { M U / m i n }$ 时，在最大照射野 $2 8 . 0 0 \mathrm { c m } \times$ $2 8 . 0 0 \mathrm { c m }$ 时，旋转出束 ${ 5 4 0 } \mathrm { M U }$ 。采用热释光剂量计 (TLD) 布点测量机房内辐射场分布，将测量得出的辐射场数据应用于屏蔽防护计算，并将计算结果与采用经验公式计算得出的结果进行比较。 结果 机房辐射水平总体在 $1 2 . 2 \mu \mathrm { G y } /$ $5 4 0 ~ \mathrm { M U } { \sim } 5 . 5 2 0 ~ \mathrm { G y } / 5 4 0 ~ \mathrm { M U }$ 范围内，其中剂量最高在剂量中心处为 $5 . 5 2 0 ~ \mathrm { G y } / 5 4 0 ~ \mathrm { M U }$ ，距离机头约 $6 . 5 \mathrm { m }$ 处剂量为$1 2 . 2 \mu \mathrm { G y } / 5 4 0 \mathrm { M U } .$ 。大部分点数据处于 $1 0 0 { \sim } 1 0 0 0 \mu \mathrm { G y } / 5 4 0 \mathrm { M U }$ 之间。Halcyon 型加速器机房内辐射场在 $0 . 5 \mathrm { m } \mathrm { ~ . ~ } 1 . 1 \mathrm { m }$ 和 $1 . 7 \mathrm { m } 3$ 个高度平面呈现出由射束中心向四周快速衰减的趋势，在平行治疗床方向（Y 方向）的衰减要快于垂直治疗床方向（X 方向）。利用实测辐射场结果进行屏蔽防护计算得出的东墙、南墙、西墙和北墙参数分别为 1219、949、1235 和 $1 2 5 2 \mathrm { m m }$ ，均小于经验公式计算结果。 结论 TLD剂量计适合多点布点实测 Halcyon 型加速器机房内的辐射场分布规律，测量结果可用于优化机房屏蔽防护设计。
+
+关键词：Halcyon 直线加速器；辐射场；热释光剂量计；屏蔽设计
+
+中图分类号：R144 文献标识码：A 文章编号：1004-714X(2025)05-0740-06
+
+# Measurement and application of radiation field distribution in Halcyon linear accelerator treatment room
+
+LIU Yatao1，YI Yanling2，ZHAO Wentao2，LIU Haikuan2，E Xiangyu1，YU Jingping1，ZENG Hongwei1 1. Shuguang Hospital Affiliated to Shanghai University of Traditional Chinese Medicine, Shanghai 201203, China;
+
+2. Institute of Radiation Medicine, Fudan University, Shanghai 200032, China
+
+Abstract：  Objective To measure radiation filed distribution in the treatment room of the Varian Halcyon medical linear accelerator, and to provide a basis for shielding design and potential exposure analysis of treatment rooms for this type of accelerator. Methods Under the 6 MV X-ray (FFF) mode at a maximum dose rate of $8 0 0 ~ \mathrm { M U / m i n }$ and a maximum irradiation field of $2 8 . 0 0 \ \mathrm { c m } \times 2 8 . 0 0 \ \mathrm { c m } ,$ , a total of 540 MU was delivered during gantry rotation. Radiation field distribution was measured using thermoluminescence dosimeters located at multiple points in the room. The measured data were then applied to shielding calculations, and the results were compared with those obtained using empirical formulas. Results The overall radiation levels in the treatment room were in the range of $1 2 . 2 ~ \mu \mathrm { G y } / 5 4 0 ~ \mathrm { M U }$ to 5.520 Gy/540 MU, with the highest dose (5.520  Gy/540  MU)  observed  at  the  isocenter,  and  the  lowest  dose $( 1 2 . 2 ~ \mu \mathrm { G y } / 5 4 0 ~ \mathrm { M U } )$ recorded  at  approximately $6 . 5 \mathrm { ~ m ~ }$ from the gantry head. The radiation levels at most points were within the range of $1 0 0 { - } 1 0 0 0 ~ \mu \mathrm { G y } / 5 4 0 ~ \mathrm { M U }$ . At heights of 0.5, 1.1, and $1 . 7 ~ \mathrm { m }$ , the radiation field exhibited a rapid attenuation from the beam center outward, with a faster decay along the treatment couch direction (Y-axis) than along the perpendicular direction (X-axis). Shielding calculations based on the measured radiation field yielded required wall thicknesses of $1 2 1 9 ~ \mathrm { m m }$ (east wall), $9 4 9 ~ \mathrm { m m }$ (south wall), $1 2 3 5 \ \mathrm { m m }$ (west wall), and $1 2 5 2 \mathrm { m m }$ (north wall), all of which were smaller than those calculated using empirical formulas. Conclusion Thermoluminescence dosimeter is suitable for multi-point in situ measurement of radiation field distribution in Halcyon accelerator treatment  rooms.  The  measurement  results  can  be  used  to  optimize  the  shielding  design  of  Halcyon  accelerator  treatment rooms.
+
+Keywords：    Halcyon linear accelerator; Radiation field; Thermoluminescence dosimeter; Shielding design
+
+Corresponding author：    ZENG Hongwei, E-mail: yewon1103@163.com
+
+放射治疗设备和技术的快速发展极大的推动了各类新型电子直线加速器的临床应用，瓦里安公司研发生产的 Halcyon 直线加速器作为全图像引导的医用直线加速器，其环形机架设计实现了治疗速度与自动化水平的显著提升[1-3]。与传统的直线加速器不同，Halcyon 型直线加速器在主射束方向设置有独特的自屏蔽结构，可以大幅降低主束区的辐射水平。
+
+Halcyon 直线加速器与传统医用加速器、Tomo螺旋断层加速器等放射治疗装置在多叶准直器和自屏蔽体厚度等方面存在较大差异，其辐射场分布特性必然也与其他放射治疗装置显著不同。已有研究探索 Halcyon 型直线加速器的自屏蔽结构对辐射水平的影响，张德钦等[4] 通过蒙特卡罗模拟证实，Halcy-on 的自屏蔽透射率仅为 $0 . 0 6 \%$ ，可使主屏蔽墙厚度减少约 $40 \%$ ：Cai 等[5] 在临床条件下测量发现，距离等中心 $1 \textrm { m }$ 处泄漏射线剂量率低于 $0 . 0 5 \%$ ；Caravani 等[6]进一步指出机房内不同方位的剂量率存在显著差异（最大相差 2.3 倍）。上述研究结果提示我们可以利用自屏蔽放射治疗装置的特性，开展辐射防护设计与优化以及辐射屏蔽效果的测试与评估。于浪等[7] 提出Halcyon 采用封闭环形机架且自带主束屏蔽装置，应根据其结构特点优化的机房设计布局以提高机房空间利用率的同时极大降低辐射防护压力。Kaur 等[8]则采用散漏射线的实验测量结果进行机房屏蔽防护设计的优化。马向捷、曹勤剑等[9-10] 基于直读式周围剂量当量率仪开展了 Zap-X 型自屏蔽放射治疗装置的屏蔽效果测量；孟令广等[11] 则利用直读式周围剂量当量率仪开展了 Halcyon 直线加速器的屏蔽效果测量。
+
+可见，开展 Halcyon 型直线加速器的辐射场特性研究，对于机房屏蔽防护优化设计具有重要意义。现有研究受限于直读式测量设备的布点密度，难以构建完整的三维剂量分布模型，制约了其在机房防护设计辐射防护优化的应用。为系统探讨 Halcyon 直线加速器机房临床应用时机房内辐射水平，本研究在临床条件下采用热释光探测器开展对 Halcyon 直线加速器辐射场分布的测量与分析，并将测量结果用于机房屏蔽防护设计的优化。同时，将基于辐射场的屏蔽防护计算结果与直接采用经验公式的计算结果进行对比分析。
+
+# 1    材料与方法
+
+1.1    探测器    探测器采用 LiF 热释光剂量计（ther-
+
+moluminescence dosimter, TLD） [12-13] 进行辐射场布点测量，主要是考虑 TLD 剂量计体积小、灵敏度适宜、可重复使用、衰退小、组织等效性好特别适合多点布点测量 [14-15]。本次研究用 TLD 探测器在中国计量院直线加速器上模拟实际照射条件进行刻度，刻度主要参数为：6 MV 光子，0.1、1、2 Gy。刻度射线及能量与实际照射射线及能量一致，同射线同能量不同剂量的刻度实验表明 TLD 具有良好的剂量线性，因此，刻度实验得到的刻度系数可用于 Halcyon 直线加速器周围辐射剂量场监测。
+
+1.2    加速器机房内布置及辐射场测量点选取    本研究选用 Halcyon 型直线加速器[16]，其 “环形”机架安装于封闭的空间内，物理治疗孔径直径和源轴距均为100 cm，X 射线能量固定为 6 MV，等中心处最大射野 $2 8 \ : \mathrm { c m } \times 2 8 \ : \mathrm { c m }$ ，装配双层多叶准直器（multi-leafcollimator，MLC），在主束区方向设置有 $1 7 2 \mathrm { m m } 3 \%$ 的锑铅合金和 $1 0 \mathrm { m m }$ 钢板的自屏蔽结构，加速器坐北朝南放置在机房内，治疗床朝向迷路方向，该加速器所在机房的平面图见图 1。
+
+![](images/b2bd34502c34d708de37766bb8483f4cb7a48401a3d1e6551db7afbd1a5c9cd8.jpg)  
+图 1    Halcyon 直线加速器机房平面图  
+Figure 1    Floor plan of the Halcyon linear accelerator treatment room
+
+测量布点采用空间矩阵方式布点，测量布点现场图见图 2（a）所示，以等中心点高度 $1 . 1 \mathrm { m }$ 为中间高度，上下分别增减 $0 . 6 \mathrm { m }$ ，即分别在 0.5、1.1 和 $1 . 7 \mathrm { m }$ 3 个平面布点，每个平面上间隔 $0 . 5 \mathrm { m }$ 按网格布点，部分点布置在机身上，每个点布放 3 片探测器，布点示意图如图 2（b）所示，共布点 234 处。
+
+1.3    加速器出束条件    在设备出束选用 6 MV X 射线（FFF）模式，最大剂量率为 $8 0 0 \mathrm { M U / m i n }$ ，照射野调整至最大 $2 8 . 0 0 \mathrm { c m } \times 2 8 . 0 0 \mathrm { c m }$ 。机架从 $0 ^ { \circ }$ 开始，顺时
+
+![](images/f697f88fa83dcc824b1c2c65c43e6cb3708a08b7d3dd59bf97b3abc48032c71a.jpg)  
+注：（a）测点布点现场图；（b）测量布点示意图。
+
+![](images/864f7efdcbb47267c69be1fac969b847404c4d5607a254b7899b381db3d067eb.jpg)  
+图 2   测量布点现场图和示意图  
+Figure 2    A photo of the treatment room and a schematic diagram of the measurement points
+
+针旋转，每隔 $1 0 ^ { \circ }$ 出束 $1 5 \mathrm { M U }$ ，共出束 ${ 5 4 0 } \mathrm { M U }$ 。出束时机房的环境条件为：温度是 $2 3 . 1 \mathrm { ~ ‰ ~ }$ ，湿度是 $51 \%$ ，气压是 $1 0 1 . 4 \mathrm { k P a }$ ，排风口风速 $2 . 6 \mathrm { m } / \mathrm { s }$ 。
+
+1.4    加速器机房屏蔽防护计算比较    根据实测辐射场的结果，得出无屏蔽体情况下墙外剂量率数据 $\dot { H } _ { m }$ ，结合屏蔽体外剂量率控制目标值，根据公式（1）可以计算出所需屏蔽体的厚度值。同时根据标准 GBZ201.2—2011 中的对于主射束、散射线和漏射线的计算公式也可以得出所需屏蔽体的厚度，考虑到 Halcy-on 型直线加速器在主射束方向的自屏蔽结构，将主射束的屏蔽厚度减去自屏蔽结构的等效屏蔽厚度得出基于经验公式计算出的屏蔽体厚度，并将 2 种方法计算出的屏蔽厚度进行对比分析。
+
+$$
+X = T V L \times \log \left(\frac {\dot {H} _ {m}}{\dot {H} _ {c}}\right) \tag {1}
+$$
+
+其中 $X$ 为屏蔽体的厚度 $\mathrm { . m m } )$ ， TVL 为屏蔽材料的什值层厚度（mm）， $\dot { H } _ { m }$ 为屏蔽体外剂量率的测量结果导出值 $\mathbf { \Pi } _ { \mathrm { \tiny { ( \mathfrak { A } G y / h ) } } }$ ， $\dot { H } _ { c }$ 屏蔽体外剂量率控制目标值（ $\cdot \mu \mathrm { G y } / \hslash )$ 。
+
+# 2    结果及数据分析
+
+2.1    平面剂量场分布    本次剂量场分布共测量了3 个平面剂量场，水平高度分别为 0.5、1.1 和 $1 . 7 \mathrm { m }$ 。其中 $1 . 1 \mathrm { m }$ 高度为 Halcyon 治疗等中心点所在高度。机房辐射水平剂量最高在剂量中心处为 $5 . 5 2 0 ~ \mathrm { G y } /$ ${ 5 4 0 } \mathrm { M U }$ ，距离机头约 $6 . 5 \mathrm { m }$ 处剂量为 $1 2 . 2 \mu \mathrm { G y } / 5 4 0 \mathrm { M U } .$ 。总体辐射水平在 $1 2 . 2 \mu \mathrm { G y } / 5 4 0 \ M \mathrm { U } \mathrm { \sim } 5 . 5 2 0 \mathrm { G y } / 5 4 0 \mathrm { M U }$ 范围内，大部分测量点数据处于 $1 0 0 { \sim } 1 0 0 0 ~ \mu \mathrm { G y / }$ ${ 5 4 0 } \mathrm { M U }$ 之间。
+
+设置机房南向北向为 Y 轴正向，西向东方向为
+
+X 轴正向，设置射野中心点为坐标原点（0,0,0），采用Matlab 作图并插值进行处理，不同高度平面的剂量水平分布分别图 3。
+
+0.5、1.1 和 $1 . 7 \mathrm { m } \ 3$ 个高度平面的数据均呈现出由设备射束中心向四周快速衰减的趋势，并且在平行治疗床方向（Y 方向）与垂直治疗床方向（X 方向）呈现出了不同的衰减速率。
+
+2.2    不同方向剂量距离变化趋势拟合    为了进一步定量展示机房内辐射场的变化规律，本研究对等中心点所在高度（即 $1 . 1 \mathrm { m } )$ ）平面实测辐射场分布数据，按照不同方向正南、正北、正东、正西进行拟合。东西方向为了避开机身的影响，仅选取了在机身外的测量数据，沿着正东正西方向进行拟合。拟合结果见图 4，结果显示正东正西方向（X 方向）剂量衰减指数分别为−1.94 与−1.87，衰减速率要缓于平方反比定律；而对于正北正南方向（Y 方向）剂量衰减指数分别为−2.77 与−2.42，衰减速率要快于平方反比定律。
+
+2.3    机房屏蔽厚度估算比较    根据实测辐射场数据（图 4 中拟合公式）代替简单的平方反比公式，计算得出东西南北四周屏蔽体外未屏蔽时剂量率分别为19746.31、18886.97、11482.38 与 $9 1 0 4 8 . 9 9 ~ \mu \mathrm { G y / h } ,$ ，考虑 2 倍安全系数，屏蔽体外剂量率控制值取 1.25$\mu \mathrm { G y / h }$ ，计算得出屏蔽体的厚度与采用经验公式计算出的屏蔽体厚度见表 1。由表中数据可见，采用辐射场数据计算出的四周屏蔽体厚度均小于经验公式计算的结果。
+
+# 3    讨　论
+
+本研究的核心目标是通过热释光剂量计（TLD）来测量 Halcyon 型加速器在放疗过程中的辐射剂量场分布，尤其是在 5.4 Gy 中心剂量时，深入探讨整个
+
+![](images/213021d52f11c25bd0a5a3e37033a9e77274c92dae8dbcd2f5e752ffd6baa9fe.jpg)
+
+![](images/0db6320bb01b57756cfd020e902f21dd1722db522d2dd5d6d6c716bf8bab4db9.jpg)
+
+![](images/45754b4aa81e2b3c2c6d9288ac6b6da5af3eb6db6b16feeab358b71748029e64.jpg)  
+注：（a） $0 . 5 { \mathrm { m } }$ 高度水平剂量场；（b） $1 . 1 \mathrm { m }$ 高度水平剂量场；（c） $1 . 7 \mathrm { m }$ 高度水平剂量场。
+
+![](images/39f14f6083e9ae5db16cf223536d109b0aad0902a624777bad1e11de667a92b6.jpg)  
+图 3   不同高度平面机房内剂量场分布测量结果  
+Figure 3    Radiation field distribution measured in the treatment room at different heights
+
+![](images/404c34defc594fdb88c9f5a607cd05309edd9a031e58c8f7463a7c8498e859b3.jpg)
+
+![](images/4d2b447e2c5442c5a64e1379d73122baad831d4eaa20cac80e9fc1670dd742c1.jpg)
+
+图 4    机房内辐射剂量随距离变化趋势  
+Figure 4    Variation of radiation dose with distance in the treatment room   
+![](images/4503b7b87b0849e3b727d8e3973eb4360baa1e80650741024dc6273dda56c3be.jpg)  
+注：（a）正东方向剂量随距离变化趋势，拟合曲线公式 $D { = } 2 9 7 6 . 3 \times d ^ { - 1 . 9 4 }$ （ $R ^ { 2 } { = } 0 . 9 8 5$ ）； （b）正西方向剂量随距离变化趋势，拟合曲线公式$D { = } 2 5 9 9 . 2 \times d ^ { - 1 . 8 7 }$ （ $R ^ { 2 } { = } 0 . 9 9 9$ ）；（c）正南方向剂量随距离变化趋势，拟合曲线公式 $D { = } 6 2 6 2 . 4 \times d ^ { - 2 . 7 7 }$ （ $R ^ { 2 } { = } 0 . 9 9 9$ ）；（d）正北方向剂量随距离变化趋势，拟合曲线公式 $D { = } 5 9 5 9 . 5 \times d ^ { - 2 . 4 2 }$ （ $R ^ { 2 } { = } 0 . 9 9 4$ ）。
+
+表 1    2 种方法计算出的四周屏蔽体厚度比较  
+Table 1    Comparison of the thickness of four shielding walls calculated by two methods   
+
+<table><tr><td rowspan="2">计算方法</td><td colspan="4">屏蔽体厚度(mm钢筋混凝土)</td></tr><tr><td>东墙</td><td>南墙</td><td>西墙</td><td>北墙</td></tr><tr><td>经验公式法</td><td>1328</td><td>1116</td><td>1349</td><td>1329</td></tr><tr><td>辐射场数据法</td><td>1219</td><td>949</td><td>1235</td><td>1252</td></tr></table>
+
+放疗机房内辐射剂量的空间分布情况。为了实现这一目标，研究团队采用了被动式累积剂量计 TLD，凭借其能够承受的高剂量范围（最大可达 $1 0 \mathrm { G y }$ ），为正常放疗条件下的漏射线剂量测量提供了重要的技术支持。相比传统的主动式剂量探测仪，TLD 具备了更高的测量精度，尤其在面临超量程时，弥补了主动式探测仪无法测量超出剂量范围的不足。因此，TLD 在本研究中的应用，不仅为 Halcyon 型加速器的辐射剂量测量提供了可靠的数据支持，也为未来相关设备的辐射场测量提供了一种全新的技术方案。
+
+TLD 的空间布点测量方式使得我们能够全面分析 Halcyon 加速器机房内辐射剂量场的空间分布。通过对辐射场不同位置的剂量数据进行分析，可以清楚地看到辐射剂量场的衰减趋势。根据实验结果，辐射剂量从射束中心向四周快速衰减，呈现出了明显的空间衰减特征。尤其在机房的外围，辐射剂量显著减小，这对于辐射防护设计具有重要意义。进一步分析发现，辐射剂量场在不同方向上的衰减速率存在差异。这一发现与 Yao 等[17] 在 Taichi 放疗系统发现的现象类似。平行治疗床方向（Y 方向）和垂直治疗床方向（X 方向）之间，辐射衰减的速率不尽相同，这一现象与 Halcyon 加速器内部自屏蔽结构的设计密切相关。自屏蔽结构能够有效地吸收一部分辐射能量[5]，从而在某些方向上减缓辐射的传播速度。因此，辐射场的空间分布不仅反映了加速器本身的辐射源特性，也体现了设备内部结构对辐射传播的影响。
+
+从屏蔽防护的角度来看，实验测得的辐射场分布结果为设计优化屏蔽结构提供了重要的参考依据。通过将实测的辐射场数据输入屏蔽防护计算模型，研究结果表明，实际辐射场的剂量水平显著低于采用经验公式计算得到的辐射剂量。这一差异表明，传统的经验公式可能无法准确反映具有自屏蔽结构的加速器机房内辐射剂量的真实情况。因此，在设计 Halcy-on 型加速器机房的屏蔽结构时，不能仅依赖于传统的经验公式，而应该综合考虑辐射场在不同方向上的衰减趋势。这一发现提示我们，在进行屏蔽设计时，
+
+需要根据辐射剂量场的具体分布特征，科学选择合适的屏蔽材料及其厚度，从而达到优化辐射防护效果的目的。
+
+此外，本研究还指出，屏蔽设计不应仅仅局限于辐射源周围的区域。由于 Halcyon 加速器在治疗过程中会产生一定程度的漏射线，机房的各个区域包括墙壁、地板和天花板等都需要根据辐射场分布的不同特点进行详细的设计和防护计算。辐射场在不同位置的衰减速度、衰减幅度，以及可能的高辐射剂量区域都应当被纳入屏蔽设计的考虑范围，以确保在实际治疗过程中工作人员的辐射防护得以有效保障。
+
+同时，本研究的成果对于今后类似的放疗设备辐射场分布研究具有一定的参考价值。随着 Halcyon 型加速器等新型放疗设备的广泛应用，如何精准测量辐射剂量，确保治疗过程中的辐射安全，成为了放射防护领域亟待解决的问题。通过采用 TLD 进行空间布点测量，结合精确的辐射场分布分析，能够为相关领域的研究人员提供更加可靠的数据支持，并为未来加速器机房的辐射防护设计提供了新的思路。
+
+综上所述，本研究的创新之处在于将被动式剂量计 TLD 应用于 Halcyon 型加速器辐射剂量场分布的测量，并通过空间布点测量的方式揭示了加速器机房内辐射剂量的空间分布特征。这为优化辐射防护设计提供了科学依据，并为未来辐射防护技术的改进和加速器设备的安全应用提供了新的理论支持。
+
+利益冲突 本研究由署名作者按以下贡献声明独立开展，排名无争议。文章不涉及任何利益冲突
+
+作者贡献声明 刘亚涛、易艳玲、鄂翔宇负责实验布点测量、数据分析、撰写论文；赵文涛、刘海宽负责屏蔽防护计算；于静萍、曾宏伟负责论文修改和研究指导
+
+# 参考文献
+
+Lloyd SAM, Lim TY, Fave X, et al. TG-51 reference dosimetry for[1] the  Halcyon™:  a  clinical  experience[J]. J  Appl  Clin  Med  Phys, 2018, 19（4）: 98-102. DOI: 10.1002/acm2.12349.
+
+Huang  YY,  Liu  ZW. Dosimetric  performance  evaluation  of  the[2] Halcyon treatment platform for stereotactic radiotherapy: a pooled study[J]. Medicine (Baltimore), 2023, 102（36）: e34933. DOI: 10. 1097/MD.0000000000034933.   
+Wang GY, Zhu QZ, Zhu HL, et al. Clinical performance evaluation[3] of  O-Ring  Halcyon  Linac:  a  real-world  study[J]. World  J  Clin Cases, 2022, 10（ 22） : 7728-7737. DOI: 10.12998/wjcc.v10.i22. 7728.   
+张德钦, 潘翊, 杜晓宏, 等. 自屏蔽加速器屏蔽防护优化探讨[J].[4]中国辐射卫生，2022，31（4）：401-405,412. DOI: 10.13491/j.issn.1004-714X.2022.04.003.Zhang  DQ,  Pan  Y,  Du  XH,  et  al. An  exploration  of  shieldingoptimization for self-shielded accelerators[J]. Chin J Radiol Health,2022, 31（4）: 401-405,412. DOI: 10.13491/j.issn.1004-714X.2022.04.003. (in Chinese)  
+Cai  B,  Laugeman  E,  Hsu  H,  et  al. Technical  Note:  self-shielding[5] evaluation  and  radiation  leakage  measurement  of  a  jawless  ring gantry linac with a beam stopper[J]. Med Phys, 2021, 48（6）: 3143- 3150. DOI: 10.1002/mp.14858.   
+Caravani K, Murry R, Healy B. Characterisation of in-room leakage[6] and scattered radiation for the Varian Halcyon linear accelerator[J]. Phys Eng Sci Med, 2022, 45（1）: 73-81. DOI: 10.1007/s13246-021- 01084-1.   
+于浪, 杨波, 孙显松, 等. Halcyon 加速器机房的防护设计[J]. 中[7]华放射肿瘤学杂志，2020，29（12）：1086-1090. DOI: 10.3760/cma.j.cn113030-20200413-00175.Yu  L,  Yang  B,  Sun  XS,  et  al. Protection  design  of  Halcyonaccelerator room[J]. Chin J Radiat Oncol, 2020, 29（12）: 1086-1090.DOI: 10.3760/cma.j.cn113030-20200413-00175. (in Chinese)  
+Kaur  A,  Sahani  G,  Shrivastava  A,  et  al. Optimization  of  radiation[8] shielding  considerations  for  designing  halcyon  vault[J]. J  Med Phys, 2023, 48（1）: 1-12. DOI: 10.4103/jmp.jmp_86_22.   
+马向捷, 姜庆寰, 刘雅, 等. 自屏蔽头颈部放射治疗系统辐射防[9]护检测与评估方法[J]. 中国辐射卫生，2024，33（6）：621-625.DOI: 10.13491/j.issn.1004-714X.2024.06.001.Ma  XJ,  Jiang  QH,  Liu  Y,  et  al. Methods  for  radiation  protectiontesting and evaluation of a self-shielded head and neck radiotherapysystem[J]. Chin J Radiol Health, 2024, 33（6）: 621-625. DOI: 10.13491/j.issn.1004-714X.2024.06.001. (in Chinese)
+
+曹勤剑, 谭俊, 任越, 等. 新型自屏蔽放疗加速器 Zap-X 系统屏[10]蔽效果评价[J]. 中国辐射卫生，2023，32（3）：288-292. DOI: 10.13491/j.issn.1004-714X.2023.03.013.  
+Cao  QJ,  Tan  J,  Ren  Y,  et  al. Evaluation  of  the  radiation  shielding effect  of  the  novel  self-shielding  radiotherapy  system  Zap-X[J]. Chin J Radiol Health, 2023, 32（3）: 288-292. DOI: 10.13491/j.issn. 1004-714X.2023.03.013. (in Chinese)   
+孟令广, 王元, 程晓军. 某医院 Halcyon直线加速器机房辐射屏[11]蔽 评 估 [J]. 中 国 职 业 医 学 ， 2021， 48（ 5） ： 582-586. DOI: 10.20001/j.issn.2095-2619.20210906.  
+Meng LG, Wang Y, Cheng XJ. Evaluation on radiation shielding of the Halcyon linear accelerator room in a hospital[J]. China Occup Med, 2021, 48（ 5） : 582-586. DOI: 10.20001/j.issn.2095-2619. 20210906. (in Chinese)   
+Altergot  A,  Schürmann  M,  Jungert  T,  et  al. Imaging  doses  for[12] different  CBCT  protocols  on  the  Halcyon  3.0  linear  accelerator - TLD  measurements  in  an  anthropomorphic  phantom[J]. Z  Med Phys, 2024, 34（4）: 580-595. DOI: 10.1016/j.zemedi.2023.03.002.   
+Ghoneam  SM,  Mahmoud  KR,  Diab  HM,  et  al. Studying  the  dose[13] level for different X-ray energy conventional radiography by TLD-100[J]. Appl  Radiat  Isot, 2022, 181: 110066. DOI: 10.1016/j. apradiso.2021.110066.   
+Kron  T,  Lonski  P,  Yukihara  EG. Thermoluminescence  dosimetry[14] (TLD)  in  medicine:  five  'w's  and  one  how[J]. Radiat  Prot Dosimetry, 2020, 192（2）: 139-151. DOI: 10.1093/rpd/ncaa212.   
+Rozaila  ZS,  Khandaker  MU,  Abdul  Sani  SF,  et  al. Environmental[15] monitoring  through  use  of  silica-based  TLD[J]. J  Radiol  Prot, 2017, 37（3）: 761-779. DOI: 10.1088/1361-6498/aa770e.   
+Wang  RX,  Du  Y,  Yao  KN,  et  al. Halcyon  clinical  performance[16] evaluation:  a  log  file-based  study  in  comparison  with  a  C-arm Linac[J]. Phys  Med, 2020, 71: 14-23. DOI: 10.1016/j.ejmp.2020. 01.023.   
+Yao  MN,  Feng  ZC,  Bai  B,  et  al. Measurement  and  analysis  on[17] distribution  of  radiation  field  dose  inside  the  treatment  room  of TaiChi  Pro  multimodal  integrated  digital  radiotherapy  system[J]. Radiat  Med  Prot, 2023, 4（ 4） : 236-243. DOI: 10.1016/j.radmp. 2023.10.008.
+
+（收稿日期：2025-05-25）

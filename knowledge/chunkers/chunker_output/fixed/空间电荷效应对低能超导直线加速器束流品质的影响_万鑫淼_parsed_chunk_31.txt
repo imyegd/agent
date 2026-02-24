@@ -1,0 +1,8 @@
+ing[17] channels[J]. Particle Accelerators, 1984, 14: 227-260.   
+[18] Li Chao, Qin Qing. Space charge induced beam instability in periodic focusing channel[J]. Physics of Plasmas, 2015, 22: 023108.   
+Liu Yudong, Huang Liangsheng, Wang Sheng, et al. Impedances and beam instability in RCS/CSNS[J]. High Power Laser and Particle Beams, 2013, 25（2）:[19] 465-470.   
+[20] Hofmann I. Stability of anisotropic beams with space charge[J]. Physical Review E, 1998, 57（4）: 4713-4724.   
+刘伟, 颜学庆, 郭之虞, 等. BNCT 中子源用 RFQ 加速器[J]. 强激光与粒子束, 2007, 19（10）：1731-1734. （Liu Wei, Yan Xueqing, Guo Zhiyu, et al. RFQ[21]accelerator used as neutron source for BNCT[J]. High Power Laser and Particle Beams, 2007, 19（10）: 1731-1734）  
+[22] Gluckstern R L. Analytic model for halo formation in high current ion linacs[J]. Physical Review Letters, 1994, 73（9）: 1247-1250.  
+[23] Qiang Ji, Ryne R D. Beam halo studies using a three-dimensional particle-core model[J]. Physical Review Accelerators and Beams, 2000, 3: 064201.   
+Wan Xinmiao, Ren Zhiqi

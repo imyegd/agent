@@ -1,0 +1,18 @@
+hrm { m m }$ 、下孔径 $1 3 \mathrm { m m }$ 、锥度 $2 4 ^ { \circ }$ , 坩埚直径 $3 7 ~ \mathrm { m } )$ )进行长时间沉积过程的数值模拟, 相应的仿真数据汇总如表 3所示, 束流达到稳态后的长时间薄膜沉积结果如图5 所示。
+
+分析仿真结果可知, 当薄膜沉积过程中稳态建立后, 膜厚不均匀性由 $\pm 2 . 5 4 \%$ 降低到 $\pm 1 . 2 3 \%$ , 并且在长时间的沉积过程中具有良好的稳定性, 为适用于 6 英寸 HgCdTe 分子束外延生长的束源炉设计及
+
+制造提供了坚实的理论基础。
+
+表 3 优化蒸发口参数长时间镀膜仿真结果  
+
+<table><tr><td>变量名称(单位)</td><td>沉积2min</td><td>沉积30min</td><td>沉积60min</td></tr><tr><td>最大膜厚/nm</td><td>303</td><td>4520</td><td>9040</td></tr><tr><td>最小膜厚/nm</td><td>288</td><td>4410</td><td>8829</td></tr><tr><td>最大束流强度/(1E-5Torr)</td><td>7.58</td><td>7.58</td><td>7.58</td></tr><tr><td>最小束流强度/(1E-5Torr)</td><td>2.26</td><td>2.26</td><td>2.26</td></tr><tr><td>膜厚不均匀性/%</td><td>±2.54</td><td>±1.23</td><td>±1.23</td></tr></table>
+
+![](images/264805da9b92b504ea9f94603ce3cde441cf306cefc037fdd5ecc238727cfcef.jpg)  
+（a)
+
+![](images/c47b8a0d5e872e2ccdcae8975ead295a8e3e5be41e01ae62058f6d4e34c3c2b7.jpg)
+
+![](images/4131ab66fb2b47a8792dd9f7deab8aaa222ef29ff0dcc90805db3d2bae12abb0.jpg)
+
+![](images/e7a37ec13

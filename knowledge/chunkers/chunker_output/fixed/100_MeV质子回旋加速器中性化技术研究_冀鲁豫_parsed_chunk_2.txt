@@ -1,0 +1,5 @@
+ang,  BIAN Tianjian,  WANG Zhe
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: The  neutralization  research  using  the $1 0 0 \ \mathrm { M e V }$ proton  cyclotron  (CYCIAE-100)  in  China Institute  of  Atomic  Energy  was  conducted,  and  a  partial  stripping  technique  with  thin  foils  was proposed. Unlike conventional stripping extraction that completely converts negative hydrogen ions to proton beams, a three-component mixed beam of negative hydrogen ions, hydrogen atoms and protons after  stripping  was  produced  in  this  method.  The  protons  reversed  rotation  direction  due  to  charge inversion and were extracted through the beam extraction channel. The neutral hydrogen atoms moved along tangential trajectory. The unstripped negative hydrogen ions keep circulating and accelerating in the  cyclotron.  After  completing  one  cycle,  they  return  to  the  stripping  foil  and  undergo  the  stripping process again, potentially being converted to protons or hydrogen a

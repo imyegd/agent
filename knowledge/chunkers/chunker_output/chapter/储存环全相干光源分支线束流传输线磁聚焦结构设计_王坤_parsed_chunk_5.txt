@@ -1,0 +1,57 @@
+# 3 束流传输线引出注入段初步设计
+
+分支线束流传输线采用两台切割铁和两台冲击 磁铁组成的束流引出和注入方案。当束流从储存环 引出时，束流先由一台冲击磁铁踢出，再经过一台切 割铁（200 mrad）弯转，最终引出至传输线。当束流 从传输线注回储存环时，束流先经过一台切割铁 （200 mrad）弯转，再由一台冲击磁铁踢回，最终注回 储存环。分支线束流传输线总长度是储存环高频频 率波长的167倍，储存环的高频谐波数是264。储存 环引出交接点至注入交接点的长度是半个储存环周
+
+长，对应储存环高频频率波长的132倍。储存环束团填充模式共有5串束团，并按照文献［5］中设置（每填充1串38个束团，空14个未填充束团位置；第5串最后空18个未填充束团位置）。方案采用的一种运行模式是在将环内运行的束流引出至分支线时，依次引出5串束团，如图11（a）所示；当5串束团经过分支线注回储存环时，第一串束团的首个束团注入该束团引出后已空出的第36个束团位置，其余束团注入其他空出的束团位置，如图11（b）所示；注回储存环的5串束团在环内运行，等待下次引出。
+
+![](images/20e09798367ea0487c65af4a2582ef205ba127703149c45e6261517a1b65b24d.jpg)
+
+![](images/77a4b79da60789f073b7f7b6baa0ccce0c35caa33990fe2aa82face4449af80e.jpg)  
+图9 校正铁强度RMS频度分布图 (a) 水平，(b) 垂直
+
+![](images/c1a44520324b30c6f281e6c37afec84c691b9fee40f047a431c4df8a0055e49b.jpg)  
+Fig.9 RMS corrector strength frequency distribution map (a) Horizontal, (b) Vertical
+
+![](images/5a06b89806b1ffc09c3ea85385d04f4790262a5c1bbe3065d6f75ec07f1c867c.jpg)  
+图10 校正后校正铁强度分布图 (a) 水平，(b) 垂直  
+Fig.10 Distribution of corrector strength after correction (a) Horizontal, (b) Vertical
+
+考虑冲击磁铁和切割铁引入的色散，当束流从储存环引出时，束流先由冲击磁铁踢出8 mrad角度，再经过一段 $3 \mathrm { m }$ 漂移节。色散函数在冲击磁铁处为$0 \mathrm { m }$ ，切割铁边缘处为 $0 . 0 2 6 \mathrm { m }$ 。此处束流光学参数要求为 $\beta _ { x } = 1 4 . 2 0 9 \mathrm { ~ m } , \beta _ { y } = 2 . 3 1 4 \mathrm { ~ m } , \alpha _ { x } = 0 , \alpha _ { y } = 0$ $ { a _ { x } } ^ { = } 0$ $a _ { y } = 0$ 。之后束流经过切割铁弯转 $2 0 0 \mathrm { \ m r a d }$ ，引出至传输线。经过3块二极铁后，水平色散函数降为 $_ { 0 \mathrm { m } }$ 。束流传输线的磁铁布局保持不变，仅调整四极铁的强度值来匹配束流光学。与此同时，能量调制-反调制段的束流光学保持不变，注入段与引出段对称布置。当束流从传输线注回储存环时，束流经过切割铁弯转到
+
+![](images/28db71e962c51229798959a3e3640d35c54f9433a02e6d6bb103a2762985ab14.jpg)
+
+![](images/7ebb9f5c004a5727d5f1c5ad3b313117bd5a0d956e96b2823f402b9cec4b27c2.jpg)  
+图11 分支线束流引出(a)和注入(b)示意图  
+Fig.11 Sketch of beam extraction (a) and injection (b) for bypass line
+
+束流传输线与储存环交接点处，再经过一段漂移节和冲击磁铁后注回到储存环。储存环引出区和注入区示意图如图12所示，其中红色线表示束流轨迹，橙色元件表示冲击磁铁和切割磁铁。新的束流传输线整段的束流光学参数和色散函数如图13所示，其中蓝色线表示 $\beta _ { x }$ ，红色线表示 $\beta _ { y }$ ，黄色线表示 $\eta _ { x }$ ，紫色线表示10倍的 $\eta _ { y }$ 。在图13下方的磁聚焦结构中，第一块和最后一块蓝色元件表示切割铁，其余蓝色元件表示二极铁，红色元件表示四极铁，绿色元件表示六极铁。束流传输线的 $\beta _ { x }$ 和 $\beta _ { y }$ 数值可以满足物理设计要求，单独一段束流传输线的色散函数最大为$1 . 0 3 \mathrm { ~ m ~ }$ ，整个分支线相移为 $5 . 4 7 / 1 . 9 8 { \times } 2 \pi ( X$ 方向/Y方向）。
+
+![](images/83549c66322c0947f64af4f4d83f721be6bad2c60bc640829e5f74839fadc412.jpg)
+
+![](images/d84a72a95cbae485a0b2547bffb046b736fcd78c68fe0ad5b667f498fe8b356c.jpg)  
+图12 储存环引出区(a)和注入区(b)示意图  
+Fig.12 Sketch of extraction region (a) and injection region (b) in storage ring
+
+轨道校正方案采用相同的校正铁位置和BPM位置及磁铁元件误差强度。在设置200个随机误差种子的各项误差后，进行粒子追踪模拟。从结果中可以看出，水平方向轨道畸变RMS为 $1 5 0 { \sim } 2 7 0 0 ~ { \mu \mathrm { m } }$ （均值 $1 0 4 4 . 0 \mu \mathrm { m }$ ，方差 $5 2 9 . 2 \mu \mathrm { m } )$ ），垂直方向轨道畸变 RMS 为 $4 0 0 { \sim } 6 4 0 0 \mu \mathrm { m }$ （均值 $2 ~ 1 0 5 . 2 ~ { \mu \mathrm { m } }$ ，方差$1 0 6 0 . 3 ~ \mu \mathrm { m } )$ ）。由此可见，在当前误差强度设置下，水平方向和垂直方向轨道均有较大扰动。
+
+![](images/55bb88f4793c5a0ab847069fc04d63c6fbec7415b64c6b3eddf146bd3836da9f.jpg)  
+图13 考虑冲击磁铁和切割铁引入色散后的分支线束流光学函数图（彩图见网络版）  
+Fig.13 Beam optics for bypass line with consideration of dispersion introduced by the kicker and septum (color online)
+
+轨道校正后200个随机种子的轨道扰动如图14所示。轨道畸变RMS校正后的结果如图15所示。经过轨道校正后，水平方向轨道畸变为 $1 6 { \sim } 1 1 8 ~ \mu \mathrm { m }$ （均值 $5 3 . 7 \mu \mathrm { m }$ ，方差 $1 7 . 6 \mu \mathrm { m } )$ ），约为校正前轨道畸变的 $5 \%$ ；垂直方向轨道畸变为 $2 4 { \sim } 1 8 2 ~ \mu \mathrm { m }$ （均值
+
+$8 4 . 2 \mu \mathrm { m }$ ，方差 $3 1 . 1 ~ \mu \mathrm { m } )$ ），约为校正前轨道畸变的$4 \%$ 。由此说明，轨道校正方案达到了较好的轨道校正效果。校正铁最大强度均低于 $0 . 2 7 \mathrm { m r a d }$ ，在校正铁强度允许范围内。
+
+![](images/db1b63fe964f3ace5b9517a5e6d4c709b24dc040e598153f0d431b11994289e8.jpg)
+
+![](images/66db645f3615a0dda315e663c4688e8de244c27a395919d0a5a5a804bf6ef1ab.jpg)  
+图14 考虑冲击磁铁和切割铁引入色散后200个误差种子产生的畸变校正后的水平(a)和垂直(b)轨道图（彩图见网络版）
+
+![](images/b886cac766287089e47e767b026bd8737a44bc45317a2909cfe2131d88d82db2.jpg)  
+Fig.14 Horizontal (a) and vertical (b) orbit distortion after orbit correction with 200 seeds with consideration of dispersion introduced by the kicker and septum (color online)
+
+![](images/3bc751de4bffc6afb06b03e95c4d19681b7da7be1d1423aa25ede7a68d5bad6e.jpg)  
+图15 考虑冲击磁铁和切割铁引入色散后的轨道畸变RMS校正后频度分布图 (a) 水平，(b) 垂直  
+Fig.15 Frequency distribution of RMS orbit distortion after correction with consideration of dispersion introduced by the kicker and septum (a) Horizontal, (b) Vertical
+
+由以上结果可得，采用考虑冲击磁铁和切割铁引入的色散后的束流传输线磁聚焦结构设计，束流传输线轨道校正方案可以有效校正束流轨道的畸变。在轨道校正后设置200个随机误差种子，使用10 000个宏粒子进行粒子追踪模拟计算。粒子追踪结果表明，在设置真空管道尺寸 $\pm 1 7 . 5 \ \mathrm { m m }$ 、磁铁元件安装误差和磁场误差的情况下，束流传输线的传输效率可达 $100 \%$ 。束流传输线方案的工程实施重难点是引出注入的高重频冲击磁铁。考虑冲击磁铁的踢角稳定性，当踢角偏差 $1 0 . 9 \%$ 时会造成束流丢失。为了对束流传输线进行更工程化的评估，我们计算了传输线的束流清晰区。束流清晰区由16倍的束斑尺寸，轨道偏差和色散影响综合计算得出。束流传输线设置 $\beta$ 放大因子为 $2 , \eta$ 放大因子为1.2，得到束流清晰区为水平方向约 $\pm 4 . 7 2 \ \mathrm { m m }$ ，垂直方向约 $\pm 0 . 6 1 \ \mathrm { m m }$ ，束流清晰区可以满足束流传输要求。

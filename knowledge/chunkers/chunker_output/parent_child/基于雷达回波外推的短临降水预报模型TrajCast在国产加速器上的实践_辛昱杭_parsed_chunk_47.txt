@@ -1,0 +1,4 @@
+, 等. 循环神经网络在雷达临近预报中的应用[J]. 应用气象学报, 2019, 30(1): 61-69.  
+[9] HOCHREITER S, SCHMIDHUBER J. Long shortterm memory[J]. Neural computation, 1997, 9(8): 1735-1780.   
+[10] CHUNG J, GULCEHRE C, CHO K, et al. Empirical evaluation of gated recurrent neural networks on sequence modeling[J]. arXiv preprint arXiv:1412.3555, 2014.   
+[11] WANG Y, LONG M, WANG J, et al. Predrnn: Recurrent neural networks for predictive learning using spatiotemporal lstms[C]// Advances in neural information processing systems, 2017, 30:

@@ -1,0 +1,13 @@
+}$ l、 $^ { 3 6 } \mathrm { C l }$ l、 $^ { 4 1 } \mathrm { C a }$ 和129I［31，73～74］ 。未来，加速器质谱发展的一个永恒的 $^ { 1 2 9 } \mathrm { I } ^ { [ 3 1 , 7 3 \sim 7 4 ] }$ 主题仍然是通过硬件和软件的改进，如离子源和探测器的改进、引入诸如激光剥蚀等新技术手段，进一步降低同量异位素和分子的影响，提高稀有同位素识别的灵敏度和计数效率。在实验技术方法上，除了通过化学方法进一步纯化富集稀有同位素和降低干扰核素浓度外，还需要通过合成核素的化合物和分子状态，提高核素的离子化、剥离和传输效
+
+率，同 时 有 效 分 离 同 位 素 和 降 低 同 量 异 位 素 的干扰。
+
+致谢：感谢审稿专家和编辑部杨美芳老师对本文提出的宝贵建议，使本文得以更加完善。
+
+# 参考文献（References）：
+
+［1］ HellborgR，Skog G．Acceleratormass spectrometry［J］．MassSpectrometryReviews，2008，27（5）：398－427  
+［2］ KutscheraW，JullA JT，PaulM，etal．Atom countingwitacceleratormassspectrometry［J］．ReviewsofModernPhysics，2023，95（3）：035006．doi：10．1103／RevModPhys．95．035006  
+［3］ KieserW E．Acceleratormassspectrometry：Ananalyticaltoolwithapplicationsfora sustainable society［J］．EPJTechniquesandInstrumentation，2023，10（1）：7．doi：10．1140／epjti／s40485－023－00088－3  
+［4］ KutscheraW．Applicationsofacceleratormassspectrometry［J］InternationalJournalofMassSpectrometry，2013，349（1）：203－218  
+［5］ BiermanPR，BenderAM，ChristAJ，etal．Datingbyc

@@ -1,0 +1,7 @@
+a complete and systematic technical pathway － from resource assessment and technology selection to integrated design and multi-criteria evaluation － that can serve as a replicable blueprint for energy-saving retrofits in similar large-scale scientific infrastructures both in China and internationally. The findings offer a quantifiable, practical contribution to the green transformation of major research campuses and support the broader national goals of energy conservation, emission reduction, and sustainable development. Future work should focus on operational performance validation through long-term monitoring and investigate strategies such as thermal energy storage to further enhance system flexibility and annual utilization.
+
+Keywords: high energy particle accelerator; waste heat recovery; building heating; low grade heat source; technoeconomic analysis; heat pump technology
+
+# 0 引言
+
+我国 “碳达峰、碳中和”目标的提出将对国家未来能源结构的转型和升级产生长远影响。据统计，2024 年中国能源消费总量 59.6 亿吨标准煤，煤炭消费量增长 $1 . 7 \%$ ，占能源消费总量比重为 $5 3 . 2 \% ^ { [ 1 ]

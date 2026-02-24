@@ -1,0 +1,11 @@
+f8a2facdf045d73.jpg)  
+图24 1:4缩比例变梯度高温超导磁体  
+Fig. 24 1: 4 scaled high-temperature superconducting magnet with variable gradient
+
+在高频系统方面，研究团队采用船型结构波导腔设计[62]，通过ANSYS多物理场耦合仿真优化冷却结构和机械调谐机构，确保在高功率工况下腔体频率稳定在 $\pm 170\mathrm{kHz}$ 范围内。 $1:4$ 缩比例
+
+样机已完成加工与测试，如图25所示。腔体冷测 $Q$ 值已达39800，按比例推算全尺寸腔体 $Q$ 值可超过目前国际上常温型高频腔的最高 $Q$ 值（约为45090）。
+
+![](images/643a64b181a260a575aa24c72b34277d0cfd87a7d38439eb1fa7ebee8151da78.jpg)  
+图25 $1:4$ 高 $Q$ 值船型高频腔体  
+Fig. 25 $1:4$ high $Q$ value boat-shaped RF cavity

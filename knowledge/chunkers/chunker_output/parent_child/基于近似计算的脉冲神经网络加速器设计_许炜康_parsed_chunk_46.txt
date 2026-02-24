@@ -1,0 +1,4 @@
+deep learning[J]. Proceedings of the IEEE, 2023, 111 (9): 1016-1054.   
+[4] ESHRAGHIAN J K, LU W D. The fine line between dead neurons and sparsity in binarized spiking neural networks[J]. arXiv:2201.11915, 2022.   
+[5] LECUN Y, BOTTOU L, BENGIO Y, et al. Gradient-based learning applied to document recognition[J]. Proceedings of the IEEE, 1998, 86(11):2278-2324.   
+[6] XIAO H, RASUL K, VOLLGRAF R. Fashion-MNIST: A novel image dataset for benchmarking machine learning algorithms[J]. arXiv:1708.07747, 2017.

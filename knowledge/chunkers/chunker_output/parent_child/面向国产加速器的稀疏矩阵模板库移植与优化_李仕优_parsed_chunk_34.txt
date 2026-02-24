@@ -1,0 +1,14 @@
+为共享内存一次内存事务的最大数据量（128B）且覆盖了 32 个 bank，满足前文所述的无 bank 冲突的条件，解决了读共享内存的 bank 冲突问题。
+
+![](images/cf7e1c18a32bad5523c9349df41fcec1fd4f8e2e9f6a7a94c7de35ed25f06751.jpg)
+
+![](images/a28b560a6b4b39b473be63fe529c097b49e797e91c9a7517d26b4c73663cc2a4.jpg)  
+(a) Shared memory read layout   
+(c) Group partitioning
+
+![](images/473f652bb2083881a3211c2ed22f8a4adaf2d81df84409f5c78ba3312ec16c56.jpg)  
+(b) Shared memory write layout
+
+![](images/6eb348cc98e6c6df4dba2530dd10e63c51d18c467811dd09c4b0b9e345f00e8a.jpg)  
+(d) XOR   
+图

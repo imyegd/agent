@@ -1,0 +1,8 @@
+0.10</td><td>2.86</td><td>0.21</td><td>32.96</td><td>53.3</td></tr><tr><td>组合电路</td><td>16.30</td><td>12.60</td><td>0.41</td><td>28.90</td><td>46.7</td></tr><tr><td>总计</td><td>46.40</td><td>15.46</td><td>0.63</td><td>61.86</td><td>100.0</td></tr></table>
+
+在图像分类应用的精度方面，即便引入了近似加法器，AxSpike依然能够保持较高的性能。同时，与完整精度设计下面面积为 $17.2\mathrm{mm}^2$ 相比，近似
+
+精度设计下的面积减小到了 $11.8 \mathrm{~mm}^{2}$ 。表 6 所示为近似精度与完整精度在准确率指标上的比较结果。
+
+Table 5 Power consumption of approximate-precision spiking neural network accelerator   
+表 5 近似精度脉冲神经

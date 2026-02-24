@@ -1,0 +1,51 @@
+# 1 TrajGRU雷达外推基准算法
+
+TrajGRU[13]由施行健等人在2017年提出，该算法最初解决的问题是单通道雷达回波的外推，在HKO-7雷达外推数据集[13]上进行训练和评估。其运作机制为：
+
+模型输入-1与0时次的单通道雷达数据（如组合反射率CR），经过一个基于RNN编解码器架构的神经网络，产生未来一系列时次该种雷达数据的预测。其核心模块为图1中的TrajGRU单元，此单元的运作方式为，将本时次输入和上一时次的隐状态拼接作卷积，得到L组局部连接
+
+![](images/b8a949936a08479a0104d230581f14331fe1f3e8a63e7bcf877557ae037fa8d3.jpg)  
+图1 预报方案整体运行机制  
+Fig.1 Overall Operational Mechanism of the Forecasting System
+
+情况下每个格点的坐标偏移量：
+
+$$
+U _ {t}, V _ {t} = \gamma \left(X _ {t}, H _ {t - 1}\right), U _ {t}, V _ {t} \in \mathbb {R} ^ {L \times H \times W} \tag {1}
+$$
+
+其中，U对应横坐标，V对应纵坐标。之后将所有 ConvGRU 中对 $\mathrm { H } _ { \mathrm { t } - 1 }$ 的卷积操作替换为，分别使用每一种局部连接情况下的坐标偏移对 $\mathrm { H } _ { \mathrm { t } - 1 }$ 作重采样，之后使用 $1 \times 1$ 的卷积核对重采样后的 $\mathrm { H } _ { \mathrm { t } - 1 }$ 作卷积，最后再将这L种情况下的结果加和。写成公式表达，原有ConvGRU单元的操作方式为：
+
+$$
+Z _ {t} = \sigma \left(W _ {x z} * X _ {t} + W _ {h z} * H _ {t - 1}\right) \tag {2}
+$$
+
+$$
+R _ {t} = \sigma \left(W _ {x r} * X _ {t} + W _ {h r} * H _ {t - 1}\right) \tag {3}
+$$
+
+$$
+H _ {t} ^ {\prime} = f \left(W _ {x h} * X _ {t} + R _ {t} \circ \left(W _ {h h} * H _ {t - 1}\right)\right) \tag {4}
+$$
+
+$$
+H _ {t} = \left(1 - Z _ {t}\right) \circ H _ {t} ^ {\prime} + Z _ {t} * H _ {t - 1} \tag {5}
+$$
+
+在改进为TrajGRU单元后，其操作方式更新如下，其中warp代表重采样操作：
+
+$$
+Z _ {t} = \sigma \left(W _ {x z} * X _ {t} + \sum_ {l = 1} ^ {L} W _ {h z} ^ {l} * w a r p \left(H _ {t - 1}, U _ {t, l}, V _ {t, l}\right)\right) \tag {6}
+$$
+
+$$
+R _ {t} = \sigma \left(W _ {x r} * X _ {t} + \sum_ {l = 1} ^ {L} W _ {h r} ^ {l} * w a r p \left(H _ {t - 1}, U _ {t, l}, V _ {t, l}\right)\right) \tag {7}
+$$
+
+$$
+H _ {t} ^ {\prime} = f \left(W _ {x h} * X _ {t} + R _ {t} \circ \left(\sum_ {l = 1} ^ {L} W _ {h h} ^ {l} * w a r p \left(H _ {t - 1}, U _ {t, l}, V _ {t, l}\right)\right)\right) \tag {8}
+$$
+
+$$
+H _ {t} = \left(1 - Z _ {t}\right) \circ H ^ {\prime} _ {t} + Z _ {t} * H _ {t - 1} \tag {9}
+$$

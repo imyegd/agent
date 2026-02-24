@@ -1,0 +1,20 @@
+透镜的多极磁场增强聚焦、补偿色品、处理共振的作用[7]。
+
+等时性回旋加速器中心平面上的磁场分布可以表示为如下形式：
+
+![](images/367fd50320e9582536c3ddd493029dae61fc2d1a29cb1e8e46d76ab78c85aab1.jpg)  
+图1 整体型等时性回旋加速器的磁极结构  
+Fig. 1 Magnetic pole structure of isochronous cyclotron
+
+$$
+B = B _ {\mathrm {p}, \mathrm {v}} (1 + f \cos N \theta) \tag {1}
+$$
+
+其中， $B_{\mathrm{p,v}}$ 为径向分布函数，峰谷区对应的径向分布函数 $(B_{\mathrm{p}},B_{\mathrm{v}})$ 可以写为泰勒展开形式：
+
+$$
+B _ {\mathrm {p}} = \sum_ {i = 0} ^ {n} a _ {i} r ^ {i} \tag {2}
+$$
+
+$$
+B _ {\mathrm {v}} = \sum_ {i = 0} ^ {n} b _ {i} r ^

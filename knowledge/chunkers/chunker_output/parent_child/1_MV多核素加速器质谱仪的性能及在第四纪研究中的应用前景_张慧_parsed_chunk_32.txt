@@ -1,0 +1,6 @@
+B e } }$ 标样和本底样品能谱图如图 3所示，从图中可以看出 ${ } ^ { 1 0 } \mathrm { B }$ 和 $^ { 1 0 } \mathrm { { B e } }$ e实现有效的分离，10Be本底样测量 1h，只有 2个计数，展示该仪器优越的本底抑制能力。
+
+表 3 10Be验收测试结果  
+Table3 Resultsoftheacceptancetestsfo $^ { 1 0 } \mathrm { { B e } }$   
+
+<table><tr><td>10Be标准样品</td><td>10Be计数</td><td>10Be/9Be</td><td>9Be平均束流(A)</td></tr><tr><td>Be 1</td><td>3338</td><td>7.476×10-13</td><td>1.396×10-6</td></tr><tr><td>Be 2</td><td>3271</td><td>7.679×10-13</td><td>1.468×10-6</td></tr><tr><td>Be 3</td><td>3239</td><td>7.558×10-1

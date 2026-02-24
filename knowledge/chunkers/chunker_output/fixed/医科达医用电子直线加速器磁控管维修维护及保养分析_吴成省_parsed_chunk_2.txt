@@ -1,0 +1,7 @@
+he magnetron, magnetron voltage value exceeding the limit, magnetron aging, and equipment interlocking during use to analyze and summarize maintenance methods. Finally, three maintenance suggestions are proposed: regular maintenance of the cooling system of the equipment, real-time monitoring of the electron beam, and flexible control of temperature and humidity. In order to effectively optimize the performance of the magnetron and provide reference for the maintenance and upkeep of the medical electron linear accelerator in radiation therapy in the future
+
+Key words: Elekta, medical electronic linear accelerator, magnetron, repair and maintenance
+
+DOI:10.15971/j.cnki.cmsdi.2025.18.050
+
+现如今随着医疗行业环境的变化，医疗技术也随之进入到新时期，在此期间各项医疗技术与设备得到更新，提高了国内放射治疗技术水平，而且该技术的精准度也有很大程度地提升。医科达品牌的医用直线加速器是目前业内应用比较多的一种放射治疗设备，此设备内部有高剂量率能量模块以及六维床自动定位系统等，实现了放射治疗水平的不断提升，尤其表现在动态调强适形和立体定向等放射治疗领域。与此同时，该设备在放射治疗中应用，一般不会造成严重的组织损伤，定位也更加准确。只是此设备的内部结构比较繁琐，磁控管更是该设备的关键部件，如果长期使用不更换势必会更加故障的发生概率，甚至会对放射治疗效果造成影响。所以，本文结合医科达医用电子直线加速器的磁控管，探讨常见故障以及维修维护方法，并提出设备

@@ -1,0 +1,5 @@
+Kailiang,et al.Current Situation of Data Center Waste Heat Utilization and its Application in Building Heating[J].Science Technology and Engineering,2022, 22(26):11287-11295.(in Chinese)   
+[7]景杨光,陆建伟,龚智远,等.小型数据机房余热回收系统应用分析[J].建筑节能(中英文),2025,53(04):120-125.  
+JING Yangguang,LU Jianwei,GONG Zhiyuan,et al.Application Analysis of Small Data Center Waste Heat Recovery System[J].Building Energy Efficiency,2025,53(4):120-125.(in Chinese)   
+[8]吴放.我国碳达峰、碳中和进程中核能的地位和作用[J].核科学与工程,2022, 42(4): 737-743.  
+WU Fang.The

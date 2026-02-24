@@ -1,0 +1,7 @@
+Monte Carlo modeling of HD120 multileaf collimator on Varian TrueBeam linear accelerator for verification of 6X and 6X FFF VMAT SABR treatment plans［J］. J Appl Clin Med Phys, 2014, 15(3): 4686.   
+［16］邓永锦, 欧阳斌, 王振宇, 等. Varian Novalis Tx医用直线加速器HD120 MLC漏透射特性的测定及其临床影响研究［J］. 中国医疗设备, 2018, 33(10): 49-53.  
+［17］ Lim T Y, Dragojević I, Hoffman D, et al. Characterization of the HalcyonTM multileaf collimator system［J］. J Appl Clin Med Phys, 2019, 20(4): 106-114.   
+［18］ Kim M M, Bollinger D, Kennedy C, et al. Dosimetric characterization of the dual layer MLC system for an O-ring linear accelerator［J］. Technology in Cancer Research & Treatment, 2019, 18: 1533033819883641.   
+［19］ Zhang K, Tian Y, Li M, et al. Performance of a multileaf collimator system for a 1.5T MR-linac［J］. Med Phys, 2021, 48(2): 546-555.   
+［20］ Cai B, Li H, Yang D, et al. Performance of a multi leaf collimator system for MR-guided radiation therapy［J］. Med Phys, 2017, 44(12): 6504-6514.   
+［21］ Price A T, Knutson N C, Kim T, et al. Commissionin

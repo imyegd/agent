@@ -1,0 +1,3 @@
+ignificantly enhances anti-interference capability and stability. This research provides a highly reliable solution for the clinical application of proton therapy equipment.
+
+Key words: proton accelerator; beam conditioning; closed-loop control; proton therapy; ionization chamber

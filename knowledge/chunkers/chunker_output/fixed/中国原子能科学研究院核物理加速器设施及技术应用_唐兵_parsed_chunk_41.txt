@@ -1,0 +1,9 @@
+ion measurement for the $^{93}\mathrm{Nb}(\mathrm{n}, 2\mathrm{n})^{92\mathrm{g}}\mathrm{Nb}$ reaction at the neutron energy of 14.6 MeV by the AMS method[J]. Chinese Physics C, 2018, 42(7): 41-44.   
+[109] 王芳芳, 何明, 张宇轩, 等. 加速器质谱测量 $^{60}\mathrm{Fe}$ 的样品制备与引出方法[J]. 同位素, 2019, 32(2): 103-107.  
+WANG Fangfang, HE Ming, ZHANG Yuxuan, et al. $^{60}\mathrm{Fe}$ sample preparation and extraction method for measurement with accelerator mass spectrometry[J]. Journal of Isotopes, 2019, 32(2): 103-107(in Chinese).   
+[110] 谢运棉, 班莹, 蒋崧生, 等. 环境水中 $^{129}\mathrm{I}$ 的测定[M]//中国核科技报告. [出版地不详]: [出版者不详], 1997: 17-18.  
+[111] 谢运棉, 班莹, 蒋崧生, 等. 用串列加速器质谱计测定环境水中 $^{129}\mathrm{I}$ 的浓度[J]. 辐射防护, 1998, 18(2): 2-9.
+
+XIE Yunmian, BAN Ying, JIANG Songsheng, et al. Determination of $^{129}\mathrm{I}$ concentration in environmental water by tandem accelerator mass spectrometer[J]. Radiation Protection, 1998, 18(2): 2-9(in Chinese).   
+[112] 董悦安, 何明, 蒋菘生, 等. 河北保定及沧州地区地下水 $^{36}\mathrm{Cl}$ 同位素年龄的初步研究[J]. 质谱学报, 1999, 20(增刊1): 125-126.  
+DO

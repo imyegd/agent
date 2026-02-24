@@ -1,0 +1,7 @@
+# 1  材料与方法
+
+# 1.1  辐照前准备
+
+# 1.1.1  辐照箱
+
+将 Elekta Infinity 加速器装机自带的锥形束 CT（conebeam CT，CBCT）校准水箱作为辐照箱，其由厚 $1 ~ \mathrm { c m }$ 的有机玻璃制成，外部尺寸为 $3 5 \ \mathrm { c m } \times 2 5 \ \mathrm { c m } \times 2 0 \ \mathrm { c m }$ ，内部尺寸为 $3 3 ~ \mathrm { c m } \times 2 3 ~ \mathrm { c m } \times 1 9 ~ \mathrm { c m }$ 。为便于观察加水深度，在辐照箱外壁粘贴水位刻度线；为测量水温，在箱体内添加温度传感器，测温探头位于箱体底部，温度显示面板置于箱体外壁；为便于摆位，在箱体外壁粘贴等中心标志，见图 $1 \mathrm { a } \sim \mathrm { c }$ 。

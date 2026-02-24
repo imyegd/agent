@@ -1,0 +1,4 @@
+的中子辐射剂量率。
+
+不带自屏蔽系统的回旋加速器防护门处的中子辐射剂量率可根据公式 $\mathrm{H}_{\mathrm{r1}} = 2\mathrm{H}_{0(\mathrm{r0})}(\mathrm{r_0 / r_1})^2$ 和 $\mathrm{H}_{(\mathrm{ri})} = (\frac{\mathrm{e}^{-\mathrm{r_i / 0.45}} + 0.022\mathrm{A_i^{13}e^{-r_i / 2.35}}}{1 + 0.022\mathrm{A_i^{13}}})\mathrm{H_{oi}}$ 进行计算，其中： $\mathbf{r}_0$ 为源到迷路口的距离， $\mathbf{r}_1$ 为从源到第一条支路的距离， $\mathrm{H}_{0(\mathrm{r0})}$ 为迷路口的剂量当量率， $\mathrm{A_i}$ 为迷路的横截面积， $\mathbf{r_i}$ 为第i个支路的长度， $\mathrm{H_{oi}}$ 为第i个支路的入口的剂量当量率。  
+（3）热室及其操作室。热室及其操作室的屏蔽厚度可按照其操作放射性药物的最大

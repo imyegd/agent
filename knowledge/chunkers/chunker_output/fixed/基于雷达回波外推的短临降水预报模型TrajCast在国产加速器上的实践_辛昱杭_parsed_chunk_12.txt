@@ -1,0 +1,10 @@
+进行模型性能分析，统计算子使用GPU的时间消耗，找到需要优化的算子。在少量尝试性迭代中，发现卷积操作算 子 aten::miopen_convolution 的 CUDA 操作在
+
+GPU上执行的时间最多（见表1）。故需要针对模型中的二维卷积Conv2d和二维转置卷积Con-vTranspose2d等操作选择适当的方法进行性能优化。
+
+本文模型训练的性能优化采用混合精度（Mix Precision）方法[19]，通过对神经网络不同运算采用不同的数值精度运算的策略，FP16用于计算密集型操作，例如矩阵乘法、卷积等前向/反向传播计算；FP32用于精度敏感操作，例如权重
+
+表1 算子CUDA操作在GPU上执行的时间（前10）  
+Table 1 Execution time of CUDA kernel operations on the GPU (Top 10)   
+
+<table><tr><td>算子名称</td><td>说明</td><td>CUDA操作在GPU上执行的时间(s)</td></tr><tr><td>aten::miopen_convolution</td><td>卷积操作</td><td>11.143</td></tr><tr><td>aten::gridSampler_2d_backward</td><td>二维网格采样的反向传播</td><td>5.672</td></tr><tr><td>enumerate(Datalogger)</td><td>批量加载数据及索引</td><td>4.169</td></tr><tr><td>aten::copy_</td><td>复制张量</td><td>2.671</td></tr><tr><td>aten::gridSampler_2d</td><td>二维网格采样</td><td>2.192</td></tr><tr><td>aten::repeat</td><td>重复张量元素</td><td>2.151</td></tr><tr><td>aten::slice</td><td>张量切片</td><td>1.817</td></tr><tr><td>aten::miopen_convolution_backward_weight</td><td>卷积层权重的反向传播</td><td>1.755</td></tr><tr><td>aten::sl

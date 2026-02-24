@@ -1,0 +1,5 @@
+of the 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming. New York, USA: ACM Press, 2025: 326-338.   
+[7] YANG C, BULUC A, OWENS J D. Design principles for sparse matrix multiplication on the GPU[C]//Proceedings
+
+of the European Conference on Parallel Processing. Cham: Springer International Publishing, 2018: 672-687.   
+[8] HUANG G Y, DAI G H, WANG Y, et al. GE-SpMM: general-purpose sparse matrix-matrix multiplication on GPUs for graph neural networks[C]//Proceedings of t

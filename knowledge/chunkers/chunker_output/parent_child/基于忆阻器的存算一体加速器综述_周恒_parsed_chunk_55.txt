@@ -1,0 +1,3 @@
+57th ACM/IEEE Design Automation Conference. Piscataway: IEEE, 2020: 1−6.   
+Lixue  Xia,  Boxun  Li,  Tianqi  Tang,  et  al.  MNSIM:[25] Simulation  Platform  for  Memristor-Based  Neuromorphic Computing  System[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2018, 37(5): 1009−1022.   
+Xiaotian Sun; Xinyu Wang; Wanqian Li, et al. PIMCOMP:[26] An  End-to-End  DNN  Compiler  for  Processing-In-Memory Accelerators[J].  IEEE Transactions on Computer-Aided Design of Integrated

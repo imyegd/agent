@@ -1,0 +1,12 @@
+。  
+（2）形成系统化的设计范式和评价方法。首次针对既有运行中的高能加速器提出了可复制的余热利用解决方案。研究构建了涵盖动态控制策略、全生命周期经济性及碳减排评估的完整方法体系。敏感性分析进一步揭示了运行负荷率与电价是影响项目经济性的关键因素。  
+（3）未来可通过长期运行监测验证系统实际性能，并进一步研究跨季节储热与“削峰填谷”策略，以提升余热利用的时空匹配度与整体能效。
+
+该研究证实了对重大科技基础设施实施低品位余热回收的技术经济可行性，其方案与评价方法可为同类设施的绿色低碳改造提供参考，对推动清洁供暖与节能降碳具有示范意义。
+
+# 参考文献：
+
+[1] 国 家 统 计 局 . 中 华 人 民 共 和 国 2024 年 国 民 经 济 和 社 会 发 展 统 计 公 报 [EB/OL].(2025-02-28)[2025-06-25].https://www.stats.gov.cn/sj/zxfb/202502/t20250228_1958817.html.  
+National Bureau of Statistics. Statistical Communiqué of the People's Republic of China on the 2024 National Economic and Social Development[EB/OL].(2025-02-28)[2025-06- 25].https://www.stats.gov.cn/sj/zxfb/202502/t20250228_1958817.html. (in Chinese)   
+[2]TANG B J, ZOU Y, YU B Y, et al.Clean Heating Transition in the Building Sector: The case of Northern China[J].Journal of Cleaner Production,2021, 307: 127206   
+[3]ZHENG W, ZHANG Y, XIA J, et al. Cleaner Heating in Northern China: Potentials and regional balances[J].Resources, Conservation and Recycling, 2020, 160: 104897

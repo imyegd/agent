@@ -1,0 +1,5 @@
+the key technical points in collimator design and manufacturing, and provides an outlook on the development of collimators for medical linac products. This holds significant reference value for the research and development of domestically produced medical linear accelerators.
+
+【Key words】 Multi-leaf collimator (MLC); Cone beam collimator; Beam shaping; Radiotherapy
+
+医用直线加速器是治疗癌症的主要装备之一，准直器作为医用直线加速器核心部件，通常包含初级准直器与次级准直器，其中次级准直器直接参与照射野形状精准调控，对治疗精度产生关键影响，是实现精准放疗的核心执行单元。早期的医用直线加速器只配置光阑，仅能形成方野，因此只能开展普放治疗。为了提升适形精度

@@ -1,0 +1,5 @@
+): 41-46(in Chinese).   
+[35] 彭朝华, 关遐令. HI-13 串列加速器升级工程 144 MHz 铜铌溅射超导腔物理设计[J]. 原子能科学技术, 2006, 40(6): 646-649.  
+PENG Zhaohua, GUAN Xialing. 144 MHz niobium sputtered superconducting cavity physical design for HI-13 tandem upgrade project[J]. Atomic Energy Science and Technology, 2006, 40(6): 646-649 (in Chinese).   
+[36] 彭朝华, 吕钊, 关遐令. 超导四分之一波长谐振腔高频功率磁耦合器物理设计[J]. 原子能科学技术, 2007, 41(1): 98-100.  
+PENG Zhaohua, LU Zhao, GUAN Xialing. RF coupling loop design for superconducting quarter wave resonator[J]. Atomic

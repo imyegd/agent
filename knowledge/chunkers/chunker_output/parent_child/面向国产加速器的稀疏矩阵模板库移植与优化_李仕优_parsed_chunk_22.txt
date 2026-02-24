@@ -1,0 +1,3 @@
+Fig.2 The Blocked-ELL storage format of sparse matrix
+
+Blocked-ELL 稀疏矩阵存储格式相较于常见的稀疏矩阵存储格式具有规整的访存模式和较低的线程束分支分歧，更适合发挥并行处理器性能优势[25]。

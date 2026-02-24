@@ -1,0 +1,4 @@
+hrough image-relaying transport. Phys Rev Accel Beams, 2019, 22: 061302   
+21 Oefelein J C, Yang V. Comprehensive review of liquid-propellant combustion instabilities in F-1 engines. J Propulsion Power, 1993, 9: 657-677   
+22 Baber R, Mazzei L, Thanh N T K, et al. Synthesis of silver nanoparticles using a microfluidic impinging jet reactor. J Flow Chem, 2016, 6: 268-278   
+23 Visser C W, Kamperman T, Karbaat L P, et al. In-air microfluidics enables rapid fabrication of emulsions, suspensions, and 3D modular

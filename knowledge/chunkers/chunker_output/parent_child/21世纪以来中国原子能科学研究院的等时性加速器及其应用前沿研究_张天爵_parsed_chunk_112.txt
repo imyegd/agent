@@ -1,0 +1,3 @@
+.   
+[60] ZHANG Tianjue, FU Wei, WANG Chuan, et al. Recent progress of research and development for the cost-effective, energy-efficient proton accelerator CYCIAE-2000 [C]/Proceedings of CYC2022. Beijing: JACoW Publishing, 2022.   
+[61] 周洪吉, 付伟, 王川, 等. 2 GeV 等时性加速器散焦磁铁的 $1:4$ 比例模型线圈低温系统研制[J]. 原子能科学技术, 2025, 59(1): 231-238. ZHOU Hongji, FU Wei, WANG Chuan, et al. Development of $1:4$ scale model coil cryogenic system of defocus magnet for 2 GeV accelerator[J]. Atomic Energy Science and Technology, 2025, 59(1

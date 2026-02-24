@@ -1,0 +1,14 @@
+# 2.2.3 反Park变换
+
+反park变换就是将坐标系 $d - q$ 分解为坐标系 $\alpha -\beta$ ，如图8所示。
+
+![](images/4c0e35cf52fb369bce4e385a20d4a95a0b6b3b373b4739c0d952c4f5f1345ff6.jpg)
+
+![](images/6dd2ce3751ba0d6fd18aa79821d60e2dbd6f4f49fba0b9a58e4d153729acb236.jpg)  
+图8 反Park变换原理图
+
+$(V_{d}, V_{q})$ 是 PI 控制器得到的坐标值，最终得到的 $V_{a} 、 V_{\beta}$ 的运算公式为
+
+$$
+\left\{ \begin{array}{l} V _ {\alpha} = V _ {d} \cos \theta - V _ {q} \sin \theta \\ V _ {\beta} = V _ {d} c \sin \theta + V _ {q} s \cos \theta \end{array} \right. \tag {14}
+$$

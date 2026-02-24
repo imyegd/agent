@@ -1,0 +1,13 @@
+型训练。【结果】试验结果表明，模型在降水预报性能上优于传统光流法，且通过计算优化技术实现了国产加速器单卡模型训练性能4.1倍的加速比。【局限】模型在实际应用中对数据质量和计算资源有一定要求，且在极端天气条件下的表现仍需进一步验证。【结论】本文的研究为短临降水预报提供了新的方法和技术支持，推动了国产加速器在气象领域的应用，模型已在湖南、浙江、湖北等气象部门进行了示范应用，为实现高分辨率、高时率的气象智能预报产品提供了智能算法支撑。
+
+关键词：短临降水预报；深度学习；国产加速器；雷达回波外推；混合精度训练
+
+# Application of Radar Echo Extrapolation Based Model TrajCast on Domestic Accelerators for Short-Term and Imminent Precipitation Forecasting
+
+XIN Yuhang, WANG Qiyi, SUN Jing, ZHAO Chunyan* , LIU Yujia, LIANG Xue, CHEN Jie
+
+National Meteorological Information Centre, Beijing 100081, China
+
+Abstract: [Objective] This paper aims to construct a short- term and imminent precipitation forecasting model based on deep learning and explores the application of domestic accelerators in the field of meteorology, with the goal of improving the accuracy of meteorological disaster prevention and mitigation, and providing more reliable meteorological support for urban development and
+
+transportation. [Literature Scope] This paper focuses on the development of short-term pre

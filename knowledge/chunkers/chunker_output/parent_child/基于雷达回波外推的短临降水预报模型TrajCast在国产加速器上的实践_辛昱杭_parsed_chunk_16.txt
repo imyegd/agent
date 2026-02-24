@@ -1,0 +1,14 @@
+V _ {t, l}\right)\right) \tag {6}
+$$
+
+$$
+R _ {t} = \sigma \left(W _ {x r} * X _ {t} + \sum_ {l = 1} ^ {L} W _ {h r} ^ {l} * w a r p \left(H _ {t - 1}, U _ {t, l}, V _ {t, l}\right)\right) \tag {7}
+$$
+
+$$
+H _ {t} ^ {\prime} = f \left(W _ {x h} * X _ {t} + R _ {t} \circ \left(\sum_ {l = 1} ^ {L} W _ {h h} ^ {l} * w a r p \left(H _ {t - 1}, U _ {t, l}, V _ {t, l}\right)\right)\right) \tag {8}
+$$
+
+$$
+H _ {t} = \left(1 - Z _ {t}\right) \circ H ^ {\prime} _ {t} + Z _ {t} * H _ {t - 1} \tag {9}
+$$

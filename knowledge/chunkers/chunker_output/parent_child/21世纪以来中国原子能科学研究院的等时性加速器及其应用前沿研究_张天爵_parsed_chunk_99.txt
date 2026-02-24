@@ -1,0 +1,6 @@
+RIB production[J]. Nucl Instrum Methods Phys Res B, 2020, 463: 123-127.   
+[30] ZHANG T, LV Y, WEI S, et al. Isotope production by the high current proton beam of CYCIAE-100[J]. Nucl Instrum Methods Phys Res B, 2020, 463: 119-122.   
+[31] ZHANG Tianjue, YANG Jianjun, YAO Hongjuan.
+
+Physics problem study for A 100 MeV, 500 microamp $\mathrm{H}^-$ beam compact cyclotron[C]//ICAP09. San Francisco: [s.n], 2009.   
+[32] ZHANG T, YAO H, YANG J, et al. The beam dynamics study for the CYCIAE-100 cyclotron[J]. Nucl

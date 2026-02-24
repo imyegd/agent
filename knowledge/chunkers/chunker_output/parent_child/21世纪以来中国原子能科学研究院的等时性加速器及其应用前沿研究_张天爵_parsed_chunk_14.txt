@@ -1,0 +1,6 @@
+{\mathrm {p , v}}) & \sinh (\sqrt {k _ {\mathrm {p , v}}} l _ {\mathrm {p , v}}) / \sqrt {k _ {\mathrm {p , v}}} \\ - \sqrt {k _ {\mathrm {p , v}}} \sinh (\sqrt {k _ {\mathrm {p , v}}} l _ {\mathrm {p , v}}) & \cosh (\sqrt {k _ {\mathrm {p , v}}} l _ {\mathrm {p , v}}) \end{array} \right| \tag {6}
+$$
+
+其中： $k_{\mathrm{p,v}}$ 为峰区、谷区径向分布函数对半径的导数； $l_{\mathrm{p,v}} = R_{\mathrm{p,v}}\phi_{\mathrm{p,v}}$ 为峰区、谷区的路径长度， $R_{\mathrm{p,v}}$ 为峰区、谷区的偏转半径， $\phi_{\mathrm{p,v}}$ 为峰区、谷区的偏转角度。
+
+对于某一特定能量的粒子，做如下近似：1）粒子在峰谷区运

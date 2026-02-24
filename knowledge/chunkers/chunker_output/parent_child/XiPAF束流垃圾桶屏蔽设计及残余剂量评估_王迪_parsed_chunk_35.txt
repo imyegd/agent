@@ -1,0 +1,9 @@
+量变低，并且残余辐射主要存在束流垃圾桶的入口处。
+
+![](images/017e1b5e9c747bf56abe1d3732479e746651d6d0a7c3e82f99d706674bb5ff36.jpg)
+
+![](images/c358627467beaeded4efdb545b26973c8bc7d5739bd199d150a5ee51d547b6f3.jpg)  
+图8 连续运行1 d后不同冷却时间的束流垃圾桶周围剂量当量率分布（彩图见网络版）  
+Fig.8 Ambient dose equivalent rates around the beam dump for several cooling times after 1 d of continuous operation (color online)
+
+本研究进一步选取以束流垃圾桶入口平面（ $Z =$ $- 4 0 \mathrm { c m } )$ ）上、 $. R { = } 1 0 \mathrm { c m }$ 内面积作为剂量评估点，分别计算连续辐照 $1 \mathrm { h } , 1 \mathrm { d } ,

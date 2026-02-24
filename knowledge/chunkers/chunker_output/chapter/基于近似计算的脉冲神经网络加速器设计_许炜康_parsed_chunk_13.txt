@@ -1,0 +1,33 @@
+# 5.2.2 近似加法器选择策略
+
+对于每个数据集，本文选用的10种近似加法器的AARE如表1所示。通过表1，能够更为直
+
+![](images/f74e77a8b95c2f672e113f26289b6bfdee791720c3b093afcf9fd520d7999f37.jpg)  
+Figure 4 Probability statistics of input data $b$ for approximate adder   
+图4近似加法器输入数据 $b$ 概率统计
+
+观地评估这些近似加法器在特定应用场景下的结果质量，进而为优化脉冲神经网络中的加法器选择提供有力依据。
+
+Table 1 AARE for ten types of approximate adders on each dataset   
+表 1 各数据集上 10 种近似加法器的 AARE  
+
+<table><tr><td rowspan="2">近似
+加法器</td><td colspan="4">数据集</td></tr><tr><td>MNIST</td><td>FMNIST</td><td>DVS</td><td>SHD</td></tr><tr><td>add8u_6PT</td><td>0.004</td><td>0.021</td><td>0.011</td><td>0.020</td></tr><tr><td>add8u_2AM</td><td>0.013</td><td>0.059</td><td>0.039</td><td>0.059</td></tr><tr><td>add8u_6MZ</td><td>0.007</td><td>0.037</td><td>0.018</td><td>0.040</td></tr><tr><td>add8u_6P8</td><td>0.009</td><td>0.043</td><td>0.020</td><td>0.046</td></tr><tr><td>add8u_0NH</td><td>0.011</td><td>0.055</td><td>0.022</td><td>0.068</td></tr><tr><td>add8u_0NS</td><td>0.014</td><td>0.064</td><td>0.028</td><td>0.071</td></tr><tr><td>add8u_0NQ</td><td>0.059</td><td>0.245</td><td>0.102</td><td>0.270</td></tr><tr><td>add8u_2LL</td><td>0.254</td><td>0.496</td><td>0.444</td><td>0.525</td></tr><tr><td>add8u_2J3</td><td>0.295</td><td>0.618</td><td>0.524</td><td>0.670</td></tr><tr><td>add8u_3RE</td><td>1.111</td><td>1.459</td><td>2.046</td><td>1.089</td></tr></table>
+
+基于这种平均化处理，本文计算了每个近似加法器的平均AARE值，如表2所示。在后续的分析和讨论中，将此平均AARE值作为主要参考指标，用于评估和优化脉冲神经网络中的加法器设计。
+
+Table 2 Average AARE of   
+ten types of approximate adders   
+表 2 10 种近似加法器的平均 AARE  
+
+<table><tr><td>近似加法器</td><td>平均AARE</td><td>近似加法器</td><td>平均AARE</td></tr><tr><td>add8u_6PT</td><td>0.014</td><td>add8u_0NS</td><td>0.044</td></tr><tr><td>add8u_2AM</td><td>0.043</td><td>add8u_0NQ</td><td>0.169</td></tr><tr><td>add8u_6MZ</td><td>0.026</td><td>add8u_2LL</td><td>0.430</td></tr><tr><td>add8u_6P8</td><td>0.030</td><td>add8u_2J3</td><td>0.527</td></tr><tr><td>add8u_0NH</td><td>0.039</td><td>add8u_3RE</td><td>1.426</td></tr></table>
+
+AARE 不但考虑了输入数据数值大小的差异，还兼顾了这些数据出现的频率或概率分布。这
+
+使得其成为一个对应用具有更高敏感性的度量指标，有助于更好地理解和优化脉冲神经网络加法器的性能。
+
+对于选出的10个近似加法器，在应用最优近似加法器选择策略时，本文将AARE的阈值设定为0.5，并赋予AARE、功耗和面积不同的权重值。具体而言，AARE的权重（AAREWeight）设为1，功耗的权重（POWERWeight)设为2，面积的权重（AREAWeight)也设为2。基于这些权重计算出每个近似加法器的代价cost，如表3所示。
+
+Table 3 Cost of ten types of approximate adders 表 3 10 种近似加法器的 cost  
+
+<table><tr><td>近似加法器</td><td>面积/μm²</td><td>功耗/μW</td><td>AARE</td><td>cost</td></tr><tr><td>add8u_6PT</td><td>346.6</td><td>24.7</td><td>0.014</td><td>3.818</td></tr><tr><td>add8u_2AM</td><td>354.1</td><td>26.7</td><td>0.043</td><td>4.030</td></tr><tr><td>add8u_6MZ</td><td>304.0</td><td>21.5</td><td>0.026</td><td>3.346</td></tr><tr><td>add8u_6P8</td><td>290.3</td><td>21.8</td><td>0.030</td><td>3.293</td></tr><tr><td>add8u_0NH</td><td>262.8</td><td>19.3</td><td>0.039</td><td>2.957</td></tr><tr><td>add8u_0NS</td><td>222.7</td><td>16.3</td><td>0.044</td><td>2.510</td></tr><tr><td>add8u_0NQ</td><td>206.4</td><td>14.3</td><td>0.169</td><td>2.356</td></tr><tr><td>add8u_2LL</td><td>173.9</td><td>14.3</td><td>0.430</td><td>2.355</td></tr><tr><td>add8u_2J3</td><td>162.7</td><td>14.1</td><td>0.527</td><td>2.344</td></tr><tr><td>add8u_3RE</td><td>122.6</td><td>11.0</td><td>1.426</td><td>2.517</td></tr></table>

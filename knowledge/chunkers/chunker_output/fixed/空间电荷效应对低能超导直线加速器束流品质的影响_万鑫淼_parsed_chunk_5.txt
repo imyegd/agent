@@ -1,0 +1,5 @@
+_ { 0 }$ breakthrough beyond $9 0 ^ { \circ }$ is feasible under weak space-charge conditions, and increasing $N$ reduces resonance risk. These findings provide theoretical and numerical support for beam quality optimization in low-energy superconducting proton linacs.
+
+Key  words：    low-energy  superconducting  linac, space  charge  effect, double-periodic  structure, beam  quality, envelope instability, particle-core model, halo
+
+强流超导质子直线加速器在核废物嬗变[1]、大功率散裂中子源[2]、中微子工厂等[3]。为提升其流强与功率性能，世界各国相继开展了相关研究项目。经验表明，束流损失需控制在低于 $1 \ \mathrm { W / m }$ ，以保障设备与人员安全[4]。经过长期研究，人们对强流直线加速器中束流运动的理解不断加深，提出了包括包络不稳定性、粒子-束核共振等影响强流直线加速器中束流运动稳定性的理论，总结、形成了一套强流直线加速器设计所应遵循的设计原则，即：零流强周期相移 $( \sigma _ { 0 } )$ 小于 $9 0 ^ { \circ [ 5 ] }$ ；大束流孔径[6]；调谐因子（ $\quad \eta , \eta = ^ { \mathrm { { . } } }$ 带电流周期相移 $\sigma /$ 零流强周期相移 $\sigma _ { 0 }$ ）大于 $0 . 5 ^ { [ 7 ] }$ ； 其中，第一条是为了避免包络不稳定性；第二条则来自对束晕粒子的研究；第三条是为了避免空间电荷效应过强而导致束流损失。在超导直线加速器设计中，为满足 $\sigma _ { 0 }$ 不超过 $9 0 ^ { \circ }$ 的限制，常采用降低腔体工作电压的方式，导致第一加速段前部周期相移接近 $9 0 ^ { \circ }$ ，牺牲了加速效

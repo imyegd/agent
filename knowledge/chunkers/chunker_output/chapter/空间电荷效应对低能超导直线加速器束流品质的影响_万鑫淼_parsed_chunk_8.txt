@@ -1,0 +1,54 @@
+# 2    束晕形成机制
+
+# 2.1    理论模型
+
+对于束晕的理论研究，大多是基于 1985年提出的粒子束核模型[22]。将束核和单粒子看作两个整体，粒子的运动会受束核影响，但是束核不会受单粒子的影响。二维和三维对应的包络和单粒子的运动轨迹方程分别为[23-24]
+
+二维包络方程
+
+$$
+\frac {\mathrm {d} ^ {2} r}{\mathrm {d} s ^ {2}} + k (s) r - \frac {K}{r} - \frac {1 6 \varepsilon^ {2}}{\beta^ {2} \gamma^ {2} r ^ {3}} = 0 \tag {6}
+$$
+
+二维粒子运动方程
+
+$$
+\left\{ \begin{array}{l l} \frac {\mathrm {d} ^ {2} x}{\mathrm {d} s ^ {2}} + k (s) x - \frac {K}{r ^ {2}} x = 0 & (| x | \leqslant r) \\ \frac {\mathrm {d} ^ {2} x}{\mathrm {d} s ^ {2}} + k (s) x - \frac {K}{x} = 0 & (| x | > r) \end{array} \right. \tag {7}
+$$
+
+三维包络方程
+
+$$
+\left\{ \begin{array}{l} \frac {\mathrm {d} ^ {2} r _ {x}}{\mathrm {d} z ^ {2}} + \left(k _ {x} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) r _ {x} - I _ {x} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) - \frac {\varepsilon_ {x} ^ {2}}{r _ {x} ^ {3}} = 0 \\ \frac {\mathrm {d} ^ {2} r _ {y}}{\mathrm {d} z ^ {2}} + \left(k _ {y} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) r _ {y} - I _ {y} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) - \frac {\varepsilon_ {y} ^ {2}}{r _ {y} ^ {3}} = 0 \\ \frac {\mathrm {d} ^ {2} r _ {z}}{\mathrm {d} z ^ {2}} + k _ {z} ^ {2} r _ {z} - I _ {z} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) - \frac {\varepsilon_ {z} ^ {2}}{r _ {z} ^ {3}} = 0 \end{array} \right. \tag {8}
+$$
+
+三维粒子运动方程
+
+$$
+\left\{ \begin{array}{l} \frac {\mathrm {d} ^ {2} x}{\mathrm {d} z ^ {2}} + \left(k _ {x} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) x - I _ {x} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) x = 0 \\ \frac {\mathrm {d} ^ {2} y}{\mathrm {d} z ^ {2}} + \left(k _ {y} ^ {2} - \frac {k _ {z} ^ {2}}{2}\right) y - I _ {y} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) y = 0 \\ \frac {\mathrm {d} ^ {2} \Delta z}{\mathrm {d} z ^ {2}} + k _ {z} ^ {2} \Delta z - I _ {z} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) \Delta z = 0 \end{array} \right. \tag {9}
+$$
+
+$$
+\left\{ \begin{array}{l} \frac {x ^ {2}}{r _ {x} ^ {2} + \lambda} + \frac {y ^ {2}}{r _ {y} ^ {2} + \lambda} + \frac {\Delta z ^ {2}}{r _ {z} ^ {2} + \lambda} = 1 \\ I _ {i} \left(r _ {x}, r _ {y}, r _ {z}; \lambda\right) = - \frac {\rho}{2 \varepsilon_ {0}} \int_ {\infty} ^ {\lambda} \frac {r _ {x} r _ {y} \gamma r _ {z}}{\xi + e _ {i} ^ {2}} \frac {d \xi}{\sqrt {\left(\xi + r _ {x} ^ {2}\right) \left(\xi + r _ {y} ^ {2}\right) \left(\xi + \gamma^ {2} r _ {z} ^ {2}\right)}} \end{array} \right. \tag {10}
+$$
+
+式中：横向束流包络半径 $r _ { x } ( z )$ 、 $r _ { y } ( z )$ 与纵向束流包络半径 $r _ { z } ( z )$ ，粒子横向运动距离 $x , y$ 和纵向运动距离 $\Delta z$ 均以传输距离 $z$ 为自变量；表征聚焦强度的聚焦函数 $k _ { x }$ 和 $k _ { y } 、$ 零流强条件下的纵向波数 $k _ { z }$ ，以及决定空间电荷力的电荷密度 $\rho$ 与电场分布函数 $I$ 为核心物理参数。值得一提的是，若粒子在束核内部，λ 为 0，在外部的时候粒子的运动轨迹满足式（9）。
+
+在满足双周期结构特点和粒子束核模型的条件下，我们设计出了合适的双周期结构以及找到了束流在带流强下的匹配。我们在找束流匹配时，不仅需要束流在小周期结构内达到匹配，更需要通过调节匹配结构的参数，进行大周期结构的束流匹配，如图 9 所示，其中 $S _ { 1 } { = } 0 . 2 \ : \mathrm { m }$ ， $S _ { 2 } { = } 0 . 4 ~ \mathrm { m }$ ， $L _ { 1 } { = } 0 . 1 6 ~ \mathrm { m }$ ,， $L _ { 2 } { = } 0 . 2 3 ~ \mathrm { m }$ 。
+
+![](images/461e6c331b1433d398ab20698f1dd3c5c3067397614162c2a50e39bbefa9f155.jpg)
+
+![](images/a2757cf8a1c46247d76c151467e7e5f99042957503b7e7aa311772b18446feea.jpg)
+
+![](images/0dcedeaa429ac3393332ab68818ea76404a92618ab2b9c258950d82470b9c7ba.jpg)  
+cryomodule  
+RF cavity
+
+![](images/c8c3af809737747a04f10dcbc125e58651536dae39a5493e8a61cb54fcbd7df6.jpg)  
+solenoid
+
+![](images/b766d5b78ffbc5cc1be2cf0ec3cfb551440dc924b1c3d6b9b65c82c1493e5107.jpg)
+
+![](images/44f29aa941abbeda8c4ddb6506f4c06a20b5174c8317665f6f9dda4b9da42a15.jpg)  
+Fig. 9    Schematic diagram of the double periodic structure and its beam matching   
+图 9    双周期结构及其束流匹配示意图

@@ -1,0 +1,7 @@
+# Heating System Based on High Energy Accelerator Waste Heat Recovery
+
+WANG Xiangjian△, SU Liuwen, JIN Huanhuan
+
+(Supporting Services Centre, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, China)
+
+Abstract: [Objective] Amidst China’s national strategy to achieve carbon peak and carbon neutrality, the transition towards clean, low-carbon heating systems has become a critical priority. This shift is especially urgent in northern regions where conventional fossil fuel-based heat

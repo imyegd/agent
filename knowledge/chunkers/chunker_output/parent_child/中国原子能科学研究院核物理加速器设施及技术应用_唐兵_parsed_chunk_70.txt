@@ -1,0 +1,3 @@
+progress of a high-intensity accelerator for nuclear astrophysics research at the Jinping Underground Laboratory[J]. Atomic Energy Science and Technology, 2020, 54(11): 2231-2237 (in Chinese).   
+[61] 马瑞刚, 崔保群, 李爱玲, 等. 锦屏深地强流高压加速器控制系统的研制[J]. 原子能科学技术, 2022, 56(8): 1700-1706.  
+MA Ruigang, CUI Baoqun, LI Ailing, et al. Development of the control system for the high-current high-voltage accelerator at Jinping Underground Laboratory[J]. Atomic Energy Science and Technology, 2022, 56(8): 1700-1706(in Chinese).

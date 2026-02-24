@@ -1,0 +1,11 @@
+![](images/5a6617ba410d091186f404186f58cc6d7e11783021e55597e0baccbbf9947ae7.jpg)
+
+![](images/63ed0dbcf7eecf6a7471e3ea8432988dc0c3607ab745735d6208fb6558d4144b.jpg)  
+图6Clarke变换原理图
+
+# 2.2.2 Park变换
+
+Park变换就是将两相静止坐标系 $\alpha -\beta$ 转换为随转子转动的坐标系，也就是坐标系 $d - q$ 。 $d$ 轴的方向是与转子内磁场的方向重合，也就是直轴； $q$ 轴的方向与转子内磁场的方向垂直，为交轴。建设将坐标系 $\alpha -\beta$ 旋转角度 $\theta$ （转子旋转的角度），同样也是将 $\alpha -\beta$ 轴进行正交分解如图7所示。
+
+![](images/76d16446c75e4f02ea1b64f880591b9c31328a3c6768f6acbfa953c6a2732c04.jpg)  
+图7 Park变换原理图

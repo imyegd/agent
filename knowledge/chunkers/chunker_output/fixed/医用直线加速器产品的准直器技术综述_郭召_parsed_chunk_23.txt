@@ -1,0 +1,7 @@
+for head and neck cancers［J］. J Appl Clin Med Phys, 2013, 14(6): 40-52.   
+［10］ Ouardy K E, Zerfaoui M, Herrassi Y, et al. Validation of monaco TPS for an ELEKTA synergy MLCi2: using gamma index for eElekta full package beams［J］. Materials Today: Proceedings, 2021, 45(8): 7685-7689.   
+［11］ Cranmer-Sargison G, Liu P Z Y, Weston S, et al. Small field dosimetric characterization of a new 160-leaf MLC［J］. Phys Med Biol, 2013, 58(20): 7343-7354.   
+［12］ Meyers S M, Balderson M J, Létourneau D. Evaluation of Elekta Agility multi-leaf collimator performance using statistical process control tools［J］. J Appl Clin Med Phys, 2019, 20(7): 100-108.   
+［13］ Yang R, Lamey M, Bartha L, et al. Automated conversion of Millennium-120 VMAT plans to HDMLC geometry: software development and treatment of first patients［J］. J Appl Clin Med Phys, 2022, 23(6): e13598.   
+［14］余权达, 郑雪. 瓦里安医用直线加速器多叶光栅故障分析和维修［J］. 中国医疗设备, 2021, 36(9): 179-183.  
+［15］ Bergman A M, Gete E, Duzenli C, et al. Monte Carlo modeling of HD120 multileaf collimato

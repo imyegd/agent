@@ -1,0 +1,9 @@
+AE-50[C]/22nd International Conference on Cyclotrons and Their Applications. Cape Town: JACoW Publishing, 2019: 35-38.   
+[43] WEI S M, AN S Z, GUAN L L, et al. A 50 MeV proton beam line design[C]//22nd International Conference on Cyclotrons and Their Applications. Cape Town: JACoW Publishing, 2019: 45-47.   
+[44] ZHANG L, LI H, XU Z, et al. Radiation hardness of an $\alpha$ -Ga $_2$ O $_3$ nanorod array/FTO solar-blind photodetector against the 50-MeV proton beam[J]. IEEE Transactions on Nuclear Science, 2024, 71(7): 1365-1369.   
+[45] FU X, YIN Z, FONG K, et al. LLRF controller for high current cyclotron-based BNCT system[J]. IEEE Transactions on Nuclear Science, 2021, 68(10): 2452-2458.   
+[46] Predictions of the future cancer incidence and mortality burden worldwide up until 2050[EB/OL]. https://gco.iarc.fr/tomorrow/en/dataviz/trends?multiple_populations=1&populations=900_160.   
+[47] ZHANG T, WANG C, LI M, et al. Developments for 230 MeV superconducting cyclotrons for proton therapy and proton irradiation[J]. Nucl Instrum Methods Phys Res B, 2017, 406: 244-249.   
+[48] ZHANG T, LI M, WANG C, et al. Investigation and quantitative simulation of beam physics for 230 MeV SC cyclotron under construction at CIAE[J]. Nucl Instrum Methods Phys Res B, 2020, 468: 8-13.   
+[49] ZHANG T, LI M, WANG C, et al. Magnetic field measurement, shimming and processing for 230 MeV superconducting cyclotron main magnet[J]. IEEE Transactions on Applied Superconductivity, 2020, 30(4): 4101205.   
+[50] YIN Z, JI B, FU X, et al.

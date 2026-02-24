@@ -1,0 +1,7 @@
+# 3 讨论
+
+# 3.1 IHEG-CAGSAMS－ ${ } ^ { 1 4 } \mathbf { C }$ 石墨化水平长期稳定 性对比
+
+通过对比 IHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ 实验室成立以
+
+来测试的OXⅡ、IAEA-C7及 IAEA-C8所有数据的$\mathrm { p M C }$ 值（图 5），评估 IHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ 实验室的石墨化稳定性水平。图 5a为两套系统制备的OXⅡ石墨样品，通过对比平均值及长期标准差$\left( \begin{array} { c c } { 1 } & { \mathbf { \sigma } } \end{array} \right)$ ）分析石墨化水平的长期稳定性。来源于AGE3的 OXⅡ 平 均 值 为 $1 3 4 . 1 0 \pm 0 . 4 5 \mathrm { p M C }$ （ $\mathrm { ~ n ~ } =$ 173），长期标准差为 0.32；来源于 VAC的OXⅡ平均值为 $1 3 4 . 1 2 { \scriptstyle \pm 0 . 6 6 ~ \mathrm { p M C } }$ $\mathrm { n } = 6 7$ ），长期标准差为0.52。两套系统制备的OXⅡ平均值高度接近，表明系统间不存在显著偏差。两组数据的长期标准偏差均小于其平均值的标准误差，且波动幅度与测量不确定度相当，即观测到的 $\mathrm { 0 X I } ^ { 1 4 } \mathrm { C }$ 测试值的长期

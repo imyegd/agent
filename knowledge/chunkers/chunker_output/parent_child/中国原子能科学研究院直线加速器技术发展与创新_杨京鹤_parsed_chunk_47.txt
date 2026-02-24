@@ -1,0 +1,3 @@
+on linac[J]. Atomic Energy Science and Technology, 2018, 52(12): 2302-2307(in Chinese).   
+[7] 杨京鹤, 余国龙, 佟迅华, 等. 基于电子直线加速器的空间电子环境地面模拟用电子源设计与实现[J]. 原子能科学技术, 2022, 56(9): 1794-1800. YANG Jinghe, YU Guolong, TONG Xunhua, et al. Design and implementation of electron linear accelerator for ground simulation facility of space electronic environment[J]. Atomic Energy Science and Technology, 2022, 56(9): 1794-1800(in Chinese).   
+[8] 王常强, 向益淮, 李金海, 等. 地面模拟空间电子环境束流均匀化设计[J]. 核技术, 2020, 43(12): 120201. WANG Changqiang

@@ -1,0 +1,8 @@
+![](images/5ebe05633405fefd60147495af34a02b6f98bc1e210ca3b68403133cf315c027.jpg)
+
+![](images/1bee979e395062c3c1c643818e5a02e5c4709bf5f8cc11dfa90b5b50df881373.jpg)  
+图 11 射波刀的 Fixed 锥形孔准直器
+
+Fixed 和 Iris 都 属 于 锥 孔 形 准 直 器，其 中 Iris 是一款可以实现照射野自动连续切换的准直系统，可优先选择 $5 . 0 \ \mathrm { m m }$ 、 $7 . 5 \ \mathrm { m m }$ 、 $1 0 . 0 \ \mathrm { m m }$ 、 $1 2 . 5 \ \mathrm { m m }$ 、$1 5 . 0 \ \mathrm { m m }$ 、 $2 0 . 0 \ \mathrm { m m }$ 、 $2 5 . 0 \ \mathrm { m m }$ 、 $3 0 . 0 \ \mathrm { m m }$ 、 $3 5 . 0 \ \mathrm { m m }$ 、$4 0 . 0 \ \mathrm { m m }$ 、 $5 0 . 0 \ \mathrm { m m }$ 和 $6 0 . 0 \ \mathrm { m m }$ 这 12种规格，如 图 12所示是 Iris准直器的结构，由上下两层可调结构
+
+组成，每层包含 6组三棱柱结构，上下两层错开$3 0 ^ { \circ }$ 相位，形成一个 12棱边的近似圆形结构。Iris可以获得和 Fixed相近的照射野精度，两种准直器的半影比较如表 3所示，Iris可形成与 Fixed相同直径的近圆形照射野，二者半影接近，Fixed优于 Iris ［32］。

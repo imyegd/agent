@@ -1,0 +1,7 @@
+0829e5f74839fadc412.jpg)
+
+![](images/d84a72a95cbae485a0b2547bffb046b736fcd78c68fe0ad5b667f498fe8b356c.jpg)  
+图12 储存环引出区(a)和注入区(b)示意图  
+Fig.12 Sketch of extraction region (a) and injection region (b) in storage ring
+
+轨道校正方案采用相同的校正铁位置和BPM位置及磁铁元件误差强度。在设置200个随机误差种子的各项误差后，进行粒子追踪模拟。从结果中可以看出，水平方向轨道畸变RMS为 $1 5 0 { \sim } 2 7 0 0 ~ { \mu \mathrm { m } }$ （均值 $1 0 4 4 . 0 \mu \mathrm { m }$ ，方差 $5 2 9 . 2 \mu \mathrm { m } )$ ），垂直方向轨道畸变 RMS 为 $4 0 0 { \sim } 6 4 0 0 \mu \mathrm { m }$ （均值 $2 ~ 1 0 5 . 2 ~ { \mu \math

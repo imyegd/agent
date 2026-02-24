@@ -1,0 +1,34 @@
+# 3 残余剂量评估
+
+中能质子加速器在运行期间由于束流损失而产生瞬时辐射，这些束流粒子与各个部件材料相互作用会使材料活化，导致在加速器停机之后仍存在残余辐射，这是加速器停机之后的检修、换样等工作人员需防护的重要对象［8］。而束流垃圾桶是束流损失最集中的元件，同时位于XiPAF辐照终端的下游，因此需评估其残余辐射水平，特别是束流垃圾桶入口位置处。
+
+使 用 FLUKA 的 IRRPROFI、DCYTIMES、DCYSCORE等输入卡组合，可以方便地设置束流损失率、辐照时间、冷却时间等关键参数。设置质子束流能量为 $2 0 0 \mathrm { M e V }$ ，束流损失率为 $1 . 3 \times 1 0 ^ { 1 0 }$ （每秒粒子数），图8给出了连续照射1 d并冷却不同时间之后，束流垃圾桶周围的残余剂量率分布，图中分界线对应的剂量值为 $2 . 5 \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 }$ 。可以看出，随着冷却时间的增加，残余剂量变低，并且残余辐射主要存在束流垃圾桶的入口处。
+
+![](images/017e1b5e9c747bf56abe1d3732479e746651d6d0a7c3e82f99d706674bb5ff36.jpg)
+
+![](images/c358627467beaeded4efdb545b26973c8bc7d5739bd199d150a5ee51d547b6f3.jpg)  
+图8 连续运行1 d后不同冷却时间的束流垃圾桶周围剂量当量率分布（彩图见网络版）  
+Fig.8 Ambient dose equivalent rates around the beam dump for several cooling times after 1 d of continuous operation (color online)
+
+本研究进一步选取以束流垃圾桶入口平面（ $Z =$ $- 4 0 \mathrm { c m } )$ ）上、 $. R { = } 1 0 \mathrm { c m }$ 内面积作为剂量评估点，分别计算连续辐照 $1 \mathrm { h } , 1 \mathrm { d } , 1 \mathrm { w }$ 之后残余剂量的衰减，如图9所示。计算结果显示，三种工况下剂量衰减至XiPAF的剂量管理约束值 $( 2 . 5 \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 } )$ ）所需的冷却时间均大约为 $2 { \sim } 3 \mathrm { ~ h ~ }$ 。在停束后的2 h内，三种工况的剂量衰减趋势基本一致，而随着冷却时间的增加，辐照时间更长的工况将残留更高的剂量，这种趋势特征归因于辐照时间、冷却时间与放射性核素半衰期的相对关系。
+
+根据核反应中放射性核素的生成规律［18］，易得：
+
+$$
+A = N _ {s} \sigma I \left(1 - 2 ^ {- \frac {t _ {0}}{T _ {1 / 2}}}\right) \cdot 2 ^ {- \frac {t _ {c}}{T _ {1 / 2}}} \tag {1}
+$$
+
+式中： $A$ 为放射性活度； $N _ { \mathrm { s } }$ 为单位面积靶上的靶核数； $\sigma$ 为质子与靶原子核反应产生某种放射性核素的平均截面；I为束流强度； $T _ { 1 / 2 }$ 为放射性核素的半衰期； $t _ { 0 } \cdot t _ { \mathrm { c } }$ 分别为辐照时间和冷却时间。当束流种类、能量、靶材料不变时，式（1）中的因子均为常量，式（1）中括号项即为辐照 $t _ { 0 }$ 时间后的该放射性核素的饱和程度，当辐照5个半衰期后，饱和程度约达到$9 7 \%$ 。使用FLUKA的RESNUCLE计数卡得到三种
+
+![](images/76e6da6a46a46a0c6875597978aa5fd33760fed9497eacdb03e91f3b23056b1a.jpg)  
+图9 束流垃圾桶入口处残余剂量率随冷却时间的衰减（彩图见网络版）  
+Fig.9 Residual dose rate as a function of cooling time at the dump entrance (color online)
+
+工况下，冷却 $3 0 \mathrm { { m i n } }$ 后，在聚乙烯靶芯中产生的主要放射性核素，如表4所示，计算结果与式（1）的规律是相符的，由于聚乙烯材料由C、H元素组成，因此产生的放射性核素种类数量较少。
+
+表4 三种工况的靶芯主要放射性核素活度  
+Table 4 Activity of main radionuclides produced in the dump core under three operational scenarios   
+
+<table><tr><td rowspan="2">放射性核素 Radionuclide</td><td rowspan="2">半衰期 Half-life</td><td colspan="2">t0=1 h</td><td colspan="2">t0=1 d</td><td colspan="2">t0=1 w</td></tr><tr><td>活度 Activity / Bq</td><td>占比 Proportion / %</td><td>活度 Activity / Bq</td><td>占比 Proportion / %</td><td>活度 Activity / Bq</td><td>占比 Proportion / %</td></tr><tr><td>3H</td><td>12.3 y</td><td>1.04×103</td><td>0.000</td><td>2.50×104</td><td>0.010</td><td>1.75×105</td><td>0.063</td></tr><tr><td>7Be</td><td>53.1 d</td><td>1.19×105</td><td>0.053</td><td>2.85×106</td><td>1.097</td><td>1.92×107</td><td>6.948</td></tr><tr><td>11C</td><td>20.4 min</td><td>2.24×108</td><td>99.927</td><td>2.57×108</td><td>98.876</td><td>2.57×108</td><td>92.972</td></tr><tr><td>13N</td><td>10.0 min</td><td>4.35×104</td><td>0.019</td><td>4.48×104</td><td>0.017</td><td>4.48×104</td><td>0.016</td></tr></table>
+
+由于残余放射性是由各种放射性核素整体贡献的，其中活度占比比较大的核素有7Be和 $^ { 1 1 } { \cal C }$ ，在图9中，前 $^ { 2 \mathrm { ~ h ~ } }$ 冷却时间内的剂量衰减主要由占比最大的 $^ { 1 1 } { \cal C }$ 衰变贡献，且三种工况下 $^ { 1 1 } { \cal C }$ 的生成数量均接近饱和，因此前半段衰减趋势较一致，而在后面更长的冷却时间段内，衰减趋势主要由长寿命核素主导，且长寿命核素的生成数量随着辐照时间增加而不断增加，因此辐照时间越长，后期残余剂量越高，且衰减越慢。

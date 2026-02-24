@@ -1,0 +1,8 @@
+# 存算一体计算范式与架构
+
+让计算更靠近数据是存算一体的核心理念，计算所处位置决定了计算结果产生的位置，如图 2（a）所示。计算发生在内存内部的可称为 CIM，根据计算结果产生位置可细分为存内逻辑计算（logic-in-memory,LIM），如图 2（a）中 $\textcircled{1}$ 所示和存内模拟计算（analog-in-memory, AIM），如图 2（a）中 $\textcircled{2}$ 所示，其中 LIM的计算结果在内存阵列中产生，而 AIM 的计算结果在外围电路中产生。除此之外，将额外计算单元（如 ASIC电路、处理器等）放在内存附近但不在内存中的可称为近数据处理（near data processing, NDP），如图 2（a）中 $\textcircled{3}$ 架构[11] 所示。
+
+![](images/3078a1b1069c631157fd629c8a723cabcc21c7baf3f8cc6aa8a873c1daa3d0a0.jpg)  
+（a）存算一体架构分类[1
+
+![](images/c9f6da2c2776f784c4185705a477f424714

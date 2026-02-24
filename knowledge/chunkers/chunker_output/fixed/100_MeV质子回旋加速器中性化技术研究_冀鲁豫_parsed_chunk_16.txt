@@ -1,0 +1,22 @@
+6a3b3decc726987cde3a32cfa6bcf673228ade2108976de2c5aa0baefcbb.jpg)
+
+![](images/22d0ed85226f8417f49c70f92dd4797ed3be7f323a395065cd5163cc80423173.jpg)
+
+![](images/d45daf022640d8993c686df780c6721c8292bb49dd9d03c139322cacc2d1ed76.jpg)
+
+![](images/fa52761543103a6a03f38be9f35de5b5e09834f298862b5b9277c668a3155695.jpg)
+
+![](images/f6b4199acf433e7e96cc9d6f9f837aa0f7b355ec76678ad298d62d869c8f91d8.jpg)
+
+![](images/3d3a392f9034c67f4df33c021f7039831fd195f920b65e2e54750301d4eaeeda.jpg)
+
+![](images/27752b20ad98ba4f991488d6ca7f479b75d4e44cb53663672d6aa5f8d0fa6102.jpg)
+
+![](images/fd10aa565d65d804d88cfc12a6a506bf95a1fd63cdd5fd7be8a762184808987d.jpg)
+
+图 7    多圈剥离的剥离膜上粒子分布  
+Fig. 7    Particle distribution on stripping foil with multi-pass stripping   
+![](images/dc0b7ce6eae669d33fcf347285f8c3d65a9f55707f6d3a9c92c5a8e627d21fe5.jpg)  
+a——负氢离子径向相空间分布；b——负氢离子轴向相空间分布；c——负氢离子纵向分布；d——氢原子径向相空间分布；e——氢原子轴向相空间分布；f——氢原子纵向分布；g——质子径向相空间分布；h——质子轴向相空间分布；i——质子纵向分布
+
+计算中关于粒子通过剥离膜后能量损失的考虑如下。粒子通过剥离膜的能量损失主要来源于被剥离电子的能量损失，每个被剥离电子导致粒子能量降低约 $0 . 0 5 \%$

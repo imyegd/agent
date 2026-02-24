@@ -1,0 +1,14 @@
+{ 2 6 } \mathrm { A l }$ l：
+
+$$
+N _ {2 6} = \frac {P _ {2 6} (0)}{\lambda_ {2 6} + \rho \varepsilon / \Lambda_ {i}} \tag {14}
+$$
+
+$$
+N _ {1 0} = \frac {P _ {1 0} (0)}{\lambda_ {1 0} + \rho \varepsilon / \Lambda_ {i}} \tag {15}
+$$
+
+另外，如果样品埋藏深度不够，埋藏后还会产生新的宇宙成因核素，则埋藏后的核素浓度变化为：
+
+$$
+N _ {2 6} = \frac {P _ {2 6} (0)}{\lambda_ {2 6} + \rho \varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {2 6} t _ {b}} + \frac {P _ {2 6} (z)}{\lambda_ {2 6}} \left(1 - \mathrm {e} ^ {- \lambda_ {2 6} t _ {b}}\right) \tag {16}

@@ -1,0 +1,15 @@
+进[J].核物理动态，1994,11(2):22-26.  
+QIN Jiuchang, GUAN Xialing, YANG Bingfan, et al. Improvement of HI-13 tandem accelerator[J]. Nuclear Physics Review, 1994, 11(2): 22-26(in Chinese).   
+[26] 杨丙凡, 周俊峰, 关遐令, 等. HI-13 串列加速器输电梯的研制[J]. 原子能科学技术, 1996, 30(3): 193-198.  
+YANG Bingfan, ZHOU Junfeng, GUAN Xialing, et al. Development of HI-13 tandem accelerator elevator[J]. Atomic Energy Science and Technology, 1996, 30(3): 193-198(in Chinese).   
+[27] 杨丙凡, 秦久昌, 张桂莲, 等. HI-13 串列加速器加速管技术改造[J]. 原子能科学技术, 2003, 37(6): 513-518.  
+YANG Bingfan, QIN Jiuchang, ZHANG Guilian, et al. Technical transformation of accelerating tube of HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2003, 37(6): 513-518(in Chinese).   
+[28] 闫芳, 关遐令, 贺新福, 等. 串列加速器头部电极改进方案[J]. 高能物理与核物理, 2006, 30(增刊1): 111-113.  
+YAN Fang, GUAN Xialing, HE Xinfu, et al. Modification project of the terminal electrode of the HI-13 tandem accelerator[J]. High Energy Physics and Nuclear Physics, 2006, 30(Suppl.1): 111-113 (in Chinese).   
+[29] 李爱玲, 崔保群, 杨丙凡, 等. 基于LabVIEW的发射度测试仪[J]. 工业控制计算机, 2007, 20(11): 88, 90.  
+LI Ailing, CUI Baoqun, YANG Bingfan, et al. Emittance measurement instrument based on LabVIEW[J]. Industrial Control Computer, 2007, 20(11): 88, 90(in Chinese).   
+[30] XIONG Zhengfeng, ZHENG Shuxin, XING Qingzi, et al. The radio-frequency design of an IRIS-type coupler for the CPHS radio-frequency quadrupole[J]. Chinese Physics C, 2012, 36(1): 96-100.   
+[31] 张天爵, 关遐令, 崔保群. 串列加速器升级工程[C]/粒子加速器学会第七届全国会员代表大会暨学术报告会文集. [出版地不详]: [出版者不详], 2004: 94-106.  
+[32] 张天爵, 李振国, 殷治国, 等. 串列加速器升级工程的计算机控制系统方案设计[J]. 原子能科学技术, 2005, 39(2): 188-192.  
+ZHANG Tianjue, LI Zhenguo, YIN Zhiguo, et al. Design of computer control system for tandem accelerator upgrade project[J]. Atomic Energy Science and Technology, 2005, 39(2): 188-192(in Chinese).   
+[33] 杨丙凡, 关遐令, 曹小平, 等. HI-13 串列加速器升级工程进展与现状[C]/2006全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2006: 10-16.

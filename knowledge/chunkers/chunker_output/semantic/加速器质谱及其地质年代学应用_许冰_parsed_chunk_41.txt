@@ -1,0 +1,16 @@
+080005  
+［33］SouthonJ，SantosGM．LifewithMC-SNICS．PartⅡ：FurtherionsourcedevelopmentattheKeckCarbonCycleAMSFacility［J］NuclearInstrumentsandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2007，259（1）：88－93  
+［34］FulbrightHW．Ionizationchambers［J］．NuclearInstrumentsanMethods，1979，162（1－3）：21－28  
+［35］SannH，DamjantschitschH，HebbardD，etal．Aposition-sensitivionizationchamber［J］．NuclearInstrumentsandMethods，1975，124（2）：509－519  
+［36］SynalHA，BeerJ，BonaniG，etal．Detectionof32Siand36ClwiththeETH／SINEN-Tandem［J］．NuclearInstrumentsandMethodsinPhysicsResearchSectionB：Beam InteractionswithMaterialsandAtoms，1987，29（1－2）：146－150  
+［37］ ElmoreD，KubikPW，TubbsLE，etal．TheRochestertandemacceleratormassspectrometryprogram［J］．NuclearInstrumentsandMethodsinPhysicsResearchSectionB：Beam InteractionswitMaterialsandAtoms，1984，5（2）：109－116  
+［38］FifieldLK，OphelTR，BirdJR，etal．Chlorine-36measuremenprogramattheAustralianNationalUniversity［J］．NuclearInstrumentandMethodsinPhysicsResearchSectionB：Beam InteractionswitMaterialsandAtoms，1987，29（1－2）：114－119  
+［39］FinkD，MiddletonR，KleinJ，etal．41Ca：Measurementbyacceleratomassspectrometryandapplications［J］．NuclearInstrumentsandMethodsinPhysicsResearchSectionB：Beam InteractionswithMaterialsandAtoms，1990，47（1）：79－96  
+［40］MartschiniM，FifieldLK，FroehlichMB，etal．NewandupgradedionizationchambersforAMSattheAustralianNationalUniversity［J］NuclearInstrumentsandMethodsinPhysicsResearchSectionB：BeamInteractionswithMaterialsandAtoms，2019，438：141－147doi：10．1016／j．nimb．2018．05．039  
+［41］RaisbeckGM，YiouF，PeghaireA，etal．InstabilityofKH3-an potentialimplicationsfordetectiono $^ { 4 1 }$ 1Cawithatandemelectrostatic accelerator［C］∥ArgonneSymposium onHighEnergySpectrometry Argonne，IL，USA，1981：426－430   
+［42］VockenhuberC，FeldsteinC，PaulM，etal．Searchforlive $^ { 1 8 2 } \mathrm { H f }$ findeep-seasediments［J］．NewAstronomyReviews，2004，48（1－4）：161－164  
+［43］SynalHA．Acceleratormassspectrometry：Ultra-sensitivedetectiontechniqueoflong-livedradionuclides［J］．Chimia，2022，76（1－2）：45－51．doi：10．2533／chimia．2022．45  
+［44］GosseJC，PhillipsFM．Terrestrialinsitucosmogenicnuclides：Theoryand application［J］．QuaternaryScienceReviews，2001，20（14）：1475－1560  
+［45］ RinkW J，ThompsonJW．EncyclopediaofScientificDatingMethod［M］．Dordrecht：SpringerNetherlands，2015：918－932  
+［46］RamseyCB．Radiocarbondating：Revolutionsinunderstanding［J］Archaeometry，2008，50（2）：249－275  
+［47］StuiverM，ReimerP J，ReimerR W．Radiocarbon calibrationprogram，revision3.

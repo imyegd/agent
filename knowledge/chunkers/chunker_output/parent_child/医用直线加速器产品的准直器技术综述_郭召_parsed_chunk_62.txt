@@ -1,0 +1,4 @@
+n Q, Lei Y, et al. Assessment of an Elekta Versa HD linear accelerator for stereotactic radiosurgery with circular cone collimators［J］. J Xray Sci Technol, 2020, 28(1): 71-82.   
+［27］陈超敏, 于晓宝, 周凌宏, 等. X-刀系统准直器的设计与性 能［J］. 立体定向和功能性神经外科杂志, 1997(1):47-49.  
+［28］ Abakay C D, Kiray Z, Çetintas S, et al. PO-1997 Dosimetric comparison of multileaf and fixed cone collimator plans with cyberknife［J］. Radiotherapy and Oncology, 2023, 182(S1): S1770-S1771.   
+［29］房爱玲. Cyberknife的系统构成及临床应用［J］. 医疗卫 生装备, 2009, 30(4): 104-

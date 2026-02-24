@@ -1,0 +1,14 @@
+26 Choo Y J, Kang B S. Parametric study on impinging-jet liquid sheet thickness distribution using an interferometric method. Exp Fluids, 2001, 31: 56-62   
+27 Bush J W M, Hasha A E. On the collision of laminar jets: fluid chains and fishbones. J Fluid Mech, 2004, 511: 285-310   
+28 Li R, Ashgriz N. Characteristics of liquid sheets formed by two impinging jets. Phys Fluids, 2006, 18: 087104   
+29 Lu J, Corvalan C M. Influence of viscosity on the impingement of laminar liquid jets. Chem Eng Sci, 2014, 119: 182-186   
+30 Majumdar N, Tirumkudulu M S. Dynamics of radially expanding liquid sheets. Phys Rev Lett, 2018, 120: 164501   
+31 Morrison J T, Feister S, Frische K D, et al. MeV proton acceleration at kHz repetition rate from ultra-intense laser liquid interaction. New J Phys, 2018, 20: 022001   
+32 Fule M, Kovacs A P, Gilinger T, et al. Development of an ultrathin liquid sheet target for laser ion acceleration at high repetition rates in the kilohertz range. High Pow Laser Sci Eng, 2024, 12: e37   
+33 Galinis G, Strucka J, Barnard JC T, et al. Micrometer-thickness liquid sheet jets flowing in vacuum. Rev Sci Instruments, 2017, 88: 083117   
+34 Crissman C J, Mo M, Chen Z, et al. Sub-micron thick liquid sheets produced by isotropically etched glass nozzles. Lab Chip, 2022, 22: 1365-1373   
+35 Loh Z H, Doumy G, Arnold C, et al. Observation of the fastest chemical processes in the radiolysis of water. Science, 2020, 367: 179-182   
+36 Yang J, Dettori R, Nunes J P F, et al. Direct observation of ultrafast hydrogen bond strengthening in liquid water. Nature, 2021, 596: 531-535   
+37 Li S, Lu L, Bhattacharyya S, et al. Attosecond-pump attosecond-probe x-ray spectroscopy of liquid water. Science, 2024, 383: 1118-1122   
+38 Withers P J, Bouman C, Carmignato S, et al. X-ray computed tomography. Nat Rev Methods Primers, 2021, 1: 18   
+39 Ma W. Science and technologies in targets for laser accelerators (in Chinese). Chin Sci Bull, 2023, 68: 1047-1053 [马文君. 激光加速器中的靶科学与技术. 科学通报, 2023, 68: 1047-1053]

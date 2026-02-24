@@ -1,0 +1,8 @@
+athrm { C } ^ { \ast }$ 、 $^ { 2 7 } \mathrm { A l } ^ { - }$ 和 $^ { 1 2 7 } \mathrm { I ^ { - } }$ 的束流强度分别为1.7、38、0.25、 $2 . 5 \mu \mathrm { A }$ 。 $^ { 1 2 } \mathrm { C } ^ { \ast }$ 束可达 ${ \mathrm { > } } 1 0 0 \mu \mathrm { A }$ ，测试时用 $3 8 \mu \mathrm { A }$ ，此时 $^ { 1 4 } \mathrm { C }$ 计数率为 $1 5 0 \mathrm { { s } ^ { - 1 } }$ 。Al-束低于合同规定，但已达文献值的一般水平。现代碳样品置于12 个样品座中，每天测 6 个，连续测两天，以测试加速器关停和重新启动后数据的重复性。其它三个核素的精度要求较低，只在四个样品座中测试。验收测试进行的步骤和计算方法见 $\ S 2 . 2$ 。
+
+全部验收测试结果列于表 2，四个核素的测量精度和最小可测的本底值都达到了合同规定的指标。 $^ { 1 4 } \mathrm { C } / ^ { 1 2 } \mathrm { C }$ 比值达到 $0 . 2 \%$ 测量精度[17-19]，已非常接近计数的统计误差，表明 AMS 本身的波动引起的 $^ { 1 4 } \mathrm { C } / ^ { 1 2 } \mathrm { C }$ 比值的不确定度 $< 1 \text{‰}$ 。连续两天 $^ { 1 4 } \mathrm { C } / ^ { 1 2 } \mathrm { C }$ 比值平均值分别为 $1 . 4 4 3 4 3 \times 1 0 ^ { - 1 2 }$ 和 $1 . 4 3 6 8 9 \times 1 0 ^ { - 1 2 }$ ，两天的重复性为 $0 . 4 5 \%$ 。
+
+表 2 四个核素的测量精度和最小可探测的本底值  
+Table 2 The measurement precision and background for isotope ratio of four nuclides   
+
+<table><tr><td>核素Nuclide</td><td></td><td>同

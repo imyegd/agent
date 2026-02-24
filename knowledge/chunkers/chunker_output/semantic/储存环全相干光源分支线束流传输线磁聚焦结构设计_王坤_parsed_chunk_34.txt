@@ -1,0 +1,8 @@
+HOU Jie, LIU Guimin. Transport line orbit distortion correction based on response matrix and SVD algorithm [J]. High Energy Physics and Nuclear Physics, 2006, 30 (z1): 37–39.   
+17 Han Y, Hou J, Liu G, et al. Analysis of transmission efficiency of SSRF electron beam transfer lines[J]. Nuclear Science and Techniques, 2006, 17(2): 65 – 70. DOI: 10.1016/s1001-8042(06)60014-6.   
+18 Chung Y, Decker G, Evans K. Closed orbit correction using singular value decomposition of the response matrix [C]. Proceedings of 1993 IEEE Particle Accelerator Conference. 1993: 2263–2265.   
+19 肖邓杰, 乔予思, 储中明. 基于机器学习的轨道校正方法 [J]. 强 激 光 与 粒 子 束 , 2021, 33: 054004. DOI: 10.11884/HPLPB202133.200352.  
+XIAO Dengjie, QIAO Yusi, CHU Zhongming. Orbit correction based on machine learning[J]. High Power Laser and Particle Beams, 2021, 33: 054004. DOI: 10. 11884/HPLPB202133.200352.   
+20 李瑞淳, 张庆磊, 米清茹, 等. 机器学习在储存环轨道校正中的应用研究[J]. 强激光与粒子束, 2021, 33: 034007.DOI: 10.11884/HPLPB202133.200318.  
+LI Ruichun, ZHANG Qinglei, MI Qingru, et al. Application of machine learning in orbital correction of storage ring[J]. High Power Laser and Particle Beams, 2021, 33: 034007. DOI: 10.11884/HPLPB202133.200318.   
+21 邓超, 胡保进, 周梁缘, 等.合肥先进光源磁铁电源自优化控制器设计[J]. 核技术, 2025, 48(5): 050201. DOI: 10.

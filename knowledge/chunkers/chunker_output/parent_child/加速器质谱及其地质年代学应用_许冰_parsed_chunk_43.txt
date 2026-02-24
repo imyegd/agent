@@ -1,0 +1,9 @@
+# 3.3 加速器
+
+静电加速器主要由加速管、高压产生装置、剥离器等部件组成（图 3）。串列静电加速器中的高电压是由一个机械传输系统产生的，该系统会持续将
+
+![](images/cd83162c522034ec3a31e9972bd285dbad05eb70d0f0740d138777c181cbe34d.jpg)  
+图 3 串列式加速器组成示意图（https：∥www．britannicacom／technology／particle-accelerator＃／media／1／445045／59812）  
+Fig.3 SchematicdiagramofTandem AcceleratorConfiguration （https：∥www．britannica．com／technology／particle-accelerator＃ media／1／445045／59812）
+
+电荷从地电位传输至高压端，高压端与地电位通过一组高压电阻相连，当电荷从高压端流向地电位时，产生动态高压。对于终端电压高于 5.0MV的串列加速器均使用这种机械系统；对于最大电压不超过 5.0MV的串列加速器，使用机械传输系统（

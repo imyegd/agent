@@ -1,0 +1,315 @@
+# 离子注入机
+
+# 传感器变量知识库
+
+$^ { \star }$ 详细技术参数版 ★
+
+国家级微电子专用设备技术文档
+
+涵盖 35 个传感器变量 + 1 个监测值（束流强度）
+
+2025 年 2 月
+
+# 目录
+
+（提示：首次打开请右键点击目录，选择“更新域”刷新页码）
+
+一、离子注入机概述.. .3
+
+二、监测值：束流强度.. ..4
+
+三、离子源系统变量. .5
+
+3.1 灯丝电源系统. .5
+
+3.2 弧电源系统（C1） .6
+
+3.3 引出与抑制系统..
+
+四、加速与聚焦系统变量. .8
+
+五、对中系统变量. .10
+
+六、消像散系统变量. .11
+
+七、辅助与冷却系统变量. .13
+
+八、变量影响关系总结. .14
+
+# 、离子注入机概述
+
+离子注入机是集成电路制造前道工序中的关键设备，用于将掺杂元素（如硼B、磷P、砷As等）以离子形式注入到硅晶圆中，从而改变半导体的载流子浓度和导电类型。与常规热掺杂工艺相比，离子注入可实现对注入剂量、注入角度、注入深度和横向扩散的精确控制。
+
+# 1.1 设备组成
+
+离子注入机主要由以下五大部分组成：离子源系统、质量分析器、加速管、聚焦和扫描系统、工艺腔（靶室）。离子源是设备的核心部位，作用是将需要注入的元素气态粒子电离成离子，决定注入离子的种类和束流强度。
+
+# 1.2 传感器变量分类
+
+本知识库涵盖的36个监测变量按功能可分为以下七大类：
+
+• 离子源系统：灯丝电源、弧电源（C1电源）、引出电源、抑制电源
+
+• 加速系统：加速电源
+
+• 聚焦系统：C2/C3电源、消像散电源（斜向/轴向）、微调焦电流
+
+• 对中系统：X/Y偏移电源、X/Y倾斜电源
+
+• 辅助监测：束流、工件台位置、冷水机状态
+
+# 二、监测值：束流强度
+
+# 2.1 定义与意义
+
+束流强度（Beam Current）是离子注入机最核心的监测指标，表示单位时间内通过束流传输路径的离子电荷量，通常以微安（ $\mathsf { \Pi } _ { \mathsf { \Pi } , \mathsf { \Pi } \mu \mathsf { A } } )$ ）或毫安（mA）为单位。束流强度直接决定了离子注入的剂量率，是控制掺杂浓度的关键参数。
+
+<table><tr><td colspan="2">束流强度（Beam Current）</td></tr><tr><td>典型范围</td><td>微流机：1-100 μA；强流机：1-50 mA</td></tr><tr><td>测量精度</td><td>±1% FS（满量程）</td></tr><tr><td>响应时间</td><td>&lt; 10 ms</td></tr><tr><td>测量方式</td><td>法拉第杯 + 积分器</td></tr><tr><td>采样频率</td><td>10-1000 Hz（可调）</td></tr><tr><td>温度漂移</td><td>&lt; 50 ppm/°C</td></tr><tr><td>长期稳定度</td><td>&lt; 0.1% / 8h</td></tr><tr><td>报警阈值</td><td>低报警：设定值-10%；高报警：设定值+10%</td></tr><tr><td>常见故障</td><td>法拉第杯污染、积分器漂移、束流波动</td></tr><tr><td>维护周期</td><td>法拉第杯清洁：每周；校准：每月</td></tr><tr><td>相关标准</td><td>SEMI E10, SEMI E79</td></tr><tr><td>备注</td><td>束流强度与注入剂量直接相关，剂量=束流×时间/扫描面积</td></tr></table>
+
+# 2.2 影响因素概述
+
+束流强度受多种因素综合影响，主要包括：离子源放电状态（灯丝电流、弧电压）、引出电场强度（引出电压）、抑制电子回流效果（抑制电压）、加速电场强度（加速电压）、束流传输效率（聚焦系统状态）、真空度（冷水机温度/压力）等。各变量通过复杂的耦合关系共同决定最终束流强度。
+
+# 三、离子源系统变量
+
+离子源是离子注入机的“心脏”，负责产生并维持等离子体，为后续束流提供离子。离子源系统的稳定运行是获得稳定束流的基础。
+
+# 3.1 灯丝电源系统
+
+
+变量08：灯丝电源电压
+
+
+<table><tr><td colspan="2">灯丝电源电压 (Filament Voltage)</td></tr><tr><td>变量编号</td><td>08</td></tr><tr><td>典型范围</td><td>5-20 VDC</td></tr><tr><td>常用设定</td><td>10-15 V</td></tr><tr><td>输出精度</td><td>±0.5%</td></tr><tr><td>纹波系数</td><td>&lt; 1% Vp-p</td></tr><tr><td>稳定度</td><td>&lt; 0.1%/8h</td></tr><tr><td>温度系数</td><td>&lt; 100 ppm/°C</td></tr><tr><td>响应时间</td><td>&lt; 100 ms</td></tr><tr><td>报警阈值</td><td>低报警: 8V; 高报警: 18V</td></tr><tr><td>保护功能</td><td>过压保护、过流保护、短路保护</td></tr><tr><td>相关部件</td><td>钨灯丝、灯丝变压器、整流电路</td></tr><tr><td>常见故障</td><td>灯丝熔断、接触不良、电源模块损坏</td></tr><tr><td>维护周期</td><td>灯丝更换: 50-200小时; 电源检查: 每月</td></tr><tr><td>测量方式</td><td>直接测量灯丝两端电压</td></tr><tr><td>备注</td><td>灯丝电压与电流共同决定加热功率 P=U×I</td></tr></table>
+
+
+变量09：灯丝电源电流
+
+
+<table><tr><td colspan="2">灯丝电源电流（Filament Current）</td></tr><tr><td>变量编号</td><td>09</td></tr><tr><td>典型范围</td><td>50 - 300 A（大功率可达1000A+）</td></tr><tr><td>常用设定</td><td>100 - 200 A</td></tr><tr><td>输出精度</td><td>±1%</td></tr><tr><td>纹波系数</td><td>&lt;2%</td></tr><tr><td>稳定度</td><td>&lt;0.2%/8h</td></tr><tr><td>响应时间</td><td>&lt;50 ms</td></tr><tr><td>报警阈值</td><td>低报警：80A；高报警：250A</td></tr><tr><td>保护功能</td><td>过流保护、短路保护、软启动</td></tr><tr><td>相关部件</td><td>灯丝、电流互感器、整流桥</td></tr><tr><td>常见故障</td><td>灯丝老化断裂、电流波动、接触电阻增大</td></tr><tr><td>维护周期</td><td>灯丝更换：50-200小时；视离子种类而定</td></tr><tr><td>测量方式</td><td>霍尔传感器或分流器</td></tr><tr><td>备注</td><td>电流过大加速灯丝蒸发，过小则电子发射不足</td></tr></table>
+
+# 3.2 弧电源系统（C1电源）
+
+
+变量06：C1电源电压
+
+
+<table><tr><td colspan="2">C1 电源电压/弧电压 (Arc Voltage)</td></tr><tr><td>变量编号</td><td>06</td></tr><tr><td>典型范围</td><td>50 - 150 VDC</td></tr><tr><td>常用设定</td><td>70 - 120 V (BF3 放电约 90V)</td></tr><tr><td>输出精度</td><td>±0.5%</td></tr><tr><td>纹波系数</td><td>&lt; 1% Vp-p</td></tr><tr><td>稳定度</td><td>&lt; 0.1% / 8h</td></tr><tr><td>响应时间</td><td>&lt; 10 μs (关断时间&lt;35μs)</td></tr><tr><td>温度系数</td><td>&lt; 100 ppm/℃</td></tr><tr><td>报警阈值</td><td>低报警: 60V; 高报警: 140V</td></tr><tr><td>保护功能</td><td>过压保护、弧光保护、打火保护</td></tr><tr><td>相关部件</td><td>弧室、阳极、阴极 (灯丝)</td></tr><tr><td>常见故障</td><td>弧室污染、电极烧蚀、气体流量异常</td></tr><tr><td>维护周期</td><td>弧室清洁: 每月; 电极检查: 每季度</td></tr><tr><td>优化建议</td><td>降低弧压可延长源寿命(如 120V 降至 90V, 寿命从 13h 增至 50h+)</td></tr><tr><td>备注</td><td>弧压决定电子能量, 影响电离效率和源寿命</td></tr></table>
+
+
+变量07：C1电源电流
+
+
+<table><tr><td colspan="2">C1 电源电流/弧电流 (Arc Current)</td></tr><tr><td>变量编号</td><td>07</td></tr><tr><td>典型范围</td><td>1 - 50 A</td></tr><tr><td>常用设定</td><td>5 - 20 A</td></tr><tr><td>输出精度</td><td>±1%</td></tr><tr><td>纹波系数</td><td>&lt; 2%</td></tr><tr><td>稳定度</td><td>&lt; 0.2% / 8h</td></tr><tr><td>响应时间</td><td>&lt; 8 μs (关断上升沿)</td></tr><tr><td>报警阈值</td><td>低报警: 3A; 高报警: 30A</td></tr><tr><td>保护功能</td><td>过流保护、打坑电路（2ms打坑宽度）</td></tr><tr><td>相关部件</td><td>弧电源、IGBT模块、假负载阵列</td></tr><tr><td>常见故障</td><td>弧流不稳、打坑失效、IGBT损坏</td></tr><tr><td>维护周期</td><td>电源检查：每月；IGBT检查：每季度</td></tr><tr><td>控制方式</td><td>DSP+CPLD数字控制，光纤隔离传输</td></tr><tr><td>备注</td><td>弧流直接反映等离子体密度和电离强度</td></tr></table>
+
+# 3.3 引出与抑制系统
+
+
+变量10：引出电源电压
+
+
+<table><tr><td colspan="2">引出电源电压/吸极电压 (Extraction Voltage)</td></tr><tr><td>变量编号</td><td>10</td></tr><tr><td>典型范围</td><td>10 - 50 kVDC</td></tr><tr><td>常用设定</td><td>20 - 40 kV</td></tr><tr><td>输出精度</td><td>±0.1%</td></tr><tr><td>纹波系数</td><td>&lt; 0.1% Vp-p</td></tr><tr><td>稳定度</td><td>&lt; 0.05% / 8h</td></tr><tr><td>温度系数</td><td>&lt; 50 ppm/°C</td></tr><tr><td>响应时间</td><td>&lt; 1 ms</td></tr><tr><td>报警阈值</td><td>低报警: 15kV; 高报警: 45kV</td></tr><tr><td>保护功能</td><td>过压保护、打火保护、缓升缓降</td></tr><tr><td>相关部件</td><td>引出电极、高压电源模块、绝缘子</td></tr><tr><td>常见故障</td><td>高压打火、绝缘老化、电极污染</td></tr><tr><td>维护周期</td><td>绝缘检查: 每月; 高压锻炼: 每季度</td></tr><tr><td>安全要求</td><td>高压互锁、接地保护、安全警示</td></tr><tr><td>备注</td><td>引出电压决定离子引出效率和初始能量</td></tr></table>
+
+
+变量11：引出电源电流
+
+
+<table><tr><td colspan="2">引出电源电流 (Extraction Current)</td></tr><tr><td>变量编号</td><td>11</td></tr><tr><td>典型范围</td><td>0.1 - 10 mA</td></tr><tr><td>常用设定</td><td>1 - 5 mA</td></tr><tr><td>输出精度</td><td>±1%</td></tr><tr><td>稳定度</td><td>&lt; 0.5% / 8h</td></tr><tr><td>响应时间</td><td>&lt; 10 ms</td></tr><tr><td>报警阈值</td><td>低报警: 0.5mA; 高报警: 8mA</td></tr><tr><td>保护功能</td><td>过流保护、束流限制</td></tr><tr><td>相关部件</td><td>引出电极、束流测量系统</td></tr><tr><td>常见故障</td><td>引出孔堵塞、等离子体边界不稳定</td></tr><tr><td>维护周期</td><td>引出孔清洁：每周</td></tr><tr><td>测量方式</td><td>串联电阻采样或霍尔传感器</td></tr><tr><td>备注</td><td>引出电流与束流强度直接相关</td></tr></table>
+
+
+变量02：抑制电源电压
+
+
+<table><tr><td colspan="2">抑制电源电压（Suppressor Voltage）</td></tr><tr><td>变量编号</td><td>02</td></tr><tr><td>典型范围</td><td>-500 VDC ~ -5 kVDC（负偏压）</td></tr><tr><td>常用设定</td><td>-1 kV ~ -2 kV</td></tr><tr><td>输出精度</td><td>±1%</td></tr><tr><td>纹波系数</td><td>&lt; 1% Vp-p</td></tr><tr><td>稳定度</td><td>&lt; 0.2%/8h</td></tr><tr><td>响应时间</td><td>&lt; 100 μs</td></tr><tr><td>报警阈值</td><td>低报警：-500V；高报警：-4kV</td></tr><tr><td>保护功能</td><td>过压保护、打火快速关断</td></tr><tr><td>相关部件</td><td>抑制电极、高压电源模块</td></tr><tr><td>常见故障</td><td>抑制不足导致电子回流、电源模块故障</td></tr><tr><td>维护周期</td><td>电源检查：每月</td></tr><tr><td>设计特点</td><td>体积小、自然散热、固态继电器联锁控制</td></tr><tr><td>备注</td><td>抑制电压防止二次电子回流到离子源</td></tr></table>
+
+
+变量03：抑制电源电流
+
+
+<table><tr><td colspan="2">抑制电源电流（Suppressor Current）</td></tr><tr><td>变量编号</td><td>03</td></tr><tr><td>典型范围</td><td>0.1 - 10 mA</td></tr><tr><td>常用设定</td><td>1 - 5 mA</td></tr><tr><td>输出精度</td><td>±2%</td></tr><tr><td>报警阈值</td><td>高报警：8mA（表示抑制不足）</td></tr><tr><td>保护功能</td><td>过流报警</td></tr><tr><td>相关部件</td><td>抑制电极、电流采样电阻</td></tr><tr><td>常见故障</td><td>电流异常升高（电子过多）</td></tr><tr><td>维护周期</td><td>电极检查：每月</td></tr><tr><td>测量方式</td><td>采样电阻+运放</td></tr><tr><td>备注</td><td>主要收集二次电子，监测抑制效果</td></tr></table>
+
+# 四、加速与聚焦系统变量
+
+# 4.1 加速电源系统
+
+
+变量04：加速电源电压
+
+
+<table><tr><td colspan="2">加速电源电压（Acceleration Voltage）</td></tr><tr><td>变量编号</td><td>04</td></tr><tr><td>典型范围</td><td>10 keV - 1 MeV（常用20-400 keV）</td></tr><tr><td>常用设定</td><td>低能：10-100 keV；中能：100-300 keV；高能：300 keV+</td></tr><tr><td>输出精度</td><td>±0.1%</td></tr><tr><td>纹波系数</td><td>&lt;0.1% Vp-p（可选0.01%）</td></tr><tr><td>稳定度</td><td>&lt;0.05%/8h（开机0.5h后）</td></tr><tr><td>温度系数</td><td>&lt;100 ppm/℃</td></tr><tr><td>响应时间</td><td>&lt;10 ms（电压调整）</td></tr><tr><td>电压调整率</td><td>负载：优于0.01%；输入：±0.01%（输入变化±10%）</td></tr><tr><td>报警阈值</td><td>偏差&gt;设定值±5%</td></tr><tr><td>保护功能</td><td>过压保护、过流保护、电弧保护、过温保护</td></tr><tr><td>相关部件</td><td>加速管、高压电源、绝缘系统</td></tr><tr><td>常见故障</td><td>加速管放电、绝缘老化、电源模块故障</td></tr><tr><td>维护周期</td><td>高压锻炼：每季度；绝缘检查：每月</td></tr><tr><td>安全要求</td><td>高压互锁、安全接地、警示标识</td></tr><tr><td>备注</td><td>加速电压决定离子最终能量和注入深度</td></tr></table>
+
+
+变量05：加速电源电流
+
+
+<table><tr><td colspan="2">加速电源电流（Acceleration Current）</td></tr><tr><td>变量编号</td><td>05</td></tr><tr><td>典型范围</td><td>0.1 - 100 mA（取决于束流强度）</td></tr><tr><td>常用设定</td><td>1 - 50 mA</td></tr><tr><td>输出精度</td><td>±1%</td></tr><tr><td>报警阈值</td><td>异常升高表示加速管放电</td></tr><tr><td>保护功能</td><td>过流保护、放电检测</td></tr><tr><td>相关部件</td><td>加速管、束流传输系统</td></tr><tr><td>常见故障</td><td>加速管内部放电、束流损失</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>反映加速过程中的束流传输情况</td></tr></table>
+
+# 4.2 C1/C2/C3 电源系统
+
+C1、C2、C3电源是离子源和束线系统中的关键电源。C1已在离子源部分介绍，此处重点介绍C2和C3 电源。
+
+# 变量12：C2电源电压
+
+<table><tr><td colspan="2">C2电源电压（C2 Electrode Voltage）</td></tr><tr><td>变量编号</td><td>12</td></tr><tr><td>典型范围</td><td>±1 kV ~ ±10 kV</td></tr><tr><td>常用设定</td><td>±2 kV ~ ±5 kV</td></tr><tr><td>输出精度</td><td>±0.5%</td></tr><tr><td>纹波系数</td><td>&lt; 0.5%</td></tr><tr><td>稳定度</td><td>&lt; 0.2%/8h</td></tr><tr><td>相关部件</td><td>C2电极、聚焦透镜</td></tr><tr><td>常见故障</td><td>电极污染、绝缘问题</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>用于束流预聚焦或质量分析器前聚焦</td></tr></table>
+
+# 变量13：C2电源电流
+
+<table><tr><td colspan="2">C2电源电流（C2 Electrode Current）</td></tr><tr><td>变量编号</td><td>13</td></tr><tr><td>典型范围</td><td>0.01 - 1 mA</td></tr><tr><td>输出精度</td><td>±2%</td></tr><tr><td>报警阈值</td><td>异常升高表示电极问题</td></tr><tr><td>相关部件</td><td>C2电极</td></tr><tr><td>常见故障</td><td>电极污染、束流撞击</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>监测C2电极工作状态</td></tr></table>
+
+
+变量14：C3电源电压
+
+
+<table><tr><td colspan="2">C3电源电压（C3 Electrode Voltage）</td></tr><tr><td>变量编号</td><td>14</td></tr><tr><td>典型范围</td><td>±1 kV ~ ±10 kV</td></tr><tr><td>常用设定</td><td>±2 kV ~ ±5 kV</td></tr><tr><td>输出精度</td><td>±0.5%</td></tr><tr><td>纹波系数</td><td>&lt; 0.5%</td></tr><tr><td>稳定度</td><td>&lt; 0.2%/8h</td></tr><tr><td>相关部件</td><td>C3电极、聚焦透镜</td></tr><tr><td>常见故障</td><td>电极污染、束流发散</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>进一步聚焦束流，确保最佳形状进入质量分析器</td></tr></table>
+
+
+变量15：C3电源电流
+
+
+<table><tr><td colspan="2">C3 电源电流 (C3 Electrode Current)</td></tr><tr><td>变量编号</td><td>15</td></tr><tr><td>典型范围</td><td>0.01 - 1 mA</td></tr><tr><td>输出精度</td><td>±2%</td></tr><tr><td>报警阈值</td><td>异常升高表示电极问题</td></tr><tr><td>相关部件</td><td>C3 电极</td></tr><tr><td>常见故障</td><td>电极污染、束流撞击</td></tr><tr><td>维护周期</td><td>检查: 每月</td></tr><tr><td>备注</td><td>监测 C3 电极工作状态</td></tr></table>
+
+# 五、对中系统变量
+
+对中系统（Beam Alignment System）用于调整离子束的位置和角度，确保束流精确对准晶圆靶面。对中不良会导致束流损失或注入不均匀。
+
+# 5.1 X 方向对中
+
+
+变量16：对中 $\textsf { X }$ 偏移电源电压
+
+
+<table><tr><td colspan="2">对中X偏移电源电压（X Alignment Offset Voltage）</td></tr><tr><td>变量编号</td><td>16</td></tr><tr><td>典型范围</td><td>±500 V ~ ±5 kV</td></tr><tr><td>常用设定</td><td>±500 V ~ ±2 kV</td></tr><tr><td>输出精度</td><td>±0.1%</td></tr><tr><td>分辨率</td><td>&lt; 1 V</td></tr><tr><td>稳定度</td><td>&lt; 0.1%/8h</td></tr><tr><td>响应时间</td><td>&lt; 1 ms</td></tr><tr><td>相关部件</td><td>X方向偏转板、静电偏转系统</td></tr><tr><td>常见故障</td><td>偏转板污染、电压漂移</td></tr><tr><td>维护周期</td><td>偏转板清洁：每月；校准：每季度</td></tr><tr><td>备注</td><td>产生水平静电场，使束流在X方向平移</td></tr></table>
+
+
+变量17：对中X偏移电源电流
+
+
+<table><tr><td colspan="2">对中X偏移电源电流（X Alignment Offset Current）</td></tr><tr><td>变量编号</td><td>17</td></tr><tr><td>典型范围</td><td>0.01 - 1 mA</td></tr><tr><td>输出精度</td><td>±2%</td></tr><tr><td>相关部件</td><td>X偏移电极</td></tr><tr><td>常见故障</td><td>电极污染、束流撞击</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>监测X偏移电极工作状态</td></tr></table>
+
+
+变量20：对中X倾斜电源电压
+
+
+<table><tr><td colspan="2">对中X倾斜电源电压（X Alignment Tilt Voltage）</td></tr><tr><td>变量编号</td><td>20</td></tr><tr><td>典型范围</td><td>±100 V ~ ±1 kV</td></tr><tr><td>常用设定</td><td>±100 V ~ ±500 V</td></tr><tr><td>输出精度</td><td>±0.1%</td></tr><tr><td>分辨率</td><td>&lt; 0.1 V</td></tr><tr><td>稳定度</td><td>&lt; 0.1% / 8h</td></tr><tr><td>相关部件</td><td>X倾斜调节电极</td></tr><tr><td>常见故障</td><td>电极污染、电压漂移</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>调整束流在X方向的入射角度</td></tr></table>
+
+
+变量21：对中X倾斜电源电流
+
+
+<table><tr><td colspan="2">对中X倾斜电源电流（X Alignment Tilt Current）</td></tr><tr><td>变量编号</td><td>21</td></tr><tr><td>典型范围</td><td>0.001 - 0.5 mA</td></tr><tr><td>相关部件</td><td>X倾斜电极</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>监测X倾斜电极工作状态</td></tr></table>
+
+# 5.2 Y 方向对中
+
+
+变量18：对中Y偏移电源电压
+
+
+<table><tr><td colspan="2">对中Y偏移电源电压（Y Alignment Offset Voltage）</td></tr><tr><td>变量编号</td><td>18</td></tr><tr><td>典型范围</td><td>±500 V ~ ±5 kV</td></tr><tr><td>常用设定</td><td>±500 V ~ ±2 kV</td></tr><tr><td>输出精度</td><td>±0.1%</td></tr><tr><td>分辨率</td><td>&lt; 1 V</td></tr><tr><td>稳定度</td><td>&lt;0.1%/8h</td></tr><tr><td>相关部件</td><td>Y方向偏转板</td></tr><tr><td>常见故障</td><td>偏转板污染、电压漂移</td></tr><tr><td>维护周期</td><td>偏转板清洁：每月</td></tr><tr><td>备注</td><td>产生垂直静电场，使束流在Y方向平移</td></tr></table>
+
+
+变量19：对中Y偏移电源电流
+
+
+<table><tr><td colspan="2">对中Y偏移电源电流（Y Alignment Offset Current）</td></tr><tr><td>变量编号</td><td>19</td></tr><tr><td>典型范围</td><td>0.01 - 1 mA</td></tr><tr><td>相关部件</td><td>Y偏移电极</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>监测Y偏移电极工作状态</td></tr></table>
+
+
+变量22：对中Y倾斜电源电压
+
+
+<table><tr><td colspan="2">对中Y倾斜电源电压（Y Alignment Tilt Voltage）</td></tr><tr><td>变量编号</td><td>22</td></tr><tr><td>典型范围</td><td>±100 V ~ ±1 kV</td></tr><tr><td>常用设定</td><td>±100 V ~ ±500 V</td></tr><tr><td>输出精度</td><td>±0.1%</td></tr><tr><td>相关部件</td><td>Y倾斜调节电极</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>调整束流在Y方向的入射角度</td></tr></table>
+
+
+变量23：对中Y倾斜电源电流
+
+
+<table><tr><td colspan="2">对中Y倾斜电源电流（Y Alignment Tilt Current）</td></tr><tr><td>变量编号</td><td>23</td></tr><tr><td>典型范围</td><td>0.001 - 0.5 mA</td></tr><tr><td>相关部件</td><td>Y倾斜电极</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>监测Y倾斜电极工作状态</td></tr></table>
+
+# 六、消像散系统变量
+
+消像散系统（Astigmatism Correction）用于消除束流的像散像差，使束流截面呈圆形而非椭圆形，确保注入均匀性。像散主要由四极透镜的不对称性引起。
+
+# 6.1 斜向消像散
+
+
+变量24-27：斜向消像散1-4电流
+
+
+<table><tr><td colspan="2">斜向消像散电流1-4（Oblique Astigmatism Current）</td></tr><tr><td>变量编号</td><td>24-27</td></tr><tr><td>典型范围</td><td>0-5 A/每通道</td></tr><tr><td>常用设定</td><td>0.5-3 A</td></tr><tr><td>输出精度</td><td>±0.5%</td></tr><tr><td>分辨率</td><td>&lt; 1 mA</td></tr><tr><td>稳定度</td><td>&lt; 0.2%/8h</td></tr><tr><td>响应时间</td><td>&lt; 10 ms</td></tr><tr><td>线圈电阻</td><td>典型1-10Ω</td></tr><tr><td>相关部件</td><td>斜向消像散线圈（4组，间隔45°）</td></tr><tr><td>常见故障</td><td>线圈过热、电流漂移</td></tr><tr><td>维护周期</td><td>线圈检查：每季度</td></tr><tr><td>备注</td><td>校正45°方向的束流像散，4组配合实现精细校正</td></tr></table>
+
+# 6.2 轴向消像散
+
+
+变量28-31：轴向消像散1-4电流
+
+
+<table><tr><td colspan="2">轴向消像散电流1-4（Axial Astigmatism Current）</td></tr><tr><td>变量编号</td><td>28-31</td></tr><tr><td>典型范围</td><td>0-5 A/每通道</td></tr><tr><td>常用设定</td><td>0.5-3 A</td></tr><tr><td>输出精度</td><td>±0.5%</td></tr><tr><td>分辨率</td><td>&lt; 1 mA</td></tr><tr><td>稳定度</td><td>&lt; 0.2%/8h</td></tr><tr><td>响应时间</td><td>&lt; 10 ms</td></tr><tr><td>线圈电阻</td><td>典型1-10Ω</td></tr><tr><td>相关部件</td><td>轴向消像散线圈（4组，水平和垂直方向）</td></tr><tr><td>常见故障</td><td>线圈过热、电流漂移</td></tr><tr><td>维护周期</td><td>线圈检查：每季度</td></tr><tr><td>备注</td><td>校正水平和垂直方向的束流像散</td></tr></table>
+
+# 6.3 微调焦系统
+
+
+变量32：微调焦电流
+
+
+<table><tr><td colspan="2">微调焦电流（Fine Focus Current）</td></tr><tr><td>变量编号</td><td>32</td></tr><tr><td>典型范围</td><td>0-10 A</td></tr><tr><td>常用设定</td><td>2-6 A</td></tr><tr><td>输出精度</td><td>±0.5%</td></tr><tr><td>分辨率</td><td>&lt;1 mA</td></tr><tr><td>稳定度</td><td>&lt;0.1%/8h</td></tr><tr><td>响应时间</td><td>&lt;5 ms</td></tr><tr><td>线圈电阻</td><td>典型1-5Ω</td></tr><tr><td>相关部件</td><td>微调焦线圈、聚焦透镜</td></tr><tr><td>常见故障</td><td>线圈过热、电流不稳定</td></tr><tr><td>维护周期</td><td>检查：每月</td></tr><tr><td>备注</td><td>最终精细聚焦，确保束斑尺寸最佳（通常1-10mm）</td></tr></table>
+
+# 七、辅助与冷却系统变量
+
+# 7.1 工件台位置
+
+
+变量33：工件台位置 $\pmb { \mathrm { x } }$
+
+
+<table><tr><td colspan="2">工件台位置X(Stage Position X)</td></tr><tr><td>变量编号</td><td>33</td></tr><tr><td>典型范围</td><td>0-300 mm（取决于晶圆尺寸）</td></tr><tr><td>分辨率</td><td>&lt;0.1 μm</td></tr><tr><td>重复精度</td><td>±0.5 μm</td></tr><tr><td>定位精度</td><td>±1 μm</td></tr><tr><td>移动速度</td><td>1-100 mm/s（可调）</td></tr><tr><td>相关部件</td><td>X轴伺服电机、光栅尺、导轨</td></tr><tr><td>常见故障</td><td>编码器故障、导轨磨损</td></tr><tr><td>维护周期</td><td>导轨润滑：每月；校准：每季度</td></tr><tr><td>备注</td><td>控制晶圆水平方向移动，配合扫描实现均匀注入</td></tr></table>
+
+
+变量34：工件台位置Y
+
+
+<table><tr><td colspan="2">工件台位置 Y (Stage Position Y)</td></tr><tr><td>变量编号</td><td>34</td></tr><tr><td>典型范围</td><td>0 - 300 mm</td></tr><tr><td>分辨率</td><td>&lt; 0.1 μm</td></tr><tr><td>重复精度</td><td>±0.5 μm</td></tr><tr><td>定位精度</td><td>±1 μm</td></tr><tr><td>移动速度</td><td>1 - 100 mm/s（可调）</td></tr><tr><td>相关部件</td><td>Y轴伺服电机、光栅尺、导轨</td></tr><tr><td>常见故障</td><td>编码器故障、导轨磨损</td></tr><tr><td>维护周期</td><td>导轨润滑：每月；校准：每季度</td></tr><tr><td>备注</td><td>控制晶圆垂直方向移动</td></tr></table>
+
+# 7.2 冷却系统
+
+冷水机系统为离子注入机的关键部件提供恒温冷却，维持设备稳定运行。温度波动会影响离子源稳定性、束流品质和注入精度。
+
+
+变量35：冷水机压力
+
+
+<table><tr><td colspan="2">冷水机压力（Chiller Pressure）</td></tr><tr><td>变量编号</td><td>35</td></tr><tr><td>典型范围</td><td>2-6 bar (0.2-0.6 MPa)</td></tr><tr><td>常用设定</td><td>3-4 bar</td></tr><tr><td>测量精度</td><td>±0.1 bar</td></tr><tr><td>报警阈值</td><td>低报警：2 bar；高报警：5.5 bar</td></tr><tr><td>相关部件</td><td>冷水机、循环泵、压力传感器、管路</td></tr><tr><td>常见故障</td><td>泵故障、管路泄漏、堵塞</td></tr><tr><td>维护周期</td><td>过滤器更换：每季度；管路检查：每月</td></tr><tr><td>冷却对象</td><td>离子源、电源模块、真空泵、加速管</td></tr><tr><td>备注</td><td>确保冷却水到达所有需要冷却的部件</td></tr></table>
+
+
+变量36：冷水机内部温度
+
+
+<table><tr><td colspan="2">冷水机内部温度（Chiller Temperature）</td></tr><tr><td>变量编号</td><td>36</td></tr><tr><td>典型范围</td><td>15-25°C</td></tr><tr><td>常用设定</td><td>20±1°C</td></tr><tr><td>控制精度</td><td>±0.5°C</td></tr><tr><td>温度稳定度</td><td>&lt;0.5°C/h</td></tr><tr><td>报警阈值</td><td>低报警：15°C；高报警：28°C</td></tr><tr><td>相关部件</td><td>冷水机、温度传感器、制冷压缩机</td></tr><tr><td>常见故障</td><td>制冷剂泄漏、压缩机故障、传感器漂移</td></tr><tr><td>维护周期</td><td>制冷剂检查：每年；传感器校准：每季度</td></tr><tr><td>冷却对象</td><td>离子源、电源、真空泵等发热部件</td></tr><tr><td>备注</td><td>温度过低可能结露，过高则冷却效果差</td></tr></table>
+
+# 八、变量影响关系总结
+
+# 8.1 直接影响束流强度的变量
+
+以下变量对束流强度有直接且显著的影响：
+
+<table><tr><td>变量</td><td>影响机制</td></tr><tr><td>灯丝电源电压/电流</td><td>决定电子发射量，影响等离子体密度 (P=U×I)</td></tr><tr><td>C1 电源电压/电流</td><td>决定电离效率，直接影响离子产生速率</td></tr><tr><td>引出电源电压</td><td>决定离子引出效率（典型 20-40kV）</td></tr><tr><td>抑制电源电压</td><td>防止电子回流，提高束流效率（典型-1~2kV）</td></tr></table>
+
+# 8.2 间接影响束流强度的变量
+
+以下变量主要通过影响束流传输效率间接影响最终束流强度：
+
+<table><tr><td>变量</td><td>影响机制</td></tr><tr><td>加速电源电压</td><td>影响束流能量和传输效率（20-400kV）</td></tr><tr><td>C2/C3电源</td><td>影响束流聚焦和形状</td></tr><tr><td>对中系统</td><td>影响束流位置和角度，决定传输损失</td></tr><tr><td>消像散系统</td><td>影响束流截面形状，决定注入均匀性</td></tr><tr><td>冷水机温度/压力</td><td>影响设备稳定性，间接影响束流（20±1℃）</td></tr></table>
+
+# 8.3 系统耦合关系
+
+离子注入机的各子系统之间存在复杂的耦合关系：
+
+• 离子源系统决定束流的“产生”，是束流强度的源头
+
+• 加速系统决定束流的“能量”，影响注入深度
+
+• 聚焦系统决定束流的“形状”，影响传输效率和注入均匀性
+
+• 对中系统决定束流的“位置”，影响注入精度
+
+• 冷却系统维持设备“稳定”，是所有系统正常工作的保障
+
+在实际运行中，需要综合考虑各变量的相互影响，通过优化控制算法实现束流强度的稳定和注入质量的提升。

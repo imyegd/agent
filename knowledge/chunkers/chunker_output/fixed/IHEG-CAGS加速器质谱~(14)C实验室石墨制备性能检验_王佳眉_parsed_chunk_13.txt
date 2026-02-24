@@ -1,0 +1,11 @@
+t)$ ）分析石墨化水平的长期稳定性。来源于AGE3的 OXⅡ 平 均 值 为 $1 3 4 . 1 0 \pm 0 . 4 5 \mathrm { p M C }$ （ $\mathrm { ~ n ~ } =$ 173），长期标准差为 0.32；来源于 VAC的OXⅡ平均值为 $1 3 4 . 1 2 { \scriptstyle \pm 0 . 6 6 ~ \mathrm { p M C } }$ $\mathrm { n } = 6 7$ ），长期标准差为0.52。两套系统制备的OXⅡ平均值高度接近，表明系统间不存在显著偏差。两组数据的长期标准偏差均小于其平均值的标准误差，且波动幅度与测量不确定度相当，即观测到的 $\mathrm { 0 X I } ^ { 1 4 } \mathrm { C }$ 测试值的长期
+
+![](images/b6eaed0b874d3d9dee0c818226b9ce20a78b6d883ec00c04b619b351c61f7580.jpg)
+
+![](images/011cf1d7035ad368661e84397aeb7c74687a29bcf3156e8e15b191e25a875d78.jpg)
+
+![](images/6a2b8ecc62e8f4657a99af5bb3bb39838806037009af0091bd0f44f522f32eec.jpg)  
+图 5 IHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ 实验室（a）OXⅡ、（b）IAEA-C7和（c）IAEA-C8石墨化长期稳定性  
+Fig.5 LongtimegraphitizationresultsofIHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ Labfor（a）OXⅡ standard，（b）IAEA-C7and（c）IAEA-C8
+
+变化主要源于测量本身固有的随机误差，而非源于样品石墨化或 AMS仪器性能的系统性漂移。IAEAC7的 $^ { 1 4 } \mathrm { C }$ 长期平均值为 $4 9 . 4 8 { \scriptstyle \pm 0 . 2 2 } { \mathrm { ~ p M C } }$ （ ${ \bf n } = 1 0 4 { \bf \Gamma } ,$ ），与参考值 $( 4 9

@@ -1,0 +1,9 @@
+# Overview of collimator technology for medical linear accelerator products
+
+Guo Zhao1,2
+
+(1.Research and Development Center, OUR United Corporation, Xi’an 710018, China;
+
+2. School of Mechanical Engineering, Xi’an Jiaotong University, Xi’an 710049, China)
+
+【Abstract】 The high-precision collimator is the core component of a medical linear accelerator (linac) for delivering precise radiotherapy, and its performance directly impacts treatment precision. As the requirements for treatment precision continue to

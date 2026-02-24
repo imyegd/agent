@@ -1,0 +1,18 @@
+1635-1648.   
+［23］ Kunieda E, Kawaguchi O, Saitoh H, et al. Measurement of beam-axis displacement from the isocenter during threedimensional conformal radiosurgery with a micro-multileaf collimator［J］. Radiother Oncol, 2004, 70(1): 45-48.   
+［24］陈高翔, 解传滨, 戴相昆, 等. 基于正交双层光栅的调强放射治疗临床应用［J］. 中国医疗设备, 2021, 36(4): 81-85.  
+［25］ Wang Q, Li Q, Wang Z, et al. Characterization of a novel VenusX orthogonal dual-layer multileaf collimator［J］. J Appl Clin Med Phys, 2024, 25(5): e14357.   
+［26］ Zhang M, Fan Q, Lei Y, et al. Assessment of an Elekta Versa HD linear accelerator for stereotactic radiosurgery with circular cone collimators［J］. J Xray Sci Technol, 2020, 28(1): 71-82.   
+［27］陈超敏, 于晓宝, 周凌宏, 等. X-刀系统准直器的设计与性 能［J］. 立体定向和功能性神经外科杂志, 1997(1):47-49.  
+［28］ Abakay C D, Kiray Z, Çetintas S, et al. PO-1997 Dosimetric comparison of multileaf and fixed cone collimator plans with cyberknife［J］. Radiotherapy and Oncology, 2023, 182(S1): S1770-S1771.   
+［29］房爱玲. Cyberknife的系统构成及临床应用［J］. 医疗卫 生装备, 2009, 30(4): 104-105, 107.   
+［30］宋会民. VSI射波刀圆形和Iris准直器的物理特性对比与分析［D］. 北京: 清华大学, 2016.  
+［31］ Biasi G, Petasecca M, Guatelli S, et al. CyberKnife® fixed cone and Iris™ defined small radiation fields: assessment with a high-resolution solid-state detector array［J］. J Appl Clin Med Phys, 2018, 19(5): 547-557.   
+［32］ Neupane T, Galanakou P, Shang C, et al. A novel Monte Carlo (MC) dose model for small MLC fields of the cyberknife® M 6TM radiosurgery system using the EGSnrc［J］. Journal of Applied Clinical Medical Physics, 2023, 24(4): e13880.   
+［33］ Weidlich G A, Chung W, Kolli S, et al. Characterization of the ZAP-X® peripheral dose fall-off［J］. Cureus, 2021, 13(3): e13972.   
+［34］ Weidlich G A, Schneider M B, Adler J R. Characterization of a novel revolving radiation collimator［J］. Cureus, 2018, 10(2): e2146.   
+［35］张金葆, 卢爱国. 螺旋断层放疗系统多叶准直器叶片的性能分析［J］. 医疗卫生装备, 2010, 31(10): 128-129.  
+［36］戴相昆, 徐寿平, 王运来, 等. HI-ART螺旋断层治疗机多 叶 准 直 器 机 械 性 能 测 试［J］. 中国医学物理学杂志,2009, 26(4): 1265-1267, 1284.  
+［37］ Sarkar V, Lin L, Shi C, et al. Quality assurance of the multileaf collimator with helical tomotherapy: design and implementation［J］. Med Phys, 2007, 34(7): 2949-2956.   
+［38］ Oderinde O M, Shirvani S M, Olcott P D, et al. The technical design and concept of a PET/CT linac for biology-guided radiotherapy［J］. Clin Transl Radiat Oncol, 2021, 29: 106-112.   
+［39］ Han B, Capaldi D, Kovalchuk N, et al. Beam commissioning of the first clinical biology-guided radiotherapy system［J］. J Appl Clin Med Phys, 2022, 23(6): e13607.

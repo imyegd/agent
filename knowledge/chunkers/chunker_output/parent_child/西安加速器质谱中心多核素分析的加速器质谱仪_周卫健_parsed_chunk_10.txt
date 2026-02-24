@@ -1,0 +1,13 @@
+的串列加速器入口处设一加速聚焦电极[12,6]，离子进入这一区域时
+
+能量增为 $8 5 \mathrm { k e V }$ ，成为适当聚焦的束流，会聚于加 速器高压端部电极内的剥离器中央。
+
+![](images/48be78fa059285ced5559bc7ca597474c0b869f68e16980625bf0afae2bbb14b.jpg)  
+图 2 SO-110 型铯溅射负离子源的示意图(本图由 HVEE 提供[6])
+
+![](images/41c47685d4024f68f30a37ca6d918b43f824fafea19d05e47c01cdf40c41d98d.jpg)  
+Fig. 2 Schematic of Cs sputtering negative ion source of the SO-110 type   
+图3 束流精确限时注入电极的原理图
+
+![](images/0319edae0f3c55efdf6be0a5dce66a09862d5062f1d514ab5d26aa23f6acad50.jpg)  
+Fig.3 Principle diagram of th

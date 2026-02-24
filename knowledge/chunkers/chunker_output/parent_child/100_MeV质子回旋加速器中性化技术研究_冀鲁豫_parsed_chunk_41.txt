@@ -1,0 +1,6 @@
+tr><tr><td>1</td><td>600</td><td>4634</td><td>4766</td><td>10000</td></tr><tr><td>2</td><td>36</td><td>278</td><td>286</td><td>600</td></tr><tr><td>3</td><td>2</td><td>17</td><td>17</td><td>136</td></tr></table>
+
+表 4 剥离膜上各成分束流参数  
+Table 4 Beam parameters of beam components on stripping foil   
+
+<table><tr><td rowspan="2">参数</td><td colspan="4">粒子数值</td></tr><tr><td>剥离前 H-</td><td>H-</td><td>H0</td><td>H+</td></tr><tr><td>径向尺寸,mm</td><td>1.99</td><td>2.37</td><td>2.32</td><td>2.31</td></tr><tr><td>轴向尺寸,mm</t

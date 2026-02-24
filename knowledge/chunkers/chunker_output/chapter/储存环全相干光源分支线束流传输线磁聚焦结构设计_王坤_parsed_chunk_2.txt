@@ -1,0 +1,47 @@
+# Lattice design of the transport system for the bypass line in the storage ring based fully coherent light source
+
+WANG Kun1,2,5 LI Changliang2 ZHANG Qinglei2 FENG Chao2 JIANG Bocheng3
+
+WAN Weishi4 GU Qiang2
+
+1(Shanghai Institute of Applied Physics, Chinese Academy of Sciences, Shanghai 201800, China)
+
+2(Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai 201210, China)
+
+3(Chongqing University, Chongqing 401331, China)
+
+4(ShanghaiTech University, Shanghai 201210, China)
+
+5(University of Chinese Academy of Sciences, Beijing 101408, China)
+
+上海市市级科技重大专项、国家自然科学基金(No.12305161)、中国科学院战略性先导科技专项(No.XDB0530000)资助
+
+第一作者：王坤，男，1987年出生，2013年于中国科学院近代物理研究所获硕士学位，研究领域为加速器物理与束流动力学
+
+通信作者：冯超，E-mail：fengc@sari.ac.cn
+
+收稿日期：2024-12-26，修回日期：2025-09-29
+
+Supported by Major Municipal Special Project of Shanghai Municipality, National Natural Science Foundation of China (No.12305161), Strategic
+
+Priority Research Program of Chinese Academy of Sciences (No.XDB0530000)
+
+First author: WANG Kun, male, born in 1987, graduated from Institute of Modern Physics, Chinese Academy of Sciences with a master's degree in
+
+2013, focusing on accelerator physics and beam dynamics
+
+Corresponding author: FENG Chao, E-mail: fengc@sari.ac.cn
+
+Received date: 2024-12-26, revised date: 2025-09-29
+
+Abstract [Background] The storage ring-based coherent light source employing angular dispersion-induced microbunching (ADM) can generate high-order harmonic radiation with minimal energy modulation. [Purpose] This study aims to design the lattice of transport system for the bypass line that meets geometric layout requirements and achieves high transport efficiency while matching beam optics between the storage ring and the modulation sections. [Methods] Firstly, the accelerator toolbox (AT) was employed to design the lattice of the beam transport line to satisfy geometric layout requirements between the storage ring and the energy modulation/demodulation sections. Then, the beam optics functions were matched to ensure high transport efficiency through proper magnetic focusing structure design. Finally, orbit correction schemes were developed and simulated to mitigate effects from misalignment and magnetic field errors. [Results] The designed beam optics of the transport line satisfies all requirements with maximum horizontal dispersion of $1 . 0 3 \mathrm { ~ m ~ }$ . Orbit correction reduces distortion to approximately $4 \% \sim 5 \%$ of the initial values while maintaining corrector strengths below 0.27 mrad. Results of particle tracking simulation with 10 000 macroparticles demonstrate that transmission efficiency is $1 0 0 \%$ under the vacuum chamber aperture of $\pm 1 7 . 5 \ \mathrm { m m }$ . [Conclusions] The magnetic focusing structure design proposed in this study successfully meets all geometric and optical matching requirements for the bypass line transport system. With proper orbit correction addressing installation and magnetic field errors, the transport system achieves $1 0 0 \%$ theoretical transmission efficiency while maintaining beam quality for the ADM-based coherent light generation.
+
+Key words Angular dispersion-induced microbunching, Storage ring-based coherent light source, Transport line, Lattice design
+
+同步辐射光源作为探索微观世界的有力工具，迄今经历了从第一代兼用光源和第二代专用光源，到广泛使用插入件的第三代光源和第四代光源的发展历程。同步辐射光源不断追求更高的亮度，目前处在第四代光源的发展阶段。第四代同步辐射光源相比第三代光源具有更小的电子束发射度和更好的横向相干性。同步辐射光源的亮度与电子束发射度成反比，因而第四代同步辐射光源具有更高的亮度。国内正在建设的北京高能同步辐射光源［1］和合肥先进光源［2］都属于第四代同步辐射光源。第四代同步辐射光源中束流发射度已逼近光子束的衍射极限发射度，如果想进一步提高同步辐射光源的亮度，一个有效的方式是提高辐射光源的纵向相干性。基于高性能直线加速器的自由电子激光，相比储存环同步辐射光源具有更高的峰值亮度、更短的脉冲结构和更好的相干性，但电子束不便于重复利用，重复频率较低。若能将储存环同步辐射光源和自由电子激光的优点相结合，基于储存环产生相干辐射和超快脉冲，则将极大拓宽储存环同步辐射光源的应用范围。然而，储存环中电子束相对能散较大（约 $1 0 ^ { - 3 }$ ），传统自由电子激光中采用的二维相空间操控技术难以应用于储存环产生短波长相干微聚束。
+
+为基于储存环产生全相干辐射，上海光源团队提 出 了 基 于 角 色 散 微 聚 束［3 （］ Angular Dispersion-induced Microbunching，ADM）的储存环全相干光源的概念。角色散微聚束机制利用储存环中电子束垂直方向发射度小的特点，通过光波长尺度的发射度交换增强电子微聚束，其特点是在引入极小能量调
+
+制的条件下就可以在短波长获得很强的微聚束，进而产生高亮度的相干同步辐射［4］。在发光之后还需要一个反调制的过程以减小调制过程对储存环中做周期运动的电子束的扰动。然而，角色散微聚束过程中需要引入较大的自然色品，这给全环非线性动力学的优化带来了巨大的挑战。为了降低这种扰动，降低非线性优化的困难，文献［5］中首次提出了一种储存环分支线的设计方案，将电子束的能量调制和反调制段放置在一条由储存环引出的分支线。电子束在储存环分支线中，通过束流传输线将束流高效传输至能量调制和反调制段，电子束完成能量调制和反调制后，注回储存环［6-8］ ，这样储存环可以采用较为常规的设计方案，从而有效地降低调制-反调制束线对全环设计的影响，提高储存环设计的可靠性和兼容性。
+
+在上述工作的基础上，本文首次完成了储存环全相干光源分支线的束流传输磁聚焦结构设计。在传输线实际安装和运行中，将不可避免地引入安装误差和磁场误差等。这些误差导致束流轨道的畸变，造成传输线束流光学参数失配和传输效率下降。针对这一问题，本文完成了束流传输线的轨道校正方案，模拟计算了传输线引入误差后的轨道校正效果和传输效率等。

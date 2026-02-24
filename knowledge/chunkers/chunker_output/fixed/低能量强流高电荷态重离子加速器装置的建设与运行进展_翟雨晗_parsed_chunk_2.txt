@@ -1,0 +1,9 @@
+Zhao Hongwei1
+
+（1. Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China;
+
+2. State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China;
+
+3. School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China）
+
+Abstract：    The  Low  Energy  High  Intensity  High  Charge  State  Heavy  Ion  Accelerator  Facility  (LEAF)  is  a national scientific instrument developed by the Institute of Modern Physics, Chinese Academy of Sciences, to provide high-current,  high-charge-state,  full-spectrum  low-energy  heavy  ion  beams  for  interdisciplinary  studies.  To  meet research  needs  in  nuclear  astrophysics,  atomic  and  molecular  physics,  and  nuclear  materials,  LEAF  offers  tunable energies from 0.3 to $0 . 7 ~ \mathrm { M e V / u }$ and supports continuous-wave acceleration for ions with with a mass-to-charge ratio ranging  from  2−7.  This  paper  presents

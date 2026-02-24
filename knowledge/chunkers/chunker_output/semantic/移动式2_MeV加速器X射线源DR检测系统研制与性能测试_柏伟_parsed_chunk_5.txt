@@ -1,0 +1,7 @@
+Abstract: At present, the X-ray non-destructive testing (NDT) field urgently needs a digital NDT system based on mobile and miniaturized accelerator X-ray sources. In order to meet the urgent demand, a tracked vehicle mobile miniaturized and digital radiography (DR) NDT testing system prototype based on S-band accelerator X-ray sources is developed by using modular, standardized and compact design concepts and methods, and the prototype performance is experimental tested. The experimental results show that the energy of the accelerator X-ray source in the system exceeds $2.8\mathrm{MeV}$ , and the maximum dose rate at 1 meter in front of the target is $405\mathrm{mGy / min}$ . The X-ray head of the prototype can be real-time adjusted for lifting and pitching, with a lifting range of 1.8 meters, and a pitching angle between $\pm 45$ degrees. For DR detection, the system can detect parts with a height of more than 3 meters, and the maximum detectable equivalent steel thickness is not less than $120\mathrm{mm}$ . The detection sensitivity of the system is better than $1\%$ when examined by an image quality meter.
+
+Keywords: S-band, Accelerator, X-ray source, Non-destructive testing
+
+加速器X射线源具有广泛的应用价值[1]。在国防领域，可实现对国防装备的无损检测，确保其有效性；在航空航天领域，可实现对大型火箭、航天器、飞机发动机及机翼等重要部件的无损检测；在基础设施建设领域，实现对大型电站、铁路、桥梁、大坝以
+
+及石油和天燃气管道等重要设施和部位的无损检测；在医疗领域，可以实现放射治疗和辐照消毒等[2-3]。基于移动式、小型化加速器X射线源的数字化无损探伤系统，由于其使用的机动性和方便性，使得其在野外固定物的原位检测或现场检测中得到

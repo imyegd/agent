@@ -1,0 +1,13 @@
+见网络版）  
+Fig.6 Ambient dose equivalent rate along the beam axis for protons and secondary particles (color online)
+
+速衰减至零，后端剂量由次级粒子贡献，两种靶芯材料的束流垃圾桶尾部的剂量是相当的。同时可以看出，在径向，聚乙烯靶芯的屏蔽效果略优于石墨。值
+
+得注意的是，在束流垃圾桶轴向前侧，使用聚乙烯靶芯的剂量仅约为石墨靶芯的1/4，这是由于靶原子质量增大而导致中子的背散射作用增强［17］。因此对于
+
+$2 0 0 \mathrm { M e V }$ 质子加速器的束流垃圾桶，选择聚乙烯作为靶芯材料，与石墨材料相比，能够大幅减少背散射剂量，有利于降低辐照终端的瞬时次级辐射。
+
+![](images/ad8da96dbc4e8f03bc8b6134911a3ec8fb41162ba233ec059f75709b83198a83.jpg)
+
+图7 不同靶芯材料的剂量当量率分布（彩图见网络版） (a) 轴向，(b) 径向  
+Fig.7 Ambient dose equivalent rate distr

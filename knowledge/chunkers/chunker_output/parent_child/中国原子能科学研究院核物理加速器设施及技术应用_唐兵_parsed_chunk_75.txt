@@ -1,0 +1,4 @@
+8(7): 1548-1556.  
+LI Yankun, CHEN Hongtao, SONG Yingmin, et al. Performance study of deuterium-titanium targets with different substrates[J]. Atomic Energy Science and Technology, 2024, 58(7): 1548-1556(in Chinese).   
+[72] 徐阔之, 聂阳波, 张时宇, 等. 氪氚中子与 Fe 作用后泄漏 $\gamma$ 能量沉积谱测量与计算[J]. 原子能科学技术, 2024, 58(12): 2452-2461.  
+XU Kuozhi, NIE Yangbo, ZHANG Shiyu, et al. Measurement and calculation of the energy deposition spectrum of leakage $\gamma$ -rays following D-T neutron interaction with Fe[J]. Atomic Energy Sci

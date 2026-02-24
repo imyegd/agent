@@ -1,0 +1,26 @@
+z _ {i + 1} = z _ {i} - d _ {i} 2 ^ {- i} \\ d _ {i} = \left\{ \begin{array}{l l} 1 & z _ {i} \geq 0 \\ - 1 & z _ {i} <   0 \end{array} \right. \end{array} \right. \tag {8}
+$$
+
+在正常计算时， $x_{n}$ 、 $y_{n}$ 是伪旋转输出结果，尚未做模直补偿，因此，等式右边的真实坐标需要乘 $K$ 的倒数。经过 $n$ 次迭代，最终表示的结果为
+
+$$
+\left\{ \begin{array}{l} x _ {n} = \frac {1}{K} \left(x _ {0} \cos z _ {0} - y \sin z _ {0}\right) \\ y _ {n} = \frac {1}{K} \left(y _ {0} \cos z _ {0} + x \sin z _ {0}\right) \\ z _ {n} = 0 \end{array} \right. \tag {9}
+$$
+
+从式（9）可以得出CORDIC算法的硬件实现主要由以下三步组成：
+
+1）2次移位： $2^{-i}$ 用移位实现，每右移 $i$ 位就是把原来的数乘以2的-i次方；  
+2）1次查找表：每次迭代都有固定角度 $\theta_{i}$ 的累加，这个角度是 $2^{-i}$ 对应的角度值，使用查找表实现（ $\theta_{i} = \arctan 2^{-i}$ ）；  
+3）3次加法： $x$ 、 $y$ 、 $z$ 的累加，共三次。
+
+# 1.4 CORDIC算法应用模式
+
+CORDIC算法在应用上可以计算三角函数（正弦、余弦）的值，可以让 $z_0$ 为待求角度 $\theta$ ， $y_0$ 为0， $x_0$ 为 $K$ ，并将其代入式（9）中，可简化输出为
+
+$$
+\left\{ \begin{array}{l} x _ {n} = \cos \theta \\ y _ {n} = \sin \theta \\ z _ {n} = 0 \end{array} \right. \tag {10}
+$$
+
+# 2 FOC控制
+
+FOC 控制的核心在于采用坐标变换技术，将电机在三相静止坐标系下的相电流转换至与转子磁极轴线保持相对静止的旋转坐标

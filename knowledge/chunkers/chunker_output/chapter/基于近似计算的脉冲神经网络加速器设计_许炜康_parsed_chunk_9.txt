@@ -1,0 +1,11 @@
+# 4.3 AxSpike设计实现
+
+AxSpike 是一项硬件设计成果，它以 Open-Spike 开源项目为基础进行开发，并在寄存器传输级 RTL(Register Transfer Level) 实现。AxSpike 系统架构如图 2 所示。该架构充分借助开源的 EDA 工具和 PDK，在 OpenSpike 基本架构的基础上进行了改良。AxSpike 尤其专注于加法器组件的设计。其内部集成了 1024 个神经元，每个神经元均搭载了近似加法器。借助最优近似加法器选择策略，AxSpike 将传统的精确加法器替换为所选定的近似加法器。此外，AxSpike 的实现还依托于 SkyWater $130 \mathrm{~nm}$ 工艺技术。这些举措使得
+
+AxSpike 在性能方面维持较高水准的同时，提升了自身能效比。
+
+![](images/e21195ff1b6569ba1b2ea5c4ee1c75b6bfce98f636325fc475b5fe1214461b90.jpg)  
+Figure 2 AxSpike system architecture   
+图2 AxSpike系统架构
+
+为了对 AxSpike 进行仿真和训练，本文结合 snnTorch 和 PyTorch 框架搭建了一个支持 SNN 的功能模拟器。它涵盖了 4 个图像识别应用，并以应用分类准确度作为衡量应用程序质量的指标。为提高模拟器的运行速度，本文在实验中采用了高性能的 GPU 服务器来支撑计算任务，如此一来，不仅能够加快训练过程，而且可以提升模拟器的效率。

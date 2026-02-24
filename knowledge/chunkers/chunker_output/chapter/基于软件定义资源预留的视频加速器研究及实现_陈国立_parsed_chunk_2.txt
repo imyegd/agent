@@ -1,0 +1,11 @@
+# Research and Implementation of Video Accelerator Based on Software Defined Resource Reservation
+
+CHEN Guoli<sup>1</sup>, LIAO Zhiwen<sup>1</sup>, CHEN Hongling<sup>2</sup>, ZHU Huimin<sup>1</sup>, LIN Weiyi<sup>1</sup>
+
+(1.School of Artificial Intelligence, Zhuhai City Polytechnic, Zhuhai 519090, China;
+
+2.Artificial Intelligence College, Guangdong Polytechnic of Science and Technology, Zhuhai 519090, China)
+
+Abstract: Since the advent of the Software Defined Network (SDN), the concept of separating the control plane from the data plane has attracted extensive attention in the network field. In order to ensure the fluency of high-priority video services during network congestion, this paper designs a video accelerator based on software defined resource reservation and applies it to distributed video conferencing. When the overall network bandwidth is insufficient to ensure high-quality transmission of all video streams, service providers can reserve bandwidth for specific video services through the payment mechanism of video accelerators, thereby ensuring network Quality of Service (QoS), improving end-to-end video quality, and improving end-user experience. Experiments show that the scheme can reserve bandwidth for specific video streams through SDN, and significantly improve video stream quality and user experience.
+
+Keywords: SDN; resource reservation; service quality; video acceleration

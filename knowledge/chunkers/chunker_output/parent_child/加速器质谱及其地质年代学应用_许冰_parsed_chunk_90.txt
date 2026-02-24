@@ -1,0 +1,10 @@
+mathrm {A B}} \left(t _ {\mathrm {b}}\right) = \frac {C _ {\mathrm {A}} \left(t _ {\mathrm {b}}\right)}{C _ {\mathrm {B}} \left(t _ {\mathrm {b}}\right)} = R _ {\mathrm {A B}} (0) \mathrm {e} ^ {- t _ {\mathrm {b}} \left(\lambda_ {\mathrm {A}} - \lambda_ {\mathrm {B}}\right)} \tag {20}
+$$
+
+则埋藏年龄为：
+
+$$
+t _ {\mathrm {b}} = - \ln \left(\frac {R _ {\mathrm {A B}} \left(t _ {\mathrm {b}}\right)}{R _ {\mathrm {A B}} (0)}\right) / \left(\lambda_ {\mathrm {A}} - \lambda_ {\mathrm {B}}\right) \tag {21}
+$$
+
+公式（20）～（2

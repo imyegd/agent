@@ -1,0 +1,4 @@
+1004-714X.2022.04.003. (in Chinese)  
+Cai  B,  Laugeman  E,  Hsu  H,  et  al. Technical  Note:  self-shielding[5] evaluation  and  radiation  leakage  measurement  of  a  jawless  ring gantry linac with a beam stopper[J]. Med Phys, 2021, 48（6）: 3143- 3150. DOI: 10.1002/mp.14858.   
+Caravani K, Murry R, Healy B. Characterisation of in-room leakage[6] and scattered radiation for the Varian Halcyon linear accelerator[J]. Phys Eng Sci Med, 2022, 45（1）: 73-81. DOI: 10.1007/s13246-021- 01084-1.   
+于浪, 杨波, 孙显松, 等.

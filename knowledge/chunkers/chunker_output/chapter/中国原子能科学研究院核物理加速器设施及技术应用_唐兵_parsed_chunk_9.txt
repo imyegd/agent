@@ -1,0 +1,9 @@
+# 2.3 串列加速器技术研究
+
+从2021年开始，原子能院布局研制小型串列加速器。经过3年的技术攻关，掌握了兆伏级高压产生、高梯度加速管等一系列关键技术，于2025年成功交付用户 $2 \times 1.7\mathrm{MV}$ 和 $2 \times 3\mathrm{MV}$ 串列加速器各一台(图7)，这是国内首台套商品化串列加速器，标志着我国在串列加速器高端仪器设备制造领域取得重大突破，实现了串列加速器的完全自主可控。
+
+![](images/803f4a885a55340394d503d70e9a48ee20300eb0a6b229975cc408fccc99996a.jpg)  
+图7 $2\times 1.7\mathrm{MV}$ 和 $2\times 3\mathrm{MV}$ 串列加速器在用户现场  
+Fig. 7 $2 \times 1.7$ MV and $2 \times 3$ MV tandem accelerator in user site
+
+此外，两台 $2 \times 3 \mathrm{MV}$ 和一台 $2 \times 6 \mathrm{MV}$ 串列加速器处于研制阶段。未来将形成最高端电压达 $15 \mathrm{MV}$ 的串列加速器型谱。

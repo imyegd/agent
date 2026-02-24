@@ -1,0 +1,5 @@
+# 参考文献
+
+1 Jiao Y, Xu G, Cui X H, et al. The HEPS project[J]. Journal of Synchrotron Radiation, 2018, 25(6): 1611 – 1618. DOI: 10.1107/s1600577518012110.   
+2 Yang P H, Liu G W, Xu J H, et al. Design and comparison of hybrid multi-bend achromat lattices for HALF storage ring[J]. Nuclear Science and Techniques, 2023, 34(7): 107. DOI: 10.1007/s41365-023-01252-w.   
+3 Feng C, Zhao Z T. A storage ring based free-electron laser for generating ultrashort coherent EUV and X-ray radiation[J]. Scientific Reports, 201

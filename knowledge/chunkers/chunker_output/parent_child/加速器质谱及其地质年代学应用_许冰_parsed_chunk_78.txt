@@ -1,0 +1,12 @@
+$
+
+在继承核素为 0或可以单独计算的情况下$\mathrm { \Delta } N _ { \mathrm { { c o s } } } = N _ { \mathrm { { t o t a l } } } - N _ { \mathrm { { i n h } } } \mathrm { \Delta }$ ），暴露年龄 $\cdot \ : T _ { \mathrm { e x p } }$ ）如下［52］ ：
+
+$$
+\begin{array}{l} T _ {\exp} = - 1 / \lambda \times \ln [ 1 - (\lambda N _ {\cos} (z, T _ {\exp}) / \\ \left. \left(\sum \left(P _ {i} (z) e ^ {- z \rho / \Lambda_ {i}}\right) \right] \right. \tag {4} \\ \end{array}
+$$
+
+对于表层样品 ${ \it z } = 0$ ），方程简化为：
+
+$$
+T _ {\exp} = - 1 / \lambda \times \ln

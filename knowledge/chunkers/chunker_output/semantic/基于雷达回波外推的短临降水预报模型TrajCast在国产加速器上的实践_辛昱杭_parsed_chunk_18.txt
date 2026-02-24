@@ -1,0 +1,7 @@
+![](images/81732b073750f84f4ca6677efcb26f7cd544191a95bb8c5dc57090ec3e01dc41.jpg)  
+标签数据16分钟降水量标签(08:02-08:08)
+
+![](images/ec32e18c22753795a671799196f134e002b3f682976fd5739c4e1e80d63f9ac3.jpg)  
+标签数据26分钟降水发生范围(08:02-08:08)  
+图2 2017年安徽省某强降水过程逐6分钟数据分量  
+Fig.2 6-Minute Interval Data Components of a Heavy Rainfall Event in Anhui Province, 2017

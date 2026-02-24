@@ -1,0 +1,13 @@
+13b23a1f1ea98301db54acfe1b0fcf56c254d26831042fb33401bdfb0b6.jpg)  
+Fig.1 EPICS architecture   
+图1 EPICS结构
+
+型加速器、三代或四代光源、国际热核聚变实验堆(International Thermonuclear Experimental Reactor，ITER)装置、反应堆、大型射电天文望远镜阵列等)采用，已成为大科学物理装置控制系统的标准结构和主流趋势。我国的强流多脉冲直线感应加速器，其控制系统也采用EPICS平台建设。
+
+EPICS是基于客户端/服务器模式的标准模型、支持多任务并发、多用户交互的分布式控制系统，如图1所示。EPICS 包括 3 个主要部分：操作员界面(Operator Interface，OPI)、信道访问(Channel Access，CA)和输入输出控制器(IOC)。OPI 是操作员接口组件，运行于客户端，通过人机交互界面(Graphical User Interface，GUI)实现人机信息交互、设备监控等功能；IOC是运行于服务器上的输入输出控制模块，其实质是常驻内存的分布式实时数据库系统，将硬件设备的操作与状态转换成全局唯一的数据库记录，通过记录支持(Record Support)、设备支持(Device Support) 和 设 备 驱 动 (Device Driver) 对 硬 件 进 行 访 问 控 制 ； CA 组 件 分 两 部 分 ： 运 行 在 OPI 端 为 CAC(CAClient)；运行在IOC端为CAS(CA Server)，支持TCP/IP协议，负责对全局唯一记录名的解析、发布与定制等服务，使用CA工具可从OPI上以透明通信方式直接读取驻留在网络不同IOC节点的实时数据。
+
+IOC是EPICS架构的核心，承担和硬件设备通信的任务，同时必须向网络发布和硬件设备相关的实时数据。强流加速器机器快保护采用的CRIO系统，承担的是EPICS架构中的IOC角色。
+
+# 1.2 国内外大科学装置的机器保护系统
+
+国内外的大型物理实验装置，大多采用EPCIS作为控制系统的架构和开发平台，因此其机器保护系统不但要考虑响应速度，还要考虑与 EPICS 架构的集成。ITER 装置发布的最新的控制、数据访问和通信(Control, DataAccess and Communica

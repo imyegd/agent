@@ -1,0 +1,3 @@
+(4): 296-301. YANG Bingfan, KAN Chaoxin, CUI Xinyi, et al. Development of the alternating injection system for AMS on the HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2000, 34(4): 296-301(in Chinese).   
+[88] 包轶文, 关遐令, 胡跃明, 等. AMS 专用高分辨注入器系统研制[J]. 原子能科学技术, 2008, 42(9): 254-256. BAO Yiwen, GUAN Xialing, HU Yueming, et al. Development of AMS special high resolution injector system[J]. Atomic Energy Science and Technology, 2008, 42(9): 254-256(in Chinese).   
+[89] LI Chaoli, HE Ming, ZHAN

@@ -1,0 +1,3 @@
+:  Full-[32] Digital  Bitline-Transpose  CIM-based  Sparse  Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes[J]. IEEE Journal of Solid-State Circuits,  2023,  58(6): 1798−1809.   
+Fengbin Tu, Zihan Wu, Yiqi Wang, et al. 16.1 MuITCIM: A[33] 28nm $2 . 2 4 \mu \mathrm { J } /$ Token  Attention-Token-Bit  Hybrid  Sparse Digital  CIM-Based  Accelerator  for  Multimodal Transformers[C]//2023 IEEE International Solid-State Circuits Conference. Piscataway: IEEE, 2023: 248−250.   
+Manuel  Le  Gall

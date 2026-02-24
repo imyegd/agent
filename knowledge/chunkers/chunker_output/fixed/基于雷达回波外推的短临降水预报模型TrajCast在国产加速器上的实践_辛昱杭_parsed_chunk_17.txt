@@ -1,0 +1,19 @@
+729335f70fa659e178d23312.jpg)  
+模型训练每秒处理样本数(个)对比  
+图4 小规模样本数据集性能测试结果  
+Fig.4 Performance evaluation results for the small dataset
+
+单卡加速比为0.7，与CPU单核心加速比为80.4，与CPU 32核心加速比为23.2，说明模型得到了较好的加速效果。同时，训练时显卡的瞬时利用率达到了 $1 0 0 \%$ ，资源利用较为合理。  
+（2）并行训练性能测试：并行训练使用分布式深度学习框架horovod[27]，采用数据并行训练技术，分别在国产加速器单机2卡、单机4卡、单机8卡进行单机多卡训练性能测试；同时在国产加速器单机2卡、国产加速器2机4卡、国产加速器4机8卡进行多机多卡性能测试，测试扩展性。
+
+单机多卡和多机多卡并行训练试验结果（表3、表4）均表明训练使用卡数与性能基本呈现超线性增长关系，随着计算资源增加，显存压力缓解，缓存利用率提升，通信开销被掩盖，以上因素共同作用产生加速比超过国产加速器卡数量线性增长的情况，充分表明模型的扩展效率较高，为后续模型大规模训练的高效和资源充分利用提供了理论支持。
+
+表3 单机多卡并行训练性能（CPU 单核心）  
+Table 3 Multi-GPU training performance on a single server (with a single CPU core)   
+表4 多机多卡并行训练性能（CPU 32个核心）  
+
+<table><tr><td>资源</td><td>每秒处理样本数(个)</td><td>加速比</td></tr><tr><td>单机单卡</td><td>3.85</td><td>—</td></tr><tr><td>单机2卡</td><td>27.13</td><td>7.05</td></tr><tr><td>单机4卡</td><td>51.88</td><td>13.47</td></tr><tr><td>单机8卡</td><td>90.98</td><td>23.63</td></tr></table>
+
+Table 4 Multi-GPU training performance on multi servers (with 32 CPU cores)   
+
+<table><tr><td>资源</t

@@ -1,0 +1,7 @@
+40</td><td>110</td><td>31.1023</td><td>26.3333</td><td>1.87755</td></tr><tr><td>③</td><td>100</td><td>40</td><td>100</td><td>32.3734</td><td>26.3333</td><td>1.87755</td></tr><tr><td>④</td><td>90</td><td>40</td><td>90</td><td>33.6445</td><td>26.3333</td><td>1.87755</td></tr></table>
+
+![](images/1f4efd678e0ab06b2bed168c3598f2ed37f57c8617680b450ece599f947da1a0.jpg)  
+(a) scheme $\textcircled{1} ,$ ~ $\textcircled{4}$
+
+![](images/c9ba18ce18786e4e3e746f29dbcb866176d8e0d281ae171c350b537b7901ae61.jpg)  
+(b) scheme

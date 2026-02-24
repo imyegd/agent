@@ -1,0 +1,3 @@
+W</td><td>magnet coils</td><td>mirror fields/T</td><td>Brad</td><td>chamber ID/mm</td><td>mirror length/mm</td></tr><tr><td>28~45</td><td>&gt;20</td><td>Nb3Sn</td><td>~6.4</td><td>~3.2</td><td>~140</td><td>~500</td></tr></table>
+
+平台。LEAF-RFQ 采用四翼型（设计参数见表 2），在连续波运行模式下，可稳定地将质荷比为 $2 \sim 7$ 的全粒子从 $1 4 \mathrm { k e V / u }$ 提升至 $5 0 0 ~ \mathrm { k e V / u }$ 。鉴于 RFQ 的出口能量恒定，为了提升 LEAF 装置束流条件的多样性，在 RFQ 出口段集成了束流能量调节系统。该系统包含一台交叉指型漂移管直线加速器（IH-DTL，设计参数见表 3），可提供 $0 . 3 { \sim } 0 . 7 \mathrm { M e V / u }$ 的连续能量增减调制

@@ -1,0 +1,3 @@
+Fine-grained  Polarized  ReRAM-based  In-situ  Computation for  Mixed-signal  DNN  Accelerator[C]//2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture. Piscataway: IEEE, 2021: 265−278.   
+Ermin  Wei,  Asuman  Ozdaglar.  Distributed  alternating[31] direction  method  of  multipliers[C]//2012 IEEE 51st IEEE Conference on Decision and Control.  Piscataway:  IEEE, 2012: 5445−5450.   
+Fengbin  Tu,  Zihan  Wu,  Yiqi  Wang,  et  al.  TranCIM:  Full-[32] Digital  Bitline-Transpose  CIM-based

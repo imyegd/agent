@@ -1,0 +1,14 @@
+{ 2 6 } \mathrm { M g ( d , n ) ^ { 2 7 } A l }$ 实验的结果[5]，更高能的 $9 \ 0 8 0 \mathrm { k e V }$ 激发态的自旋宇称被指定为 $1 / 2 ^ { + }$ 。但从本次测量角分布和DWBA 计算来看，认为其更倾向于是一个 $l = 2$ 的转移而非 $l = 0$ 的转移，图 4 展示了两种转移角动
+
+表 3 转移角动量与对应的自旋宇称以及最终的谱因子  
+Table 3 Spin-parity values corresponding transferred orbital angular momentum and the final spectroscopic factor   
+
+<table><tr><td>EX/keV</td><td>Jπ</td><td>l</td><td>S</td></tr><tr><td>7858</td><td>3/2+</td><td>2</td><td>0.181(20)</td></tr><tr><td>8952</td><td>5/2+</td><td>2</td><td>0.020(2)</td></tr><tr><td>9080</td><td>5/2+</td><td>2</td><td>0.049(5)</td></tr></table>
+
+量对应的结果。根据计算结果，最终认为其自旋宇称为 $5 / 2 ^ { + }$ 。所有态的谱因子结果误差来源分别是光学势误差（由对应该激发态的 6 种光学势组合计算结果平均得到）、测量误差 $( 5 \% )$ ）以及 $^ \mathrm { 7 L i }$ 的谱因子误差（ $10 \%$ ）[6-7]，根据误差传递公式， $^ { 2 7 } \mathrm { A l }$ 谱因子的相对误差由下式得到：
+
+$$
+\epsilon_ {\mathrm {A l}} ^ {2} = \epsilon_ {\mathrm {L i}} ^ {2} + \epsilon_ {\mathrm {O M P}} ^ {2} + \epsilon_ {\mathrm {D}} ^ {2} \tag {4}
+$$
+
+![](images/ec717592991f8807bbce9b1e74276d957a6ba9d2b4878b0a60b25

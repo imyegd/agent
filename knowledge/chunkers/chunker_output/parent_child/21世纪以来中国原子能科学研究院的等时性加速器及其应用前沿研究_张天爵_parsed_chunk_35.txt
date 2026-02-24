@@ -1,0 +1,10 @@
+g.6 CYCIAE-16 cyclotron   
+图7 $100\mathrm{MeV}$ 紧凑型回旋加速器  
+Fig. 7 $100\mathrm{MeV}$ compact cyclotron
+
+盖 $70\sim 100\mathrm{MeV}$ ，最大束流流强可达 $520~\mu \mathrm{A}$ 。整台加速器磁体总重 $435\mathrm{t}$ ，磁极半径约 $2\mathrm{m}$ ，磁气隙间隙逐渐收窄以实现二阶径向梯度磁场，增强轴向聚焦，最终实现 $100\mathrm{MeV}$ 质子等时加速与强聚焦。表2列出了其主要技术参数。
+
+表 2 CYCIAE-100 的主要参数  
+Table 2 Main parameters of CYCIAE-100   
+
+<table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>注入能量,keV</td><td>40</td><td>峰区角度,(°)</td><td>47</td></tr><tr><td>离子源流强,mA</td><td>&gt;5</td>

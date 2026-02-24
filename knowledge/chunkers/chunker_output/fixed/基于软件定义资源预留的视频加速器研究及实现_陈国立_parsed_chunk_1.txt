@@ -1,0 +1,26 @@
+# 基于软件定义资源预留的视频加速器研究及实现
+
+陈国立<sup>1</sup>, 廖志文<sup>1</sup>, 陈红玲<sup>2</sup>, 朱惠敏<sup>1</sup>, 林炜宜<sup>1</sup>
+
+(1.珠海城市职业技术学院人工智能学院，广东珠海519090；  
+2. 广东科学技术职业学院 人工智能学院，广东珠海 519090)
+
+摘要：软件定义网络（SDN）自问世以来，其控制平面与数据平面分离的理念受到网络领域的广泛关注。为保障网络拥塞时高优先级视频业务的流畅性，文章设计了一种基于软件定义资源预留的视频加速器，并将其应用于分布式视频会议中。当网络整体带宽不足以保证所有视频流高质量传输时，通过视频加速器的付费机制，服务提供商可为特定视频业务预留带宽，从而保障网络服务质量（QoS），提升端到端视频质量，改善终端用户体验。实验表明，该方案能够通过SDN为特定视频流预留带宽，显著提升视频流质量与用户体验。
+
+关键词：软件定义网络；资源预留；服务质量；视频加速
+
+中图分类号：TP393；TN919.8
+
+文献标识码：A
+
+文章编号：2096-4706（2025）20-0001-07
+
+# Research and Implementation of Video Accelerator Based on Software Defined Resource Reservation
+
+CHEN Guoli<sup>1</sup>, LIAO Zhiwen<sup>1</sup>, CHEN Hongling<sup>2</sup>, ZHU Huimin<sup>1</sup>, LIN Weiyi<sup>1</sup>
+
+(1.School of Artificial Intelligence, Zhuhai City Polytechnic, Zhuhai 519090, China;
+
+2.Artificial Intelligence College, Guangdong Polytechnic of Science and Technology, Zhuhai 519090, China)
+
+Abstract: Since the advent of the Software Defined Network (SDN), the concept of separating the contr

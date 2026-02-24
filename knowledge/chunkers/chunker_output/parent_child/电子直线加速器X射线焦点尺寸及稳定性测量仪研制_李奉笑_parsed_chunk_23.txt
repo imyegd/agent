@@ -1,0 +1,7 @@
+# 2 电子直线加速器X射线焦点尺寸测量仪的设计
+
+电子直线加速器X射线焦点尺寸测量系统主要包括4个部分：狭缝装置、高能X射线探测与采集系统、机械扫描运动系统和上位机控制台，如图5所示。
+
+![](images/60167c9bb41dc51a6da6b92fcbce0d345b0304846870bb30b9d78f8b8cab5490.jpg)  
+图5 电子直线加速器X射线焦点尺寸测量仪总体方案框图  
+Fig.5 Block diagram of the overall scheme of the X-ray focal spot size measuring instrument for electron linear accelerator

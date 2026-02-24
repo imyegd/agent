@@ -1,0 +1,609 @@
+# 21世纪以来中国原子能科学研究院的等时性加速器及其应用前沿研究
+
+张天爵，付伟，王川，殷治国，贾先禄，安世忠，李鹏展，周洪吉，宋国芳，陈忻禹
+
+（中国原子能科学研究院，北京 102413）
+
+摘要：等时性回旋加速器在国家安全和科技创新体系中有不可或缺的地位和作用，新时期，在重大航天工程、前沿科学研究和医疗健康领域，迫切需要等时性加速器的紧凑结构、高能量和高流强等全面取得突破。2000年以来，中国原子能科学研究院针对等时性加速器聚焦力不足这一全球共同面临的根本性技术难题，实现了原理创新、工程突破、紧凑型回旋加速器的型谱化发展和重大领域应用，引领紧凑型强流和超导回旋加速器国内外的发展方向，设计建造了强流和超导共9个能量等级、不同型号的回旋加速器，构建了较为完整的研发体系，成为在国际上有广泛影响力的等时性加速器研究中心，重点在超紧凑、超轻型和高功率等3个低温和高温的等时性超导加速器方向上开展引领性的前沿研究。
+
+关键词：等时性加速器；强聚焦；高流强；高温超导
+
+中图分类号：TL542.1
+
+文献标志码：A
+
+文章编号：1000-6931（2025）09-1981-18
+
+doi: 10.7538/yzk.2025.youxian.0488
+
+# Frontier Research on Isochronous Accelerator and Its Applications at China Institute of Atomic Energy Since the 21st Century
+
+ZHANG Tianjue, FU Wei, WANG Chuan, YIN Zhiguo, JIA Xianlu, AN Shizhong,
+
+LI Pengzhan, ZHOU Hongji, SONG Guofang, CHEN Xinyu
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: Isochronous cyclotrons hold an indispensable position in national security and the science and technology innovation system. In the new era, there is an urgent demand for breakthroughs in compact structure, high energy, and high beam intensity of isochronous accelerators in major aerospace projects, frontier scientific research, and the medical and healthcare. Since 2000, China Institute of Atomic Energy (CIAE) has addressed the globally recognized fundamental technical challenge of insufficient focusing strength in isochronous accelerators. Through innovations in principle, engineering breakthroughs, and the systematic development of compact cyclotrons, CIAE has promoted the application of these accelerators in key fields, leading the development direction of compact high-intensity and superconducting cyclotrons both domestically and internationally. A total of nine cyclotrons of various models and energy levels—covering both high-intensity and superconducting types—have been designed and built, forming a relatively complete R&D system. CIAE has thus
+
+become an internationally influential center for isochronous accelerator research, focusing on pioneering research in three main directions: ultra-compact, ultra-lightweight, and high-power isochronous cyclotrons based on LTS and HTS technology.
+
+Key words: isochronous accelerator; strong focusing; high intensity; high-temperature superconductivity
+
+等时性加速器自20世纪初诞生以来，已走过近百年发展历程[1]。作为粒子加速器的重要分支，等时性加速器因其结构紧凑、束流连续、运行稳定等特点，在国家安全、核能开发、空间辐照模拟、医用放射性同位素生产、中子源以及核物理基础研究等领域发挥着不可替代的作用[2]。代表性装置包括传统的AVF(azimuthallyvaryingfield)紧凑型回旋加速器以及近年来快速发展的连续波固定场交变梯度加速器(continuouswave fixed fieldalternating gradient)等。
+
+进入21世纪，传统等时性加速器设计方法在能量上限、空间电荷制约的流强和结构紧凑性等方面均受到明显制约，难以满足多领域重大应用的迫切需求。聚焦力不足是等时性加速器发展全球共同面临的根本性技术难题，国际上普遍认为AVF紧凑型直边扇回旋加速器的能量上限在 $50\sim$ 70MeV范围内[3-4]，分离扇等时性加速器的能量上限为 $1\mathrm{GeV}^{[5 - 6]}$ 。近20年来，中国原子能科学研究院(简称原子能院)致力于从理论方法和工程实践上有效提升聚焦力，挑战长期制约等时性加速器发展的“卡脖子”问题[3]。并在该领域取得了一系列的原创性突破，创新性建立了宽径向范围变梯度磁场的强聚焦理论方法[7]，推动了等时性加速器突破能量极限和大幅提升流强的双重跨越；建成了国际首台能量达 $100\mathrm{MeV}$ 的紧凑型强流回旋加速器[8]；形成了6个能量等级的紧凑型强流回旋加速器型谱化、标准化发展[9]。与此同时，近10年来，强聚焦理论与低温超导和高温超导新技术的结合，开拓了紧凑型超导等时性加速器发展的新方向，完全自主建成了我国首台 $230\mathrm{MeV}$ 超导回旋加速器，用于空间辐射环境地面模拟和癌症质子治疗[10]；并分别在国家安全重大基础项目和国家重大科学仪器项目的支持下，研发出超轻型质子回旋加速器[11]和超紧凑 $\alpha$ 回旋加速器[12]；还完成了 $2\mathrm{GeV}$ 高能量效率、高平均功率的等时性加速器设计方案和关键技术设计验证[13]。一批
+
+具有更高功率密度、更高能量效率、更小设备体积的等时性加速器创新研究正在快速推进，引领21世纪等时性加速器朝着超紧凑、超轻型、高功率的方向发展。
+
+本文将系统回顾21世纪以来，原子能院等时性加速器在原创理论、大型工程与创新应用方面的代表性成果，展示等时性加速器的前沿科技进展和在新时期国家战略需求中的广阔发展前景。
+
+# 1 宽径向范围调变磁场梯度的强聚焦理论方法建立：突破等时性加速器能量极限、大幅提升流强
+
+# 1.1 宽径向范围调变磁场梯度强聚焦理论方法
+
+同步加速器通过快速同步调节加速带电粒子的射频场频率和各类磁铁的场强随时间的变化，以匹配带电粒子旋转频率的相对论变化，使得加速过程的束流轨道保持不变，因此，多极磁铁的周向布置使得工作点的调整更为灵活，能量易于达到比等时性回旋加速器更高的水平，但平均流强相对较低。
+
+区别于同步加速器，等时性加速器实现连续波加速，平均流强高。但受到整数共振线和轴向聚焦力的限制，能量难以提升。等时性加速器中粒子轨道半径随能量逐渐增大，如图1所示，难以采用传统的二极磁铁、四极磁铁、八极磁铁提供磁场聚焦，因此轴向聚焦以及调节色散的能力受限。为了在等时性回旋加速器中获得类似于同步加速器多极磁场的聚焦、消色散的效果，原子能院提出引入高阶径向磁场梯度以提升聚焦力，同时对横向振荡频率进行精细调节。例如，在等时性加速器主磁极宽径向范围内引入磁场一阶梯度、二阶梯度、三阶梯度，以实现类似于包括四极、六极、八极透镜的多极磁场增强聚焦、补偿色品、处理共振的作用[7]。
+
+等时性回旋加速器中心平面上的磁场分布可以表示为如下形式：
+
+![](images/367fd50320e9582536c3ddd493029dae61fc2d1a29cb1e8e46d76ab78c85aab1.jpg)  
+图1 整体型等时性回旋加速器的磁极结构  
+Fig. 1 Magnetic pole structure of isochronous cyclotron
+
+$$
+B = B _ {\mathrm {p}, \mathrm {v}} (1 + f \cos N \theta) \tag {1}
+$$
+
+其中， $B_{\mathrm{p,v}}$ 为径向分布函数，峰谷区对应的径向分布函数 $(B_{\mathrm{p}},B_{\mathrm{v}})$ 可以写为泰勒展开形式：
+
+$$
+B _ {\mathrm {p}} = \sum_ {i = 0} ^ {n} a _ {i} r ^ {i} \tag {2}
+$$
+
+$$
+B _ {\mathrm {v}} = \sum_ {i = 0} ^ {n} b _ {i} r ^ {i} \tag {3}
+$$
+
+其中： $i$ 为径向磁场的阶数，可类比为同步加速器中的多极磁场； $a_{i},b_{i}$ 为磁场梯度调节系数。
+
+考虑一阶近似下，粒子沿轨道运动的方程为：
+
+$$
+u ^ {\prime \prime} + K (s) u = 0 \tag {4}
+$$
+
+其中： $u$ 为横向位移； $K(s)$ 为一个周期内的聚焦函数。
+
+进一步地，采用薄透镜近似，在式(2)、(3)具有一阶梯度的情况下，可以将峰谷区的径向、轴向传输矩阵写为：
+
+$$
+\boldsymbol {M} _ {x _ {\mathrm {p}, \mathrm {v}}} = \left| \begin{array}{c c} \cos (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) & \sin (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) / \sqrt {k _ {\mathrm {p}, \mathrm {v}}} \\ - \sqrt {k _ {\mathrm {p}, \mathrm {v}}} \sin (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) & \cos (\sqrt {k _ {\mathrm {p}, \mathrm {v}}} l _ {\mathrm {p}, \mathrm {v}}) \end{array} \right| \tag {5}
+$$
+
+$$
+\boldsymbol {M} _ {z _ {\mathrm {p}, \mathrm {v}}} = \left| \begin{array}{c c} \cosh (\sqrt {k _ {\mathrm {p , v}}} l _ {\mathrm {p , v}}) & \sinh (\sqrt {k _ {\mathrm {p , v}}} l _ {\mathrm {p , v}}) / \sqrt {k _ {\mathrm {p , v}}} \\ - \sqrt {k _ {\mathrm {p , v}}} \sinh (\sqrt {k _ {\mathrm {p , v}}} l _ {\mathrm {p , v}}) & \cosh (\sqrt {k _ {\mathrm {p , v}}} l _ {\mathrm {p , v}}) \end{array} \right| \tag {6}
+$$
+
+其中： $k_{\mathrm{p,v}}$ 为峰区、谷区径向分布函数对半径的导数； $l_{\mathrm{p,v}} = R_{\mathrm{p,v}}\phi_{\mathrm{p,v}}$ 为峰区、谷区的路径长度， $R_{\mathrm{p,v}}$ 为峰区、谷区的偏转半径， $\phi_{\mathrm{p,v}}$ 为峰区、谷区的偏转角度。
+
+对于某一特定能量的粒子，做如下近似：1）粒子在峰谷区运动过程中磁场的变化不大，运动轨迹是一段圆弧；2）忽略峰谷区边缘的边缘场效果，采用硬边界近似。在等时性回旋加速器中1个周期内的传输矩阵为：
+
+$$
+\boldsymbol {M} _ {\mathrm {s}} = \boldsymbol {M} _ {\mathrm {v}} \boldsymbol {M} _ {\mathrm {e}} \boldsymbol {M} _ {\mathrm {p}} \boldsymbol {M} _ {\mathrm {i}} \tag {7}
+$$
+
+其中： $M_{\mathrm{i}}$ 、 $M_{\mathrm{e}}$ 分别为磁极入口、出口边缘场的传输矩阵； $M_{\mathrm{p}}$ 、 $M_{\mathrm{v}}$ 分别为峰区、谷区的传输矩阵。若考虑螺旋角的聚焦作用，可对上述传输矩阵进行扩展，引入更多可调参数。结合式(4)～(6)，1个周期的传输矩阵 $M_{\mathrm{s}}$ 的矩阵元可以表示为径向梯度调节系数 $a_{i}$ 的函数。
+
+根据希尔方程(式(4))解的特性，传输矩阵 $M_{s}$ 可以表示为：
+
+$$
+M _ {\mathrm {s}} = I \cos \mu + J \sin \mu \tag {8}
+$$
+
+$$
+\mu = \int \frac {1}{\beta} d s = \frac {2 \pi v}{N} \tag {9}
+$$
+
+其中： $\mu$ 为1个周期的相移量； $v$ 为粒子转1圈的振荡次数。
+
+根据Twiss参数和传输矩阵元的关系，粒子运动的横向振荡频率可以利用传输矩阵的迹表示为：
+
+$$
+\cos \left(\pi v _ {r, z}\right) = \frac {\operatorname {t r} \left(M _ {\mathrm {s}}\right)}{2} = \frac {m _ {s _ {1 1}} + m _ {s _ {2 2}}}{2} \tag {10}
+$$
+
+在加速器物理设计过程中，若想求解径向梯度分布的系数，对于特定能量的粒子（以注入、引出为例），可以设定工作点 $(\nu_{r},\nu_{z})$ ，基于式(8)可以得到关于径向梯度调节系数 $a_0,a_1,b_0,b_1$ 以及轨道半径 $r$ 处的4个方程。结合局部的圆弧轨道假设（假定工程实施易于实现同半径相同场梯度)，考虑等时性条件、几何关系和周期性条件约束，可建立与 $R_{\mathrm{p,v}},\phi_{\mathrm{p,v}}$ 与 $R_{\mathrm{p,v}}$ 的联系，得到另外5个方程。
+
+至此，即可建立横向振荡频率 $(\nu_{r},\nu_{z})$ 与径向磁场分布多项式的联系，进而求解各阶径向梯度调节的具体要求。
+
+上述方法以横向聚焦力为设计目标，调变磁场各阶径向梯度，一方面可以增加引出位置的磁场调变度，另一方面也引入了高阶强聚焦项，如分别由场梯度和调变度增加的两项轴向聚焦力[9]为：
+
+$$
+\Delta v _ {z _ {1}} ^ {2} = \frac {\pi^ {2} \eta^ {2}}{1 2 N ^ {2}} \cdot \left(\frac {R}{\bar {B}} \cdot \frac {\partial \bar {B}}{\partial R}\right) ^ {2} \tag {11}
+$$
+
+$$
+\Delta \nu_ {z _ {2}} ^ {2} = \frac {\pi^ {2}}{3 N ^ {2}} F ^ {4} \tag {12}
+$$
+
+$$
+\eta = \frac {\partial \left(B _ {\mathrm {p}} - B _ {\mathrm {v}}\right)}{\partial R} / \frac {\partial \bar {B}}{\partial R} \tag {13}
+$$
+
+其中， $F$ 为调变度。
+
+显然，只有在场梯度和调变度较大时，强聚焦项才会起到调节工作路径的作用。基于上述大径向范围调变梯度理论，可实现更高能量的稳定加速。取得的理论创新结果包括：1）调变一阶梯度，因空间电荷制约的流强与聚焦力的平方呈正比，紧凑型回旋加速器的流强大幅提升至mA量级[14]；2）调变二阶梯度，获同类装置的最强聚焦力、突破了 $70\mathrm{MeV}$ 能量极限，紧凑型回旋加速器的能量国际上首次达到 $100\mathrm{MeV}^{[15]}$ ；3）采用上述理论方法，可以进一步设计F-D-F、D-F-D等交变梯度聚焦结构的等时性FFAG加速器，将分离型等时性加速器国际最高能量从1GeV提升到 $2\mathrm{GeV}^{[16]}$ 。获国际同行普遍肯定，认为是获得6MW级别高功率束流的高能量效率方式。
+
+# 1.2 大规模并行计算程序开发与验证
+
+强流一直是回旋加速器重要的发展方向之一，但是由于空间电荷效应对轴向聚焦力的削弱，束流集体效应逐渐增大，紧凑型回旋加速器的流强达到mA量级较为困难。加拿大TRIUMF国家实验室的研究表明，回旋加速器束流强度与轴向聚焦力密切相关，与 $\nu_{z}^{2}$ 呈正比[17]。国际上已开发许多模型来研究空间电荷效应对束流动力学的影响[18-19]。对于圈分离较小的紧凑型强流回旋加速器，单束团空间电荷效应并非唯一的贡献，随着束团能量的稳步增加，相邻束团在径向的相互作用变得越来越重要，尤其是在大半径时，相邻束团间的距离减小，甚至可能发生重叠。以原子能院的 $100\mathrm{MeV}$ 紧凑型回旋加速器(CYCIAE-100)为例，
+
+由于每圈能量增益较小（约 $200\mathrm{keV}$ ），圈间距远小于外半径处的束流尺寸（在引出处， $\Delta r = 1.5\mathrm{mm}$ ）在引出区附近多个束团将发生重叠[20]
+
+为对强流加速器中的空间电荷效应进行更精确的数值模拟，验证宽径向范围调变磁场梯度提高轴向聚焦力的可行性，原子能院与瑞士保罗谢尔实验室(PSI)合作研发了基于大规模并行计算的等时性回旋加速器全程束流动力学仿真软件OPAL-CYCL，在国际上首次提出并发展了等时性回旋加速器中相邻多束团空间电荷效应的核心算法，实现了强流束从注入到引出的全程动力学模拟[21]。程序主要算法流程如图2所示。
+
+OPAL-CYCL程序主体以粒子运动方程为核心，将束团中的粒子抽象为宏粒子模型，运用粒子-网格方法（particle-in-cell），采用准静态近似，对空间电荷效应影响的强流束流动力学行为进行自治模拟。将OPAL-CYCL程序应用到原子能院CYCIAE-100中，数值结果(图3)表明，对物理设计给定的中心区出口的初始匹配束，束流强度在 $1\mathrm{mA}$ 以下时空间电荷效应不会引起明显的束流损失，轴向空间电荷效应的限制流强约为 $5\mathrm{mA}$
+
+100 MeV 强流回旋加速器设计成功的关键是提出并成功实施了调变磁场二阶梯度: $100 \mathrm{MeV}$ 强流回旋加速器的主磁铁, 在半径 $30 \sim 198 \mathrm{~cm}$ 之间设计为椭圆旋转曲面, 椭圆长半轴为 $336.0 \mathrm{~cm}$ 、短半轴为 $3.012 \mathrm{~cm}$ , 二阶径向梯度的高精度要求使大型磁铁工程难度极大。通过在直边扇中引入二阶径向梯度, 配合非对称垫补方法, 成功获得了
+
+![](images/3a7dd8540271cabd23c733bce59ff3df208da64126936e8dc8871b42348dc4ee.jpg)  
+图2 OPAL-CYCL单、多束团模式算法流程  
+Fig. 2 Algorithm flow of OPAL-CYCL single and multi-bunch mode
+
+![](images/581829c9f8c6f355ee0491405a13e5c601485bfd7dffdfef3bcf59636b743283.jpg)
+
+![](images/99a50f1c0acb3df4ea5dc6a14d1a7c0090044f374be807e7adb4804048f1c3be.jpg)
+
+![](images/2dd2aa5151bd0b4eb2ba66285bb4af4059563ed26e6b80bb669f613181f274b4.jpg)
+
+![](images/c3d671acc61adb3baf7a2cfcd049b76d136aa05ad4ffbd4b57dfed001da9115e.jpg)
+
+![](images/82b604e76f4a2fd554da35a623cdec2855e7d37b256ae6438bdc4458f86ba2d5.jpg)
+
+![](images/b84735318c8fa34b082353aa3b8a5d37c1069992117f034162f4bf283d252d89.jpg)  
+图3CYCIAE-100稳态下 $0^{\circ}$ 方位角位置所有束团在径向-轴向平面的粒子分布  
+Fig. 3 Particle distribution of all bunches in radial-axial plane at $0^{\circ}$ azimuth position of CYCIAE-100 in steady state
+
+高于0.7的强聚焦[22], 突破了国内外专家公认的 $70\mathrm{MeV}$ 能量限制, 获得了能量 $100\mathrm{MeV}$ 、流强高达 $520\mu \mathrm{A}$ 的质子束流, 这是国际上紧凑型回旋加速器的最高束流功率[8]。
+
+自2010年以来，原子能院基于OPAL-CYCL软件框架持续开发了束流光学优化、洛伦兹剥离与残余气体剥离损失[23]、暗电流与多电子倍增效应[24]等束流物理、束流与加速器主要部件相互作用模块，定量评估了 $100\mathrm{MeV}$ 紧凑型强流回旋加速器的预期性能，支撑了原子能院CYCIAE-100的物理设计，以及流强超过 $1\mathrm{mA}$ 的技术可行性。
+
+径向调变梯度强聚焦原理和大规模并行计算软件已成功应用于中、美等7国的10多台回旋加速器设计、研制与升级改造，包括美国MIT800MeV回旋加速器设计[25]、欧洲PSI大型回旋加速器束流功率MW升级等[26]。
+
+# 2 $10 \sim 100 \mathrm{MeV}$ 系列紧凑型强流回旋加速器: 支撑重大领域的创新应用
+
+# 2.1 $10\sim 20$ MeV PET用回旋加速器
+
+1）外部离子源回旋加速器工程化、标准化
+
+2000年以来，原子能院发展了基于外部离子源的PET医用小型回旋加速器(CYCIAE-14A)[27]，其束流强度高，不仅可生产PET常用的 ${}^{11}\mathrm{C}$ 、 ${}^{15}\mathrm{O}$ 、 ${}^{13}\mathrm{N}$ 、 ${}^{18}\mathrm{F}$ ，还可生产 ${}^{64}\mathrm{Cu}$ 、 ${}^{124}\mathrm{I}$ 、 ${}^{99}\mathrm{Tc}^{\mathrm{m}}$ 等放射性核素，以
+
+支撑单一医院核素就地生产以及即时药物配送中心建设，为多个医院提供PET、SPECT同位素药物。
+
+为提高引出流强、提升生产效率，CYCIAE-14A采用了基于外部负氢离子源、螺旋偏转板的轴向注入系统，设计束流强度高于 $400\mu \mathrm{A}$ 。同时为了提高聚焦能力，CYCIAE-14A还引入了径向磁场一阶梯度，主磁铁采用四扇叶深谷区结构，磁极为直边扇形变气隙结构，加速器整机如图4所示。注入系统包括离子源、 $xy$ 导向磁铁、螺线管透镜、螺旋偏转板等元件，长度控制在 $1.2\mathrm{m}$ 以内，以保证整机的结构紧凑。该加速器基本参数如表1所列。
+
+原子能院对CYCIAE-14A开展了工程化、标准化的研究，包括将离子源和注入线由安装于加速器上方改为下方，尽量缩短注入线，便于实现自屏蔽结构，以降低对安装厂房的要求；主励磁线圈由数十路水电接头改为两路，提高可靠性；所有电源采用工程化设计，减小体积，实现结构紧凑、使用便捷、快速响应的技术特点；主真空统一采用冷泵，保证真空室的洁净度与真空度；所有线缆布置规范化、工程化；水路管道标准化、接头统一；生产靶采用大体积、高效率结构，具有国产化。通过上述改进，CYCIAE-14型加速器已达到商品机标准，并在上述工程化、标准化技术研究与实践的基础上，制定、颁布了国标《10～20MeV范围
+
+![](images/c638367d24a5f29362cc13e1e0479e0b0b13c87c6f737de24b4dffac08526970.jpg)  
+图4 CYCIAE-14A商品机  
+Fig.4 Type CYCIAE-14A commercial cyclotron
+
+表 1 CYCIAE-14A 的主要参数  
+Table 1 Main parameters of CYCIAE-14A   
+
+<table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>磁极半径,m</td><td>0.5</td><td>离子源,mA</td><td>5</td></tr><tr><td>外部磁轭半径,m</td><td>0.88</td><td>加速/引出粒子</td><td>H-/H+</td></tr><tr><td>磁场强度,kGs</td><td>2.0~18.5</td><td>引出能量,MeV</td><td>14~14.6</td></tr><tr><td>高频频率,MHz</td><td>73.02</td><td>引出流强,μA</td><td>400</td></tr></table>
+
+内固定能量强流质子回旋加速器》(GB/T34127—2017)，助推我国核医学“一县一科”的普及发展。
+
+# 2）内部离子源回旋加速器研发
+
+20 MeV 以内的质子回旋加速器经过 30 多年的逐步发展, 多采用紧凑型回旋加速器技术和内部离子源结构, 束流能量以 $10 \sim 18 \mathrm{MeV}$ 最为集中, 束流流强小于 $200 \mu \mathrm{A}$ 。内源回旋加速器的优势在于其结构紧凑, 可加装自屏蔽系统, 有利于在医院和科研院所中的安装。由于采用电源、水冷等设备较少, 自动化控制程度高, 便于非加速器专业人员操作。
+
+原子能院内部离子源回旋加速器设计引出束流能量为 $16 \mathrm{MeV}$ 、流强为 $60 \mu \mathrm{A}$ , 可生产 ${ }^{18} \mathrm{~F} 、{}^{11} \mathrm{C} 、{}^{15} \mathrm{O} 、{}^{13} \mathrm{~N} 、{}^{124} \mathrm{I} 、{}^{64} \mathrm{Cu}$ 等主要核素, 满足放药配送中心和医院自制放药的需求。该加速器采用冷阴极潘宁离子源和剥离引出的方式实现质子引出: 负氢粒子自内部离子源产生后, 通过中心区的电极结构获得轴向聚焦, 经由 $40 \mathrm{kV} 、 38.44 \mathrm{MHz}$ 的高频腔加速至设计能量后通过碳膜剥离引出质子。
+
+16MeV内部离子源回旋加速器(CYCIAE-16)相
+
+比于外部离子源轴向注入型回旋加速器做了如下改进：（1）控制磁铁谷区开孔大小，最大程度提高加速器真空度，以减小真空剥离损失，同时更小的磁铁张角也利于提高磁场调变度，实现更强的轴向聚焦；（2）通过中心区连接的1/4波长腔体可调频率范围覆盖腔体热平衡过程的本征频率，同时考虑了调整离子源与Dee板头部间距时的频率变化；（3）中心区电极结构和束流动力学设计反复迭代，根据磁场测量及实际调束实验结果微调中心区设计；（4）为提高核素生产效率，使引出束流形状接近于圆形，通过调节剥离点的角向位置以控制轨迹经过的磁极边缘场区域和引出点位置，保证束流的双向引出(图5)。
+
+![](images/5566dfdab21eab1d1a9726e9d6cb9ab29c2199c0c74e41b3588cfc7c5ce36e57.jpg)  
+图5 CYCIAE-16中心平面磁场分布、平衡轨道、双向引出轨迹  
+Fig. 5 CYCIAE-16 magnetic field distribution in median plane, equilibrium orbit and dual extraction trajectories
+
+经调试和稳定性测试，CYCIAE-16引出能量、流强已达设计指标，为后续定型和商业化推广奠定了技术基础。该加速器整机如图6所示。
+
+# 2.2 100MeV强流回旋加速器
+
+# 1）设施简介
+
+为满足北京放射性核束装置(BRIF)强流质子源的需求，原子能院自主研制了紧凑型 $100\mathrm{MeV}$ 强流负氢回旋加速器[28]，如图7所示。该装置不仅是国际上首台达到此能量等级的紧凑型回旋加速器，也是国际上首批实现mA级质子束的负氢等时性回旋加速器之一。其研发与稳定运行为我国放射性离子束产生[29]、核素制备[30]、高功率中子源、靶材料研究等前沿领域提供了强有力的支撑。
+
+CYCIAE-100采用四扇叶磁极结构，配备两组独立的高频谐振腔，束流能量范围连续可调，覆
+
+![](images/550e7ba8f10110836b0ac54b197e4c3675a832a36ece840bfd21057ebf556f72.jpg)  
+图6 CYCIAE-16回旋加速器
+
+![](images/34a4a880c49b3170dae43c308a058f7452f95906124733fe7912b93b5bb133c6.jpg)  
+Fig.6 CYCIAE-16 cyclotron   
+图7 $100\mathrm{MeV}$ 紧凑型回旋加速器  
+Fig. 7 $100\mathrm{MeV}$ compact cyclotron
+
+盖 $70\sim 100\mathrm{MeV}$ ，最大束流流强可达 $520~\mu \mathrm{A}$ 。整台加速器磁体总重 $435\mathrm{t}$ ，磁极半径约 $2\mathrm{m}$ ，磁气隙间隙逐渐收窄以实现二阶径向梯度磁场，增强轴向聚焦，最终实现 $100\mathrm{MeV}$ 质子等时加速与强聚焦。表2列出了其主要技术参数。
+
+表 2 CYCIAE-100 的主要参数  
+Table 2 Main parameters of CYCIAE-100   
+
+<table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>注入能量,keV</td><td>40</td><td>峰区角度,(°)</td><td>47</td></tr><tr><td>离子源流强,mA</td><td>&gt;5</td><td>峰区磁场,T</td><td>1.35</td></tr><tr><td>Dee个数</td><td>2</td><td>谷区磁场,T</td><td>0.15</td></tr><tr><td>Dee电压,kV</td><td>60~120</td><td>磁轭外半径,mm</td><td>3080</td></tr><tr><td>谐波数</td><td>4</td><td>磁气隙,mm</td><td>50~60</td></tr><tr><td>频率,MHz</td><td>44.37</td><td>磁铁重量,t</td><td>435</td></tr></table>
+
+# 2）强流空间电荷制约与评估
+
+为进一步提高紧凑型回旋加速器的流强，原子能院研究团队针对空间电荷效应进行了系统性的理论与数值研究。基于前文提到的高性能并行计算程序OPAL-CYCL，在CYCIAE-100中实现了基于多束团Start-to-Stop模型的数值模拟。模拟
+
+结果表明，在 $0 \sim 1 \mathrm{~mA}$ 流强范围内，束流在纵向与径向有较大的相空间稳定区，中心区匹配良好，空间电荷效应对束斑尺寸的影响可控。图8展示了不同流强下束流轴向、径向的分布，可以看到轴向束流尺寸在整个加速过程中（从中心区到引出区）几乎保持不变，束流尺寸均小于 $15 \mathrm{~mm}^{[31]}$ 。
+
+此外，在 $5\mathrm{mA}$ 条件下的模拟结果表明，非线性空间电荷导致的横向振荡超出可接受范围，因此 $1\sim 2\mathrm{mA}$ 是为较合理的运行上限。同时，为保证加速过程中的束流品质，提出合理的公差要求，研究团队开展了一系列非理想场模拟评估。结果表明，在束团偏离中心 $5\mathrm{mm}$ 条件下，8Gs一次谐波场即可有效校正非对中振荡[32]，保证束流品质。
+
+# 3）加速器工程建设
+
+CYCIAE-100的主磁铁采用深谷直边扇结构，并结合椭圆形磁极面设计，平衡了轴向聚焦与径向聚焦的关系。通过9轮真空环境下的磁场测量与垫补，最终将引出半径处轴向振荡频率提高至 $0.7^{[33]}$ ，有效保证了强流束的高效率引出。同时，为了保证加速过程的等时性，创新性应用基于奇偶三角形形状函数的等时场垫补算法[34]，大幅降低加速过程的积分滑相，磁场等时偏差控制在 $\pm 5\times 10^{-4}$ 以内，提高了中心区的相位接受度。为支撑主磁铁磁气隙的高精度调控，磁铁结构制造与安装采用激光测距与全栈仪定位，最终安装精度控制在 $0.1\mathrm{mm}$ 以内。安装后的主磁体及其余设备如图9所示。
+
+CYCIAE-100的高频系统采用两套独立的 $100\mathrm{kW}$ 发射机驱动[35], 低电平控制部分共用一个参考时钟, 实现高频相位自动同步[36]。高频整机系统支持闭环相位调控、自动谐振频率搜索、反射功率保护等功能, 保证在高束流负载下保持稳定运行。低流强时系统功率调制约为 $\pm 1\mathrm{kW}$ , 流强达到 $0.5\mathrm{mA}$ 以上后调制范围可扩大至 $30\mathrm{kW}$ 。
+
+为配合强流束注入，对中心区结构进行了局部水冷与散热结构改进，并优化了螺旋偏转板支撑柱以提高热导率。注入系统设计了两条注入线，分别适用于连续束与脉冲束注入。注入匹配计算采用TRANSOPTR程序，保证中心区接受相椭圆与注入线出口相椭圆的匹配[37]
+
+# 4) mA 量级束流调试
+
+CYCIAE-100于2014年首次实现 $100\mathrm{MeV}$ 质
+
+![](images/b4ad61e67c4739a94950f590155a96fe1deac7def922d926e7f83ade46894e14.jpg)
+
+![](images/4953fc8b45173fc984272f65d047aedc7ecbe90a7bdafcd662e4d9d441d5933a.jpg)  
+图8 不同流强下引出束流的轴向和径向分布
+
+![](images/c32ea25da3108dcc00e3b98cfc51e5bb279934a3aa43e6b56d00a77323f966a4.jpg)  
+Fig. 8 Axial and radial distributions of extracted beam under different beam currents   
+图9 安装后的主磁体、主线圈、真空室、液压举升设备  
+Fig. 9 Main magnet, main coil, vacuum chamber, and hydraulic elevating equipment after installation
+
+子束引出，并于2018年将束流强度稳定提升至 $520\mu \mathrm{A}^{[8]}$ 。此后，通过提高水冷能力、改进高频负载、优化离子源结构等措施，实现了 $1.1\mathrm{mA}$ 束流在内靶上的稳定运行[38]。当前，系统正准备mA级束流的外靶运行，与之相关的高功率束流收集器以及与改进后的中心区结构均已完成安装。
+
+mA 量级束流引出对应的靶上功率将达到百 kW, 高功率的束流收集器需要优化靶面与束流之间的夹角, 增加束流接收面积以降低单位面积的能量沉积。100 kW 的高功率束流收集器(图 10)采用 V 形扁平靶结构, 取代了常用的锥形结构[39]。V 形结构由两块厚铜板焊接而成, 内部加工有冷却水通道。如图 10 所示, 束流收集器可移动, 由于这种移动式设计, 收集器所在束线的束流也可用于下游的白光中子源。目前, 该高功率束流收集器已完成制造和测试, 各项性能均达到设计要求。
+
+针对局部过热、暗电流大等问题，研制了新中心区部件，研究优化了螺旋偏转板高压与接地之间的绝缘、导热结构。新中心区设计了水冷结构，避免了过热，偏转板、中心电极可以接受更高的束流强度。特别是，中心区的下法兰配备了水
+
+![](images/bee29599099ededae9fa0af418ff109e7728f8d0719b519b360fe20fcbe77f5d.jpg)  
+图10 $100\mathrm{kW}$ 高功率束流收集器  
+Fig. 10 $100\mathrm{kW}$ high power beam dump
+
+冷结构，可以间接冷却高电压的螺旋偏转板。同时增大了连接支撑柱横截面积，提高了导热量。另一项显著的改进是偏转板的支撑柱均采用金属覆盖陶瓷的新结构，有效截断了暗电流。新的中心区设计和加工已经完成，其结构如图11所示。该装置于2024年10月初在CYCIAE-100内安装并投入运行。
+
+上述一系列物理设计与工程优化，将使CY-CIAE-100不仅能更好地为BRIF项目的核心驱动器助力核物理研究，也为我国高功率紧凑型回旋加速器的发展积累了宝贵的技术。
+
+# 2.3 50 MeV 回旋加速器及中能质子辐照设施
+
+# 1）设施简介
+
+50MeV回旋加速器(CYCIAE-50)及中能质子辐照设施是为中国科学院空间科学研究中心研制的一套质子辐照装置[40],主要用于开展光电器件位移损伤及大规模集成电路质子单粒子效应的地面模拟试验,为科学卫星载荷及国产光电器件的设计研制提供技术支撑。CYCIAE-50是整套系统
+
+![](images/92ca89a768b21d1c2cd823ab07625442e2c7ba9692641e9f856efc82a01a2641.jpg)  
+图11 新设计的中心区结构  
+Fig. 11 Newly designed structure of central region
+
+的核心，采用紧凑型直边扇结构，加速 $\mathrm{H}^{-}$ 离子束并通过剥离膜引出 $50\mathrm{MeV},10\mu \mathrm{A}$ 质子束流。加速器直径约 $3.2\mathrm{m}$ 、高 $3.5\mathrm{m}$ 、总重约 $80\mathrm{t}$ ，主要参数如表3所列[40-41]。
+
+表 3 CYCIAE-50 的主要参数  
+Table 3 Main parameters of CYCIAE-50   
+
+<table><tr><td>指标</td><td>参数</td><td>指标</td><td>参数</td></tr><tr><td>束流能量</td><td>30~50 MeV</td><td>离子源流强</td><td>5 mA</td></tr><tr><td>流强</td><td>1 nA~10 μA</td><td>粒子回旋频率</td><td>约16 MHz</td></tr><tr><td>加速粒子</td><td>H-</td><td>高频频率</td><td>约65.4 MHz</td></tr><tr><td>磁场强度</td><td>最大1.6T</td><td>加速电压</td><td>约50 kV</td></tr><tr><td>加速器尺寸</td><td>φ3.5 m×2.5 m</td><td>总功率</td><td>约200 kW</td></tr><tr><td>离子源能量</td><td>30 keV</td><td></td><td></td></tr></table>
+
+CYCIAE-50同样基于宽径向范围调变梯度设计，主磁铁采用四磁极、深谷区结构，四次谐波加速，加速器整机如图12所示。磁极直径 $2.0\mathrm{m}$ ，磁回轭直径 $3.2\mathrm{m}$ 。单个磁极张角最大 $50^{\circ}$ ，磁气隙高度 $40\sim 32\mathrm{mm}$ 。最大磁场约 $1.6\mathrm{T}$ 。加速器采用侧边镶条结构实现主磁场垫补，主磁铁部件加工精度(轮廓度)好于 $0.05\mathrm{mm}$
+
+CYCIAE-50采用剥离膜引出[42]，并通过可沿径向前后移动的剥离膜实现了可调的引出束流能量。剥离膜采用厚度 $120\sim 150~\mu \mathrm{g} / \mathrm{cm}^2$ 的碳膜，剥离靶最小可达半径 $0.7\mathrm{m}$ ，剥离膜旋转角可调范
+
+![](images/34c4602c500921a9c145f8c3769dff40e02a4682c4346582eaa794fd12f1f155.jpg)  
+图12 CYCIAE-50及束流线  
+Fig. 12 CYCIAE-50 and beam line
+
+围 $\pm 3^{\circ}$ ，实验测试引出质子束流的剥离效率达到 $99\%$ 以上。
+
+加速器配套的引出束线长 $12\mathrm{m}$ ，束流管道直径 $78\mathrm{mm}$ ，由组合磁铁、降能器、3个准直器、2台 $45^{\circ}$ 偏转磁铁、2套导向磁铁、4台四级磁铁组成，通过降能器将引出束流能量区间进一步由 $30\sim 50\mathrm{MeV}$ 扩大到 $10\sim 50\mathrm{MeV}^{[43]}$ 。在组合磁铁和两台偏转磁铁出口后设有诊断盒以查看束流状态。束流经引出束线调整能量、减小能散后根据需要引入到两条实验束线进行辐照实验。
+
+# 2）安装调试与初步应用
+
+CYCIAE-50于2022年7月成功出束，在直径 $15\mathrm{cm}$ 的荧光靶上获得了 $2\mathrm{nA} / \mathrm{cm}^2$ 的均匀化辐照的质子束流，为后续全面试运行奠定了基础，如图13所示。目前，中能质子辐照平台的两条束线已经在进行以空间效应模拟为目的的多项辐照实验[44]。
+
+![](images/b78f777d7ef23c33aed4a41891a51a7f0dc2c21568464059b0a4d2e8ff52e737.jpg)  
+图13 荧光靶实测的质子辐照均匀化束斑  
+Fig. 13 Proton irradiation homogenization beam spot measured by fluorescent target
+
+# 2.4 14MeV/1mA量级回旋加速器
+
+# 1）设施简介
+
+14MeV/1mA回旋加速器(CYCIAE-14B)为一台紧凑型强流回旋加速器，设计流强 $1\mathrm{mA}$ ，可适应硼中子俘获治疗(BNCT)与其他辐照实验的要求。加速器主磁铁采用直边磁极、变气隙、深谷区设计，磁极间气隙高 $26\sim 23\mathrm{mm}$ ，谷区深约 $313\mathrm{mm}$ ，可为束流提供足够的轴向聚焦以约束束流，并避免有害共振。CYCIAE-14B的基本参数列于表4，加速粒子为 $\mathbf{H}^{-}$ ，通过剥离膜引出质子束流。
+
+CYCIAE-14B在用于PET核素生产的回旋加速器(CYCIAE-14A)基础上，针对mA量级束流注入、加速、引出的关键问题进行了9个方面的具体技术改进。包括：扩大中心区镶条内孔尺寸到 $\phi = 40 \mathrm{~mm}$ ；重新测量垫补中心区磁场，为中心区设
+
+表 4 CYCIAE-14B 的主要参数  
+Table 4 Main parameters of CYCIAE-14B   
+
+<table><tr><td>指标</td><td>参数</td><td>指标</td><td>参数</td></tr><tr><td>束流能量, MeV</td><td>14.6</td><td>安匝数, AT</td><td>47 490</td></tr><tr><td>流强, mA</td><td>&gt;1</td><td>注入能量, keV</td><td>40</td></tr><tr><td>加速/引出粒子</td><td>H-/H+</td><td>磁极张角, (°)</td><td>约52</td></tr><tr><td>最大磁场, T</td><td>约1.8</td><td>高頻率, MHz</td><td>~73</td></tr><tr><td>磁极直径, cm</td><td>50</td><td>谐波数</td><td>4</td></tr></table>
+
+计提供准确输入；根据新的磁场分布和更大的空间，设计新的、有冷却功能和更大接收度的中心区，提高了注入效率；高频系统改为两个完全独立的高频回路，双高频发射机馈入；1/4波长谐振腔改为1/2波长谐振腔；将模数混合的低电平控制系统改为全数字LLRF控制系统[45]，增强了高束流负载的调节能力；提高离子源引出能量到 $38\mathrm{kV}$ 并设计新型聚束器[14]；采用无油真空系统等。
+
+基于上述技术改进，成功降低了中心区和引出区的束流损失(图14)，提高了CYCIAE-14B稳定引出mA量级束流的能力，强流束注入、引出效率处于国际前列，外靶束流强度达到 $1.055\mathrm{mA}$
+
+# 2) 安装调试与初步应用
+
+CYCIAE-14B于2020年进入总装阶段，2021年外靶出束，2022年1月成功达到 $1\mathrm{mA}$ 技术指标，并于2022年11月全功率打靶成功，各项性能指标稳定。
+
+基于 $14\mathrm{MeV} / 1\mathrm{mA}$ 回旋加速器，原子能院强流回旋加速器团队联合原子能院反应堆工程技术研究所高功率靶研发团队完成了BNCT中子源的研制，并搭建了如图15所示的BNCT原理样机。质子束经输运线进入靶站，轰击铍靶并通过 $^9\mathrm{Be}(\mathrm{p},\mathrm{n})$ 反应产生快中子，经慢化后得到超热中子束。实测超热中子通量密度为 $1.7\times 10^{9}\mathrm{cm}^{-2}\cdot \mathrm{s}^{-1}$ ，达到了IAEA建议值 $10^{9}\mathrm{cm}^{-2}\cdot \mathrm{s}^{-1}$ 。原子能院已经和北京大学肿瘤医院、苏州大学第二附属医院等机构合作开展了药械联合试验和小鼠试验。
+
+# 3 21世纪等时性加速器前沿技术研究与应用场景拓展
+
+基于自主开拓的强聚焦理论，结合低温和高温超导等前沿技术，原子能院正在引领21世纪超紧凑、超轻型和高功率等时性加速器的发展新方向。
+
+![](images/c32fb0401a77b49a73de81b8c79d0edddaf7178b9603df8fe25b87d1815bbd48.jpg)
+
+![](images/949ac2082b6ba09bae8da0c0b091f59da2e09d4938d0687643431d16099fbbb9.jpg)  
+图14 CYCIAE-14B中心区(a)和引出区(b)的束流损失
+
+![](images/bb1f53d16e1b5acbd54ab53c483400c7ba2ece61dab2a3f2a03ec51d58e5c56c.jpg)  
+Fig. 14 Beam loss in center (a) and extraction (b) regions of CYCIAE-14B   
+图15 基于 $14\mathrm{MeV} / 1\mathrm{mA}$ 加速器的BNCT原理样机  
+Fig. 15 BNCT prototype based on $14\mathrm{MeV} / 1$ mA cyclotron
+
+# 3.1 230MeV超导回旋加速器及其精准放疗和辐射物理应用场景
+
+# 1）精准放疗和辐射物理应用需求
+
+$230 \sim 250 \mathrm{MeV}$ 能段的中高能质子在癌症的质子治疗、空间辐射物理研究、航天器空间辐射效应地面模拟及抗辐射加固等领域有着重要应用。
+
+# （1）质子治疗领域
+
+恶性肿瘤在全球有着很高的发病率与死亡率，我国人口基数大，当前新发癌症人数和癌症死亡人数均位居全球第一。2016—2022年期间，中国新发癌症患者数量从406.2万人增长到481.0万人。预计到2025年中国新发癌症患者数量将超过到510万人[46]
+
+癌症放射治疗主要利用X射线、 $\gamma$ 射线、电子、质子束、重离子束以及中子束对病变组织进
+
+行治疗，后三者也称为粒子放疗。相比于使用电子直线加速器的常规放疗，质子治疗独特的基于布拉格峰效应的深度剂量分布可以精准作用于肿瘤，对周围组织的损伤较小，可以实现精确放疗；重离子在Bragg峰快速跌落即将结束时，会有一个较长的低剂量尾区，质子却没有该现象。因此后者对于敏感区域肿瘤和未发育完全人群如青少年肿瘤的治疗更有优势。同时，质子治疗加速器的规模也比重离子加速器规模小、造价低。凭借投资成本低、患者治疗费用较少、治疗过程简单高效等优势，质子治疗已成为粒子放射治疗的主流手段。根据PTCOG统计，截至2024年，全球接受粒子治疗的患者总数达45.7万例，其中，有38.99万例患者接受的是质子治疗，占比达到 $85.3\%$
+
+# (2) 辐射物理领域
+
+近地轨道的空间辐射环境中，数MeV至 $400\mathrm{MeV}$ 的质子占绝大部分；银河宇宙射线(GCR)及太阳粒子事件(SPE)中，质子占比也超过了 $85\%$ ，通量主要集中在百MeV能区。因此，不论是重大航天工程还是日益重要的商业航天，对于空间辐射环境的地面模拟与抗辐射加固研究，都需要中高能质子束。
+
+然而，这样的中高能质子加速器，以及成套质子治疗装备市场主要被欧、美及日本等国垄断，主要有比利时IBA（Ion Beam Applications S.A.），美国Varian（Varian Medical Systems, Inc.），日本日立（Hitachi, Ltd.）、住友（Sumitomo Corporation）等。
+
+# 2）CYCIAE-230及治疗端研制及初步应用
+
+为实现高端放射医疗装备的国产化发展，原子能院于2017年启动了 $230\mathrm{MeV}$ 超导质子回旋加速器（CYCIAE-230，图16）及质子治疗后端（图17）研发。
+
+加速器采用四叶片螺旋扇、NbTi超导磁体励磁、内部潘宁离子源、共振进动静电偏转引出的总体设计[47]，首次完成了从离子源、中心区到引出区全过程的极端复杂结构六维相空间匹配，实现了回旋加速数字仿真和性能定量预测[48]；突破了超导厚线圈绕制与固定、液氦零挥发低温系统、 $45^{\circ}$ 倒角非对称垫补[49]、双功率源推拉四谐振腔[50]、超紧凑强电磁耦合环境束流诊断等一系列关键技术，于2020年9月质子加速到 $231\mathrm{MeV}$ ，达到设计指标[49]；2023年，在取得二阶段调试许可
+
+![](images/c21793b2b23afca9fe12ffb093feb75fe68a3aeb2f799afddc8da88c1f58bd14.jpg)  
+图16 $230\mathrm{MeV}$ 超导质子回旋加速器  
+Fig. 16 CYCIAE-230 superconducting proton cyclotron
+
+![](images/89fe8ef3e7772f1510870f9f504b54cb7e2bc0eddc1c5c290d74c9bc0c9eb685.jpg)
+
+![](images/b194034d08f1ce47b1a48ebe14d333094a86de733cc7b63c9af899e22f11cd32.jpg)
+
+![](images/78c79210a453842cab4480bd6ac8c9825bf37075d2a590645a82b8fc99c75337.jpg)  
+图17 束流输运线(a)、旋转机架(b)和质子治疗室(含治疗头)(c)  
+Fig. 17 Beam transportation line (a), gantry (b) and treatment room (including nozzle system) (c)
+
+后，完成了加速器与治疗后端整体联合调试与整机测试，引出流强超过 $460\mathrm{nA}$ （具备 $1\mu \mathrm{A}$ 束流引出能力），供束能量范围 $70\sim 242\mathrm{MeV}$ ，加速-引出效率 $74\%^{[51]}$ ，治疗能量层切换时间 $\leqslant 50~\mathrm{ms}^{[52]}$ ，治疗头点扫描单点精度好于 $0.55\mathrm{mm}$ ，数百个点平均精度好于 $0.15\mathrm{mm}^{[53]}$ 。整体水平进入了国际质子治疗装备第一梯队。
+
+目前，质子治疗装备技术已经完成成果转化并成立了产业化公司，生产基地已启动建设。同时，针对日常QA及空间辐射物理辐照需求，原子能院改造了现有的质子治疗固定束线，研制了质子辐照终端，包含固定束终端的双散射系统、固定式和可移动式样品支架，束斑均匀度好于 $85\%$ 。未来还将在固定束终端设置二次降能器、旋转扫描扩束装置，可提供能量范围 $20\sim 242\mathrm{MeV}$ 、均匀度更高，照射野尺寸更大的质子束应用终端。目前，已有包括清华大学、中国航天科工集团第二研究院、商业航天公司在内的十余家单位，在该终端上开展了多型空间应用的新型电子器件、材
+
+料的辐射物理实验。
+
+# 3.2 超紧凑多用途超导回旋加速器
+
+# 1）应用背景
+
+$\alpha$ 粒子和强流质子束在 $\alpha$ 发射体新型放射性核素研发、可移动式现场中子成像、创新固体核素生产、二代高温超导材料工业辐照、癌症治疗等领域有强烈需求，使得超紧凑型多用途超导回旋加速器成为谋划综合性研究平台布局、开展下一代工业智造、拓展医工结合应用等国家重大需求的战略结合点。可提供包括高能 $\alpha$ 粒子在内的回旋加速器在世界范围内存量相对较少，这些加速器成本高、体积大，以科研加速器为主，如俄罗斯DubnaU-200/U-400回旋加速器[54]、意大利INFN-LNSK800超导回旋加速器[55]、南非iThembaK200分离扇回旋加速器[56]等。20世纪六七十年代，个别商业回旋加速器厂商曾针对当时的需求，推出少量常温重离子加速器机型，可加速 $\mathrm{H^{+}}$ 或 $\mathrm{H^{-}}$ 以及 $\alpha$ 粒子。
+
+目前我国紧凑型多用途回旋加速器装置短缺，已成为制约国内相关领域应用研究开展的关键瓶颈。原子能院针对国家重大战略需求，提出超紧凑型超导回旋加速器概念。该概念装置具有结构紧凑、成本低、功耗低的优点，能为上述应用需求提供灵活便利的科学仪器解决方案。该加速器采用低温超导技术，结合外部双离子源注入、双向引出的方式在超紧凑结构下实现 $\alpha$ 粒子与 $\mathrm{H}_2^+$ 粒子加速引出，进而实现加速器设备的“一机五用”。该加速器整机结构示意图示于图18，其主要参数列于表5。
+
+# 2）关键技术挑战及研究进展
+
+采用超导磁体设计虽然能大幅降低加速器体
+
+![](images/0eee0d47a2f45b762a7d15e4586402bc677d2a7ccbed75e33ce1c6d1bea03c5d.jpg)  
+图18 超紧凑多用途超导回旋加速器整机示意图  
+Fig. 18 Schematic diagram of ultra-compact multi-purpose superconducting cyclotron
+
+表 5 超紧凑多用途超导回旋加速器的主要参数  
+Table 5 Main parameters of ultra-compact multi-purpose superconducting cyclotron   
+
+<table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>磁铁扇叶数</td><td>4</td><td>高频频率, MHz</td><td>65.15、65.63</td></tr><tr><td>磁极半径, cm</td><td>45</td><td>加速电压, kV</td><td>50</td></tr><tr><td>镶条张角, (°)</td><td>42.3</td><td>磁铁重量, t</td><td>12.6</td></tr><tr><td>中心磁场, T</td><td>2.138</td><td></td><td></td></tr></table>
+
+积，但是对加速器物理和工程设计提出了更为苛刻的要求。重点需要解决强流外部离子源注入、超导紧凑型中心区设计、强场超紧凑剥离引出和偏转引出、高效率加速腔体和电场稳定控制等关键技术。在强流外部离子源方面，研究团队完成了多峰约束场、电磁线圈混合磁铁结构的离子源磁体装置的设计，已开始加工；在紧凑型中心区的设计方面，通过合理规划越隙相位、调整电极结构等技术手段，提高大相宽条件下的横向接受度，加速相宽为 $50^{\circ}$ ，满足强流束的高效率注入要求；在引出区紧凑结构中，完成了引出剥离靶、径向靶、静电偏转板、聚焦磁通道等多组引出元件的布局，多粒子跟踪结果表明 $\mathrm{H}_2^+$ 及 $\alpha$ 粒子的引出效率分别达到 $99\%$ 、 $65\%$ 以上。目前该加速器已完成整机物理设计，主磁铁、高频腔与高频机、低温超导系统等主要部件全面进入工程加工阶段。
+
+# 3.3 100MeV超轻型质子回旋加速器
+
+# 1）应用背景
+
+随着高温超导磁工艺技术成熟度的提高，发展、研制超轻型高温超导无铁芯回旋加速器也被中、外回旋加速器的研究机构提上日程。美国MIT及日本RCNP等发达国家的先进加速器实验室都先后开展了相关的整机设计与样机研发[57-58]。无铁芯回旋加速器使用高温超导线圈替代电工纯铁，可以大幅降低中能质子回旋加速器的重量，低至10t量级。在国内，原子能院自2021年前后，也开始了100MeV超轻型无铁芯回旋加速器(CYCIAE-100B)关键技术研究，可开展新药研发、空天科学等多个重大领域的应用。
+
+# 2）关键技术挑战及研究进展
+
+# （1）整机设计及超导磁体
+
+CYCIAE-100B二代超导回旋加速器的引出能量为 $100\mathrm{MeV}$ 。该超导回旋加速器使用一体式恒温器结构布局，固定安装高温超导线圈组，整机示
+
+意图如图19所示。室温高频腔、内部离子源、引出偏转、磁通道等其他加速器部件置于上下恒温室之间。高温超导磁体由主线圈、磁极线圈、垫补线圈和屏蔽线圈组成，主磁体采用峰谷交错的垫补线圈形式，完成了无铁芯情况下的等时性磁场的局部调整，以实现 $100\mathrm{MeV}$ 以下能量范围质子的等时性加速。单粒子跟踪结果表明，加速区微分滑相小于 $0.1\%$ ，积分滑相好于 $\pm 30^{\circ}$ ，粒子在引出区能量约 $100\mathrm{MeV}$ 。进一步使用少量磁性垫补材料，可实现更精细的等时性垫补，提高引出区的能量增益。超轻型高温超导磁铁局部场强高达 $12\mathrm{T}$ ，超导线圈之间的电磁力超过 $1000\mathrm{T}$ ，所需高温超导线长度超过 $100\mathrm{km}$ 。加工中的垫补线圈、磁极线圈如图20所示。
+
+![](images/a615b612afc8125c71836209879030055c5a6b457149918c8d682122f54859d2.jpg)  
+图19 CYCIAE-100B整机示意图  
+Fig. 19 Schematic diagram of CYCIAE-100B
+
+![](images/5a8968d7e69977badb46f730ee79f0824ff03b0cda2be8f847e9d3fbae0c7670.jpg)
+
+![](images/74d420547bd8929092fce4cac488295191ae38217c66b8cc8fcd6cf46e1953c4.jpg)  
+图20 绕制加工中的垫补线圈与磁极线圈  
+Fig. 20 Shimming and pole coils in winding process
+
+# (2）一体化高频系统
+
+CYCIAE-100B离子回转频率相对较低、无谷区。该加速器的高频腔体采用对称布置径向短内杆的布局方案，使用二次谐波加速，为双间隙、同轴型TEM模谐振器。该高频系统使用约 $15\mathrm{kW}$ 的功率，能够为越隙质子提供平均 $180\mathrm{kV}$ 的圈能量增益。就近布置了全固态高频功率源和全数字低电平控制器，环路延迟低同时可提高信噪比。初步研制的高频系统，达到了一体化和轻量化设计目标，如图21所示。
+
+该型加速器的高频腔采用一端固定，单侧滑动的调谐及支撑结构设计，以缩小轴向/径向以及角向所产生的受力形变。高频腔结构公差的分析表明，目前形变已达到加速器束流动力学的要求。针对该腔体滑动短路器的设计需求，采用特殊高频导电材料研制了真空下滚动平移的先进高功率短路器。相关验证实验研究表明，其单触点最高可承载300A的极限电流。
+
+此外，为提高整机集成度，研制了高真空、全固态 $20\mathrm{kW}$ 高频功率源，该轻量化固态功率源由24组模块集成，采用了一体化供电与冷却，对固态电子学和环形器组件开展了真空适应性改进，确保了二者在大气/真空环境下高频增益、相移等参数的一致性。固态功率源整机效率达 $57.9\%$ 考虑到CYCIAE-100B无人值守运行的要求，设计了智能化的加速器高频腔频率检测、追踪算法、加速场的建立及稳定数字控制算法，研制了全数字低电平控制器。与高频腔、功率源的低功率联合调试中，幅度稳定度好于 $0.1\%$ ，相位控制精度为 $0.1^{\circ}$ ，具有尺寸小、重量轻、散热易满足的特点，初步具备了实施就地智能化高频控制的能力。
+
+# (3) 高亮度离子源
+
+该加速器使用冷阴极潘宁内部离子源。内部离子源的冷阴极材料使用高纯钽。一对阴极由氧
+
+![](images/aeb2253aaa05f48f2877bea47230b9c484a3e54b3fbfb90e2d5b9bd072c75dac.jpg)  
+图21 一体化高频系统整体布局  
+Fig. 21 Overall layout of integrated high-frequency system
+
+化铝陶瓷护套提供绝缘，通过特制的阴极电流引线穿过阳极桶外侧供电。该样的设计使冷阴极在潘宁放电过程中可控加热，从而间接提高了阴极的电子发射性能。
+
+基于内部离子源试验台架开展了轴向场 $1.6 \mathrm{~T}$ 、直流引出高压 $15 \mathrm{kV}$ 的低场等效实验。对于实验结果，可通过适当数据外推，来评估离子源在加速器中心区磁场 $2.8 \mathrm{T}$ 、引出电压约 $50 \mathrm{kV}$ 工况下的性能。实验中，通气量为 $1 \mathrm{sccm}$ ，放电功率不超过 $20 \mathrm{~W}$ ，离子源引出流强可达 $600 \mu \mathrm{A}$ 。
+
+# (4) 其他子系统
+
+该加速器地面模拟的直径为 $6.4\mathrm{m}$ 的真空室、高温超导磁体的励磁电源、远程控制系统等子系统即将完成加工；冷却系统、气动系统、电气工程系统等配套系统已开始施工。
+
+# 3.4 基于第二代高温超导系统的高平均功率、高能量效率的等时性加速器
+
+# 1）应用背景
+
+MW级高功率质子加速器在医学、材料、空间辐射、基础核物理等诸多领域具有广泛的应用前景，已逐渐成为全球多个研究机构关注与攻关的重点方向。其中，连续波(CW)等时性加速器因其具备高束流功率与优越的能量效率，在实际应用中展现出极强的吸引力。
+
+长期以来，学界普遍认为等时性回旋加速器的能量上限约为1GeV，主要受到加速器轴向聚焦能力不足的限制[59]。因此，提升束流聚焦性能已成为突破束流功率极限的关键技术瓶颈。基于1.1节中的宽径向范围调变磁场径向梯度方法，可以使磁场分布更好地满足等时性和横向聚焦条件。将理论方法应用于固定场交替梯度(FFA)结构中，通过调节F-D-F磁铁聚焦单元的峰值场梯度，并结合传统回旋加速器中的边缘场与螺旋角聚焦，可在工作图中实现对工作路径的灵活控制，从而显著增强聚焦结构在轴向的聚焦能力，进而同步提升等时性加速器的束流强度与最高能量。
+
+# 2）整机设计
+
+基于上述应用背景与理论方法，原子能院提出了基于第二代高温超导系统的高平均功率、高能量效率的等时性加速器(2GeV CW FFAG加速器)[16]。该加速器可提供 $2\mathrm{GeV}$ 的强流质子束，设计束流平均强度达 $3\mathrm{mA}$ 。作为一种兼具高功率
+
+输出与高能量效率的等时性加速器，该方案引入了高温超导技术、高圈能量增益的异形高品质因数 $(Q)$ 高频腔，以支撑其高能量效率的技术特征，为下一代等时性加速器在高能强流方向的发展提供新的思路。该加速器组合示意图如图22所示[60]，包括 $100\mathrm{MeV}$ 预注入器、 $800\mathrm{MeV}$ 注入器、 $2\mathrm{GeV}$ CW FFAG主加速器、主加速腔、F-D-F磁铁以及辅助加速腔。
+
+![](images/2182765aa7c4950bf6be4ace67a1f367be69ce5f5905d917c141efc0b8c9ceb4.jpg)  
+图22 2GeV CW FTAG加速器组合整体布局  
+Fig. 22 Overall layout of 2 GeV CW FFAG complex
+
+100 MeV 回旋加速器作为注入器, 经由 800 MeV 回旋加速器增能后, 束流通过 10 个主腔、5 个辅助腔获得更高的圈能量增益, 加速至 $2 \mathrm{GeV}$ 。辅助腔及非对中注入技术可实现更大的圈分离 (从 $10 \mathrm{~mm}$ 提高至 $30 \mathrm{~mm}$ ), 提高束流引出效率。2 GeV 等时性 FFA 拟采用高温超导磁体、高品质因数 ( $Q \approx 90000$ ) 船型波导腔, 显著提升能量效率至 $30 \%$ 以上。
+
+大规模并行计算是在设计阶段评估加速器性能的重要手段。模拟中采用束流的初始参数为：横向归一化发射度 $2\pi \mathrm{mm}\cdot \mathrm{mrad}$ 、相宽 $3^{\circ}$ 、束流强度 $3\mathrm{mA}$ 。图23为束流径向与纵向的模拟结果，束团加速过程中由于空间电荷效应导致的涡旋效应清晰可见。图23显示，束流的横向半包络在引出前一圈减小至约 $5\mathrm{mm}$ ，使其束斑尺寸适合于引出。大规模并行模拟计算结果表明， $3\mathrm{mA} / 6\mathrm{mA}$ 的束流在整个加速过程中均能保持良好的相空间结构，束斑径向尺寸可控，满足引出要求。 $6\mathrm{mA}$ 的计算条件下尽管空间电荷效应显著，但通过适当优化RF增益、增加高次谐波平顶腔、充分利用邻近束团相互作用等技术手段，仍有希望实现束晕的有效控制与高效率引出。
+
+# 3）关键部件缩比样机研制进展
+
+为进一步掌握高温超导磁体和高 $Q$ 值高频腔
+
+![](images/32734c6ab0962dff93a2e596ac7802d6214875fbac72d7fa5a9e2744c6c4e00e.jpg)
+
+![](images/a80aa7d83b9503ca38c7b226ea956e7430f3996f1d2f0a165fcc14700ccc1b75.jpg)
+
+![](images/fbf9d9356b8b1f59dd0cf700c3cd018dfcf16f3f4d10ae869011eca6ec7eaea4.jpg)
+
+![](images/1862c2a6cd4be45a1d2e899c26ee35b1eabc8ff8c32d6f629eb999bfa6d88da3.jpg)
+
+![](images/952bb150b7f61976fbc25d4509b33c3f80ffd42777ce95f0c96893b60fd340cd.jpg)
+
+![](images/96c0ff2e23110cfbb84c9b871314c40db144e7b64a87b609518f61e88de7e813.jpg)  
+图23 纵向和横向束团形状变化  
+Fig. 23 Longitudinal and transverse beam shape variation
+
+的关键技术，团队研制了基于二代高温超导(2G HTS)带材的缩比例磁铁，如图24所示。该磁体设计采用高阶场梯度匹配方法，磁场有限元计算与理论要求的偏差控制在 $0.2\%$ 以内。设计方案中的聚焦、散焦磁铁分别实现了 $2.66\mathrm{T}$ 与 $2.31\mathrm{T}$ 的磁场强度，螺旋角最大为 $36^{\circ}$ 。目前， $1:4$ 的缩比例变梯度HTS样机已完成降温与励磁测试[61]，是目前国内规模最大的变气隙高温超导磁体，用线量达 $4.2\mathrm{km}$
+
+![](images/6160724128a0cff289bf26f0a0fc34e1655b983ba8e93b32ef8a2facdf045d73.jpg)  
+图24 1:4缩比例变梯度高温超导磁体  
+Fig. 24 1: 4 scaled high-temperature superconducting magnet with variable gradient
+
+在高频系统方面，研究团队采用船型结构波导腔设计[62]，通过ANSYS多物理场耦合仿真优化冷却结构和机械调谐机构，确保在高功率工况下腔体频率稳定在 $\pm 170\mathrm{kHz}$ 范围内。 $1:4$ 缩比例
+
+样机已完成加工与测试，如图25所示。腔体冷测 $Q$ 值已达39800，按比例推算全尺寸腔体 $Q$ 值可超过目前国际上常温型高频腔的最高 $Q$ 值（约为45090）。
+
+![](images/643a64b181a260a575aa24c72b34277d0cfd87a7d38439eb1fa7ebee8151da78.jpg)  
+图25 $1:4$ 高 $Q$ 值船型高频腔体  
+Fig. 25 $1:4$ high $Q$ value boat-shaped RF cavity
+
+# 4 结论
+
+本文系统总结了原子能院2000年以来，紧凑型常温和超导等时性加速器的前沿科技研究进展和可能的创新应用领域。 $10\sim 100\mathrm{MeV}$ 的常温、强聚焦紧凑型回旋加速器，实现了6个能量等级的型谱化发展，流强从 $0.5\mathrm{pA}$ 到 $1\mathrm{mA}$ ，满足核与航天领域重大战略发展以及核医疗创新应用的需求，发展空间大、潜在社会经济效益突出。 $230\mathrm{MeV}\sim 2\mathrm{GeV}$ 的超导等时性加速器，包括等时性回旋加速器和CWFFA加速器，发展迅速。基
+
+于低温和高温超导技术的等时性加速器，已取得阶段性重要成果，已建成我国首台 $230\mathrm{MeV}$ 超导回旋加速器并在10余个空天科技研究单位得到应用，研究成果已转化用于癌症的质子治疗；正在研制和预研的3台等时性加速器，分别代表超轻型、超紧凑和高功率的3个前沿发展方向，在全球等时性加速器及其应用领域有广泛的影响力。
+
+衷心感谢TRIUMF、PSI、INFN-LNS以及国内外回旋加速器领域专家的长期支持；近期与Martin Grossmann、Antonio Caruso、Ken Fong和姚红娟、杨建俊、储诚节、钟俊晴、李明博士的有益讨论和电子邮件沟通；特别感谢G.Dutto、W.Joho、P.Sigg、L.Calabretta、R.Baartman、Y.Bylinskii等专家对100MeV紧凑型强流回旋加速器和2GeV高功率等时性加速器设计和建造所做出的贡献，G.Dutto因回旋加速器国际合作的突出贡献获得中国政府友谊奖。
+
+# 参考文献：
+
+[1] LAWRENCE E O, LIVINGSTON M S. Apparatus for the multiple acceleration of light ions to high speed[J]. Phys Rev, 1932, 40: 19.   
+[2] 张天爵, 樊明武, 安世忠, 等. CIAE 回旋加速器及应用综述[J]. 原子能科学技术, 2020, 54(增刊): 275-292. ZHANG Tianjue, FAN Mingwu, AN Shizhong, et al. Review of cyclotrons and their applications at CIAE[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 275-292(in Chinese).   
+[3] CRADDOCK M K, SYMON K R. Cyclotrons and fixed-field alternating-gradient accelerators[J]. Reviews of Accelerator Science and Technology, 2008, 1(1): 65-97.   
+[4] 谢家麟. 加速器与科技创新[M]. 北京: 清华大学出版社, 2000.  
+[5] CALABRETTA L, MÉOT F. Cyclotrons and FFG accelerators as drivers for ADS[J]. Reviews of Accelerator Science and Technology, 2000, 8: 77-97.   
+[6] ISHI Y. Status report on KURNS FFAG facility[R]. [S.1.]: [s.n.], 2018.   
+[7] ZHANG Tianjue, FU Wei, WANG Chuan. Method for obtaining strong focusing of isochronous accelerator by varying magnetic field gradient in large radial range: U.S., 12295091[P]. 2025-05-06.   
+[8] ZHANG T, LI M, LV Y, et al. 52 kW CW proton beam
+
+production by CYCIAE-100 and general design of high average power circular accelerator[J]. Nucl Instrum Methods Phys Res B, 2020, 468: 60-64.   
+[9] 张天爵, 贾先禄, 宋国芳, 等. 型谱化高流强质子回旋加速器自主研发及创新应用[J]. 科学通报, 2023, 68(16): 2029-2036.  
+ZHANG Tianjue, JIA Xianlu, SONG Guofang, et al. Independent research and development and innovative applications of high-intensity proton cyclotrons toward serialization[J]. Chinese Science Bulletin, 2023, 68(16): 2029-2036(in Chinese).   
+[10] ZHANG T, WANG C, YIN Z, et al. The beam commissioning of SC cyclotron-based proton therapy system with fast energy selection and precise gantry[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 438-445.   
+[11] 张天爵. 等时性加速器的新发展: 轻量化、超紧凑、高功率[C]/中国物理学会、中国核学会粒子加速器分会第十二次全国会员代表大会暨学术交流会. 北京: 中国物理学会, 2024.  
+[12] 张天爵. 超紧凑多用途超导回旋加速器[C]/中国核学会核医学分会 2024 年学术年会. 北京: 中国核学会核医学分会, 2024.  
+[13] ZHANG T, FU W, WANG C, et al. Innovative research and development activities on high energy and high current isochronous proton accelerator[J]. Journal of Instrumentation, 2023, 18(3): P03022.   
+[14] LI P, ZHANG T, JIA X, et al. Development of bunching system for high intensity cyclotron at CIAE[J]. Journal of Nuclear Science and Technology, 2022, 59(11): 1370-1374.   
+[15] ZHANG T, LI Z, CHU C. CYCIAE-100, a 100 MeV H-cyclotron for RIB production[J]. Nucl Instrum Methods Phys Res B, 2007, 261(1/2): 1027-1031.   
+[16] ZHANG Tianjue, AN Shizhong, BIAN Tianjian, et al. A new solution for cost effective, high average power (2 GeV, 6 MW) proton accelerator and its R&D activities[C]/22nd International Conference on Cyclotrons and their Applications (CYC2019). Cape Town: [s. n.], 2019.   
+[17] BAARTMAN R A. Intensity limitations in compact $\mathsf{H}^-$ cyclotrons[C]/Proceedings of 14th International Conference on Cyclotrons and Their Applications (CYCLOTRONS 95). Cape Town: [s. n.], 1995.   
+[18] ADAM S. Calculation of space charge effects in isochronous cyclotrons[J]. IEEE Transactions on Nuclear Science, 2007, 32(5): 2507-2509.   
+[19] KOSCIELNIAK S R, ADAM S R. Simulation of space
+
+charge dominated beam dynamics in an isochronous AVF cyclotron[C]//Proceedings of International Conference on Particle Accelerators. USA: IEEE, 1993: 3639-3641.   
+[20] YANG Jianjun, ZHANG Tianjue, LIN Yuzheng, et al. High performance computation on beam dynamics problems in high intensity compact cyclotrons[C]/Special Issue on the First Chinese Particle Accelerator Conference (2010). [S.1]: [s.n.], 2010.   
+[21] YANG J J, ADELMANN A, HUMBEL M, et al. Beam dynamics in high intensity cyclotrons including neighboring bunch effects: Model, implementation, and application[J]. Physical Review Special Topics: Accelerators and Beams, 2010, 13(6): 064201.   
+[22] ZHANG T, LU Y, ZHONG J, et al. Design, construction, installation, mapping, and shimming for a 416-ton compact cyclotron magnet[J]. IEEE Transactions on Applied Superconductivity, 2016, 26(4): 4101605.   
+[23] 毕远杰. 强流回旋加速器中束流损失和辐射场研究[D]. 北京: 清华大学, 2011.  
+[24] WANG C, ADELMANN A, YIN Z G, et al. Dark current and multipacting capabilities in OPAL: Model benchmarks and applications[J]. Proceedings of ICAP, 2012. doi:10.48550/arXiv.1208.6577.   
+[25] ADELMANN A, YANG J J, CONRAD J M, et al. Beam dynamics simulation for the high intensity DAEδALUS cyclotrons[J]. Nucl Instrum Methods Phys Res A, 2013, 704: 84-91.   
+[26] BAUMGARTEN C, SEIDEL M, ADELMANN A, et al. Production of a 1.3 MW proton beam at PSI[C]//Proceedings of IPAC'10. Kyoto, Japan: [s. n.], 2010.   
+[27] 宋国芳, 张天爵, 贾先禄, 等. 小型医用回旋加速器工程化、标准化技术研究[J]. 原子能科学技术, 2019, 53(9): 1665-1669.  
+SONG Guofang, ZHANG Tianjue, JIA Xianlu, et al. Technology research on engineering and standardization of small medical cyclotron[J]. Atomic Energy Science and Technology, 2019, 53(9): 1665-1669(in Chinese).   
+[28] ZHANG T, YANG J. The beam commissioning of BRIF and future cyclotron development at CIAE[J]. Nucl Instrum Methods Phys Res B, 2016, 376: 434-439.   
+[29] ZHANG T, CUI B, LV Y. BRIF: From the first proton beam to RIB production[J]. Nucl Instrum Methods Phys Res B, 2020, 463: 123-127.   
+[30] ZHANG T, LV Y, WEI S, et al. Isotope production by the high current proton beam of CYCIAE-100[J]. Nucl Instrum Methods Phys Res B, 2020, 463: 119-122.   
+[31] ZHANG Tianjue, YANG Jianjun, YAO Hongjuan.
+
+Physics problem study for A 100 MeV, 500 microamp $\mathrm{H}^-$ beam compact cyclotron[C]//ICAP09. San Francisco: [s.n], 2009.   
+[32] ZHANG T, YAO H, YANG J, et al. The beam dynamics study for the CYCIAE-100 cyclotron[J]. Nucl Instrum Methods Phys Res A, 2012, 676: 90-95.   
+[33] ZHANG T, WANG C, ZHONG J, et al. Investigation for the vertical focusing enhancement of compact cyclotron by asymmetrical shimming bar[J]. Nucl Instrum Methods Phys Res B, 2011, 269(24): 2968-2971.   
+[34] LI M, ZHONG J, CUI T, et al. Application and development of a method to shim the isochronous field in small cyclotrons[J]. IEEE Transactions on Applied Superconductivity, 2016, 26(4): 4101504.   
+[35] YIN Zhiguo, ZHAO Z, WEI S, et al. Design, construction and commissioning of the 100 kW RF amplifier for cyciae-100[C]/The 19th International Conference on Cyclotrons and Their Applications. Lanzhou: [s. n.], 2010.   
+[36] YIN Z, FU X, JI B, et al. Digital control in LLRF system for CYCIAE-100 cyclotron[J]. Nucl Instrum Methods Phys Res A, 2016, 819: 33-36.   
+[37] YAO H, ZHANG T, LU Y, et al. Matching from $\mathrm{H}^-$ multicusp source to central region of a 100 MeV compact cyclotron for high current injection[J]. Review of Scientific Instruments, 2008, 79(2): 02C708.   
+[38] ZHANG T, AN S, LV Y, et al. mA beam acceleration efforts on 100 MeV H $^{-}$ cyclotron at CIAE[J]. Nucl Instrum Methods Phys Res B, 2017, 406: 250-255.   
+[39] LIU Jingyuan, ZHANG Tianjue, SONG Guofang, et al. Beam dump development for high power proton and electron beam[C]/23rd International Conference on Cyclotrons and Their Applications. Beijing: JACoW Publishing, 2022.   
+[40] 张天爵, 吕银龙, 王川, 等. 中国原子能科学研究院回旋加速器创新与发展60年[J]. 原子能科学技术, 2019, 53(10): 2023-2030.  
+ZHANG Tianjue, LYU Yinlong, WANG Chuan, et al. 60 years of innovation and development for cyclotron at CIAE[J]. Atomic Energy Science and Technology, 2019, 53(10): 2023-2030(in Chinese).  
+[41] LUY Yinlong, AN Shizhong, JI Bin, et al. Design and construction progress of cyclotron based proton irradiation facility for space science[C]/22nd International Conference on Cyclotrons and Their Applications. Cape Town: JACoW Publishing, 2019: 230-232.   
+[42] AN Shizhong, LYU Yinlong, XIE Huidong, et al. The design and simulation on the extraction system for CYCI
+
+AE-50[C]/22nd International Conference on Cyclotrons and Their Applications. Cape Town: JACoW Publishing, 2019: 35-38.   
+[43] WEI S M, AN S Z, GUAN L L, et al. A 50 MeV proton beam line design[C]//22nd International Conference on Cyclotrons and Their Applications. Cape Town: JACoW Publishing, 2019: 45-47.   
+[44] ZHANG L, LI H, XU Z, et al. Radiation hardness of an $\alpha$ -Ga $_2$ O $_3$ nanorod array/FTO solar-blind photodetector against the 50-MeV proton beam[J]. IEEE Transactions on Nuclear Science, 2024, 71(7): 1365-1369.   
+[45] FU X, YIN Z, FONG K, et al. LLRF controller for high current cyclotron-based BNCT system[J]. IEEE Transactions on Nuclear Science, 2021, 68(10): 2452-2458.   
+[46] Predictions of the future cancer incidence and mortality burden worldwide up until 2050[EB/OL]. https://gco.iarc.fr/tomorrow/en/dataviz/trends?multiple_populations=1&populations=900_160.   
+[47] ZHANG T, WANG C, LI M, et al. Developments for 230 MeV superconducting cyclotrons for proton therapy and proton irradiation[J]. Nucl Instrum Methods Phys Res B, 2017, 406: 244-249.   
+[48] ZHANG T, LI M, WANG C, et al. Investigation and quantitative simulation of beam physics for 230 MeV SC cyclotron under construction at CIAE[J]. Nucl Instrum Methods Phys Res B, 2020, 468: 8-13.   
+[49] ZHANG T, LI M, WANG C, et al. Magnetic field measurement, shimming and processing for 230 MeV superconducting cyclotron main magnet[J]. IEEE Transactions on Applied Superconductivity, 2020, 30(4): 4101205.   
+[50] YIN Z, JI B, FU X, et al. Design of RF system for CYCIAE-230 superconducting cyclotron[J]. Nucl Instrum Methods Phys Res A, 2017, 854: 25-30.   
+[51] WANG Chuan, YIN Zhiguo, ZHANG Tianjue, et al. The commissioning of a 230 MeV superconducting cyclotron CYCIAE-230[C]/23rd Int Conf Cyclotrons Appl (CY-CLOTRONS 2022). Beijing: JACoW Publishing, 2022.   
+[52] SONG Q, HE A, ZHAO B, et al. Design and tuning of a fast beam energy selection control system for CYCIAE-230 cyclotron beamline[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 692-698.   
+[53] YIN Z, XIONG R, GUO Q, et al. Online parameter identification and control in the commissioning of nozzle for CIAE proton therapy system[J]. IEEE Transactions on Nuclear Science, 2025, 72(3): 462-468.
+
+[54] GIKAL B N, BOGOMOLOV S L, DMITRIEV S N, et al. DUBNA cyclotrons: Status and plans[J]. ICFA Beam Dyn Newslett, 2005, 37: 44-50.   
+[55] D'AGOSTINO G, CALABRETTA L, KLEEVEN W, et al. A central region upgrade of the K800 superconducting cyclotron at INFN-LNS[J]. Journal of Physics: Conference Series, 2019, 1350(1): 012099.   
+[56] DUCKITT W D, CONRADIE J L, van NIEKERK M J, et al. The design and implementation of a broadband digital low-level RF control system for the cyclotron accelerators at iThemba LABS[J]. Nucl Instrum Methods Phys Res A, 2018, 895: 1-9.   
+[57] RADOVINSKY A, MINERVINI J V, MILLER C E, et al. Superconducting magnets for ultra light and magnetically shielded, compact cyclotrons for medical, scientific, and security applications[J]. IEEE Transactions on Applied Superconductivity, 2014, 24(3): 1-5.   
+[58] UEDA H, ISHIYAMA A, NOGUCHI S, et al. Conceptual design of compact HTS cyclotron for RI production[J]. IEEE Transactions on Applied Superconductivity, 2019, 29(5): 1-5.   
+[59] CALABRETTA L, MÉOT F. Cyclotrons and FFAG accelerators as drivers for ADS[J]. Reviews of Accelerator Science and Technology, 2015, 8: 77-97.   
+[60] ZHANG Tianjue, FU Wei, WANG Chuan, et al. Recent progress of research and development for the cost-effective, energy-efficient proton accelerator CYCIAE-2000 [C]/Proceedings of CYC2022. Beijing: JACoW Publishing, 2022.   
+[61] 周洪吉, 付伟, 王川, 等. 2 GeV 等时性加速器散焦磁铁的 $1:4$ 比例模型线圈低温系统研制[J]. 原子能科学技术, 2025, 59(1): 231-238. ZHOU Hongji, FU Wei, WANG Chuan, et al. Development of $1:4$ scale model coil cryogenic system of defocus magnet for 2 GeV accelerator[J]. Atomic Energy Science and Technology, 2025, 59(1): 231-238(in Chinese).   
+[62] 裴士伦, 殷治国, 张天爵, 等. 用于 $2\mathrm{GeV}$ 固定场交变梯度质子加速器的高品质因数、高分路阻抗波导型高频腔设计[J]. 原子能科学技术, 2020, 54(8): 1519-1524. PEI Shilun, YIN Zhiguo, ZHANG Tianjue, et al. Design on high quality factor and high shunt impedance waveguide-type RF cavity for $2\mathrm{GeV}$ FFAG proton accelerator [J]. Atomic Energy Science and Technology, 2020, 54(8): 1519-1524(in Chinese).

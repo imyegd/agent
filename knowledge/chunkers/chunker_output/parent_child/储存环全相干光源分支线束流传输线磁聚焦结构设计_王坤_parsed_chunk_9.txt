@@ -1,0 +1,5 @@
+posed in this study successfully meets all geometric and optical matching requirements for the bypass line transport system. With proper orbit correction addressing installation and magnetic field errors, the transport system achieves $1 0 0 \%$ theoretical transmission efficiency while maintaining beam quality for the ADM-based coherent light generation.
+
+Key words Angular dispersion-induced microbunching, Storage ring-based coherent light source, Transport line, Lattice design
+
+同步辐射光源作为探索微观世界的有力工具，迄今经历了从第

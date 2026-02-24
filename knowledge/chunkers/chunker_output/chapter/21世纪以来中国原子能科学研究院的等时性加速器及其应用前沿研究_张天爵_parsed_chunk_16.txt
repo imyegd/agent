@@ -1,0 +1,13 @@
+# 3 21世纪等时性加速器前沿技术研究与应用场景拓展
+
+基于自主开拓的强聚焦理论，结合低温和高温超导等前沿技术，原子能院正在引领21世纪超紧凑、超轻型和高功率等时性加速器的发展新方向。
+
+![](images/c32fb0401a77b49a73de81b8c79d0edddaf7178b9603df8fe25b87d1815bbd48.jpg)
+
+![](images/949ac2082b6ba09bae8da0c0b091f59da2e09d4938d0687643431d16099fbbb9.jpg)  
+图14 CYCIAE-14B中心区(a)和引出区(b)的束流损失
+
+![](images/bb1f53d16e1b5acbd54ab53c483400c7ba2ece61dab2a3f2a03ec51d58e5c56c.jpg)  
+Fig. 14 Beam loss in center (a) and extraction (b) regions of CYCIAE-14B   
+图15 基于 $14\mathrm{MeV} / 1\mathrm{mA}$ 加速器的BNCT原理样机  
+Fig. 15 BNCT prototype based on $14\mathrm{MeV} / 1$ mA cyclotron

@@ -1,0 +1,4 @@
+Vacuum Science & Technology A, 2020, 38(3): 033202   
+[6] Ishibashi T, Tanaka H, Suzuki Y, et al. Residual gas analysis and beam conditioning at the SuperKEKB positron ring [J]. Vacuum, 2021, 189: 110223   
+[7] Wang J, Li Y, Zhang H, et al. Dynamic pressure analysis and gas desorption in the SSRF storage ring [J]. Nuclear Instruments and Methods in Physics Research A, 2018, 884: 1-5   
+[8] Wang J W, Liu J G. Engineering practice of leak detection in complex ultra-high vacuum systems[J]. Vacuum, 2020, 57(4)

@@ -1,0 +1,11 @@
+![](images/7bd4966e8d358c45299c9adb4cd117c3bd261179c44f6d0e90f48c074e32933c.jpg)  
+图 3 B-SpMM 算法计算过程  
+Fig.3 The computation process of B-SpMM algorithm
+
+CUTLASS-Sparse 的创新在于构建了模块化的概念体系、组件接口及层级框架[18]，在保障性能的同时满足多样化需求。CUTLASS-Sparse 的层级结构如图 4 所示，各个层级有自顶向下的不同分工，且通过模版调用互相关联。
+
+![](images/0df0bf8c510493916346b312051eeec9ccd40cc34e3f806584d39abe17d6075a.jpg)  
+图 4 CUTLASS-Sparse 层级结构  
+Fig.4 The hierarchical structure of CUTLASS-Sparse
+
+# 2 CUTLASS-Sparse 的移植

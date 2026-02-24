@@ -1,0 +1,9 @@
+器中内嵌的FPGA实现ns级的快速响应，又可利用DSC组件使CRIO控制器完成EPICS系统的IOC功能，无障碍地实现机器快保护系统和中央控制系统的数据通信，实现两种异构平台的无缝集成。目前，我国的强流加速器以CRIO系统实现的机器快保护系统已运行两年多的时间，Marx自激监测系统可达到百纳秒的响应速度，与刹车链路集成后可达到毫秒量级的响应速度。这套系统经过上千次的实验，在高电压、大电流的复杂电磁环境中工作稳定可靠，在同类装置的相似场景可推广使用。
+
+# 参考文献：
+
+[ 1 ] 罗 冰 峰 . 机 器 快 保 护 系 统 控 制 器 设 计 [D]. 北 京 : 中 国 科 学 院 大 学 , 2015. (LUO Bingfeng. Design of controller for fastprotection system[D]. Beijing,China:University of Chinese Academy of Sciences, 2015.)  
+[ 2 ] 山琳洁 . J-TEXT 托卡马克联锁安全系统设计[D]. 武汉:华中科技大学, 2014. (SHAN Linjie. J-TEXT Tokamak interlock & safety system design[D]. Wuhan,China:Huazhong University of Science and Technology, 2014.) DOI:10.7666/d.D227480.   
+[ 3 ] EPICS. Experimental physics and industrial control[EB/OL]. [2024-02-07]. http://www.aps.anl.gov/epics/index.php.   
+[ 4 ] KRAIMER M R,ANDERSON J B,JOHNSON A N. EPICS application developer's guide[EB/OL]. [2024-02-07]. http://www.aps. anl.gov/epics/base/R3-14/12-docs/AppDevGuide.   
+[ 5 ] 郭帆,蒋薇,杨兴林,等 . 基于 EPICS 的慢速设备异步控制应用研究[J]. 强激光与粒子束, 2017,29(7):100-103. (GUO Fan

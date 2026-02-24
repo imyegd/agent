@@ -1,0 +1,5 @@
+$$
+h = \frac {q _ {j} ^ {2} (\phi) \sin \theta}{r} \left[ 1 + a (\phi) \frac {\nu r}{Q} \right], \tag {1}
+$$
+
+其中，形状因子 $a(\phi)$ 描述了黏性效应的角分布特征，而

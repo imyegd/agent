@@ -1,0 +1,5 @@
+using  CST  Studio  Suite  and TraceWin software. The advantages and feasibility of the circular arc plate were verified through coupling simulation of  the  two  software. [Results] Theoretical  calculations  and  simulations  show  that  the  electric  field  distribution  of circular  arc  plates  is  more  uniform,  and  the  beam  deflection  function  is  efficiently  completed,  confirming  the feasibility of the design scheme. [Conclusions] By coupling CST Studio Suite with TraceWin software for simulation, a more realistic simulation of beam dynamics can be achieved, which addresses the issue that TraceWin software is incapable  of  setting  the  electric  field  strength  of  circular  arc  plates.  The  coupled  simulation  method  of  CST  Studio Suite and TraceWin has been developed, which has certain value for research on chopper design.
+
+Key  words：    accelerator-based  neutron  source, boron  neutron  capture  therapy, chopper, beam  dynamic, electrostatic field calculation
+
+加速器中子源是利用加速器将粒子加

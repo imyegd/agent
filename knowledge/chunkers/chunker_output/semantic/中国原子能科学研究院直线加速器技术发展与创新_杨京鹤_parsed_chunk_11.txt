@@ -1,0 +1,9 @@
+![](images/54f22a948a7b80251102c0f7f65843b1e86091f54c683984f824f7c0c42b7af9.jpg)
+
+![](images/195365676fe23603152b4ef8d66babba0e1e79c4d9ba7e42094c8c9ee0283ea3.jpg)  
+图3X波段6MeV加速管 $\alpha$ 函数沿纵向的变化(a)及加速管样管(b)  
+Fig. 3 $\alpha$ function along longitudinal direction (a) and accelerating tube prototype (b) for X-band 6 MeV accelerating tube
+
+针对C波段紧凑型电子直线加速器，原子能院发展了小型化驻波加速器，实现了驻波加速器关键部件自主研发。
+
+2022年原子能院研发了C波段6MeV轴耦合驻波加速管，突破了高效聚束与高精度测试调配技术[11]。基于射频相位聚焦理论，在无外加磁场条件下，通过注入孔径大于束流孔径的首腔不对称设计减弱空间电荷力散焦，聚束腔浅锥深的鼻锥设计增强了聚束效果，最终实现C波段6MeV轴耦合驻波加速管加速过程中良好的纵向聚束和横向聚焦。C波段轴耦合驻波加速管的设计开发为无损检测等领域加速器的小型化提供相关技术

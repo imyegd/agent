@@ -1,0 +1,312 @@
+# 中国原子能科学研究院加速器驱动次临界核能系统关键技术突破与工程实践
+
+张金山，秦博，宁通，张靖驰，钱燕悦，孙志勇，
+
+余华金，王荣东，龙斌，朱庆福，杨红义
+
+（中国原子能科学研究院，北京 102413）
+
+摘要：加速器驱动次临界系统(ADS)作为革新型核能技术，在核废料嬗变、低碳能源供给及核燃料闭式循环领域展现了重要的战略价值。中国原子能科学研究院(简称原子能院)自21世纪初以来牵头国内ADS研究，针对系统物理特性、液态金属冷却剂工艺、耐腐蚀抗辐照材料及次临界反应堆设计等核心技术挑战，历经20余年技术攻关，在堆物理、铅铋合金控氧净化、散裂靶-堆芯耦合设计以及耐蚀结构材料研发等关键技术取得突破，支撑加速器驱动嬗变研究装置(CiADS)项目的工程实践，为国家能源战略提供有力支撑。当前，人工智能技术的发展突飞猛进，为ADS的发展带了新的机遇，原子能院正积极开展相关研究，以推动ADS相关技术升级。
+
+关键词：加速器驱动次临界系统；核废料嬗变；加速器驱动嬗变研究装置；人工智能
+
+中图分类号：TL351
+
+文献标志码：A
+
+文章编号：1000-6931（2025）09-2134-10
+
+doi: 10.7538/yzk.2025.youxian.0536
+
+# Key Technological Breakthrough and Engineering Practice of Accelerator-driven Subcritical System in China Institute of Atomic Energy
+
+ZHANG Jinshan, QIN Bo, NING Tong, ZHANG Jingchi, QIAN Yanyue, SUN Zhiyong,
+
+YU Huajin, WANG Rongdong, LONG Bin, ZHU Qingfu, YANG Hongyi
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: Accelerator-driven subcritical system (ADS), as an innovative nuclear energy technology, is designed to break through two major limitations of conventional reactors: low uranium utilization $(< 1\%)$ and high-level waste requiring more than 100 000 a of decay. By enabling efficient waste transmutation, improving fuel use, and supporting closed fuel cycles, ADS offers a pathway to safer, low-carbon nuclear energy. This paper reviews two decades of ADS research and engineering practice led by the China Institute of Atomic Energy (CIAE), focusing on the progress of the China Initiative Accelerator-driven System (CiADS) and its relevance for international development. Since the early 2000s, CIAE has led ADS research in China. The Venus zero-power facilities were constructed to support basic studies: Venus- I (2005) and Venus- II (2016). To address key challenges, CIAE conducted targeted R&D (research and development). In spallation target design, a solid metal composite target
+
+was optimized and an integrated "reactor-target" scheme was proposed, lowering costs relative to separated designs. For coolant chemistry, an electrochemical oxygen sensor (zirconia electrolyte) and gas-phase control system were developed to maintain dissolved oxygen in lead-bismuth eutectic $(10^{-4}\% - 10^{-6}\%)$ . In collaboration with ENEA (Italy) and PSI (Switzerland), long-term corrosion tests of CLAM steel and 316LN stainless steel were carried out in flowing lead-bismuth at $550~^\circ \mathrm{C}$ for up to $10000\mathrm{h}$ . In core design, a 12-core subsystem (9.75 MW, 69 fuel assemblies, $k_{\mathrm{eff}} = 0.97$ ) was completed and its safety was validated. Since 2016, CiADS has advanced to engineering-scale demonstrations. Key achievements include ton-scale solid-phase oxygen control, a combined "magnetic+deep-bed filtration" method for corrosion product removal, and a prototype $^{210}\mathrm{Po}$ purification system with $>0\%$ efficiency. The integrated "reactor-target" design simplified plant layout, reduced land area by over $30\%$ , and aligned with international development trends. Lead-bismuth coolant technologies were qualified to ensure structural safety, while the primary loop design and major component fabrication have been completed, enabling upcoming accelerator-target-reactor coupling tests of at least $1\mathrm{h}$ . Through these efforts, CIAE has established an independent ADS platform. The Venus facilities serve as international benchmarks, providing high-quality data for heavy-metal coolant systems. CiADS demonstrates that ADS can reduce the hazardous lifetime of nuclear waste to hundreds of years, raise uranium utilization above $95\%$ , and provide a route to inherently safe, low-carbon power. Looking ahead, CIAE is exploring artificial intelligence for ADS simulation and control to further optimize design. These achievements represent substantial progress in China's ADS program and offer valuable reference for international peers advancing advanced nuclear technologies.
+
+Key words: accelerator-driven subcritical system; nuclear waste transmutation; China Initiative Accelerator-driven System; artificial intelligence
+
+传统热堆核电站面临铀资源利用率不足 $1\%$ 长寿命核废料处置周期超过10万年的行业瓶颈，加速器驱动次临界系统(ADS)通过次临界反应堆与外部中子源耦合，可将核废料放射性危害期缩短至数百年，并实现铀资源利用率大幅提升的目标，同时为核燃料闭式循环提供革命性方案。其“停机即停堆”的固有安全性，从原理上解决了临界反应堆的失控风险，对我国构建“安全、高效、可持续”的核能体系具有战略意义[1-2]
+
+21世纪初，中国原子能科学研究院（简称原子能院）牵头国内ADS研究，依托两期科技部的“973计划”项目建成启明星系列零功率装置，率先突破散裂靶耦合设计、铅铋冷却剂控氧等关键技术。2016年启动的加速器驱动嬗变研究装置(CiADS)作为全球首个ADS工程化项目，标志着我国在该领域从理论研究跃升至工程实践阶段。目前，原子能院已完成次临界反应堆与散裂靶的一体化设计，形成自主化技术体系。
+
+本文围绕ADS构成、关键技术挑战及工程实践进展进行论述，揭示其在核废料嬗变与清洁能
+
+源领域的应用潜力。
+
+# 1 ADS概念和战略意义
+
+# 1.1 ADS作用及系统构成
+
+ADS 作为先进核能系统，具备核废料嬗变、核燃料增殖与清洁能源生产三重核心功能。系统通过加速器产生的高能质子束轰击铅铋合金散裂靶，引发散裂反应产生外源中子，轰击次临界反应堆中所装载的易裂变核素和 $^{237}\mathrm{Np}$ 、 $^{241}\mathrm{Am}$ 等长寿命次锕系核素，使之发生裂变/俘获反应，将放射性危害从数十万年缩短至数百年，同步实现高放废物减量化与环境毒性降低。多余中子通过 $^{238}\mathrm{U}$ 俘获反应转化为易裂变核素 $^{239}\mathrm{Pu}$ ，实现核燃料增殖，大幅提高铀资源利用率。次临界反应堆在外中子源作用下维持链式反应释放裂变能发电，过程中仅产生极少量新核废料，是一种低碳排放的清洁能源产出方式。
+
+ADS由强流质子加速器、铅铋散裂靶、铅铋冷却的次临界反应堆三大部分构成。系统运行时，加速器产生高能强流质子束，质子轰击铅铋散
+
+裂靶发生散裂反应，产生散裂中子（每个质子根据其能量大小可产生不同数量的散裂中子，甚至可产生约30个中子），为次临界反应堆提供外源中子使其维持裂变链式反应。次临界反应堆在散裂中子驱动下维持次临界状态下的运行模式，保障了核临界的固有安全性。而散裂外源中子除维持链式反应发电外，剩余中子可用于核废料中长寿命核素的嬗变和可裂变核素转换为易裂变核素得到核燃料的增殖。
+
+通过“质子束轰击-散裂中子产生-驱动次临界反应堆-裂变能转化”闭环流程，结合“停机即停堆”的固有安全特性，ADS实现“能量产出-核废料嬗变-核燃料增殖”三重功能耦合为一体的新的核能系统，为核燃料闭式循环提供革命性技术方案。
+
+# 1.2 战略意义
+
+ADS装置对核废料处置具有深远的战略意义，主要体现在解决核电可持续发展的核心瓶颈问题。随着我国核电装机容量的快速增长，预计到2030年乏燃料累积存量将达数万吨，其中次锕系核素和长寿命裂变产物的放射性危害可持续数万年，传统地质深埋处置不仅成本高昂，且长期安全性难以绝对保障。ADS通过强流质子加速器轰击重金属靶产生散裂中子，驱动次临界反应堆，将长寿命高放核素嬗变为短寿命或低放核素，使放射性危害期从数十万年缩短至数百年，同时大幅减少废物体积。这一技术不仅显著降低核废料长期储存的环境风险，还能通过次临界反应堆发电实现废物的资源化利用，提升铀资源利用率。我国已成为全球首个开展ADS大工程项目(CiADS)的国家，其技术突破为核能闭式燃料循环战略提供核心支撑，有望破解核废料处置这一世界性难题。
+
+核能作为零碳排放的基荷能源，可大规模替代煤电等高碳能源，但核废料问题是束缚核能大规模发展的技术制约之一。ADS通过解决核废料安全处置难题，消除核电发展的环境顾虑，为核电规模化应用扫清障碍，直接助力能源结构低碳转型。
+
+ADS结合乏燃料循环系统，可将铀资源利用率从不足 $1\%$ 提高到 $95\%$ 以上，核废料体积减少至传统模式的1/50。这不仅显著降低核废料长期
+
+封存成本，更可大幅减轻地质处置的环境压力，实现核能全生命周期低碳化。
+
+# 2 ADS关键技术及挑战
+
+# 2.1 核心关键技术
+
+2.1.1 强流质子加速器技术 强流质子加速器为ADS提供稳定连续的高功率质子束流，轰击散裂靶形成维持次临界反应堆的散裂中子，是ADS的核心驱动力，也是决定ADS稳定安全运行的关键。强流质子加速器技术的核心在于强流连续质子束流的稳定加速，此外涉及的关键技术涵盖超导腔体与低温系统、高精度控制与保护、质子束流动力学优化及系统工程集成等。
+
+2.1.2 散裂靶设计 散裂靶是实现堆器耦合的关键部分，为ADS次临界反应堆维持裂变反应提供散裂中子。散裂靶的设计主要涉及到高功率靶材的选择和靶-堆的耦合设计。
+
+候选靶材主要是液态金属靶（铅铋合金为主）和固体靶（W、Ta为主），散裂靶在服役条件下经受强流质子束的轰击，形成能谱较硬的散裂中子，承受着极大的热负荷，需确保散裂靶的散热设计。
+
+散裂靶与次临界反应堆的耦合方式是影响整个ADS正常安全运行的关键，靶-堆耦合设计需考虑耦合技术途径的可靠性、靶束窗材料的耐辐照性和耐腐蚀性，以及靶堆耦合界面处铅铋冷却剂的局部沸腾。
+
+2.1.3 次临界反应堆设计 次临界反应堆堆芯作为“能量产出-核废料嬗变-核燃料增殖”三重功能的ADS的核心组成部分，在散裂中子源驱动下运行。堆芯内发生核裂变反应，提供的中子辐照场除以上提出的三大功能外，还可用于材料辐照、同位素生产和科学实验等。从反应堆临界安全的角度，ADS设计的堆芯燃料装载低于临界质量，始终处于次临界状态，当加速器束流关闭时立即进入停堆状态。
+
+燃料与材料技术是ADS工程化的关键瓶颈，需应对极端辐照、高温腐蚀及功率波动等挑战。ADS次临界反应堆堆芯燃料需承受更硬的散裂中子能谱(中子能量 $>1\mathrm{MeV}$ )的高通量辐照服役环境，在这种环境下的中子辐照易导致氧化物燃料芯部超温，需考虑氧化物燃料的芯部散热降温和性能优化。ADS结构材料承受质子束流辐照及波
+
+动、中子辐照、高温和铅铋腐蚀等多种因素耦合作用, 次临界反应堆结构材料的选材需与铅铋冷却剂具有良好的相容性, 且具备耐高温、抗中子辐照和耐疲劳的特性; 散裂靶靶窗材料的选材也需与铅铋冷却剂相容良好, 同时满足耐高温、抗中子和质子辐照及高承载、热负荷大的要求。
+
+在ADS运行工况下，结构材料处于高温铅铋腐蚀环境，为了抗腐蚀需要在铅铋冷却剂中溶解一定的氧元素，以使材料表面形成致密的氧化层以抑制冷却剂对结构材料的溶解腐蚀；随着材料表面氧化膜的生长增厚，在交变应力作用下易出现氧化膜的脱落，悬浮于铅铋合金之中；另外铅铋冷却剂在中子辐照的条件下，铋吸收中子经 $\beta$ 衰变形成强毒性的 $^{210}\mathrm{Po}$ 。因此，从材料腐蚀、腐蚀产物脱落、冷却剂中子辐照等方面的影响，对冷却剂工艺提出了如下技术要求。
+
+# 1）铅铋冷却剂溶解氧的精确监测与调控
+
+必须实现ADS次临界反应堆一回路铅铋中溶解氧含量的可测可控，使结构材料表面在铅铋冷却剂控氧的条件下形成致密的氧化膜，抑制冷却剂对堆结构材料的溶解腐蚀，保障次临界反应堆的运行安全。
+
+# 2）铅铋冷却剂中腐蚀杂质的高效净化
+
+构建铅铋杂质净化去除技术体系，以去除漂浮或悬浮于铅铋冷却剂中的腐蚀杂质，实现铅铋冷却剂净化。
+
+# 3） ${}^{210}\mathrm{Po}$ 的净化去除
+
+铅铋冷却剂在中子辐照条件下生成的强毒性 $^{210}\mathrm{Po}$ 是次临界反应堆维护、大修和退役的重要挑战，需针对 $^{210}\mathrm{Po}$ 的迁移状态攻克净化去除关键技术，构建安全保障体系，支撑ADS次临界反应堆的安全运行。
+
+# 2.2 跨学科挑战
+
+2.2.1 多物理场耦合仿真技术挑战 ADS 的设计需深度融合粒子输运、热工水力学和材料辐照损伤等多物理场耦合仿真，面临着多重技术挑战。
+
+# 1) 加速器束流扰动的动态响应模拟
+
+束流失稳会导致散裂中子源强度骤变，引发次临界反应堆功率振荡，需通过瞬态中子输运模拟评估系统动态响应。此外，散裂反应产生的高能中子能谱复杂，计算精度高度依赖核数据库的准确性，但高能段截面数据仍存在一些偏差，对物
+
+理计算带来不确定性。
+
+# 2) 多尺度流动耦合带来的复杂性挑战
+
+系统级热工水力分析需结合子通道程序与CFD精细化模拟，但网格映射与数据传递过程中易引入插值误差。液态金属流动的磁流体力学效应可能扰动冷却剂分布，需耦合电磁场仿真实现多物理场协同分析。
+
+# 3）辐照损伤计算模型的局限性
+
+辐照损伤计算模型高度依赖辐照实验数据支撑，但高能中子辐照实验成本高昂，且核反应堆内部复杂环境难以完全模拟。此外，辐照损伤涉及原子位移、缺陷聚集等多尺度非线性演化过程，现有模型难以精确描述其动态规律，需要结合工程实践对模型进行修正，并通过实验验证予以校准。
+
+# 2.2.2 “堆-靶-器”耦合技术挑战 ADS耦合设计的核心挑战在于加速器、散裂靶与次临界反应堆三大组件在极端工况下协同运行的高可靠性。
+
+# 1) 加速器高可靠性运行要求
+
+加速器需提供连续稳定的质子束流，核心指标为极低失束与长周期连续运行能力，束流稳定性直接影响散裂中子源强度的一致性。
+
+# 2）散裂靶热工与材料双重挑战
+
+靶体需承受远超常规反应堆的功率密度，面临两类技术瓶颈：液态金属靶存在靶窗中心滞流点过热风险；固态靶(钨/钽靶)则受限于散热效率不足。同时需解决强辐照与铅铋腐蚀环境下的材料相容性难题。
+
+# 3）次临界反应堆运行适应性问题
+
+散裂中子源的引入导致堆芯功率分布不均，加速器失束可能引发热冲击；为散裂靶预留的堆芯中心孔道，导致最内层燃料缺乏径向支撑，易产生振动效应，影响反应堆动力学特性。
+
+# 4）系统级协同涉及的难题
+
+需实现机械设计、热工水力参数与中子学特性的多维度协同，确保加速器-靶束窗接口-次临界反应堆在参数一致性与设计边界条件上的一致性，同时满足装置整体布局的空间约束要求。
+
+# 3 原子能院的技术突破
+
+# 3.1 基础研究阶段（2000—2015年）
+
+3.1.1 零功率装置 启明星系列零功率装置是中
+
+核集团为开展新型核能系统基础研究，自主设计和建造的国内唯一的反应堆物理实验研究平台。在国家“973计划”项目“加速器驱动的洁净核能系统(ADS)的物理和技术基础研究”支持下，我国首座快热耦合的ADS次临界反应堆——启明星I号(图1)于2005年7月在原子能院建成[3-4]成为国际原子能机构ADS实验研究的基准装置。启明星I号完成装料后，开展了大量实验研究等工作[5-8]，在ADS基础理论的验证与发展中发挥了关键推动作用。
+
+![](images/be2ca859ec26ec3a5e89c9da668a497f94991629a559fabdfa4de46879268496.jpg)  
+图1启明星I号堆芯结构[4]  
+Fig.1 Venus-I reactor core structure[4]
+
+在中国科学院战略性先导科技专项“未来先进核裂变能——ADS嬗变系统”支持下，为了验证铅、铅铋合金的核数据，利用铅、铅铋合金建成
+
+了启明星Ⅱ号零功率装置，并于2016年12月达到临界[9]，标志着我国ADS研究实现又一重大突破。该装置针对铅、铅铋合金等重金属冷却材料在次临界系统中的堆靶耦合特性开展了系统实验研究[10-16]，对ADS反应堆工程化设计及新型核能系统的集成研发提供了重要支撑。同时，装置核心关键技术完全自主掌握，关键核心部件实现国产化，技术成果自主可控，充分彰显了自主化和国产化优势。
+
+3.1.2 散裂靶研究 原子能院依托“973计划”项目“加速器驱动洁净核能系统的物理技术研究”，率先开展ADS散裂中子靶件研究[17-19]。针对重金属固体钨靶、铅靶，系统研究了 $150\mathrm{MeV}\sim$ 2GeV高能质子束流轰击下的散裂中子产额、泄漏中子产额、中子能谱与空间分布，以及靶体放射性活度和辐照损伤等物理特性。同时开展质子轰击能量沉积分析与靶件的几何设计优化，创新性地提出ADS固体金属多层组合靶结构设计，如图2所示，有效解决散裂靶的散热难题。上述研究积累了丰富的散裂靶物理特性数据，形成高效散热技术方案，为后续ADS散裂靶件的深入研发提供了关键支撑。
+
+![](images/cfcada33a41aca7b949e2c97d83786e24d463f8b27b9ab64163a21355d56bc62.jpg)  
+图2 固体金属多层组合靶结构示意图[6]  
+Fig. 2 Scheme of solid metal multi-layer target[6]
+
+3.1.3 液态金属工艺技术 铅铋合金对铁基结构材料具有较强腐蚀性, 其中铅铋合金溶液中的氧含量直接影响材料的腐蚀行为: 溶解氧含量过低会导致结构材料严重溶解腐蚀, 过高则引发氧化腐蚀。当氧含量控制在适宜范围时, 材料表面可形成致密氧化保护膜, 有效抑制腐蚀。针对ADS靶窗与反应堆结构材料的铅铋腐蚀防护需求, 原子能院在“973计划”项目“嬗变核废料的加速器驱动次临界系统关键技术研究”支持下, 开展
+
+了铅铋冷却剂气相氧控技术与电化学溶解氧测量技术研究, 突破溶解氧控制与测量技术瓶颈。自主设计研发了以氧化锆为固体电解质、 $\mathrm{Bi} / \mathrm{Bi}_{2}\mathrm{O}_{3}$ 为参比电极的电化学型氧传感器, 解决铅铋介质中溶解氧精确测量难题; 基于平衡式气相氧控原理, 实现铅铋合金溶液中的溶解氧的精准控制, 将氧含量维持在窄幅区间内[20]。上述技术突破为ADS结构材料和靶窗材料的腐蚀性能评价及腐蚀防护技术研发奠定了坚实基础。
+
+3.1.4 材料考验 ADS 中结构材料处于高温、强辐照和铅铋腐蚀的苛刻环境中，质子束对靶窗结构材料的辐照损伤及铅铋合金的强腐蚀性，是制约 ADS 次临界反应堆与散裂靶安全运行的关键因素。针对 ADS 靶窗用低活化铁素体-马氏体钢与反应堆用奥氏体不锈钢候选材料，原子能院联合意大利 ENEA 和瑞士 PSI 等国际知名研究机构开展了材料辐照性能与腐蚀性能评价研究。
+
+依托HI-13串列加速器，研究团队开展了低活化CLAM钢辐照效应研究，获取了在特定 $\mathrm{He / H_2}$ 气泡浓度下位移损伤与辐照剂量的关联数据。在结构材料与铅/铅铋合金相容性研究中，利用意大利的LECOR回路，开展了316LN、CLAM钢和12CrWTi-ODS钢在控氧（ $10^{-4}\% \sim 10^{-6}\%$ ，质量分数）的高温（ $550^{\circ}C$ ）动态（ $1\mathrm{m / s}$ ）铅铋环境下长时间（ $10000\mathrm{h}$ ）腐蚀性能考验，获得了结构材料的腐蚀数据，阐明了氧含量、合金元素等因素对材料在高温铅中腐蚀行为的影响规律。同时，采用气相铅铋控氧技术开展了高温下控氧铅铋环境下的316LN奥氏体不锈钢 $5000\mathrm{h}$ 长时间腐蚀性能考验，掌握了溶解氧与温度对其铅铋腐蚀行为作用机制。
+
+上述靶窗与反应堆结构材料的辐照-腐蚀性能实验数据，为ADS材料优化设计与工程选材提供了关键技术支撑。
+
+# 3.2 工程化阶段（2016年至今）
+
+3.2.1 CiADS项目 原子能院承担CiADS次临界反应堆系统全流程设计，涵盖堆芯系统、堆本体及一回路、二/三回路主冷却系统、安全相关系统、仪控电气系统、反应堆辅助系统、换料工艺系统等12大核心子系统。基于合作协议，负责次临界反应堆工程实施任务，包括总体技术方案设计、主工艺系统设备采购、材料供应及安装工程，以及主工艺系统冷调试。
+
+原子能院在已掌握的快堆设计经验的基础上，结合铅基堆特性及ADS的运行特点展开设计工作。经过初步的总体分析，确定了次临界反应堆的总体技术参数：最大设计功率为 $9.75\mathrm{MW}$ ，满功率运行时间3a，年运行时间3个月；工程验收目标为首阶段装载3盒组件，对应堆功率约为 $30\mathrm{kW}$ ，实现加速器-散裂靶-次临界反应堆耦合运行 $\geqslant 1\mathrm{h}$ ；装置预留材料嬗变与辐照考验专用空间，
+
+具备堆内换料与在线监测能力。
+
+3.2.2 关键技术突破 CiADS 项目在系统集成与核心部件研发中实现多项技术突破,本文从散裂靶耦合设计、堆芯物理优化、一回路系统构建、燃料和材料选型及液态金属工艺等维度,阐述关键技术进展与工程创新。
+
+# 1）散裂靶设计
+
+散裂靶作为加速器-次临界反应堆耦合的核心部件，其与反应堆的耦合集成方案直接影响CiADS的工程可行性。散裂靶设计技术路线主要有堆靶分离与堆靶集成两种方案，经对比分析后，本文设计采用堆靶集成方案，图3为堆靶集成一体化的次临界反应堆与散裂靶耦合示意图。
+
+![](images/e2ef901c1b7ae6a2ca076dac1a32c7c26a143b10abac41908fbf90c4fd69bace.jpg)  
+图3 次临界反应堆与散裂靶耦合示意图  
+Fig. 3 Schematic diagram of coupling between subcritical reactor and spallation target
+
+采用堆靶集成方案是因为堆靶分离方案经测算存在显著缺陷：堆靶厂房面积严重超概、散裂靶与反应堆主工艺系统相互干涉、加速器-次临界反应堆-散裂靶准直问题难以解决。而堆靶集成方案将散裂靶(图4)的靶管直接嵌入次临界反应堆的堆容器中，利用反应堆一回路铅铋冷却剂移除散裂反应热，无需额外设置散裂靶的辅助系统。
+
+该堆靶集成方案优势显著：降低散裂靶冷却工程难度，简化散裂靶系统，符合当前国内外ADS主流技术路线。从CiADS总体评估来看，相比堆靶分离方案，堆靶集成方案可减少散裂靶独立工艺系统，大幅缩减工程建筑面积；消除结构干涉，降低换靶、换料操作难度；减少换靶费用与废物产生量；降低散裂靶束流准直要求，从而降低整体工程造价。
+
+![](images/5d516d01bf055573beaaca157ae9edd4b5d7d65f500dd18f3d3fa588de6af6c1.jpg)  
+图4散裂靶示意图  
+Fig. 4 Schematic diagram of spallation target
+
+采用堆靶集成方案后，散裂靶形成中子源的情况为：质子源模式下，能量为 $500\mathrm{MeV}$ 的质子束流强度为 $0.5\mathrm{mA}$ 时，靶功率达到 $0.25\mathrm{MW}$ ，反应堆装载燃料组件69盒，堆功率可达 $9.75\mathrm{MW}$ ；质子束流强度为 $5\mathrm{mA}$ 时，靶功率达到 $2.5\mathrm{MW}$ ，反应堆装载燃料组件18盒，堆功率为 $7.5\mathrm{MW}$ ；中子源模式下，单质子打靶产生的中子数为9.07个（散裂靶外套管侧壁泄漏中子产额），对应的中子源强为 $2.83\times 10^{16}\mathrm{s}^{-1}$ 。
+
+# 2）堆芯设计
+
+堆芯作为CiADS的核心组件，在散裂中子源驱动下维持次临界运行，实现反应堆、散裂靶与加速器的集成实验验证。CiADS堆芯布置如图5所示。堆芯内核裂变反应产生的中子辐照场，可满足核废料嬗变、材料辐照考验及科学实验等多场景需求。从临界安全角度，CiADS堆芯燃料装载量低于临界质量，始终处于深度次临界状态，当
+
+![](images/e1b66572fabc5359aab807c96e90b9d0711206d6fee57e5dd033d0032812bc94.jpg)  
+图5 CiADS堆芯布置  
+Fig. 5 Layout of CiADS core
+
+加速器束流关闭时可立即停堆，具备固有安全性。堆芯主要参数如表1所列。
+
+表 1 CiADS 堆芯系统的主要参数  
+Table 1 Main parameter of CiADS core system   
+
+<table><tr><td rowspan="2">参数</td><td colspan="2">参数值</td></tr><tr><td>模式1</td><td>模式2</td></tr><tr><td>总功率,MWt</td><td>10</td><td>10</td></tr><tr><td>靶功率,MW</td><td>0.25</td><td>2.5</td></tr><tr><td>堆功率,MW</td><td>9.75</td><td>7.5</td></tr><tr><td>冷却剂类型</td><td>LBE</td><td>LBE</td></tr><tr><td>燃料类型</td><td>富集度19.75%的UO2</td><td>富集度19.75%的UO2</td></tr><tr><td>燃料组件装载数,盒</td><td>69</td><td>18</td></tr><tr><td>燃料总装载,tU</td><td>3.98</td><td>1.04</td></tr><tr><td>活性区高度/直径,mm</td><td>1300/1500</td><td>1300/1500</td></tr><tr><td>堆芯中心预留散裂靶孔道直径,mm</td><td>500</td><td>500</td></tr><tr><td>keff</td><td>0.97</td><td>0.66</td></tr></table>
+
+经计算分析，热中子（中子能量 $E_{\mathrm{n}} < 1 \mathrm{eV}$ ）和高能中子（ $E_{\mathrm{n}} > 20 \mathrm{MeV}$ ）所占份额极小，快中子（ $E_{\mathrm{n}} > 0.1 \mathrm{MeV}$ ）份额超过 $60\%$ 。堆芯内引起燃料裂变的中子平均能量为 $0.49 \mathrm{MeV}$ ，属于典型的快中子反应堆。在核设计计算中，径向和轴向功率峰因子的相对不确定度按 $10\%$ 取值，全堆功率峰因子 $(F_{\mathrm{q}})$ 不确定度约为 $20\%$ ， $F_{\mathrm{q}}$ 的计算值约为 2.08。
+
+# 3）一回路主系统设计
+
+一回路主系统设计在明确功能需求、性能要求及运行要求的基础上，完成初步设计与多轮优化迭代，突破了多项关键技术瓶颈。
+
+目前 CiADS 一回路设计已取得阶段性成果: 完成输入热功率 $280 \mathrm{~kW}$ 、最大功率 $10 \mathrm{MW}$ 的基本方案设计; 确定一回路主冷却系统采用双环路主冷却架构; 满足最大功率对应的堆芯入口温度 $\leqslant 260^{\circ} \mathrm{C}$ 、正常运行工况下堆芯出口温度 $\leqslant 360^{\circ} \mathrm{C}$ 的基本要求; 通过系统设计, 满足了一回路铅铋泵在最低转速下的最低流量要求; 堆本体及一回路系统及其设备经过初步技术评估, 能够经受《运行工况设计工作大纲》和《设计瞬态分析工作大纲》中要求的各种设计瞬态; 通过设计确保堆本体及一回路系统具备足够的自然循环能力; 在所有运行状态和事故工况对反应堆装置及相关系统进
+
+行监测、控制和保护，并为操作人员提供必要的信息。
+
+# 4）燃料和材料选型
+
+CiADS的燃料组件采用有盒六角形结构，如图6所示。材料体系沿用成熟的快堆技术标准。燃料元件采用定位格架固定，组件头部旋转后可实现管脚与堆容器的锁紧定位。从组件寿命周期分析，频繁热冲击是制约燃料组件服役寿命的主要因素，后续拟根据实际运行数据及3盒组件的辐照考验结果，评估寿命延长的可能性。燃料组件的设计参数如表2所列。
+
+![](images/bfc642a213394b117fdef75093a041dc58a1d0700727d87bb369686142f7096f.jpg)  
+图6 燃料组件截面示意图  
+Fig. 6 Cross-section diagram of fuel assembly
+
+表 2 CiADS 燃料组件的设计参数  
+Table 2 Design parameter of CiADS fuel assembly   
+
+<table><tr><td>参数</td><td>参数值</td></tr><tr><td>组件类型</td><td>有盒六角形</td></tr><tr><td>燃料棒数目</td><td>30根(中间两圈7个棒栅位置为锁紧装置)</td></tr><tr><td>芯块直径,mm</td><td>14.4</td></tr><tr><td>包壳厚度,mm</td><td>0.55</td></tr><tr><td>燃料棒直径,mm</td><td>15.7</td></tr><tr><td>燃料棒中心距,mm</td><td>19.83</td></tr><tr><td>间距-外径比(P/D)</td><td>1.263</td></tr><tr><td>包壳材料</td><td>CN-1515</td></tr><tr><td>外套管和锁紧装置材料</td><td>铁马钢</td></tr><tr><td>外套管内/外对边距,mm</td><td>126/132</td></tr><tr><td>组件长度,mm</td><td>2770</td></tr></table>
+
+# 5）液态金属工艺技术
+
+在中核集团集中研发项目的支持下，原子能院针对液态铅铋冷却剂开展了工程化技术攻关，突破多项关键技术：（1）固相氧控技术。完成了铅铋合金固相氧控技术验证，形成吨级固相氧源制备能力，建立固-液氧质量交换释氧量化模型，
+
+实现铅铋冷却剂中溶解氧的精准测量与调控，氧控技术适用于吨级规模铅铋体系[21]；（2）腐蚀产物净化。基于铅铋腐蚀产物的物性与分布特性，提出“磁性吸附+深床过滤”的高效净化模式，通过建成的铅铋净化实验回路验证了磁性净化与深床过滤净化组件的工程可行性；（3） ${}^{210}\mathrm{Po}$ 去除技术。针对池式堆气腔中挥发性 ${}^{210}\mathrm{Po}$ 核素，开发了循环过滤吸附的净化技术，完成 ${}^{210}\mathrm{Po}$ 净化元件的模拟过滤吸附净化效率考验，研制出的高效 ${}^{210}\mathrm{P}$ 净化去除样机单次去除效率超过 $90\%$ ，为ADS的辐射安全提供技术支撑。
+
+# 4 未来展望与挑战
+
+# 4.1 技术方案
+
+4.1.1 智能ADS 人工智能(AI)技术将深度赋能ADS核心环节。在次临界反应堆设计方面，通过多物理场耦合算法优化堆芯物理设计与运行控制。在堆芯物理建模中，利用图神经网络(GNN)强化中子输运过程模拟，结合实时中子通量密度监测数据，AI技术可动态调整燃料组件布局，提升堆芯功率分布均匀性；通过物理约束神经网络(PCNN)耦合热工水力模型，实现铅铋冷却剂流场与温度场的协同优化，强化非能动安全系统的动态响应能力。
+
+在材料研发领域，AI驱动的高通量计算与模拟技术将加速耐铅铋腐蚀材料的开发进程，同时通过智能模型优化铅铋冷却剂的氧含量控制策略，提升系统长期运行的可靠性。
+
+4.1.2 模块化设计 面向分布式能源和多样化应用场景，小型化、模块化ADS装置将成为重要发展方向。通过集成化设计与标准化生产，降低系统建设和运维成本，提高部署灵活性，以适应不同规模的核废料处理需求与能源供应场景。
+
+# 4.2 战略布局
+
+4.2.1 2030年商业示范装置目标 聚焦CiADS工程化进程，2030年前建成商业示范装置，重点突破次临界反应堆与加速器、散裂靶的协同运行技术，提升核废料嬗变效率，构建闭式核燃料循环体系，验证系统安全性与经济性，为规模化应用奠定基础。  
+4.2.2 铅铋冷却剂技术体系构建 针对次临界反应堆铅铋冷却剂的关键技术挑战，未来将重点发
+
+展智能化的氧含量监测与控制技术，建立完善的腐蚀防护与材料寿命管理体系。通过制定行业标准与技术规范，推动铅铋冷却剂技术的标准化和国际化，提升我国在ADS领域的技术引领力。
+
+总之，ADS的未来发展方向将以智能化、模块化、标准化为核心，通过AI技术与反应堆工程的深度融合，突破次临界堆芯设计、铅铋冷却剂技术、先进材料研发等关键瓶颈。随着商业示范装置的建成与技术体系的完善，ADS将在核废料嬗变、清洁能源供应等领域发挥重要作用，推动我国核能产业向高效化、安全化与可持续化方向跨越发展。
+
+# 5 总结
+
+在能源转型与碳中和的全球背景下，在能源安全与气候目标的双重驱动下，ADS代表了核能技术从“有限利用”向“可持续发展”跨越的重要路径，不但可以助力我国实现核废料“最小化”和“无害化”目标，且提升铀资源利用率，为核能的清洁化、安全化与可持续发展提供了革命性方案。此外，ADS的次临界设计具有固有安全性，符合我国核能发展对“安全性与清洁性”的双重要求。作为先进核能系统的重要组成部分，ADS的研发与应用将推动我国核燃料循环体系向更高效、更环保的方向发展，支撑“双碳”目标下核能的规模化部署。
+
+原子能院拥有超过25年的ADS研究经验，构建了完善的液态金属反应堆研发体系，实现了ADS次临界反应堆、散裂靶设计及堆靶耦合、反应堆材料、冷却剂工艺、系统设备等关键技术的重大突破，研究成果丰硕。
+
+随着 CiADS 大科学装置的工程化落地，这标志着我国在核废料嬗变领域处于国际领跑地位，原子能院势必勇担国任、积极作为、迎接挑战，突破 CiADS 项目诸多关键技术，助力我国核燃料闭式循环发展战略。
+
+# 参考文献：
+
+[1] 方守贤, 王乃彦, 何多慧, 等. 关于加速器驱动次临界系统 (ADS) 研发促进我国核能可持续发展的建议[J]. 中国科学院院刊, 2009, 24(6): 641-644.  
+FANG Shouxian, WANG Naiyan, HE Duohui, et al. Suggestions on R and D of accelerator driving sub-critical
+
+system (ADS) facilitating sustainable development of nuclear energy[J]. Bulletin of Chinese Academy Sciences, 2009, 24(6): 641-644(in Chinese).   
+[2] 詹文龙, 徐珊珊. 未来先进核裂变能——ADS 僵变系统 [J]. 中国科学院院刊, 2012, 27(3): 375-381.  
+ZHAN Wenlong, XU Hushan. Advanced fission energy program-ADS transmutation system[J]. Bulletin of Chinese Academy of Sciences, 2012, 27(3): 375-381(in Chinese).   
+[3] 史永谦, 夏普, 罗璋琳, 等. ADS 次临界实验装置——启明星 1#[J]. 原子能科学技术, 2005, 39(5): 447-450.  
+SHI Yongqian, XIA Pu, LUO Zhanglin, et al. ADS subcritical experimental assembly-Venus 1#[J]. Atomic Energy Science and Technology, 2005, 39(5): 447-450(in Chinese).   
+[4] 王璠, 朱庆福, 陈熙萌, 等. 启明星 1#次临界装置的裂变分布[J]. 原子能科学技术, 2010, 44(10): 1191-1194.  
+WANG Fan, ZHU Qinfu, CHEN Ximeng, et al. Fission rate distribution for Venus 1# sub-critical assembly[J]. Atomic Energy Science and Technology, 2010, 44(10): 1191-1194(in Chinese).   
+[5] 朱庆福, 罗皇达, 张巍, 等. 跳源法在启明星 1#次临界装置中的应用[J]. 原子能科学技术, 2010, 44(5): 567-570.  
+ZHU Qingfu, LUO Huangda, ZHANG Wei, et al. Application of source-Jerk method on Venus 1# sub-critical assembly[J]. Atomic Energy Science and Technology, 2010, 44(5): 567-570(in Chinese).   
+[6] 曹健, 史永谦, 夏普, 等. 基于启明星 1#的 ADS 壄变研究[J]. 原子能科学技术, 2012, 46(10): 1185-1188.  
+CAO Jian, SHI Yongqian, XIA Pu, et al. ADS transmutation research based on Venus 1#[J]. Atomic Energy Science and Technology, 2012, 46(10): 1185-1188(in Chinese).   
+[7] 刘锋, 史永谦, 朱庆福, 等. ADS启明星1#次临界反应堆缓发中子有效份额的测量[J].原子能科学技术, 2016, 50(8): 1445-1448.  
+LIU Feng, SHI Yongqian, ZHU Qingfu, et al. Measurement of effective delayed neutron fraction for ADS Venus 1# sub-criticality reactor[J]. Atomic Energy Science and Technology, 2016, 50(8): 1445-1448(in Chinese).   
+[8] 朱庆福, 王璠, 史永谦, 等. 启明星 1#次临界装置热中子能谱区裂变率分布测量[J]. 原子能科学技术, 2010, 44(9): 1089-1092.  
+ZHU Qingfu, WANG Fan, SHI Yongqian, et al. Fission rate distribution measurement of thermal neutron spec
+
+trum zone in Venus 1# sub-critical assembly[J]. Atomic Energy Science and Technology, 2010, 44(9): 1089-1092(in Chinese).   
+[9] 朱庆福, 周琦, 梁淑红, 等. 启明星 II 号双堆芯零功率装置[J]. 原子能科学技术, 2019, 53(10): 1842-1849.  
+ZHU Qingfu, ZHOU Qi, LIANG Shuhong, et al. Venus-II dual-core zero power reactor[J]. Atomic Energy Science and Technology, 2019, 53(10): 1842-1849(in Chinese).   
+[10] 朱庆福, 周琦, 夏兆东, 等. 启明星 II 号零功率装置铅堆堆芯首次物理启动[J]. 原子能科学技术, 2021, 55(4): 577-583.  
+ZHU Qingfu, ZHOU Qi, XIA Zhaodong, et al. First physics start-up of lead core of Venus-II zero power reactor[J]. Atomic Energy Science and Technology, 2021, 55(4): 577-583(in Chinese).   
+[11] 杨懿宸, 郑友琦, 朱庆福, 等. 基于启明星临界实验装置的小型铅堆确定论中子学计算方法研究及验证[J]. 原子能科学技术, 2025, 59(3): 644-655.  
+YANG Yichen, ZHENG Yongqi, ZHU Qingfu, et al. Deterministic neutronics calculation method of small lead-cooled reactor based on Venus-II criticality experimental facility and its verification[J]. Atomic Energy Science and Technology, 2025, 59(3): 644-655(in Chinese).   
+[12] 梁淑红, 朱庆福, 史永谦, 等. 跳源法测量 ADS 启明星 II 号的次临界度及动态特性[J]. 原子能科学技术, 2018, 52(2): 302-306.  
+LIANG Shuhong, ZHU Qingfu, SHI Yongqian, et al. Sub-critical reactivity and dynamic characteristic measured by source-Jerk method on Venus-II [J]. Atomic Energy Science and Technology, 2018, 52(2): 302-306(in Chinese).   
+[13] 姜韦, 顾龙, 朱庆福, 等. 启明星 2 号轻水堆燃料棒价值实验和模拟研究[J]. 原子能科学技术, 2018, 52(9): 1665-1670.  
+JIANG Wei, GU Long, ZHU Qingfu, et al. Experiment and simulation study for fuel rod worth of Venus-II light water reactor[J]. Atomic Energy Science and Technology, 2018, 52(9): 1665-1670(in Chinese).   
+[14] 刘洋, 周琦, 朱庆福, 等. 周期法测量启明星 II 号散裂靶材料的反应性价值[J]. 原子能科学技术, 2018, 52(10): 1769-1773.  
+LIU Yang, ZHOU Qi, ZHU Qingfu, et al. Reactivity measurement of solid spallation target in Venus-II by period method[J]. Atomic Energy Science and Technology, 2018, 52(10): 1769-1773 (in Chinese).
+
+[15] 刘洋, 朱庆福, 罗皇达, 等. 启明星 II 号安全控制部件的实验验证[J]. 原子能科学技术, 2019, 53(2): 256-260.  
+LIU Yang, ZHU Qingfu, LUO Huangda, et al. Experiment verification of safety control component in Venus-II [J]. Atomic Energy Science and Technology, 2019, 53(2): 256-260(in Chinese).   
+[16] 陈效先, 王璠, 周琦, 等. 启明星Ⅱ号中子吸收体反应性价值测量[J]. 原子能科学技术, 2020, 54(2): 302-306.  
+CHEN Xiaoxian, WANG Fan, ZHOU Qi, et al. Measurement of reactivity value of neutron absorber in Venus-II [J]. Atomic Energy Science and Technology, 2020, 54(2): 302-306(in Chinese).   
+[17] 万俊生, 张颖, 张利兴, 等. $150 \mathrm{MeV}$ 加速器驱动的反应堆系统固态金属靶优化研究[J]. 原子能科学技术, 2004, 38(1): 5-9.  
+WAN Junsheng, ZHANG Ying, ZHANG Lixing, et al. Study on optimization of solid spallation target in 150 MeV accelerator-driven reactor system[J]. Atomic Energy Science and Technology, 2004, 38(1): 5-9(in Chinese).   
+[18] 樊胜, 叶沿林, 赵志祥, 等. 150 MeV 质子入射固态金属靶性质研究[J]. 原子能科学技术, 2001, 35(3): 239-244.  
+FAN Sheng, YE Yanlin, ZHAO Zhixiang, et al. Study on the properties of solid metal neutron production target bombarded by protons at 150 MeV[J]. Atomic Energy Science and Technology, 2001, 35(3): 239-244(in Chinese).   
+[19] 樊胜, 叶沿林, 肖玉衡, 等. 散裂中子靶能量沉积研究 [J]. 原子能科学技术, 2001, 35(4): 293-299.  
+FAN Sheng, YE Yanlin, XIAO Yuheng, et al. The energy deposition of the spallation neutron target[J]. Atomic Energy Science and Technology, 2001, 35(4): 293-299(in Chinese).   
+[20] 秦博, 付晓刚, 马浩然, 等. 铅铋合金气相氧含量控制初步实验研究[J]. 材料导报, 2019, 33(11): 1821-1824.  
+QIN Bo, FU Xiaogang, MA Haoran, et al. Preliminary experiment study on control of oxygen concentration via gas phase in liquid lead-bismuth alloy[J]. Materials Reports, 2019, 33(11): 1821-1824(in Chinese).   
+[21] 秦博, 鲁盛会, 刘思涵, 等. 面向材料腐蚀防护的铅铋合金氧测氧控研究进展[J]. 材料导报, 2025, 39(4): 139-150.  
+QIN Bo, LU Shenghui, LIU Sihan, et al. Progress on the development of measurement and control of dissolved oxygen in lead-bismuth alloy for the materials corrosion protection[J]. Materials Reports, 2025, 39(4): 139-150(in Chinese).

@@ -1,0 +1,8 @@
+g. 10    Transverse phase space distributions of extracted proton beam under different stripping probe azimuths
+
+图 11    不同剥离膜倾斜角下引出质子束横向相空间分布  
+Fig. 11    Transverse phase space distribution of extracted proton beam under different stripping foil inclination angles   
+![](images/fe6f54f04e59b46ad847787babb0f996ece22a28a7290a08f9e933a23a0cfeb4.jpg)  
+a— 水平方向；b— 竖直方向
+
+焦。CYCIAE-100 目前采用 $6 0 ^ { \circ }$ 方位角的引出方案[19]，为抑制多圈剥离导致的质子束水平方向发射度增长，将剥离靶方位角调整至 $5 9 ^ { \circ }$ ，并引入 $1 5 ^ { \circ } { }$ 的剥离膜与束流夹角，增强水平

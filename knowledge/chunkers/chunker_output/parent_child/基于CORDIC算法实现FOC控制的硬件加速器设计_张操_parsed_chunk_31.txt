@@ -1,0 +1,2 @@
+ta \end{array} \right. \tag {14}
+$$

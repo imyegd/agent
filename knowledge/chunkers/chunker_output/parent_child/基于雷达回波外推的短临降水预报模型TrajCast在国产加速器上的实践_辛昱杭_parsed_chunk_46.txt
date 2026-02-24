@@ -1,0 +1,5 @@
+2018, 3 (3): 341-350.  
+[5] LECUN Y, BOTTOU L, BENGIO Y, et al. Gradientbased learning applied to document recognition[J]. Proceedings of the IEEE, 1998, 86(11): 2278-2324.   
+[6] HE K, ZHANG X, REN S, et al. Deep residual learning for image recognition[C]//IEEE Conference on Computer Vision and Pattern Recognition, 2016: 770- 778.   
+[7] MEDSKER L R, JAIN L, et al. Recurrent neural networks[J]. Design and Applications, 2001, 5(64-67): 2.   
+[8] 韩丰, 龙明盛, 李月安, 等. 循环神经网络在雷达临近预报中的应用[J]. 应用气象学报, 2019, 30(1): 61

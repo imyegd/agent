@@ -1,0 +1,7 @@
+IU Ping, et al. Shielding calculation for Jinping Underground Nuclear Astrophysics Laboratory[J]. Atomic Energy Science and Technology, 2018, 52(7): 1181-1185(in Chinese).   
+[60] 陈立华, 崔保群, 马鹰俊, 等. 用于锦屏深地核天体物理研究的强流加速装置的设计与试验进展[J]. 原子能科学技术, 2020, 54(11): 2231-2237.  
+CHEN Lihua, CUI Baoqun, MA Yingjun, et al. Design and experimental progress of a high-intensity accelerator for nuclear astrophysics research at the Jinping Underground Laboratory[J]. Atomic Energy Science and Technology, 2020, 54(11): 2231-2237 (in Chinese).   
+[61] 马瑞刚, 崔保群, 李爱玲, 等. 锦屏深地强流高压加速器控制系统的研制[J]. 原子能科学技术, 2022, 56(8): 1700-1706.  
+MA Ruigang, CUI Baoqun, LI Ailing, et al. Development of the control system for the high-current high-voltage accelerator at Jinping Underground Laboratory[J]. Atomic Energy Science and Technology, 2022, 56(8): 1700-1706(in Chinese).   
+[62] 陈红涛, 沈冠仁, 刘乃义, 等. 高频离子源的改进和研制[C]/2001全国荷电粒子源、粒子束学术会议论文集. [出版地不详]: [出版者不详], 2001: 14-18.  
+[63] 陈红涛. $600\mathrm{kV}$ 毫微秒脉冲高压倍加器低能传输效率的提高和脉冲宽度的降低研究[D].北京：中国原子能科学研究院，2007.

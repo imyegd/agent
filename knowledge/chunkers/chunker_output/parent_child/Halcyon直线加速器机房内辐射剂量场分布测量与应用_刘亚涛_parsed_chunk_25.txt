@@ -1,0 +1,8 @@
+$R ^ { 2 } { = } 0 . 9 9 4$ ）。
+
+表 1    2 种方法计算出的四周屏蔽体厚度比较  
+Table 1    Comparison of the thickness of four shielding walls calculated by two methods   
+
+<table><tr><td rowspan="2">计算方法</td><td colspan="4">屏蔽体厚度(mm钢筋混凝土)</td></tr><tr><td>东墙</td><td>南墙</td><td>西墙</td><td>北墙</td></tr><tr><td>经验公式法</td><td>1328</td><td>1116</td><td>1349</td><td>1329</td></tr><tr><td>辐射场数据法</td><td>1219</td><td>949</td><td>1235</td><td>1252</td></tr></table>
+
+放疗机房内辐射剂量的空间分布情况。为了实现这一目标，研究团队采用了被动式累积剂量计 TLD，凭借其能够承受的高剂量范围（最大可达 $1 0

@@ -1,0 +1,13 @@
+s p}}\right) \tag {8}
+$$
+
+则公式（4）～（7）的暴露年龄侵蚀校正后为：
+
+$$
+T _ {\text {e x p - c o r}} = f _ {\varepsilon} \times T _ {\text {e x p}} \tag {9}
+$$
+
+侵蚀校正的通用公式为：
+
+$$
+\begin{array}{l} N _ {\text {t o t a l}} (t, z) = N _ {\text {i n h}} (z) \mathrm {e} ^ {- \lambda t} + \\ \sum_ {i} \frac {P _ {i} (z)}{\lambda + \rho \varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \rho \left(z _ {0} - \varepsilon t\right) / \Lambda_ {i}} \left(1 - \mathrm {e} ^ {- (\lambda + \rho \varepsilon / \Lambda_ {i}) t}\right) (1 0) \\ \end{array

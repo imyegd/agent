@@ -1,0 +1,6 @@
+1 }$ 截面数据尚未直接测量。基于 Webber 和 Hojvat [11] 在 $2 0 0 \ \mathrm { M e V }$ 下的测量结果，并结合截面与相对论速度参数 $\beta$ 的平方呈反比的关系，推算出在 $1 0 0 \ \mathrm { M e V }$ 时的相关截面数据，列于表 2。实验测量的 $\sigma _ { - 1 1 }$ 远小于 $\sigma _ { - 1 0 }$ 和$\sigma _ { 0 1 }$ ，在计算中忽略不计。
+
+表 2 $\mathbf { 1 0 0 M e V }$ 负氢离子和碳剥离膜的碰撞截面  
+Table 2 Collision cross-section of 100 MeV H− ions with carbon stripping foils   
+
+<table><tr><td rowspan="2">截面类型</td><td colspan="2">截面/10-18cm2</td></tr><tr><td>200 MeV测量数据</td><td>100 MeV推算结果</td></tr><tr><td>σ-10</td><t

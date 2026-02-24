@@ -1,0 +1,4 @@
+在 $858\mu \mathrm{s}$ 时将束流电流设置为 $0\mathrm{nA}$ ，在 $979\mu \mathrm{s}$ 时束流达到稳定值 $0\mathrm{nA}$ ，束流下降时间为121 $\mu \mathrm{s}$ ，满足要求。
+
+![](images/e5046b75de1bc64763fe48c2fbf4db4615574ab6cc0626053be39b263733aa27.jpg)  
+图12 下降时间测试

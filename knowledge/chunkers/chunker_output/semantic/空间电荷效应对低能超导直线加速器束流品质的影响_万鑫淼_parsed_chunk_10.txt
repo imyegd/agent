@@ -1,0 +1,21 @@
+$$
+\frac {D f}{D s} = \frac {\partial f}{\partial s} + \boldsymbol {p} \cdot \nabla_ {r} f + \boldsymbol {F} \cdot \nabla_ {p} f = 0 \tag {1}
+$$
+
+式中： $s$ 为沿传输方向的坐标； $F$ 为粒子所受的力（包括外场和自场）。利用经典扰动理论，假设分布函数 $f$ 可分解为平衡态 $f _ { 0 }$ 和微小扰动 $f _ { 1 }$ ，则
+
+$$
+f = f _ {0} + f _ {1} \tag {2}
+$$
+
+代入 Vlasov 方程后，在忽略高阶小量的情况下，得到线性化的 Vlasov 方程为
+
+$$
+\frac {D f _ {1}}{D s} = - \frac {q}{m} \nabla V \cdot \nabla_ {p} f _ {0} \tag {3}
+$$
+
+式中： $V$ 是扰动电势，需通过Poisson方程自洽求解。同时，扰动电势 V 可被展开为多项式形式，即
+
+$$
+V _ {n} = \sum_ {m = 0} ^ {n} A _ {m} (s) x ^ {n - m} y ^ {m} + \sum_ {m = 0} ^ {n - 2} A _ {m} ^ {(1)} (s) x ^ {n - m - 2} y ^ {m} + \dots \tag {4}
+$$

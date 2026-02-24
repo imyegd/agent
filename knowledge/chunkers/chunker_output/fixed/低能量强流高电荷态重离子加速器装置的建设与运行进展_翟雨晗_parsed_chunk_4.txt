@@ -1,0 +1,7 @@
+cluding  an  extended energy  tuning  range  and  triple-ion  beam  capability—will  further  enhance  its  role  as  a  frontier  platform  for experimental studies in nuclear astrophysics and radiation effects in advanced materials.
+
+Key words：   heavy ion accelerator, beam control, cocktail beam, high current carbon ion beam, energy tuning
+
+得益于先进重离子加速器对能量范围和离子种类的拓展，重离子束流已成为研究微观物质结构与宇宙演化机制的重要实验工具。在核物理基础研究方面，其在探索强相互作用规律、合成超重核素及模拟天体核反应等方向中发挥着关键作用；在应用研究领域，高电荷态重离子束已广泛应用于核能材料辐照、表面改性及微纳结构加工等前沿领域，展现出不可替代的研究价值。特别是低能量强流高电荷态重离子束，凭借其高能量密度与强场相互作用特性，为解决诸如天体核合成机制、极端荷电体系的多体动力学行以及辐照损伤演化等前沿科学问题提供了实验基础。
+
+基于上述科学需求，国家自然科学基金委员会于 2014年批准立项“低能量强流高电荷态重离子加速器装置”（LEAF），旨在建设一个具备国际领先性能的低能量强流重离子束研究平台。LEAF 装置重点面向以下三个方向开展研究：第一，围绕恒星内部氢、氦与碳燃烧过程中的关键核反应（如 $^ { 1 2 } \mathrm { C } + ^ { 1 2 } \mathrm { C }$ 熔合），开展低能区 $\leqslant 1 . 0 \mathrm { M e V / u } ,$ ）反应截面的高精度测量，以揭示重元素（如 Na、Mg）的核合成路径并提供天体演化模型所需的实验约束；第二，利用高电荷态离子（如 $\mathrm { X e ^ { 4 0 ^ { + } } }$ 、 $\mathrm { U } ^ { 5 0 + }$ ）与物质相互作用的实验条件，开展强场下分子爆炸、多电子关联等量子动力学现象的研究，拓展原子分子物理的研究边界；第三，

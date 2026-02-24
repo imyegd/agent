@@ -1,0 +1,19 @@
+left(W _ {x r} * X _ {t} + W _ {h r} * H _ {t - 1}\right) \tag {3}
+$$
+
+$$
+H _ {t} ^ {\prime} = f \left(W _ {x h} * X _ {t} + R _ {t} \circ \left(W _ {h h} * H _ {t - 1}\right)\right) \tag {4}
+$$
+
+$$
+H _ {t} = \left(1 - Z _ {t}\right) \circ H _ {t} ^ {\prime} + Z _ {t} * H _ {t - 1} \tag {5}
+$$
+
+在改进为TrajGRU单元后，其操作方式更新如下，其中warp代表重采样操作：
+
+$$
+Z _ {t} = \sigma \left(W _ {x z} * X _ {t} + \sum_ {l = 1} ^ {L} W _ {h z} ^ {l} * w a r p \left(H _ {t - 1}, U _ {t, l}, V _ {t, l}\right)\right) \tag {6}
+$$
+
+$$
+R _ {t} =

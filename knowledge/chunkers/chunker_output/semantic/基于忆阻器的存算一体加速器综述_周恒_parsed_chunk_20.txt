@@ -1,0 +1,13 @@
+Evaluation  of  Hybrid  Memory  Technologies  Using  SOT-MRAM  for  On-Chip  Cache  Hierarchy[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2015, 34(3): 367−380.   
+Sayeef Salahuddin, Kai Ni, Suman Datta. The Era of Hyper-[2] Scaling  in  Electronics[J].  Nature Electronics,  2018,  1: 442−450.   
+Can  Li,  Lili  Han,  Hao  Jiang,  et  al.  Three-Dimensional[3] Crossbar  Arrays  of  Self-Rectifying $\mathrm { S i } / \mathrm { S i O } _ { 2 } / \mathrm { S i }$ Memristors[J]. Nature Communications, 2017, 8: 15666.   
+Rivu  Midya,  Zhongrui  Wang,  Jiaming  Zhang,  et  al.[4] Anatomy  of  Ag/Hafnia-Based  Selectors  with 1010 ${ 1 0 } ^ { 1 0 }$ Nonlinearity[J].  Advanced Materials,  2017,  29(12): 1604457.   
+Mingyi  Rao,  Wenhao  Song,  Fatemeh  Kiani,  et  al.  Timing[5] Selector: Using Transient Switching Dynamics to Solve the Sneak  Path  Issue  of  Crossbar  Arrays[J].  Small Science, 2022, 2(1): 2100072.   
+Yi Huang, Takashi Ando, Abu Sebastian, et al. Memristor-[6] based  Hardware  Accelerators  for  Artificial  Intelligence[J]. Nature Reviews Electrical Engineering, 2024, 1: 286−299.   
+Pengxiao  Sun,  Nianduan  Lu,  Ling  Li,  et  al.  Thermal[7] Crosstalk  in  3-Dimensional  RRAM  Crossbar  Array[J]. Scientific Reports, 2015, 5: 13504.   
+Jinpeng Liu, Wei Tong, Bing Wu, et al. ICON: An IR Drop[8] Compensation  Method  at  OU  Granularity  with  Low Overhead  for  eNVM-based  Accelerators[C]//2023 IEEE 41st International Conference on Computer Design. Piscataway: IEEE, 2023: 102−109.   
+Heng  Zhou,  Bing  Wu,  Huan  Cheng,  et  al.  ODLPIM:  A[9] Write-Optimized  and  Long-Lifetime  ReRAM-Based Accelerator  for  Online  Deep  Learning[C]//2023 Design, Automation & Test in Europe Conference & Exhibition. Piscataway: IEEE, 2023: 1−6.   
+Heng  Zhou,  Bing  Wu,  Huan  Cheng,  et  al.  DRCTL:  A[10] Disorder-Resistant  Computation  Translation  Layer Enhancing  the  Lifetime  and  Performance  of  Memristive CIM  Architecture[C]//2024 57th IEEE/ACM International Symposium on Microarchitecture. Piscataway: IEEE, 2024: 263−277.   
+Anteneh Gebregiorgis, Hoang Anh Du Nguyen, Jintao Yu, et[11] al. A Survey on Memory-Centric Computer Architectures[J]. ACM Journal on Emerging Technologies in Computing Systems, 2022, 18(4): 1−50.   
+Mohsen  Imani,  Saransh  Gupta,  Yeseong  Kim,  et  al.[12] FloatPIM:  In-Memory  Acceleration  of  Deep  Neural Network Training with High Precision[C]//2019 ACM/IEEE 46th Annual International Symposium on Computer Architecture. Piscataway: IEEE, 2019: 802−815.   
+Minh S. Q. Truong, Eric Chen, Deanyone Su, et al. RACER:[13] Bit-Pipelined  Processing  Using  Resistive  Memory[C]// MICRO-54: 54th Annual IEEE/ACM International

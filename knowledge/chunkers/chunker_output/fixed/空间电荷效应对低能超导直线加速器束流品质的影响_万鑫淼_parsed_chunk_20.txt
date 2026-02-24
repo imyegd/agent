@@ -1,0 +1,28 @@
+614162c2a50e39bbefa9f155.jpg)
+
+![](images/a2757cf8a1c46247d76c151467e7e5f99042957503b7e7aa311772b18446feea.jpg)
+
+![](images/0dcedeaa429ac3393332ab68818ea76404a92618ab2b9c258950d82470b9c7ba.jpg)  
+cryomodule  
+RF cavity
+
+![](images/c8c3af809737747a04f10dcbc125e58651536dae39a5493e8a61cb54fcbd7df6.jpg)  
+solenoid
+
+![](images/b766d5b78ffbc5cc1be2cf0ec3cfb551440dc924b1c3d6b9b65c82c1493e5107.jpg)
+
+![](images/44f29aa941abbeda8c4ddb6506f4c06a20b5174c8317665f6f9dda4b9da42a15.jpg)  
+Fig. 9    Schematic diagram of the double periodic structure and its beam matching   
+图 9    双周期结构及其束流匹配示意图
+
+# 2.2    束流稳定性
+
+我们在小周期相移小于 $9 0 ^ { \circ }$ 强流的条件下，数值分析了长距离传输的包络情况，如图 10所示。通过与周期结构的对比，我们发现，在空间电荷和双周期聚焦结构的影响下，即使 $\sigma _ { 0 }$ 小于 $9 0 ^ { \circ }$ ，束流在双周期结构内也会产生不
+
+![](images/66f9cc17cd1a46103336cfa85a0f90d72f57360010ea1523aa26128d5bd48769.jpg)  
+(a) a double-period structure
+
+![](images/be46630e73fb88e206a6f19e17532fe3b64e9b65ceb3d954e3244bf678beae04.jpg)  
+(b) nine fully-period structure
+
+![](images/653173313aefb28ebc07a6e664a3

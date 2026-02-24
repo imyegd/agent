@@ -1,0 +1,45 @@
+# 2.3   空间电荷效应对共振的影响
+
+结合粒子束核模型及庞加莱截面，我们发现对于发射度主导的束流和空间电荷主导的束流，引起的共振类型
+
+![](images/51a715d0f72ff0670f5afe641f3d69171a3c3d00913cfaa86ada42b564276678.jpg)
+
+![](images/29cbb7905310627736abfc145613744e6b7baf73b335e44e15aaa3bb63dab106.jpg)  
+(a) complete periodic structure   
+(b) double periodic structure   
+Fig. 11    Schematic diagram of the envelope obtained from multi-particle simulation   
+图 11    多粒子模拟得到的包络仿真结果
+
+![](images/e7566675f60e01d3f7447d2322e411ffcdb82c7d6e7ad0a45f80d34e8364b765.jpg)
+
+![](images/737413cbd8cf87f193bce32247c7b519921a2c7de6d6cba55468bbbb8d9fc171.jpg)  
+Fig. 12    Distribution of particles in the phase space of the entrance and 182 m   
+图 12    粒子在入口和 182 米处相空间的分布
+
+不同。发射度主导引起共振类型是 4∶1，空间电荷主导的是 2∶1，如图 13 所示。
+
+束流包络在传输过程中的振荡并非简单的简谐振动，而是包含了丰富谐波成分的复杂周期运动。这些谐波可以通过频谱分析。基频等于包络振荡的主频率，通常对应包络在一个大周期内完成一次完整振荡的频率。这是包络振荡中的主要成分。由于空间电荷力的非线性以及聚焦结构的不连续性，包络振荡波形会偏离完美的正弦波，从而产生频率为基频整数倍的高次谐波。这些谐波代表了包络运动中的快波动。我们选取了一个位于2∶1 共振岛的粒子进行观察，发现粒子在 10个大周期内跑了 15次，也就是和束核振荡的 3 倍频产生 2∶1共振，如图14所示。
+
+通过对包络的频谱分析，如图 15所示，发现横向包络振荡的三倍频为 0，但纵向包络的能量很高，说明纵向包
+
+![](images/8f3d085c4a64a0520fa4024dc70bec37e776943b891ead0f6ecce26af51505a7.jpg)
+
+![](images/fd5f7103f2c9ecf1b7e7c6144da31398d4fc2d2384800bd4ba4034a551bf46ef.jpg)  
+Fig. 13    Beam current dominated by emittance undergoes 4∶1 resonance $\gamma = 0 . 7 2$ ), and the beam current dominated by space charge undergoes 2∶1 resonance $( \eta = 0 . 6 9$ )
+
+![](images/9507543bc06d2c24f863cbf83d814bf01decd9715580a1516110bc5a55f1873c.jpg)  
+图 13    发射度主导的束流发生 4∶1 共振 $( \eta = 0 . 7 2 )$ )，空间电荷主导的束流发生 2∶1 共振 $( \eta = 0 . 6 9 )$ )  
+Fig. 14    Motion trajectory of the particle and the envelope, this particle is located on the 2∶1 resonance island in Figure 13(b).   
+图 14    粒子与包络的运动轨迹, 这个粒子位于图 13(b) 2∶1 共振岛上
+
+![](images/ff42e7112f87b994758221c5734cbd6a8cdb941a19dbe959607e78b91397df21.jpg)  
+(a) transverse, $\scriptstyle \eta = 0 . 6 9$ , $\sigma _ { 0 \mathrm { s } } { = } 8 5 . 8 ^ { \circ }$
+
+![](images/ae8b65cfbce24c6e4f223d059f540e61e040b891d7eb04eaef8d12a278e1c743.jpg)  
+(b) longitudinal, $\scriptstyle \eta = 0 . 6 9$ , $\sigma _ { 0 \mathrm { s } } { = } 8 5 . 8 ^ { \circ }$   
+Fig. 15    Transverse and longitudinal envelope spectrum analysis   
+图 15    横向包络和纵向包络的频谱分析
+
+络也会改变束核的电荷密度。
+
+采用 TraceWin 进行多粒子模拟，发现粒子 2∶1共振在相空间内的类花生分布图，如图 16所示。此处，多粒子模拟的参数为：初始横纵向归一化发射度为 $0 . 2 \ \pi$ ·mm·mrad、$0 . 3 \pi { \cdot } \mathrm { m m { \cdot } m r a d }$ ，质子束动能为 $3 0 \mathrm { M e V }$ ，粒子数为 $1 0 0 0 0 0$ 。

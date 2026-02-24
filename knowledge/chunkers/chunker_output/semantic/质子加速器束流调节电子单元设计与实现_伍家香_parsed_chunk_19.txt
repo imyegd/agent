@@ -1,0 +1,9 @@
+积分项可以写成：
+
+$$
+Y (z) = Y (z) \cdot z ^ {- 1} + \frac {X (z) \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{2} \tag {2}
+$$
+
+$$
+\frac {Y (z)}{X (z)} = \frac {K _ {i} \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{\left(1 - z ^ {- 1}\right) \cdot 2} \tag {3}
+$$

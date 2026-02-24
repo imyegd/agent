@@ -1,0 +1,38 @@
+% 工具汇总表 - 适用于毕业论文
+% 使用 XeLaTeX 或 pdfLaTeX 编译，需 \usepackage{booktabs} \usepackage{longtable} \usepackage{array}
+
+\begin{table}[htbp]
+  \centering
+  \caption{智能体工具列表汇总}
+  \label{tab:tools-summary}
+  \small
+  \begin{tabular}{llp{8.5cm}}
+    \toprule
+    \textbf{类别} & \textbf{工具名称} & \textbf{功能描述} \\
+    \midrule
+    \multirow{2}{*}{数据查询} & \texttt{query\_beam\_data} & 按时间范围查询束流数据，用于数据核对、趋势分析取样及异常诊断前数据确认；返回查询摘要、数据及可选统计信息。 \\
+    \cmidrule(lr){2-3}
+    & \texttt{get\_data\_info} & 获取数据集元信息（总记录数、时间范围、列名、target 统计及样本记录），建议在首次查询前调用以确定可用时间范围与列。 \\
+    \midrule
+    PLS 分析 & \texttt{analyze\_beam\_fluctuation} & 分析指定时间范围内束流数据的波动情况；基于 PLS 模型检测数据是否超过阈值，识别异常点并分析异常原因，适用于数据漂移与结构变化检测。 \\
+    \midrule
+    可视化 & \texttt{visualize\_beam\_fluctuation} & 对束流波动数据执行 PLS 分析并生成自然语言报告，绘制 T² 与 SPE 统计量图表，便于全面了解束流状态并生成分析报告。 \\
+    \midrule
+    异常检测 & \texttt{detect\_anomaly} & 基于回归预测偏差与 3$\sigma$ 工程判据，判断指定时间段内是否存在异常。 \\
+    \midrule
+    \multirow{4}{*}{异常诊断} & \texttt{diagnose\_by\_statistical\_difference} & 基于统计差异（Z-score）的异常特征诊断：比较异常时段与正常时段各变量的统计分布差异，识别发生显著偏移的关键变量。 \\
+    \cmidrule(lr){2-3}
+    & \texttt{diagnose\_by\_pls} & 基于已训练 PLS 模型进行异常特征诊断：分析各输入变量对目标束流的线性投影权重，识别与束流异常变化高度相关的关键变量。 \\
+    \cmidrule(lr){2-3}
+    & \texttt{diagnose\_by\_shap} & 基于 SHAP 的异常特征诊断：对回归模型（如随机森林、XGBoost）进行可解释性分析，得到异常时段内各变量对预测结果的贡献，识别导致束流偏离的关键变量。 \\
+    \cmidrule(lr){2-3}
+    & \texttt{diagnose\_by\_autoencoder} & 基于自编码器重构误差的异常特征诊断：分析异常时段各变量重构误差，识别相对正常工况显著偏离的关键变量；不依赖监督标签，适用于无故障标注场景。 \\
+    \midrule
+    \multirow{3}{*}{RAG 知识库} & \texttt{explain\_diagnosis\_features} & 承接异常诊断结果，从 generation 知识图谱解释异常特征（feature1--feature34）的物理含义、所属子系统及详细参数。 \\
+    \cmidrule(lr){2-3}
+    & \texttt{explain\_variable\_meaning} & 从 generation 知识图谱解释单个变量的含义与用法，支持中文变量名、featureN 或自然语言问题。 \\
+    \cmidrule(lr){2-3}
+    & \texttt{search\_domain\_knowledge} & 从常规知识库检索束流、加速器、微电子等领域知识，采用混合检索（TF-IDF + 向量语义），用于回答概念、原理及技术细节类问题。 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

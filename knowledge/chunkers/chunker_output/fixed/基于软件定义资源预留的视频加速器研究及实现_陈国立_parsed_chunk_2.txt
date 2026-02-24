@@ -1,0 +1,7 @@
+Network (SDN), the concept of separating the control plane from the data plane has attracted extensive attention in the network field. In order to ensure the fluency of high-priority video services during network congestion, this paper designs a video accelerator based on software defined resource reservation and applies it to distributed video conferencing. When the overall network bandwidth is insufficient to ensure high-quality transmission of all video streams, service providers can reserve bandwidth for specific video services through the payment mechanism of video accelerators, thereby ensuring network Quality of Service (QoS), improving end-to-end video quality, and improving end-user experience. Experiments show that the scheme can reserve bandwidth for specific video streams through SDN, and significantly improve video stream quality and user experience.
+
+Keywords: SDN; resource reservation; service quality; video acceleration
+
+# 0 引言
+
+随着云计算、大数据、5G及多媒体等技术的不断发展，视频直播、短视频、线上会议、虚拟现实/增强现实、云游戏、视频AI分析等视频相关应

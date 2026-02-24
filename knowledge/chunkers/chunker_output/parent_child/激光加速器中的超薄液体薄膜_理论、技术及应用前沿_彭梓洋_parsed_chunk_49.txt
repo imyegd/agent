@@ -1,0 +1,3 @@
+ckness distribution. Leveraging fundamental insights from radial momentum transfer and angular mass transport dynamics, the first predictive viscous collision model was established. This theoretical framework, combined with the ternary method, enabled the deterministic fabrication of ultra-thin liquid sheets, achieving internationally competitive sub-micron thicknesses identified as optimal for current laser ion acceleration applications.
+
+Finally, the paper pivots to demonstrate the practical utility of th

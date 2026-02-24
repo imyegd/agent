@@ -1,0 +1,13 @@
+f219a3f9c881253441b0b.jpg)  
+b加速器室关注点
+
+![](images/1ec2500b476fd2d3d6b4071a8073bc40de473604aae6e766760da30232fe1d10.jpg)  
+c辐照机房上方关注点  
+注：A～J 均为关注点  
+图2 广西壮族自治区某 $1 0 \mathrm { M e V }$ 加速器屏蔽核算关注点
+
+表 3 广西壮族自治区某 $1 0 \mathrm { M e V }$ 加速器工作场所关注点屏蔽体（普通混凝土）厚度核算结果  
+
+<table><tr><td>关注点</td><td>所需屏蔽体厚度(n)</td><td>实际屏蔽体厚度(n)</td><td>评价</td></tr><tr><td>A</td><td>2.31</td><td>2.80</td><td>符合</td></tr><tr><td>B</td><td>2.48</td><td>2.60</td><td>符合</td></tr><tr><td>C</td><td>2.62</td><td>2.80</td><td>符合</td></tr><tr><td>D</td><td>2.40</td><td>2.60</td><td>符合</td></tr><tr><td>E</td><td>1.07</td><td>2.40</td><td>符合</td></tr><tr><td>F</td><td>1.04</td><td>2.20</td><td>符合</td></tr><tr><td>G</td><td>1.06</td><td>2.20</td><td>符合</td></tr><tr><td>H</td><td>0.93</td><td>1.70</td><td>符合</td></tr><tr><td>I</td><td>0.94</td><td>2.10</td><td>符合</td></tr><tr><td>J</td><td>1.03</td><td>1.50</td><td>符合</td></tr></table>
+
+出束一段时间后，手持剂量率仪和个人剂量报警仪分别进入辐照室和加速器室完成巡检，待巡检完毕再重新出束，巡检时间约 $1 { \sim } 2 ~ \mathrm { m i n }$ 。 按停机 $1 5 ~ \mathrm {

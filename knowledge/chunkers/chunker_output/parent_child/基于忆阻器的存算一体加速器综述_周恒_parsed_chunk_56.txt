@@ -1,0 +1,3 @@
+ransactions on Computer-Aided Design of Integrated Circuits and Systems,  2025,  44(5): 1745−1759.   
+Bing Wu, Yibo Liu, Jinpeng Liu, et al. FADESIM: Enable[27] Fast  and  Accurate  Design  Exploration  for  Memristive Accelerators  Considering  Nonidealities[J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2025, 44(4): 1529−1543.   
+Zhenhua Zhu, Hanbo Sun, Tongxin Xie, et al. MNSIM 2.0:[28] A  Behavior-Level  Modeling  Tool  for  Processing-In-Memory Architectures[J]. IEEE

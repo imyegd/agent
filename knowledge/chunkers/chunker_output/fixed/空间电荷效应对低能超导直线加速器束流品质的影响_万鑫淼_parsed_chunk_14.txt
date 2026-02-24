@@ -1,0 +1,14 @@
+型来准确预测。因此，我们考虑了三维束流动力学，并模拟了束流在加速度作用下的演变。为了探索这一点，我们假设了两个周期加速通道，其中每个周期单元包含聚焦结构和加速结构，如图3所示。每个周期单元的长度为 $1 2 3 7 . 0 \mathrm { m m }$ ，与图 2所示的周期单元长度相同。
+
+为避免不同自由度间的耦合共振，需利用均温理论优化动态参数选择，使束流振荡能量达到平衡。在均温条件下，我们假设纵向零流强相移的最大值为横向零流强相移最大值的 $2 / 3 ^ { [ 1 9 ] }$ 。纵向粒子分布则满足三倍 $\sigma$ 截断的
+
+![](images/63f604e77e49521f218f62cead7ee15ee1c977d08acd1363f9a98b94739ed92c.jpg)  
+Fig. 6    Distribution evolution of particles in the phase space when $\boldsymbol { \mathsf { \Pi } } \boldsymbol { \mathsf { \Pi } }$ are 0.6 and 0.7 respectively, the focusing scheme is $\textcircled{1}$ , and the beam is transported along the doublet
+
+![](images/0e0e7833b7f049895b673d0e6e8ca216ed11f308f82294aeffc97689169b13fc.jpg)  
+图  6    当 $\eta$ 分别为 0.6 和 0.7，聚焦方案为 $\textcircled{1}$ ，束流沿双组合四极透镜传输时，粒子在相空间的分布演化  
+(a) quadrupole doublet
+
+![](images/b960999a99919d6459f55f1bf42cddb665a4500fbfffeecb8d1711b2880bd30a.jpg)  
+(b) solenoid   
+Fig. 7    Beam outlet emissivity corresponding to different focusing schemes and different $\eta$ in the three-dimension

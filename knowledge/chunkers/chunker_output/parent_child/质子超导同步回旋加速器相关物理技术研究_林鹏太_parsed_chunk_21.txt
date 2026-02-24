@@ -1,0 +1,9 @@
+# 2.2 纵向动力学分析
+
+纵向动力学计算时，我们假定加速间隙宽度为$1 \mathrm { c m }$ ，加速间隙之间的电场为均匀分布，并随时间按下式变化：
+
+$$
+\boldsymbol {E} (t) = E _ {0} \cos \left(\omega_ {\mathrm {r f}} (t) t + \phi_ {\mathrm {s}}\right) \boldsymbol {e} _ {\theta}, \tag {8}
+$$
+
+其中： $E _ { 0 }$ 为加速间隙的电场强度峰值，其数值上等于加速电压峰值与加速间隙宽度的比值； $\omega _ { \mathrm { r f } }$ 为加速电场的角频率； $\varphi _ { \mathrm { s } }$ 为粒子加速电场初始相位，即参考质子平衡相位； $e _ { \theta }$ 为 $\theta$ 方向单位向量。由于整个加速过程中相位滑移系数 $\eta { = } \alpha _ { \mathrm { c } } { - } 1 / \gamma ^ { 2 } ( \alpha _ { \mathrm {

@@ -1,0 +1,13 @@
+![](images/a45a62cac68298b77981e7ae7d90bf8d0b66f4c7df8110fd2d8e5ba4baf2cdeb.jpg)  
+Fig. 4    Relationship diagram between transverse electric field variation and curvature radius   
+图 4    横向电场变化与曲率半径关系图
+
+斩束器曲率半径选取为 $2 1 0 \mathrm { m m }$ ，此时通过 CST Studio Suite软件模拟，得到圆弧极板斩束器横向电场强度分布曲线如图5所示，电场强度矢量分布图如图6所示。通过对斩束器极板几何形状、尺寸进行优化，最终得到具有良好电场强度分布的斩束器结构。
+
+![](images/feda05adb7b0bcf307a7791fcefb6b8e47ae6387f31397f0b912453780b781f5.jpg)  
+Fig. 5    Horizontal electric field intensity distribution curve of circular arc plate chopper   
+图 5    圆弧极板斩束器横向电场强度分布曲线图
+
+![](images/925c36d2f28debc7dd906ee793a09cc7a7013c23b2e5782545fbfca403729874.jpg)  
+Fig. 6    Vector diagram of electric field strength for arc plate chopper   
+图 6    圆弧极板斩束器电场强度矢量图

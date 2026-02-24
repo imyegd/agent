@@ -1,0 +1,47 @@
+# ［参考文献］
+
+［1］KOPOLOVIC I, OSTRO J, TSUBOTA H, et al. A systematic review of transfusion-associated graft-versushost disease[J]. Blood, 2015, 126(3): 406-414.   
+［2］李剑平，朱江，李晓丰.我国血液辐照技术的应用与展望 [M]//骆群.中国输血行业发展报告. 北京：社会科学文献出版社，2021.  
+［3］辐照血液临床应用中国专家共识编写组 . 辐照血液临床应用中国专家共识 [J].中国输血杂志，2023，36（9）：757-766.  
+［4］江苏省预防医学会. 辐照血液使用指南：T/JPMA（下转第46 页）
+
+29
+
+区医院医用耗材管理的应用研究 [J]. 中国医疗设备，2023，38（3）：113-118.  
+［8］杨越，王欣国，顾伟，等. 基于医院专家视角的医用耗材 SPD 供应链管理模式质性研究 [J]. 中国医院，2023，27（8）：61-64.  
+［9］余静芸，吴丽华，邝燕华，等. 精益六西格玛在改善医用耗材验收环节的应用 [J].中国医疗设备，2021，36（2）：139-143.  
+［10］陈波，张喜红，戴桂平，等. 基于六西格玛方法优化医用耗材库存管理 [J]. 医院管理论坛，2021，38（7）：25-28，63.  
+［11］陈淑君，龚薇，郑思娴 . 智能化管理系统联合六西
+
+格玛在医用耗材配送管理中的应用 [J].中医药管理杂志，2021，29（19）：196-197.  
+［12］孙玲，韦俐，陈赛君，等. 精益六西格玛管理在降低胸外科耗材占比中的应用效果 [J]. 医疗装备，2024，37（7）：45-48，52.  
+［13］陈曦，韩海建，李文宇，等.智能化库房建设在医用耗材管理模式优化中的价值研究 [J].中国医学装备，2023，20（7）：118-122.  
+［14］束嘉俊，王智俊，朱亦丰，等. 医院医用耗材智能管理系统的构建与应用 [J]. 中国卫生信息管理杂志，2024，21（2）：234-239.
+
+（上接第 29 页）
+
+007—2020[S]. 南京：江苏省预防医学会，2020.
+
+［5］刘旭红，陈晓，崔建国，等.直线加速器产生的X射线辐照血液技术的应用[J].医疗装备，2013，26（7）：9-10.  
+［6］PINNARÒ P, SORIANI A, D'ALESSIO D, et al. Implementation of a new cost efficacy method for blood irradiation using a non dedicated device[J]. J Exp Clin Cancer Res, 2011, 30(1): 7.   
+［7］SHASTRY S, RAMYA B, NINAN J, et al. Linear accelerator: A reproducible, efficacious and cost effective alternative for blood irradiation[J]. Transfus Apher Sci, 2013, 49(3): 528-532.   
+［8］OLIVO R A, DA SILVA M V, GARCIA F B, et al. Evaluation of the effectiveness of packed red blood cell irradiation by a linear accelerator[J]. Rev Bras Hematol Hemoter, 2015, 37(3): 153-159.   
+［9］NAGHINEZHAD J, HOSSEINI E, SIAVASHPOUR Z, et al. Designing a linear accelerator-based “X irradiation
+
+system” for platelet product s: A n ef f icient , sa fe, accessible and cost-effective alternative for conventional X- or gamma irradiators[J]. Sci Rep, 2024, 14(1): 28363.   
+［10］NAIR S S, NAGESH J, C S, et al. A dosimetric comparison study for blood irradiation employing different medium and algorithms in clinical linear accelerator[J]. J Blood Med, 2024, 15: 449-458.   
+［11］国家卫生健康委员会. 国家卫生健康委关于印发血站技术操作规程（2019版）的通知：国卫医函 〔2019〕98号 [EB/OL]. （2019-04-28）.https://www.nhc.gov.cn/yzygj/c100068/201905/4822b48429044e16baa2739c10fea35e.shtml.  
+［12］国家癌症中心/国家肿瘤质控中心.医用电子直线加速器质量控制指南 [J]. 中华放射肿瘤学杂志，2020，29（4）：241-258.  
+［13］KLEIN E E, HANLEY J, BAYOUTH J, et al. Task Group 142 report: Quality assurance of medical accelerators[J]. Med Phys, 2009, 36(9): 4197-4212.
+
+（上接第42 页）
+
+［5］刘杨，王美芳，杜艳锋 .口腔种植术后感染的发生率及相关因素分析 [J].中国科技期刊数据库 医药，2024（6）：0113-0116.  
+［6］曹雪梅，张春丽.信息化管理系统在消毒供应中心器械管理中的应用效果 [J].中国医药导报，2021，18（34）：160-162.  
+［7］国家卫生健康委员会. 医院消毒供应中心 第1部分：管理规范：WS 310.1—2016 [S]. 北京 : 中国标准出版社，2016.  
+［8］李洁，孙秀丽，胡小琦，等. ATP 荧光检测法在医院
+
+感染管理中的应用对手部和环境卫生清洁度的提升评价 [J]. 养生大世界，2021（5）：181-182.  
+［9］张芳，苏弗娴，邓浪丽. 超声清洗与人工清洗口腔器械对清洗合格率及工作效率的影响 [J].智慧健康，2022，8（28）：36-40.  
+［10］徐慧玲，梁怡青. 基于因果图分析法的口腔种植手术相关感染综合管理措施探讨 [J].中国卫生标准管理，2023，14（14）：165-169.  
+［11］顾静怡，李润涛，贺泽，等.口腔种植手术器械用不锈钢钛改性低温离子渗氮组织和性能 [J].金属热处理，2023，48（12）：201-205.

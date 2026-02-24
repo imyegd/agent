@@ -1,0 +1,14 @@
+（1）、（3）、（4），我们得到：
+
+$$
+C (z) = K _ {p} + \frac {K _ {i} \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{\left(1 - z ^ {- 1}\right) \cdot 2} + \frac {K _ {d} \cdot \left(1 - z ^ {- 1}\right)}{T _ {s}} \tag {5}
+$$
+
+该式可以改写为：
+
+$$
+C (z) = \frac {1}{1 - z ^ {- 1}} \cdot \left(\left(K _ {p} + K _ {i} \cdot \frac {T _ {s}}{2} + \frac {K _ {d}}{T _ {s}}\right) + \right.
+$$
+
+$$
+\left(- K _ {p} + K _ {i} \cdot \frac {T _ {s}}{2} - \frac {2 \cdot K _ {d}}{T _ {s}}\right) \cdot z ^ {- 1} + \frac {K _ {d}}{T _ {s}} \cdot

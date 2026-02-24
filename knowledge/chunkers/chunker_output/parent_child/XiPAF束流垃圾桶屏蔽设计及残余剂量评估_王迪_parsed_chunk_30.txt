@@ -1,0 +1,10 @@
+子最低能量阈值分别为 $1 \mathrm { M e V , 1 \ k e V , 1 \ e V }$   
+Notes: The threshold neutron energies for yield 1), yield 2), and yield 3) are 1 MeV, 1 keV, and 1 eV, respectively
+
+![](images/6722795d8a246d19f9f4cbfe7135fcb5000fffedbce044d3b9275ddc01322d6e.jpg)
+
+![](images/9310a46b98d7bd8853b43e11f51a68a0393a406c4feb883a21e00e4123f7e197.jpg)  
+图4 束流垃圾桶三维模型剖面视图(a)及主体尺寸(b)
+
+![](images/098231b4799d103f060a3aca591a46ab414746767eb9c5ffc7951aefcdea23be.jpg)  
+Fig.4 Cross-sectional view of beam dump 3D model (a) and mai

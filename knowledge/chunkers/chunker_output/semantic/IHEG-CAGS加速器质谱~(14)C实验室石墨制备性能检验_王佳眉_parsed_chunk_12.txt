@@ -1,0 +1,6 @@
+表 1 IHEG-CAGSAMS ${ } ^ { 1 4 } \mathbf { C }$ 实验室标准样品石墨化准确度对比  
+Table1 ComparisonofgraphitizationaccuracyfordifferentstandardsamplesatIHEG-CAGSAMS $^ { 1 4 } \mathrm { C }$ Laboratory
+
+<table><tr><td colspan="2">样品名称</td><td>14C参考值</td><td>14C测量平均值</td><td>平均误差(1σ)</td><td>样品数量(n)</td></tr><tr><td rowspan="4">副标</td><td>IAEA-C8</td><td>15.03±0.17 pMC</td><td>15.00 pMC</td><td>0.10 pMC</td><td>10</td></tr><tr><td>IAEA-C2</td><td>41.14±0.03 pMC</td><td>41.07 pMC</td><td>0.17 pMC</td><td>10</td></tr><tr><td>IAEA-C7</td><td>49.53±0.12 pMC</td><td>49.32 pMC</td><td>0.24 pMC</td><td>10</td></tr><tr><td>FIRI-D</td><td>4508±3 a B.P.</td><td>4495 a B.P.</td><td>30 a B.P.</td><td>1</td></tr><tr><td>主标</td><td>OX II</td><td>134.07±0.05 pMC</td><td>134.07 pMC</td><td>0.35 pMC</td><td>20</td></tr></table>
+
+*标准样品参考值源自国际原子能机构（IAEA）等权威组织14C公认值

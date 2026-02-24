@@ -1,0 +1,4 @@
+[138]窦亮,何明,杨旭冉,等.加速器质谱测量 $^{14}\mathrm{C}$ 与 $^{41}\mathrm{Ca}$ 在生物代谢研究中的应用[J].生命科学,2013,25(6):626-631.  
+DOU Liang, HE Ming, YANG Xuran, et al. Applications of $^{14}\mathrm{C}$ and $^{41}\mathrm{Ca}$ in the AMS measurement for biological metabolism[J]. Chinese Bulletin of Life Sciences, 2013, 25(6): 626-631(in Chinese).   
+[139]窦亮, 何明, 董克君, 等. 加速器质谱测量岩石样品中 $^{41}\mathrm{Ca}$ 的初步研究[J]. 原子能科学技术, 2013, 47(12): 2322-2326.  
+DOU Liang, HE Ming, DONG Kejun, et al. Preliminary study of $^{41}\mathrm{Ca}$ -AMS

@@ -1,0 +1,1 @@
+15MV 能量的 X 射线和 6、9、12、15、18、20 MeV能量电子束，并且带有无均整器（FFF）模式。EPID 系统为型号为Varian IDU20。采用非晶硅平板探测器技术，其有效成像区域为 $4 0 \mathrm { c m } \times 3 0 \mathrm { c m }$ ，像素矩阵为 $1 0 2 4 \times 7 6 8$ pixels，像素尺寸为 0.392mm/pixel。

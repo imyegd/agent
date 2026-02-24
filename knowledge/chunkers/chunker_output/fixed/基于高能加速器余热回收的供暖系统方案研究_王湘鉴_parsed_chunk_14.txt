@@ -1,0 +1,10 @@
+要设备选型及工程量详见表 1。
+
+![](images/090183dbcd60133c5ca0ce298c735713b60a865961e1f6c0b9831f8e94f46c97.jpg)  
+图 2 基于 BEPC 的余热回收供暖系统示意图  
+Fig.2 Schematic diagram of the waste heat recovery heating system based on BEPC
+
+表 1 主要设备选型及工程量表  
+Table 1 Selection of major equipment, and bill of quantities   
+
+<table><tr><td colspan="2">主要设备</td><td>单位</td><td>数量</td><td>主要参数</td></tr><tr><td rowspan="3">热回收机组(1300kW PN16)</td><td>压缩式热泵</td><td>台</td><td>1</td><td>含机组控制柜</td></tr><tr><td>二次水循环泵</td><td>台</td><td>2</td><td>G=150 t/h, H=32 m, P=20 kW</td></tr><tr><td>二次水补水泵</td><td>台</td><td>2</td><td>G=4 t/h, H=30 m, P=1 kW</td></tr><tr><td rowspan="3">软水系统</td><td>冷却水加压泵</td><td>台</td><td>2</td><td>G=450 t/h, H=12 m, P=22 kW</td></tr><tr><td>软水器</td><td>套</td><td>1</td><td>产水量4t/h</td></tr><tr><td>软化水箱</td><td>个</td><td>1</td><td>2.5 m³</td></tr><tr><td colspan="2">管道及附件</td><td>项</td><td>1</td><td></td></tr><tr><td colspan="2">支吊架及减震降噪</td><td>项</td><td>1</td><td></td></tr><tr><td colspan="2">电气及自控</td><td>项</td><td>1</td><td></

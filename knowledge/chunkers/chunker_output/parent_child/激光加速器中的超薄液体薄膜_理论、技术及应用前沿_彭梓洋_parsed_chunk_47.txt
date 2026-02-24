@@ -1,0 +1,3 @@
+cuum environment. This system enables real-time, high-precision monitoring of critical parameters—including thickness, flatness, and spatial stability—which are essential for stable laser-plasma interaction. This diagnostic capability underscored the critical link between precise thickness control and the shot-to-shot reproducibility of the accelerator output, thus providing an indispensable foundational tool for optimizing particle source reliability.
+
+Building upon this diagnostic foundation, the paper ad

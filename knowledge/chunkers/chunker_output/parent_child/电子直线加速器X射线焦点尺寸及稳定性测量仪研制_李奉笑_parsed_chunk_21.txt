@@ -1,0 +1,9 @@
+fca10457ed0c8a22baf48c5eb0f5b4a193fd38e7d3204f.jpg)  
+图4 狭缝有效宽度 $w$ 与狭缝长宽l及狭缝与焦点间距离h的关系示意图  
+Fig.4 Schematic diagram of the relationship among the effective slit width w, slit length l, and slit-to-focal point distance h
+
+$$
+\begin{array}{l} f \left(x ^ {\prime}, \cdot\right) = \int_ {- \infty} ^ {+ \infty} f \left(x ^ {\prime}, y\right) d y \tag {5} \\ = \sigma_ {y} I _ {0} \sqrt {2 \pi} \exp \left(- \frac {x ^ {\prime 2}}{2 \sigma_ {x} {} ^ {2}}\right) \\ \end{array}
+$$
+
+最终使用采集到的X射线强度离散序列 $S ( \boldsymbol

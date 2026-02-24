@@ -1,0 +1,165 @@
+文章编号：2095-4980(2025)10-1113-06
+
+# 基于 CRIO 的强流加速器机器快保护系统
+
+叶 毅，李泽同，杨兴林，江孝国，荆晓兵，陈 楠，刘邦亮，臧宗旸，李 跃，蒋 薇*
+
+(中国工程物理研究院 流体物理研究所，四川 绵阳 621999)
+
+摘 要：强流加速器中脉冲功率系统的Marx自激和束输运系统励磁电源加载异常会影响实验的质量，甚至导致实验失败。本文研制了一套基于紧凑型可重配置输入输出控制器(CRIO)的机器快保护系统，对Marx放电和励磁电源加载状况进行实时监测实现机器快保护；同时与基于实验物理和工业控制系统(EPICS)架构的加速器中央控制系统进行通信。CRIO系统中的现场可编程门阵列(FPGA)模块保证了快保护的响应速度；实时(RT)模块充当EPICS架构的输入输出控制器(IOC)组件，完成EPICS PV的订阅和发布，实现异构平台的无缝集成。该系统抗干扰能力强，投入运行后在复杂的电磁环境下运行稳定可靠，在一定程度上达到了提高实验可靠性的目的。
+
+关键词：加速器；实验物理和工业控制系统(EPICS)；快保护；紧凑型可重配置输入输出控制器；现场可编程门阵列(FPGA)；输入输出控制器(IOC)
+
+中图分类号：TN722
+
+文献标志码：A
+
+DOI：10.11805/TKYDA2024092
+
+# Fast protection system for high current LIA based on CRIO
+
+YE Yi，LI Zetong，YANG Xinglin，JIANG Xiaoguo，JING Xiaobing，CHEN Nan，LIU Bangliang， ZANG Zongyang，LI Yue，JIANG Wei*
+
+(Institute of Fluid Physics ， China Academy of Engineering Physics ， Mianyang Sichuan 621999 ， China)
+
+Abstract： In high-current accelerators, anomalies in the Marx self-excitation of the pulsed-power system and in the loading of the magnet-excitation power-supply can degrade experimental quality or even cause the experiment to fail. A machine-protection system is presented, which is built around a Compact Reconfigurable Input/Output(CRIO) controller that continuously monitors Marx discharges and magnet-power-supply loading to provide fast machine protection. It simultaneously communicate with the accelerator's central control system, which is based on the Experimental Physics and Industrial Control System(EPICS) architecture. A Field Programmable Gate Array(FPGA) module inside the CRIO guarantees the response speed of the fast-protection logic, and a Real-Time(RT) module acts as an Input/ Output Controller(IOC) within the EPICS framework, subscribing to and publishing EPICS process variables to achieve seamless integration across heterogeneous platforms. The system exhibits strong immunity to interference; since commissioning it has operated reliably in the accelerator's complex electromagnetic environment, significantly improving the experimental reliability.
+
+Keywords： accelerator； Experimental Physics and Industrial Control System(EPICS)； fastprotection system；Compact Reconfigurable I/O(CRIO)；Field Programmable Gate Array(FPGA)；Input/Output Controller(IOC)
+
+紧凑型可重配置输入输出控制器(CRIO)是一款小巧且坚固的工业化控制和采集嵌入式平台，包含实时控制器和可编程的现场可编程门阵列(FPGA)芯片。采用可重新配置的I/O(Input/Output)、可重复编程的FPGA技术，
+
+实现真正的并行运行性、高确定性和可自定义功能，同时支持可热插拔的工业级I/O模块。CRIO由于其坚固性、稳定性、开放性、实时性等特点，广泛用于车载、机载、舰艇、航空航天等各种复杂以及较恶劣环境的工业现场环境。我国的强流加速器机器快保护系统，主要针对加速器运行异常或发生某些故障时，根据仪器设备提供的报警信号和状态信息，可靠、快速对装置进行保护，切断实验触发链路，保护人身和产品的安全[1-2]。因此机器快保护系统要求实时响应速度需优于ms级，能够在加速器高电压强电流的复杂电磁环境下可靠动作，同时需要与采用实验物理和工业控制系统(EPICS)架构的中央控制系统进行通信。本文阐述了采用CRIO系统实现强流加速器机器快保护设计，以及CRIO系统作为EPICS机构中IOC组件的实现技术。
+
+# 1　系统设计
+
+# 1.1 EPICS 结构
+
+EPICS是20世纪90年代初由美国洛斯阿拉莫斯国家实验室 (Los Alamos National Laboratory， LANL) 和 美 国 阿 贡 国 家 实验室(Argonne National Laboratory，ANL)等联合开发的、基于客户端/服务器模式的分布式控制系统架构[3-5]。EPICS经过30余年的发展，已被国内外超过上百台大型物理实验装置(如大
+
+![](images/0417f13b23a1f1ea98301db54acfe1b0fcf56c254d26831042fb33401bdfb0b6.jpg)  
+Fig.1 EPICS architecture   
+图1 EPICS结构
+
+型加速器、三代或四代光源、国际热核聚变实验堆(International Thermonuclear Experimental Reactor，ITER)装置、反应堆、大型射电天文望远镜阵列等)采用，已成为大科学物理装置控制系统的标准结构和主流趋势。我国的强流多脉冲直线感应加速器，其控制系统也采用EPICS平台建设。
+
+EPICS是基于客户端/服务器模式的标准模型、支持多任务并发、多用户交互的分布式控制系统，如图1所示。EPICS 包括 3 个主要部分：操作员界面(Operator Interface，OPI)、信道访问(Channel Access，CA)和输入输出控制器(IOC)。OPI 是操作员接口组件，运行于客户端，通过人机交互界面(Graphical User Interface，GUI)实现人机信息交互、设备监控等功能；IOC是运行于服务器上的输入输出控制模块，其实质是常驻内存的分布式实时数据库系统，将硬件设备的操作与状态转换成全局唯一的数据库记录，通过记录支持(Record Support)、设备支持(Device Support) 和 设 备 驱 动 (Device Driver) 对 硬 件 进 行 访 问 控 制 ； CA 组 件 分 两 部 分 ： 运 行 在 OPI 端 为 CAC(CAClient)；运行在IOC端为CAS(CA Server)，支持TCP/IP协议，负责对全局唯一记录名的解析、发布与定制等服务，使用CA工具可从OPI上以透明通信方式直接读取驻留在网络不同IOC节点的实时数据。
+
+IOC是EPICS架构的核心，承担和硬件设备通信的任务，同时必须向网络发布和硬件设备相关的实时数据。强流加速器机器快保护采用的CRIO系统，承担的是EPICS架构中的IOC角色。
+
+# 1.2 国内外大科学装置的机器保护系统
+
+国内外的大型物理实验装置，大多采用EPCIS作为控制系统的架构和开发平台，因此其机器保护系统不但要考虑响应速度，还要考虑与 EPICS 架构的集成。ITER 装置发布的最新的控制、数据访问和通信(Control, DataAccess and Communication，CODAC)设计方法和标准手册中，推荐 CRIO 作为响应时间小于 $1 0 0 ~ \mathrm { { m s } }$ 的子系统的快控制器，同时采用 LabVIEW 的分布式系统工具包(Distributed System Toolkit，DSC)模块实现 EPICS 系统的集成[6] 。加速器驱动次临界系统(Accelerator Driven subcritical System，ADS)注入器Ⅱ中，采用先进的 FPGA 芯片和高速光纤网络技术，实现响应时间在 $1 0 ~ \mu \mathbf { s }$ 内的机器快保护；中国散裂中子源(China Spallation Neutron Source，CSNS)机器保护分为两部分，其一为基于可编程控制器(Programmable Logic Controller，PLC)的慢保护，其二为基于 FPGA的快保护，快保护响应时间在 $1 0 ~ \mu \mathbf { s }$ 内 [7] 。
+
+# 1.3 强流加速器机器快保护系统结构
+
+我国的强流直线感应加速器输出束流能量高达 $2 0 \ \mathrm { M e V }$ ，流强为 $2 . 5 \ \mathrm { k A }$ ，实验要求加速器在精准的时刻输出品质满足要求的束流。强流加速器采用“准备好-触发”的工作模式，上千台套仪器设备需要在“触发”时刻处于正常的工作状态，如果某些设备在“触发”时刻发生异常或故障，加速器会异常动作，导致实验失败。加速器在实验进程中实时监控几千路信号，大多数设备的异常和故障可在实验准备阶段发现，可提前中止实验进程进行故障处理和归零，但有两种故障和异常，其不确定性无法提前预判，一旦发生，大概率会造成实验失败，造成难以挽回的损失。这两种故障和异常为：
+
+1) Marx自激提前放电。在Marx充电结束至触发的几秒时间内，Marx工作在上百千伏高压状况，存在一定自激的可能性，这种异常对加速器正常运行会造成致命的影响，并导致相关实验失败[8-9]；
+
+2) 励磁电源加载状况异常。强流加速器实验过程中，几百台励磁电源在几秒的时间内完成“加载-输出-卸载”3个状态，每台励磁电源需在触发时刻输出设置的电流，否则会影响束流品质，对实验结果产生重要影响。
+
+针对强流加速器功率系统中各种Marx装置自激提前放电的快保护，研制了适合各种Marx装置放电的无源检测探头对Marx放电信号进行检测，一旦检测到任一台Marx放电，随即对触发链路进行自动断路控制，从而实现Marx自激的机器快保护。针对励磁电源加载状况的机器快保护，通过在电源输出回路安装高精确度非接触式的霍尔探头对电源输出电流进行采样，在加速器发出触发指令前，根据检测结果决定是否对触发链路进行断路控制，实现励磁电源加载状况异常的快保护。
+
+# 1.4 基于CRIO的信号检测系统结构
+
+强流加速器Marx自激信号的检测和励磁电源输出信号的检测都采用CRIO系统实现，系统结构如图2所示。CRIO系统主要由嵌入式控制器、FPGA机箱和若干C系列模块组成。嵌入式控制器运行实时操作系统，同时具有RS232、USB、以太网接口；CRIO机箱内嵌FPGA模块，具有8槽的C模块安装能力，负责数据同向/正交(In-phase/Quadrature，I/Q)；C模块包括32通道隔离的数字信号输入模块、32通道隔离的模拟信号输入模块，以及8通道固态继电器模块。
+
+![](images/82759ecce65e955638f75b1c7d719b54802f7236b4434cf3c87847c0c810b6f4.jpg)  
+Fig.2 Machine fast protection system of high current LIA   
+图2强流加速器机器快保护系统
+
+将无源微分探头检测的Marx装置放电信号送入光电信号传输电路进行信号处理，得到的数字信号接入信号输入模块完成Marx放电信号的检测。CRIO控制器将所有的Marx放电信号进行逻辑运算，运算的结果通过继电器模块输出信号接入触发链路进行实验刹车动作；同时CRIO控制器向以太网发布表征所有Marx放电状态和执行动作的 EPICS 过程变量(EPICS Process Variable，EPICS-PV)。
+
+将霍尔探头的实时采样信号经过高精确度采样电阻后接入CRIO系统的模拟量输入模块，实现励磁电源输出电流的检测。CRIO控制器根据霍尔探头的量程、采样电阻的阻值、励磁电源的设置值计算电源输出电流的偏差，偏差超过容忍度时，通过继电器模块输出信号送入触发链路进行实验刹车；同时将每个励磁电源实时输出、加载偏差、执行动作通过以太网EPICS PV的形式发布。
+
+# 2　程序设计
+
+# 2.1 程序结构
+
+CRIO程序在CRIO系统的控制器中运行，CRIO控制器包含实时(RT)控制模块和FPGA模块。RT模块运行实时操作系统VXworks，FPGA模块可重配置I/O端口并能实现底层硬件的开发，基于硬件并行处理模式保证系统
+
+的实时性。RT模块和FPGA模块程序采用LabVIEW进行开发[10-11]，各部分程序关系如图3所示。其中RT程序运行于下位机实时控制器中，主要负责与FPGA终端进行数据交互以及EPICS通信；FPGA程序运行于FPGA终端上，主要负责与硬件I/O交互，对监测信号进行逻辑判断，输出报警信号。
+
+![](images/f48e9e42da294a59c0594f8c6a9b2067a150ea4805006ee9c400b0dcc058d5cc.jpg)  
+Fig.3 Architecture of software   
+图3 软件结构示意图
+
+# 2.2 RT 程序
+
+如图3所示，RT程序包括如下3个独立线程或服务。
+
+1) FPGA标签数据交互：该线程主要完成RT控制器与FPGA之间的标签类型数据交互通信。程序运行时，标签类型的数据在各个终端上仅需保持最新数据即可。RT程序通过读写FPGA控件的方式将最新数据写入FPGA终端或从FPGA终端读取最新数据。其中包括将Marx自激检测通道使能、电源加载异常判断容忍度限值等写入FPGA 终端以及从 FPGA 终端获取 Marx 自激检测结果、电源加载异常状态等。  
+2) 电源加载数据读取：该线程主要完成电源加载过程中电流数据的读取，具体操作为检查FPGA终端至RT控制器的电流数据直接内存访问(Direct Memory Access，DMA)先入先出(First In First Out，FIFO)状态，实时读取FIFO数据，可以无损地将所有电流数据读取至RT控制器，用户可对电流数据进行存储，用于后续数据分析。  
+3) EPICS 通信：采用 I/O Server 中的 EPICS Server 进行 PV 发布，程序中各个节点可通过读写绑定 PV 的共享变量进而实现对PV的读写操作。
+
+# 2.3 FPGA 程序
+
+如图3所示，FPGA程序包括如下2个独立运行线程。
+
+1) Marx自激硬件I/O交互：该线程主要完成自激信号转换后的数字信号读取，并对读取的信号进行逻辑运算，检测是否有通道发生自激放电。一旦自激放电发生，程序自动锁存自激放电发生信号，并将信号输出至固态继电器。用户可重置该检测线程及相关信号的输出及显示。  
+2) 电源加载异常硬件I/O交互：该线程主要完成电压信号的采集，并将其换算为电源电流信号，根据用户设置的容忍度限值判断此时电流信号是否处于设定范围内，并将判断结果信号实时输出至固态继电器。程序在进行信号采集的同时将转换完成的电流数据写入电流数据DMA FIFO，该FIFO将数据传输至RT控制器，RT程序对FIFO中数据进行实时读取。
+
+# 3 CRIO 实现 EPICS 架构的 IOC 功能
+
+强流加速器控制系统采用EPICS架构，快保护系统作为控制系统的一部分需要和加速器主控OPI进行通信，同时接收OPI的远程控制，如图3所示。CRIO系统完成本地数据采集和数据处理的任务外，必须作为EPICS架构中的IOC部件将系统需要的数据信息以标准的EPICS PV的形式发布共享，才能被以太网中OPI客户端订阅，实现EPICS架构中CVS的功能；同时也必须充当EPICS CVC客户端，接收并解析以太网中标准的EPICS PV发布共享的数据信息，执行相应的操作。
+
+CRIO系统为实现EPICS架构中IOC的功能，利用LabVIEW的共享变量技术，在共享变量上封装EPICS通道
+
+访问机制来实现。NI 公司的 DSC 组件中封装了“EPICS Server I/O Server”的接口程序，该接口程序可运行在CRIO 系统的 RT 程序，实现对 EPICS PV 的定义、发布和订阅，使 CRIO 对外充当 EPICS 的 IOC 组件[12-14] 。
+
+# 4　基于 LabVIEW 的 OPI 程序设计
+
+CRIO系统采集、分析、处理完的数据，以EPICS PV的形式在以太网发布。用户操作界面、数据浏览、报警管 理、数 据 存 档 功 能 在OPI组 件 实 现，如 图3所 示。OPI由 远 程 计 算 机 担 任，OPI软 件 可 采 用 由 美 国 物 理 学 会(American Physical Society，APS)、美国散裂中子源(Spallation Neutron Source，SNS)、德国电子同步加速器中心(Deutsches Elektronen Synchrotron，DESY)等研究机构联合开发的控制系统组件(Control System Studio，CSS)软件开发，也可采用LabVIEW作为基本开发环境，通过CaLab工具和EPICS进行数据交换。CaLab是德国亥姆赫兹柏林中心推出的一款绿色开源接口软件，是加速器领域EPICS和LabVIEW的接口最常用的工具之一；CaLab接口使用 EPICS base 库、CaLab 库以及 3 个子 VI 共同完成 EPICS 与 LabVIEW 的数据交互功能。LabVIEW 和 EPICS 系统数据交互的示意图如图 4 所示。
+
+强流加速器控制系统机器快保护系统OPI软件采用LabVIEW开发环境，使用CaLab接口工具实现，使用了3
+
+个最主要的子 VI，分别为 CaLabPut.vi、CaLabGet.vi 以及 CaLabEvent.vi。 其 中 CaLabPut.vi、 CaLabGet.vi 实 现对数据读/写操作，其功能分别对应于EPICS中的caput和 caget 函 数 ， CaLabEvent. vi 能 够 创 建 用 户 事 件 。 在LabVIEW 开发环境使用 CaLab 接口库中相应的子 VI 就可完成对EPICS PV数据的所有操作。
+
+![](images/3331b352c1c4eab3cb5ef5861e507b2551602246e3a67b1af3813c2a0901b0c7.jpg)  
+Fig.4 Communication between LabVIEW and EPICS by CALab   
+图4 CALab实现 EPICS和LabVIEW数据交互示意图
+
+# 5　结论
+
+一般由硬件组成的具有安全联锁和保护功能的系统可以采用PLC系统、PXI系统、以FPGA为核心的板卡等。对响应时间有要求并且采用EPCIS作为控制系统架构的加速器中，CRIO作为机器快保护系统的控制器，有很大的优势。既可利用CRIO控制器中内嵌的FPGA实现ns级的快速响应，又可利用DSC组件使CRIO控制器完成EPICS系统的IOC功能，无障碍地实现机器快保护系统和中央控制系统的数据通信，实现两种异构平台的无缝集成。目前，我国的强流加速器以CRIO系统实现的机器快保护系统已运行两年多的时间，Marx自激监测系统可达到百纳秒的响应速度，与刹车链路集成后可达到毫秒量级的响应速度。这套系统经过上千次的实验，在高电压、大电流的复杂电磁环境中工作稳定可靠，在同类装置的相似场景可推广使用。
+
+# 参考文献：
+
+[ 1 ] 罗 冰 峰 . 机 器 快 保 护 系 统 控 制 器 设 计 [D]. 北 京 : 中 国 科 学 院 大 学 , 2015. (LUO Bingfeng. Design of controller for fastprotection system[D]. Beijing,China:University of Chinese Academy of Sciences, 2015.)  
+[ 2 ] 山琳洁 . J-TEXT 托卡马克联锁安全系统设计[D]. 武汉:华中科技大学, 2014. (SHAN Linjie. J-TEXT Tokamak interlock & safety system design[D]. Wuhan,China:Huazhong University of Science and Technology, 2014.) DOI:10.7666/d.D227480.   
+[ 3 ] EPICS. Experimental physics and industrial control[EB/OL]. [2024-02-07]. http://www.aps.anl.gov/epics/index.php.   
+[ 4 ] KRAIMER M R,ANDERSON J B,JOHNSON A N. EPICS application developer's guide[EB/OL]. [2024-02-07]. http://www.aps. anl.gov/epics/base/R3-14/12-docs/AppDevGuide.   
+[ 5 ] 郭帆,蒋薇,杨兴林,等 . 基于 EPICS 的慢速设备异步控制应用研究[J]. 强激光与粒子束, 2017,29(7):100-103. (GUO Fan, JIANG Wei, YANG Xinglin, et al. Applications of asynchronous slow devices control system based on EPICS[J]. High Power Laser and Particle Beams, 2017,29(7):100-103.) DOI:10.11884/HPLPB201729.170019.   
+[ 6 ] 张璟 . 托卡马克集成控制系统若干关键技术研究[D]. 武汉:华中科技大学, 2016. (ZHANG Jing. Research on several key technologies for Tokamak integrated control system[D]. Wuhan,China:Huazhong University of Science and Technology, 2016.) DOI:10.7666/d.D01077963.   
+[ 7 ] ZHANG Yuliang,JIN Dapeng,ZHU Peng,et al. The accelerator control system of CSNS[J]. Radiation Detection Technology and Methods, 2020,4(4):478-491.) DOI:10.1007/s41605-020-00203-y.   
+[ 8 ] 江孝国,杨兴林,蒋薇,等 . 基于 Marx 自激监测控制的闪光照相试验可靠性提高技术研究[J]. 强激光与粒子束, 2022,34(6): 84-89. (JIANG Xiaoguo,YANG Xinglin,JIANG Wei,et al. Technique study to improve radiographic-testing reliability basing on self-excitation of pulsed power system[J]. High Power Laser and Particle Beams, 2022, 34(6): 84-89.) DOI: 10.11884/HPLPB
+
+202234.210133.   
+[ 9 ] 中国工程物理研究院流体物理研究所 . 一种起爆装置的紧急自动刹车控制系统及方法:CN201610103072.8[P]. 2016-05-11. (China Academy of Engineering Physics. Emergency automatic brake control system and method of initiation:CN201610103072.8[P]. 2016-05-11.)  
+[10] 宋海峰,张敏,张蓉,等 . 基于 cRIO 的时序控制软件架构设计[J]. 太赫兹科学与电子信息学报, 2015,13(4):619-624. (SONG Haifeng,ZHANG Min,ZHANG Rong,et al. Architecture of time sequence control software design based on cRIO[J]. Journal of Terahertz Science and Electronic Information Technology, 2015,13(4):619-624.) DOI:10.11805/TKYDA201504.0619.   
+[11] 陈树学,刘萱 . LabVIEW 宝典[M]. 北京:电子工业出版社, 2011. (CHEN Shuxue,LIU Xuan. LabVIEW essence[M]. Beijing, China:Publishing House of Electronics Industry, 2011.)   
+[12] 陈曦,王季刚,宣科,等 . 基于 NI cRIO 的合肥光源冷却水监测系统[J]. 核技术, 2014,37(4):15-18. (CHEN Xi,WANG Jigang, XUAN Ke,et al. HLS cooling water monitor system based on NI cRIO[J]. Nuclear Techniques, 2014,37(4):15-18.)   
+[13] 李姣赛,郭玉辉,刘海涛,等 . ECR 离子源束流发射度测量系统设计[J]. 核电子学与探测技术, 2017,37(2):171-173,177. (LI Jiaosai,GUO Yuhui,LIU Haitao,et al. Design of beam emittance measurement system for ECR ion source[J]. Nuclear Electronics & Detection Technology, 2017,37(2):171-173,177.) DOI:10.3969/j.issn.0258-0934.2017.02.014.   
+[14] Emerson. Interactively configuring LabVIEW EPICS I/O clients and servers EPICS I/O servers[EB/OL]. [2024-04-30]. http:// www.ni.com/white-paper/14149/en.
+
+# 作者简介：
+
+叶 毅(1973-)，男，本科，高级技师，主要研究方向为加速器装置研制 .email:13350991221@163.com.
+
+蒋 薇(1975-)，女，硕士，高级工程师，主要研究方向为强流加速器控制技术.
+
+李泽同(1996-)，男，硕士，助理工程师，主要研究方向为加速器控制技术.
+
+杨兴林(1969-)，男，博士，高级工程师，主要研究方向为加速器控制技术.
+
+江孝国(1968-)，男，博士，研究员，主要研究方向为加速器测试技术.
+
+荆晓兵(1979-)，男，博士，高级工程师，主要研究方向为加速器束物理技术.
+
+陈 楠(1979-)，男，学士，高级工程师，主要研究方向为加速器运维技术.
+
+刘邦亮(1985-)，男，学士，主要研究方向为加速器运维技术 .
+
+臧宗旸(1988-)，男，学士，主要研究方向为加速器运维技术.
+
+李 跃(1996-)，男，硕士，工程师，主要研究方向为加速器控制技术.

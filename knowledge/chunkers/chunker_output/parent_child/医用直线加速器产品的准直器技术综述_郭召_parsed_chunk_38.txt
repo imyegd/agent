@@ -1,0 +1,6 @@
+0ae9037a9c31dfb677f338fe1d1aae319d0931f.jpg)  
+图 14 ZAP-X 准直器
+
+表5 ZAP-X准直器半影（mm）  
+
+<table><tr><td rowspan="2">半影测量位置</td><td colspan="8">成野规格（mm）</td></tr><tr><td>4.0</td><td>5.0</td><td>7.5</td><td>10.0</td><td>12.5</td><td>15.0</td><td>20.0</td><td>25.0</td></tr><tr><td>左侧5cm</td><td>1.77</td><td>1.88</td><td>1.94</td><td>2.00</td><td>2.06</td><td>2.11</td><td>2.19</td><td>2.27</td></tr><tr><td>左侧10cm</td><td>2.00</td><td>2.12</td><td>2.21</td><td>2.29</td><td>2.35</td><td>2.43</td><td>2.54</td><td>2.64<

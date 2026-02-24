@@ -1,0 +1,13 @@
+\pi}{3}\right) I _ {c} \\ I _ {\beta} = \sin \left(\frac {\pi}{3}\right) I _ {b} - \sin \left(\frac {\pi}{3}\right) I _ {c} i \end{array} \right. \tag {11}
+$$
+
+最后化简得到
+
+$$
+\left\{ \begin{array}{l} I _ {a} = I _ {a} \\ I _ {\beta} = \left(I _ {a} + 2 I _ {b}\right) / \sqrt {3} \end{array} \right. \tag {12}
+$$
+
+![](images/5a6617ba410d091186f404186f58cc6d7e11783021e55597e0baccbbf9947ae7.jpg)
+
+![](images/63ed0dbcf7eecf6a7471e3ea8432988dc0c3607ab745735d6208fb6558d4144b.jpg)  
+图6Clarke变换原理图

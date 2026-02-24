@@ -1,0 +1,8 @@
+NG Liming, JIANG Jing, BAO Jie, et al. Effect of the high-voltage multiplier target assembly on the source neutron spectrum[J]. Nuclear Physics Review, 2016, 33(1): 67-71(in Chinese).   
+[69] 张凯, 侯龙, 陈红涛, 等. D-T 中子源束斑尺寸测量技术及应用[J]. 原子能科学技术, 2020, 54(12): 2289-2295.  
+ZHANG Kai, HOU Long, CHEN Hongtao, et al. Measurement technique and application of D-T neutron source beam spot size[J]. Atomic Energy Science and Technology, 2020, 54(12): 2289-2295(in Chinese).   
+[70] YANG X, LAN C, NIE Y, et al. Cumulative fission yield measurements with 14.7 MeV neutrons on $^{238}\mathrm{U}[\mathrm{J}]$ . Chinese Physics C, 2023, 47(2): 024001.   
+[71] 李炎锟, 陈红涛, 宋应民, 等. 不同基底氘钛靶性能研究[J]. 原子能科学技术, 2024, 58(7): 1548-1556.  
+LI Yankun, CHEN Hongtao, SONG Yingmin, et al. Performance study of deuterium-titanium targets with different substrates[J]. Atomic Energy Science and Technology, 2024, 58(7): 1548-1556(in Chinese).   
+[72] 徐阔之, 聂阳波, 张时宇, 等. 氪氚中子与 Fe 作用后泄漏 $\gamma$ 能量沉积谱测量与计算[J]. 原子能科学技术, 2024, 58(12): 2452-2461.  
+XU Kuozhi,

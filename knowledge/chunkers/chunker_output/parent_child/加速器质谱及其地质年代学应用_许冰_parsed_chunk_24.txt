@@ -1,0 +1,6 @@
+与 ${ } ^ { 1 0 } \mathrm { { B } }$ ，无需借助衰减膜技术，在测
+
+表 2 中国加速器质谱统计表  
+Table2 AMSfacilitiesinChina   
+
+<table><tr><td>单位</td><td>端电压</td><td>厂商</td><td>测试核素</td><td>现状</td></tr><tr><td>中国原子能研究院</td><td>13.0MV</td><td>美国通用</td><td>\( ^{14}\mathrm {C} \)等所有轻重核素、核物理研究</td><td>运行</td></tr><tr><td>中国科学院地质与地球物理研究所</td><td>6.0MV</td><td>NEC</td><td>\( ^{14}\mathrm {C} \)、\( ^{10}\mathrm {Be} \)、\( ^{26}\mathrm {Al} \)、\( ^{129}\mathrm {I} \)、\( ^{41}\mathrm {Ca} \)、\( ^{36}\mathrm {Cl} \)、锕系核素</td><td>已完成\( ^{14}\ma

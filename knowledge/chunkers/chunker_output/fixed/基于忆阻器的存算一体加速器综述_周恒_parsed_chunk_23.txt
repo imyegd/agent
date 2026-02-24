@@ -1,0 +1,6 @@
+2(11): 4112−4125.   
+Kaizhong Qiu, Zhenhua Zhu, Yi Cai, et al. MNSIM-TIME:[29] Performance Modeling Framework for Training-In-Memory Architectures[C]//2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems.  Piscataway: IEEE, 2021: 1−4.   
+Geng Yuan, Payman Behnam, Zhengang Li, et al. FORMS:[30] Fine-grained  Polarized  ReRAM-based  In-situ  Computation for  Mixed-signal  DNN  Accelerator[C]//2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture. Piscataway: IEEE, 2021: 265−278.   
+Ermin  Wei,  Asuman  Ozdaglar.  Distributed  alternating[31] direction  method  of  multipliers[C]//2012 IEEE 51st IEEE Conference on Decision and Control.  Piscataway:  IEEE, 2012: 5445−5450.   
+Fengbin  Tu,  Zihan  Wu,  Yiqi  Wang,  et  al.  TranCIM:  Full-[32] Digital  Bitline-Transpose  CIM-based  Sparse  Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes[J]. IEEE Journal of Solid-State Circuits,  2023,  58(6): 1798−1809.   
+Fengbin Tu, Zihan Wu, Yiqi Wang, e

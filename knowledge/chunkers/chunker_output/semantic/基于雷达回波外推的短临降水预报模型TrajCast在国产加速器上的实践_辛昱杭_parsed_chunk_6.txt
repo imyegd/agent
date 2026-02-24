@@ -1,0 +1,5 @@
+XIN Yuhang, WANG Qiyi, SUN Jing, ZHAO Chunyan* , LIU Yujia, LIANG Xue, CHEN Jie
+
+National Meteorological Information Centre, Beijing 100081, China
+
+Abstract: [Objective] This paper aims to construct a short- term and imminent precipitation forecasting model based on deep learning and explores the application of domestic accelerators in the field of meteorology, with the goal of improving the accuracy of meteorological disaster prevention and mitigation, and providing more reliable meteorological support for urban development and

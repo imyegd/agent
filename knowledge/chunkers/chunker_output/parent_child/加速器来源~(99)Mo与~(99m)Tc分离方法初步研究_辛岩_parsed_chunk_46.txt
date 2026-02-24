@@ -1,0 +1,3 @@
+.Separation of $\mathrm { [ ^ { 9 9 m } T c ] }$ pertechnetate and molybdate usingpolyethylene glycol coated C18 and C30 resins［J］.Applied Radiation and Isotopes，2016，110：193-199.  
+［13］ MORLEY T J，DODD M，GAGNON K，et al. An automated module for the separation and purification of cyclotron-produced $\mathrm { ^ { 9 9 m } T c O _ { 4 } } ^ { - } [ \mathrm { J } ]$ . Nuclear Medicine and Biology，2012，39：551-559.   
+［14］ IBRAHIM I T. Preparation of 99mTc-metronidazole as amodel for tumor imaging［J］. Journal of

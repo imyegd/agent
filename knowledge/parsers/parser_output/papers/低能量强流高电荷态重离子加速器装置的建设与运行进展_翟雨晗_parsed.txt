@@ -1,0 +1,183 @@
+·第 5 届 HPLPB 前沿学术研讨会专栏·
+
+![](images/75e5fdaf4b32706bc60f3a1b49d17a331fd68c9e4dd95f6cc52136228885687d.jpg)
+
+# 低能量强流高电荷态重离子加速器装置的建设与运行进展
+
+翟雨晗1,2,3，   杨　尧1，   孙良亭1，   张　博1,3，   赵红卫1
+
+（1. 中国科学院 近代物理研究所，兰州 730000；   2.中国科学院 近代物理研究所 重离子科学与技术全国重点实验室，
+
+兰州 730000；   3. 中国科学院大学 核科学与技术学院，北京 100049）
+
+摘    要 ：   低能量强流高电荷态重离子加速器装置（LEAF）是中国科学院近代物理研究所承担的国家重大科研仪器项目，旨在构建一台具备高电荷态、高流强、全谱系离子加速能力的低能重离子综合实验装置。系统介绍了该装置的结构、核心部件设计参数及束流调控策略，并重点报告了装置试运行期间在束流加速能力、多离子混合束制备及低能散碳离子束调控等方面取得的代表性进展。截至目前，LEAF 已累计为终端实验提供超过 $1 3 0 0 0 \mathrm { ~ h ~ }$ 束流支持，覆盖质荷比为 $2 \sim 7$ 的多种离子种类，实现了高电荷态、高流强重离子束流的稳定加速。平台构建了适用于协同辐照研究的“鸡尾酒束”运行模式，并建立了具备高流强与低能散特性的12C2+束流系统，用于伽莫夫能区核反应的精密测量。最后，结合终端实验需求，提出了装置未来的发展方向，包括调能系统拓展与三离子协同供束能力增强等，以期进一步提升平台对核天体物理、核能材料等领域的支撑能力。
+
+关键词： 重离子加速器；束流调试；鸡尾酒束；强流碳束；能量调控
+
+中图分类号：  TL56
+
+文献标志码：   A
+
+doi: 10.11884/HPLPB202638.250194
+
+# Progress in the construction and commissioning of the LEAF facility
+
+Zhai Yuhan1,2,3，   Yang Yao1，   Sun Liangting1，   Zhang $\mathrm { B o } ^ { 1 , 3 }$ ，   Zhao Hongwei1
+
+（1. Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China;
+
+2. State Key Laboratory of Heavy Ion Science and Technology, Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, China;
+
+3. School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, China）
+
+Abstract：    The  Low  Energy  High  Intensity  High  Charge  State  Heavy  Ion  Accelerator  Facility  (LEAF)  is  a national scientific instrument developed by the Institute of Modern Physics, Chinese Academy of Sciences, to provide high-current,  high-charge-state,  full-spectrum  low-energy  heavy  ion  beams  for  interdisciplinary  studies.  To  meet research  needs  in  nuclear  astrophysics,  atomic  and  molecular  physics,  and  nuclear  materials,  LEAF  offers  tunable energies from 0.3 to $0 . 7 ~ \mathrm { M e V / u }$ and supports continuous-wave acceleration for ions with with a mass-to-charge ratio ranging  from  2−7.  This  paper  presents  an  overview  of  the  construction  progress,  key  design  parameters,  and operational performance of the facility, summarizing recent achievements and outlining future development goals. The paper introduces the system architecture—comprising the 45 GHz superconducting ECR ion source FECR, RFQ, IH-DTL, and terminal beamlines—and describes beam commissioning and diagnostic approaches. LEAF has successfully achieved stable acceleration of multi-species, high-charge-state heavy ion beams with intensities up to 1 emA. It has delivered more than $1 3 0 0 0 \mathrm { h }$ of beam time, realized efficient operation of “cocktail”multi-ion beams, and established a  high-current,  low-energy-spread $^ { 1 2 } { \mathrm { C } } ^ { 2 + }$ beamline  for  precise  reaction  measurements  in  the  Gamow  window.  These results  verify  LEAF’s  excellent  beam  quality  and  operational  reliability.  Planned  upgrades—including  an  extended energy  tuning  range  and  triple-ion  beam  capability—will  further  enhance  its  role  as  a  frontier  platform  for experimental studies in nuclear astrophysics and radiation effects in advanced materials.
+
+Key words：   heavy ion accelerator, beam control, cocktail beam, high current carbon ion beam, energy tuning
+
+得益于先进重离子加速器对能量范围和离子种类的拓展，重离子束流已成为研究微观物质结构与宇宙演化机制的重要实验工具。在核物理基础研究方面，其在探索强相互作用规律、合成超重核素及模拟天体核反应等方向中发挥着关键作用；在应用研究领域，高电荷态重离子束已广泛应用于核能材料辐照、表面改性及微纳结构加工等前沿领域，展现出不可替代的研究价值。特别是低能量强流高电荷态重离子束，凭借其高能量密度与强场相互作用特性，为解决诸如天体核合成机制、极端荷电体系的多体动力学行以及辐照损伤演化等前沿科学问题提供了实验基础。
+
+基于上述科学需求，国家自然科学基金委员会于 2014年批准立项“低能量强流高电荷态重离子加速器装置”（LEAF），旨在建设一个具备国际领先性能的低能量强流重离子束研究平台。LEAF 装置重点面向以下三个方向开展研究：第一，围绕恒星内部氢、氦与碳燃烧过程中的关键核反应（如 $^ { 1 2 } \mathrm { C } + ^ { 1 2 } \mathrm { C }$ 熔合），开展低能区 $\leqslant 1 . 0 \mathrm { M e V / u } ,$ ）反应截面的高精度测量，以揭示重元素（如 Na、Mg）的核合成路径并提供天体演化模型所需的实验约束；第二，利用高电荷态离子（如 $\mathrm { X e ^ { 4 0 ^ { + } } }$ 、 $\mathrm { U } ^ { 5 0 + }$ ）与物质相互作用的实验条件，开展强场下分子爆炸、多电子关联等量子动力学现象的研究，拓展原子分子物理的研究边界；第三，通过高通量离子辐照代替中子模拟反应堆极端服役条件，实现材料在百原子离位率尺度下的快速评价与筛选，解决传统中子辐照方法存在的周期长与成本高等技术瓶颈。
+
+本文将围绕 LEAF装置的运行与应用进展展开，首先基于超过 $1 3 0 0 0 \mathrm { h }$ 的装置运行数据，评估其在束流强度、电荷态及能量范围等关键参数上的实际表现；随后总结其在低能重离子熔合反应测量与核材料辐照研究中的典型供束成果；最后，针对当前实验终端在应用拓展中的限制，提出未来的发展方向与技术升级方案。
+
+# 1    装置介绍
+
+低能量强流高电荷态重离子加速器装置[1] 是中国科学院近代物理研究所自主研制的综合性实验平台，其核心设计目标是提供能量可调 $( 0 . 3 { \sim } 0 . 7 \mathrm { M e V / u } )$ 、流强可达毫安量级、电荷态覆盖轻离子（如 $\mathrm { H } _ { 2 } ^ { + }$ 、 $\mathrm { ^ { 4 } H e ^ { 2 + } }$ ）至超重离子（如238U50+、 $^ { 2 0 9 } \mathrm { { B i } ^ { 5 5 + } }$ ）的全谱系高品质束流。同时，该装置也是国家“十二五”重大科技基础设施 HIAF[2] 前端的原型样机。如图1 所示，该装置主要由首台第四代 $4 5 \mathrm { G H z }$ 超导 ECR 离子源 FECR[3]（first 4th generation ECR ion source)、 $1 0 0 \mathrm { k V }$ 高压平台、低能束传输线（LEBT）、 $8 1 . 2 5 \mathrm { M H z }$ 射频四极场型加速器（RFQ）、中能束传输线（MEBT）和实验终端组成。其中，FECR的主要设计参数见表 1，在 FECR的磁体系统中，采用了 ${ \mathrm { N b } } _ { 3 } { \mathrm { S n } }$ 超导线材，相较于传统 NbTi超导体，具有更高临界场强和临界电流密度，但其脆性和应力敏感特性对磁体机械结构和励磁保护提出了严苛要求。为此，开发了基于主动能量抽取的猝灭保护系统及自动加载程序，有效降低了 Flux Jump误触发概率。FECR不仅支持 $\mathrm { X e ^ { 4 0 ^ { + } } }$ 、 ${ \mathrm { B i } } ^ { 5 5 + }$ 等高电荷态离子的高效产生，同时还能实现如“ $^ { 4 } \mathrm { H e ^ { + } { + } ^ { 5 8 } \mathrm { N i } ^ { 1 5 + 9 } }$ ”“ $^ { 1 2 9 } \mathrm { X e } ^ { 3 3 + } + ^ { 4 } \mathrm { H e } ^ { + } + ^ { 1 6 } \mathrm { O } ^ { 4 + } { } ^ { , , }$ 等多元离子混合的“鸡尾酒式”束流（cocktail beam）的制备，为研究核能材料在多粒子协同辐照环境下的损伤行为提供了独特的实验
+
+![](images/4ea87965ba72c302fc0baf67962cf1c399840c06c54f2d1c8dfab80871e03161.jpg)  
+Fig. 1    Layout of the LEAF platform   
+图 1    LEAF 平台布局图
+
+表 1    FECR 主要设计参数  
+Table 1    Main design parameters of FECR   
+
+<table><tr><td>operating frequency/GHz</td><td>RF power/kW</td><td>magnet coils</td><td>mirror fields/T</td><td>Brad</td><td>chamber ID/mm</td><td>mirror length/mm</td></tr><tr><td>28~45</td><td>&gt;20</td><td>Nb3Sn</td><td>~6.4</td><td>~3.2</td><td>~140</td><td>~500</td></tr></table>
+
+平台。LEAF-RFQ 采用四翼型（设计参数见表 2），在连续波运行模式下，可稳定地将质荷比为 $2 \sim 7$ 的全粒子从 $1 4 \mathrm { k e V / u }$ 提升至 $5 0 0 ~ \mathrm { k e V / u }$ 。鉴于 RFQ 的出口能量恒定，为了提升 LEAF 装置束流条件的多样性，在 RFQ 出口段集成了束流能量调节系统。该系统包含一台交叉指型漂移管直线加速器（IH-DTL，设计参数见表 3），可提供 $0 . 3 { \sim } 0 . 7 \mathrm { M e V / u }$ 的连续能量增减调制[4]。DTL 两侧分别布置了两个四分之一波长谐振腔型聚束器（QWR mode Re-buncher），以控制纵向束流品质并对束流能量展宽进行压缩调制[5]。
+
+表 2   LEAF-RFQ 主要设计参数  
+Table 2    Main design parameters of LEAF-RFQ   
+表 3   IH-DTL 主要设计参数  
+
+<table><tr><td>duty cycle/%</td><td>operating frequency/MHz</td><td>resonant type</td><td>input particle energy/(keV·u-1)</td><td>output particle energy/(keV·u-1)</td><td>M/q range</td><td>RFQ vane length</td><td>maximum vane voltage/kV</td></tr><tr><td>100 (CW mode)</td><td>81.25</td><td>4~vane</td><td>14</td><td>500</td><td>2 (H2+)-7 (238U34+)</td><td>~596.4</td><td>70</td></tr></table>
+
+Table 3    Main design parameters of IH-DTL   
+
+<table><tr><td>duty cycle/%</td><td>operating frequency/MHz</td><td>number of gaps</td><td>gap/mm</td><td>tube length/mm</td><td>maximum gap voltage/kV</td><td>input particle energy/(keV·u-1)</td><td>output particle energy/(keV·u-1)</td><td>cavity length/mm</td></tr><tr><td>100 (CW mode)</td><td>81.25</td><td>8</td><td>25.96</td><td>32</td><td>195</td><td>500</td><td>300~700</td><td>~563.7</td></tr></table>
+
+为支撑 LEAF装置在核天体物理与核材料研究中的应用需求，平台配套建设了两个具备专用功能的实验终端：T1（强流核天体物理终端，如图 2所示）与 T2（高通量核能材料辐照终端，如图 3所示）。T1终端主要面向低能重离子熔合反应截面的直接测量，当前聚焦于天体能区的 $^ { 1 2 } \mathrm { C } + ^ { 1 2 } \mathrm { C }$ 反应研究[6]。终端配置时间投影室（TPC）与硅探测阵列构成的望远镜系统，可在强本底环境下实现对轻带电粒子的高效率鉴别与背景抑制[7]。配合 LEAF 装置提供的低能量高流强 $^ { 1 2 } \mathrm { C }$ 束流，T1终端支持质心系能量 $2 . 2 0 { \sim } 3 . 7 5 \mathrm { M e V }$ 区间内熔合截面的精密测量。T2终端用于开展高通量离子辐照下的核材料性能研究，具备多种高电荷态离子束及“鸡尾酒”混合束的注入能力，可模拟反应堆服役环境中的多因子协同辐照效应。终端支持不同温度与应力条件下的辐照实验，适用于辐照硬化、蠕变、脆化等关键问题研究。通过对材料微观结构的演化行为进行原位或离线分析，T2 终端为先进核能系统材料的快速筛选与寿命预测提供了实验支撑。
+
+![](images/245c685c2187325414540644b56f703580451350b8461c4193d039bb628c1862.jpg)  
+Fig. 2    Layout of experimental terminal 1   
+图 2    T1 终端布局图
+
+![](images/578da101a80ffa84e0239c495bc5dc99b3b38df5eafc2783342d205d229899f3.jpg)  
+Fig. 3    Layout of experimental terminal 2   
+图 3    T2 终端布局图
+
+# 2    运行调试
+
+LEAF装置自运行以来，面向终端实验的累计供束时长已超过 $1 3 \ 0 0 0 \mathrm { h }$ 。试运行期间，装置共支撑完成 60余项物理实验任务，其中所外用户占比约 $40 \%$ ，体现出较高的装置开放度与平台共享水平。图 4展示了 LEAF 装置试运行期间各类实验任务的时间分布情况。核天体物理与核材料辐照相关实验占据主导地位，合计时间占比达到$8 3 \%$ ，表明装置建设初期的科研定位与应用重点已在运行实践中得到体现。除两大核心方向外，平台还支撑了装置机器研究、原子分子物理及探测器开发等多类实验，具备良好的科研多样性与扩展潜力。
+
+![](images/f3f576513aa02cd3875d1e03053e32826ca7d537735851ceff47958a41cf694c.jpg)  
+Fig. 4    Categorized time allocation of experiments conducted at LEAF during its commissioning   
+图 4    LEAF 装置试运行期间不同类型实验任务的时间占比
+
+# 2.1    束流加速性能与强流束运行验证
+
+在 CW 运行模式下，装置成功加速了覆盖质荷比在 $2 \sim 7$ 范围的多种离子，包括从轻离子（如： $\mathrm { H _ { 2 } } ^ { + }$ 、 $\mathrm { H e } ^ { 2 + }$ 、 $\mathrm { H e ^ { + } }$ 、$\mathrm { C ^ { 4 + } }$ 、 $\mathrm { N } ^ { 2 + }$ 、 $\mathrm { O } ^ { 6 + }$ ）到重离子（如： $\mathbf { A r } ^ { 9 + }$ 、56Fe1x+、 $^ { 1 2 7 } \mathrm { I } ^ { 2 5 + }$ 、 $^ { 1 3 3 } \mathrm { C S } ^ { 2 6 + }$ 、 $^ { 5 9 } \mathrm { K r } ^ { 1 3 + }$ 、 ${ } ^ { 1 2 9 } \mathrm { X e } ^ { 2 0 + }$ 、 $^ { 2 0 9 } \mathrm { B i } ^ { 3 5 + }$ 、 $^ { 2 3 8 } \mathrm { U } ^ { 3 5 + } ,$ ）在内的全谱系高电荷态离子。加速后的束流强度覆盖 $1 0 ^ { - 2 } \sim 1 0 ^ { 3 } ~ \mathrm { e } \mu \mathrm { A }$ ，充分验证了装置在大范围束流参数下的稳定加速能力。束流由超导ECR 离子源产生后，首先经过 LEBT，并通过静电加速器将束流能量预加速至 $1 4 \mathrm { k e V / u }$ ，以满足 RFQ加速器的入射能量要求[8]。束流随后进入 RFQ加速器，在 $8 1 . 2 5 \mathrm { M H z }$ 高频电场作用下实现束流从 $1 4 \mathrm { k e V / u }$ 至 $0 . 5 \mathrm { M e V / u }$ 的高效加速。束流的传输效率由布置于 RFQ前后两端的交流电流互感器（ACCT）测得；通过对入口 ACCT-1 与出口 ACCT-2的电流值比对，可获得 RFQ 的总传输效率。而加速效率定义为有效加速至设计能量 $\mathrm { ( 0 . 5 \mathrm { M e V / u } ) }$ ）的离子占入射总离子的比例，该指标由 MEBT 段法拉第筒（FC）与 ACCT-1所测电流比值确定。为进一步提高 RFQ的加速效率，LEAF平台在其前端布置了一台多谐波聚束器（MHB）[9]，通过优化入射离子束在纵向相位空间的分布，使其与RFQ 的加速相稳定区更加匹配，从而显著降低纵向发射度损失并提高加速捕获率。图 5展示了 LEAF 装置在加速
+
+$^ { 1 6 } \mathrm { O } ^ { 6 + }$ 束流强度超过 1.0 emA情况下，装置在传输与加速效率方面的性能表现。在该强流条件下，束流传输效率达到 $9 0 . 2 \%$ ，加速效率达 $8 6 . 9 \%$ 。值得指出的是，空间电荷效应[10] 在毫安级强流重离子束中尤为显著，其非线性库仑作用易导致束流发射度急剧增长（如图 6所示），引发发散或能散增加，甚至引发腔体放电等不稳定因素。然而在该实验中，LEAF 装置维持了 1.0 emA 级 $\mathrm { O } ^ { 6 + }$ 束流连续稳定运行超过 1小时，期间未发生任何腔体打火或束线故障事件，表明装置整体设计具备良好的微波性能与热稳定性，能够满足强流重离子加速的工况需求，同时，基于调能器系统中的 QWR聚束器，可以将强流束能散抑制在较低水平（ $1 \sigma$ 能散度约 $0 . 1 1 5 \%$ ，如图 7所示）。这一结果在国际同类装置中处于领先水平。
+
+![](images/891202f6456accb0cb8c89b78084e4668d1ab2873509859c212831740cb8db6c.jpg)  
+Fig. 5    RFQ efficiency measurement when the accelerated ${ } ^ { 1 6 } \mathrm { O } ^ { 6 + }$ current is stronger than 1.0 emA
+
+![](images/35a69b784e5c2f277c2d8b57ac3c7adc2f87ab6e628a936503c2963d1415a825.jpg)  
+图  5    加 速 $^ { 1 6 } \mathrm { O } ^ { 6 \cdot }$ 流强大于 $1 . 0 \mathrm { e m A }$ 时的 RFQ 效率测量  
+(a) horizontal direction
+
+![](images/e48750e7dd0df7b06f19885f3f835b74bed825c164b46842289ed341537fb851.jpg)  
+(b) vertical direction   
+Fig. 6    Initial emittance measurement of a milliampere-class high-current ${ \mathrm { O } } ^ { 6 + }$ heavy ion beam   
+图 6    毫安级强流 $\mathrm { O ^ { 6 + } }$ 重离子束流的初始发射度测量
+
+# 2.2   “鸡尾酒”束的制备与精确调制
+
+LEAF装置的一项重要技术特色，是具备将多种离子同时引出、共线传输并协同加速的能力，可实现所谓“鸡尾酒”式混合离子束的稳定输出。该类束流可包括具有不同或相近荷质比的多个离子成分，如： $\mathrm { ^ { 8 6 } K r ^ { 1 2 + } } + \mathrm { ^ { 1 4 } N ^ { 2 + } }$ 、 $^ 4 \mathrm { H e ^ { + } + }$ $^ { 1 6 } \mathrm { O } ^ { 4 + }$ 、 $^ { 5 6 } \mathrm { F e } ^ { 1 4 + } + ^ { 4 } \mathrm { H e } ^ { + }$ 等，流强总和可达数百微安，能够在单次辐照中同时引入多种损伤成分。这一能力为开展复杂辐照环境下的协同损伤效应研究提供了有力实验手段。针对不同荷质比的离子组分，LEAF 可分别实现两种混合加速方式：一是“同时型”混合束，即多种离子在 ECR离子源内同时产生并共轨加速；二是“分时型”混合束，通过磁场快速切换的方式实现离子周期性注入。以 $\mathrm { H _ { 2 } } ^ { + }$ 与 $\mathrm { H e } ^ { 2 + }$ 为例，在束线中同轨传输与加速，经硅探测器分析可对各离
+
+子成分能谱峰进行清晰分辨，从而完成定量组分测量。如图8所示，H 和 He的计数峰与束流强度相关，图中横坐标代表束流能量，纵坐标为计数，峰的面积即代表该离子在计数时段的总个数。通过卢瑟福微分散射截面公式[11] 即可得到不同离子的粒子流强之比，此处为 $I _ { \mathrm { H } } { : } I _ { \mathrm { H e } } { = } 1 { : } 1 0$ 。
+
+在分时模式中，对于质荷比差异显著的离子（如 $^ { 5 8 } \mathrm { N i } ^ { 1 5 + }$ 与$^ 4 \mathrm { H e } ^ { + }$ ），可通过周期性的调制磁铁电源，在百毫秒时间尺度内实现束流快速切换，并配合 RFQ 相位同步调制以补偿不同离子速度带来的注入效率下降[11]。LEAF装置还支持混合束各成分离子的能量独立调节，依托调能器系统的协同工作，可对多种离子束在 $0 . 3 { \sim } 0 . 7 \mathrm { M e V / u }$ 能量范围内进行独立精确调控，形成特定能量差控制下的叠加射程分布区域。例如，通过将 $^ 4 { \mathrm { H e } } ^ { + }$ 与 $^ { 5 6 } \mathrm { F e } ^ { 1 4 + }$ 离子的能量分别设定为 $0 . 6 0 \ \mathrm { M e V / u }$ 与$0 . 5 7 \mathrm { M e V / u }$ ，可实现在单晶铜样品中小于 $1 0 0 \mathrm { n m }$ 的穿透深度差，适用于模拟局域叠加损伤机制[12]。
+
+![](images/322c6600133574811ce101ac2747cfdf2f959d53e021e84a635cc7e8237b82ee.jpg)  
+Fig. 7    Measurement of the energy spread of a milliampere-class high-current $\mathrm { O } ^ { 6 ^ { + } }$ heavy ion beam (suppressed by the QWR cavity, with a $1 \sigma$ energy spread of approximately $0 . 1 1 5 \%$ )
+
+![](images/e96fc08bb19ae2154f7f293bbc1ebb6f3a561e59794861dc8f4483bb34fa148d.jpg)  
+图 7    毫安级强流 $\mathrm { O } ^ { 6 ^ { + } }$ 重离子束流的能散度测量（通过 QWR腔体抑制， $1 \sigma$ 能散度约为 $0 . 1 1 5 \%$ ）  
+Fig. 8 $\mathrm { H _ { 2 } } ^ { + }$ and $^ { 4 } \mathrm { H e } ^ { 2 + }$ beam resolution by silicon detector, the particle number ratio of H to He is approximately 1 to 10   
+图 8    硅探测器对 $\mathrm { H } _ { 2 } ^ { + }$ 和4He2+束流的分辨，H 和 He 粒子数比约为 1∶10
+
+# 2.3    低能量强流低能散碳离子束的精确调制
+
+LEAF 装置的另一项技术特色是具备提供高流强、高能量精度、低能量展宽的碳离子束能力，专为满足核天体物理实验对束流品质的特殊需求而开发。LEAF装置对前端离子源与能量调控系统进行了专门优化。如图 9所示，在 LEBT 区段增设了一条专用于碳离子供束的强流离子束线，配置了全永磁型ECR 离子源[13]（LAPECR1U)。该离子源工作频率为 $1 4 . 5 \ : \mathrm { G H z }$ ，专为低电荷态高流强碳离子束设计，能够稳定产生近毫安量级的 $\mathrm { C } ^ { 2 + }$ 束流。配套束线引入了束流传输元件，包括螺线管磁铁、静电加速管及双极性二极磁铁，实现了高效的低电荷态碳离子筛选与传输，同时兼顾原束线的正常运行。
+
+基于调能器系统，并结合精确的束线设计与束流动力学优化，LEAF 装置实现了对 $\mathrm { C } ^ { 2 + }$ 束流在 $0 . 3 { \sim } 0 . 7 \mathrm { M e V / u }$ 能量范围内的连续可调，同时将能量展宽有效压缩至 $0 . 3 \%$ （FWHM）以内。系统在保持高传输效率的同时，具备对束流纵向发射度的良好抑制能力，满足核天体物理实验对高能量分辨率的要求。为定量计算能散度，采用由狭缝、质谱二极磁铁与高分辨率双丝探测器组成的能谱测量平台进行实测。在束流能量为 $0 . 5 \mathrm { M e V / u } ,$ 、束流流强约$3 9 0 \mathrm { e } \mu \mathrm { A }$ 的工况下，得到束流的相对能量展宽 $\mathrm { d } E / E { \approx } 0 . 2 1 3 3 \%$ （FWHM），如图10 所示。该结果表明，在强流运行条件下，LEAF装置依然能够稳定输出低能散碳离子束，验证了调能系统在束流能谱控制方面的有效性。
+
+# 3    发展与应用
+
+在完成初步建设与运行验证基础上，LEAF装置正面向更高性能与更广泛应用开展系统性拓展与能力提升规
+
+![](images/5169fa5f193527cacf67270a12209a35c38a12972431ee7e9ff27f95d4ba98ce.jpg)  
+Fig. 9    Layout of high-current carbon ion beamline   
+图 9    强流碳离子束线布局图
+
+划。未来发展将主要聚焦于能量调控范围的拓展以及多离子协同辐照能力的增强，以更好地服务于核天体物理、核能材料、原子分子物理等多学科交叉研究需求。
+
+首先，针对部分终端实验对更高入射能量的需求，平台将进一步扩展束流能量覆盖范围。在现有 $\mathrm { R F Q } + \mathrm { I H } { \cdot } \mathrm { D T L }$ 加速结构基础上，拟增设第二台 IH-DTL 腔，用于实现连续调能扩展至 $1 . 0 \mathrm { M e V / u }$ ，如图 11所示。新系统将保留原有调能段的良好能散控制能力，支持 $0 . 3 { \sim } 1 . 0 \mathrm { M e V / u }$ 能量范围内强流高电荷态离子的传输与加速，满足如 $^ { 1 2 } \mathrm { C } + ^ { 1 2 } \mathrm { C }$ 熔合反应与核能材料辐照研究在更宽能区内的测量需求，也为后续中高能终端的建设预留了物理接口。
+
+![](images/0e946cda088dfe04ae599e7142d66b8f9b7412468378571130727145778b076a.jpg)  
+Fig. 10    Measurement of $\mathrm { d } E / E$ of high current $\mathrm { C } ^ { 2 + }$ ion beam   
+图 10    强流碳离子束的能散测量
+
+其次，为响应先进核能系统材料服役行为研究中对复杂
+
+辐照环境模拟的实际需求，平台将在现有“鸡尾酒束”基础上，结合 FECR离子源高效的电荷剥离能力，进一步发展三种离子的同步协同加速能力。典型应用场景包括 $\mathrm { H _ { 2 } } ^ { + }$ 、 $\mathrm { ^ { 4 } H e ^ { 2 + } }$ 与 ${ } ^ { 5 6 } \mathrm { F e } ^ { 2 6 + }$ （或 $^ { 5 8 } \mathrm { N i } ^ { 2 8 + }$ ）三束协同辐照实验：其中 $\mathrm { H _ { 2 } } ^ { + }$ 和$\mathrm { ^ { 4 } H e ^ { 2 + } }$ 分别模拟反应堆中通过 $( \mathfrak { n } , \mathfrak { a } )$ 、(n,p) 等嬗变反应产生的气体[14]，Fe或 Ni离子用于模拟中子诱导的离位缺陷损伤。这些离位损伤与嬗变气体相互作用，引发氢氦泡演化、辐照硬化、肿胀等协同损伤效应，最终导致材料力学、化学性能的急剧退化[15]。该三离子混合束的构建不仅要求离子源引出束流比例的精准调控能力和长周期束流稳定性控制，还对能量的精准调控和靶前束流一致性提出更高要求。通过集成多离子调控、相空间传输匹配与能散压缩等手段，LEAF平台有望为研究核能材料的精准协同效应、材料结构演化机理等问题提供关键实验条件。
+
+![](images/ca166f890a52ec5c5208d7030d6aef71ef75c47a4a96f84a9ffb2f7d781edb3f.jpg)  
+Fig. 11    Layout of the energy range expansion scheme for the LEAF platform   
+图 11    LEAF 装置能量范围扩展方案布局图
+
+最后，在核能材料辐照研究方面，LEAF装置还配备了具有高磁刚度的宽幅扫描系统，用于实现强流重离子束的均匀扩束。该系统通过大磁钢度扫描磁铁对束流进行二维动态扫描，使得入射离子束在靶面上形成近似均匀的密度分布，如图 12所示。结合 LEAF的毫安级高电荷态重离子流强，该扩束技术不仅有效避免了局部热沉积过高引发的样品损伤，还使得单次辐照可覆盖多个样品区域，显著提高了实验通量和效率。该系统特别适用于多种候选核材料的快速服役性能评价和筛选，为先进核能系统关键结构材料的优化设计提供了重要实验支持。
+
+![](images/19fb48c66f69ac3de88e071b0774aca402a2ff3cff2c09c11ec9116c178afb8b.jpg)
+
+![](images/207e283b189a825876714dcad5032c7e32405cbd921dfd9f96e0e2d9e0c6d750.jpg)
+
+![](images/279428bb214156b5959530ca7acecc2c04be2abe362ba631bafc90ba2cd7d448.jpg)  
+Fig. 12    Scanning trace and displacement waveforms in $x$ and y directions.   
+图 12    扫描轨迹和 x、y 方向位移波形
+
+# 4    总　结
+
+作为一台面向多学科研究的强流重离子加速器平台，LEAF 装置在装置构建、束流调试与实验支撑方面均已取得重要进展。试运行结果表明，平台已具备稳定加速质荷比 $2 \sim 7$ 范围内高电荷态离子束的能力，终端典型束流强度最高超过 1 emA，达到国际先进水平；面向复杂辐照需求，平台建成了多离子混合“鸡尾酒束”的协同调控系统，并实现双离子共轨加速与能量调节，为研究多因子耦合作用提供了新型实验手段。此外，结合核天体物理在伽莫夫能区的实验需求，平台建立了低能散、高流强的 $^ { 1 2 } { \mathrm { C } } ^ { 2 + }$ 束流系统，并在稳定运行条件下将能量展宽压缩至 $0 . 2 2 \%$ （FWHM）以下，为精密截面测量奠定了实验基础。
+
+展望未来，LEAF装置仍具进一步拓展空间。一方面，随着引入第二台 DTL 腔体，装置将在维持高传输效率的同时拓展束流能量调控范围，满足更高能区实验需求；另一方面，三离子混合束的稳定加速与多物理量耦合能力的提升，将为核材料辐照研究提供更加接近实际服役环境的实验条件。依托上述发展，LEAF有望在核天体物理、核能材料、原子分子物理等交叉研究方向持续发挥平台价值，成为我国低能重离子加速技术持续演进的重要支撑节点。
+
+# 参考文献：
+
+[1] Yang Yao, Zhai Yuhan, Jiang P Y, et al. Commissioning progress of LEAF at IMP[J]. Journal of Physics: Conference Series, 2020, 1401: 012019.   
+[2] Yang  Jiancheng,  Xia  Jiawen,  Xiao  Guoqing,  et  al. High  intensity  heavy  ion  accelerator  facility  (HIAF)  in  China[J]. Nuclear  Instruments  and  Methods  in Physics Research Section B: Beam Interactions with Materials and Atoms, 2013, 317: 263-265.   
+[3] Zhao H W, Sun L T, Guo J W, et al. Superconducting ECR ion source: from 24-28 GHz SECRAL to 45 GHz fourth generation ECR[J]. Review of Scientific Instruments, 2018, 89: 052301.   
+[4] Yang Yao, Tian Ruixia, Zhai Yuhan, et al. Development of a beam energy adjustment system after a Radio-Frequency-Quadrupole[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2022, 1039: 167095.   
+[5] Yang Yao, Zhai Yuhan, Tian Ruixia, et al. Longitudinal emittance measurement for an external-bunching-based heavy-ion RFQ[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2022, 1029: 166457.   
+[6] Barrón-Palos L, Aguilera E F, Aspiazu J, et al. Absolute cross sections measurement for the $^ { 1 2 } \mathrm { C } + ^ { 1 2 } \mathrm { C }$ system at astrophysically relevant energies[J]. Nuclear Physics A, 2006, 779: 318-332.   
+[7] Wang Shuo, Li Yunzhen, Ru Longhui, et al. ${ } ^ { 1 2 } \mathrm { C } + { } ^ { 1 2 } \mathrm { C }$ fusion reaction at astrophysical energies using HOPG target[J]. Nuclear Science and Techniques, 2025, 36: 143.   
+[8] Yang Yao, Sun L T, Zhai Yuhan, et al. Heavy ion accelerator facility front end design and commissioning[J]. Physical Review Accelerators and Beams, 2019, 22: 110101.
+
+[9] Wu Zhengrong, Sun Liepeng, Qiu Feng, et al. A new multi-harmonic buncher for the LEAF project[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2023, 1047: 167856.   
+[10] Chauvin N. Space-charge effect[DB/OL]. arXiv preprint arXiv: 1410.7991, 2014.   
+Zhai  Yuhan,  Yang  Yao,  Sun  Liangting,  et  al. Production  of  high  intensity  highly  charged  cocktail  beams  at  LEAF[J]. Nuclear  Instruments  and  Methods  in[11] Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2022, 1027: 166157.   
+Zhai  Yuhan,  Yang  Yao,  Liu  Yong,  et  al. Variable-energy  cocktail  beam  technology  for  investigating  synergistic  damage  in  nuclear  materials  on  LEAF[12] platform[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2024, 1069: 169987.   
+Li J Q, Sun L T, Yang Yao, et al. Development of an all permanent magnet ECR ion source for low and medium charge state ions production[J]. Journal of[13] Physics: Conference Series, 2020, 1401: 012022.   
+[14] Baluc N. Materials for fusion power reactors[J]. Plasma Physics and Controlled Fusion, 2006, 48（12B）: B165-B177.   
+[15] Zinkle S J. Fusion materials science: overview of challenges and recent progress[J]. Physics of Plasmas, 2005, 12: 058101.

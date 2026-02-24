@@ -1,0 +1,15 @@
+# 瓦里安21EX直线加速器多叶准直器运动卡滞故障的根源分析与精准维修策略
+
+周琦
+
+（廉江市人民医院，湛江524400）
+
+摘要：通过对机械结构、电气控制系统及环境因素等多方面的系统分析，深入剖析瓦里安21EX直线加速器多叶准直器运动卡滞故障，并提出精准维修策略，包括针对机械结构问题的清洁润滑与部件更换、针对电气控制系统问题的电路检测校准与元件更换以及预防性维护计划。这些策略能提升多叶准直器运动性能，确保放射治疗精准度，为瓦里安21EX直线加速器的稳定运行提供有力保障。
+
+关键词：瓦里安21EX直线加速器；多叶准直器；运动卡滞；维修策略
+
+# Root Cause Analysis and Precise Maintenance Strategy of Motion Jamming Fault of Multi Leaf Collimator in Varian 21EX Linear Accelerator
+
+ZHOU Qi
+
+(Lianjiang People's Hospital, Zhanjiang 524400)

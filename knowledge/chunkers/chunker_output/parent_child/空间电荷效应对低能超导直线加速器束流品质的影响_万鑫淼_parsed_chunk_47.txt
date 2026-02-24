@@ -1,0 +1,9 @@
+5542d4c10fa.jpg)  
+(c) envelope when $\eta { = } 0 . 4$ for (a)
+
+![](images/af9ea14e307d8798fbe0670ba19f0d05e337c26855a4ee2f55954e4e1aaff8dc.jpg)  
+(d) envelope when $\eta { = } 0 . 4$ for (b)   
+Fig. 10    The envelope schematic diagram and the focusing structure schematic diagram of the numerical simulation for long-distance transportation when $\eta = 0 . 4$   
+图  10 $\eta = 0 . 4$ 时数值模拟长距离传输时的包络示意图以及聚焦结构示意图。
+
+稳定性。为了验证我们的结论，采用TraceWin进行多粒子模拟验证，所使用的条件为：束流分布为K-V分布、质子束动能为 $1 0 \mathrm { M e V } ,$ 、初始粒子数为 1

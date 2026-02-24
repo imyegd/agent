@@ -1,0 +1,7 @@
+AARE值，如表2所示。在后续的分析和讨论中，将此平均AARE值作为主要参考指标，用于评估和优化脉冲神经网络中的加法器设计。
+
+Table 2 Average AARE of   
+ten types of approximate adders   
+表 2 10 种近似加法器的平均 AARE  
+
+<table><tr><td>近似加法器</td><td>平均AARE</td><td>近似加法器</td><td>平均AARE</td></tr><tr><td>add8u_6PT</td><td>0.014</td><td>add8u_0NS</td><td>0.044</td></tr><tr><td>add8u_2AM</td><td>0.043</td><td>add8u_0NQ</td><td>0.169</td></tr><tr><td>add8u_6MZ</td><td>0.026</td><td>add8u_2LL</td><td>0.430</td></tr><tr><td>add8u_6P8</td><td>0.030</td><td>add8u_2J3</td><td>0.527</td>

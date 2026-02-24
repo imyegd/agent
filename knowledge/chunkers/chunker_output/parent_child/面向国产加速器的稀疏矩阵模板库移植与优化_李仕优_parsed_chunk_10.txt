@@ -1,0 +1,3 @@
+6 0 \%$ of the performance of CUTLASS-Sparse on NVIDIA GPU L20, respectively. Under two hardware versions, the performance of the transplanted and optimized CUTLASS-Sparse is on average 2.36 times and 3.09 times that of the SPARSE math library on domestic accelerator platforms, respectively. The experimental results verify the effectiveness of the transplantation and optimization scheme.
+
+【Key words】sparse matrix; CUTLASS; SpMM; domestic accelerator; transplantation and optimization; tensor core

@@ -1,0 +1,15 @@
+microbunching scheme[J]. Physical Review Accelerators and Beams, 2020, 23(11): 110701. DOI: 10.1103/ physrevaccelbeams.23.110701.   
+7 Li C, Jiang B, Feng C, et al. Lattice design for angular dispersion enhanced microbunching in storage rings[J]. Journal of Instrumentation, 2021, 16(3): P03004. DOI: 10.1088/1748-0221/16/03/p03004.   
+8 李昌亮. 基于电子储存环纵向相干辐射产生机制的研究[D]. 上海: 中国科学院上海应用物理研究所, 2021.  
+LI Changliang. Study on the generation mechanism of the longitudinal coherent radiation based on electron storage ring[D]. Shanghai: Shanghai Institute of Applied Physics, Chinese Academy of Sciences, 2021.   
+9 Han Y, Liu G, Li D. Magnet lattice design of the SSRF electron-beam transfer lines[J]. Nuclear Science and Techniques, 2006, 17(4): 193–197. DOI: 10.1016/s1001- 8042(06)60036-5.   
+10 韩毅昂. 上海光源束流输运线物理设计与技术方案优化的计算研究[D]. 上海: 中国科学院上海应用物理研究所, 2006.  
+HAN Yi'ang. Calculation study of physical design and technical scheme optimization for SSRF electron beam transfer lines[D]. Shanghai: Shanghai Institute of Applied Physics, Chinese Academy of Sciences, 2006.   
+11 Micheal B. Elegant: A flexible SDDS-compliant code for accelerator simulation[C]. Darmstadt, Germany: 6th International Computational Accelerator Physics Conference, ICAP2000, 2000.   
+12 Terebilo A. Accelerator toolbox for MATLAB[EB/OL]. [2021-05-01]. https://www. slac. stanford. edu/pubs/ slacpubs/8500/slac-pub-8732.pdf.   
+13 Wiedemann H. Particle accelerator physics[M]. Berlin, Heidelberg: Springer, 1993. DOI: 10.1007/978-3-662- 02903-9.   
+14 赵振堂. 先进X射线光源加速器原理与关键技术[M].上海: 上海交通大学出版社, 2021.  
+ZHAO Zhentang. Principles and key technologies of advanced X-ray light source accelerators[M]. Shanghai: Shanghai Jiao Tong University Press, 2021.   
+15 李冬国, 戴志敏, 徐洪杰. 储存环的闭合轨道畸变校正研究[J] 核技术, 1999, 22(8): 474–481.  
+LI Dongguo, DAI Zhimin, XU Hongjie. The study of closed orbit distortion correction in SSRF storage ring[J]. Nuclear Techniques, 1999, 22(8): 474–481.   
+16 后接, 刘桂民. 基于响应矩阵和SVD算法的输运线束流轨道校正[J]. 高能物理与核物理, 2006, 30(z1): 37–39.

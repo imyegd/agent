@@ -1,0 +1,7 @@
+![](images/960f45831dc4ed8fea948f03452645266900630f61ca302ffe0e1e348760d67d.jpg)  
+图13 “三明治”法测量焦点尺寸结果图（彩图见网络版）  
+Fig.13 Focal spot size measurement results using the "sandwich" method (color online)
+
+利用本文设计的电子直线加速器X射线焦点尺寸测量仪，测量该加速器在 $X$ 方向和Y方向的X射线焦点尺寸，测量结果如图14所示。 $X$ 方向和Y方
+
+向的焦点尺寸分别为 $1 . 9 5 \mathrm { m m }$ 和 $2 . 2 6 \mathrm { m m }$ 。与“三明治”法测得的结果相比， $X$ 方向的误差为 $0 . 5 \%$ ，而Y方向的误差为 $5 . 6 \%$ ，均在允许的测量误差范围内。

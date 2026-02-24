@@ -1,0 +1,8 @@
+[31] ZHANG Tianjue, YANG Jianjun, YAO Hongjuan.
+
+Physics problem study for A 100 MeV, 500 microamp $\mathrm{H}^-$ beam compact cyclotron[C]//ICAP09. San Francisco: [s.n], 2009.   
+[32] ZHANG T, YAO H, YANG J, et al. The beam dynamics study for the CYCIAE-100 cyclotron[J]. Nucl Instrum Methods Phys Res A, 2012, 676: 90-95.   
+[33] ZHANG T, WANG C, ZHONG J, et al. Investigation for the vertical focusing enhancement of compact cyclotron by asymmetrical shimming bar[J]. Nucl Instrum Methods Phys Res B, 2011, 269(24): 2968-2971.   
+[34] LI M, ZHONG J, CUI T, et al. Application and development of a method to shim the isochronous field in small cyclotrons[J]. IEEE Transactions on Applied Superconductivity, 2016, 26(4): 4101504.   
+[35] YIN Zhiguo, ZHAO Z, WEI S, et al. Design, construction and commissioning of the 100 kW RF amplifier for cyciae-100[C]/The 19th International Conference on Cyclotrons and Their Applications. Lanzhou: [s. n.], 2010.   
+[36] YIN Z, FU X, JI B, et al. Digital control in LLRF system fo

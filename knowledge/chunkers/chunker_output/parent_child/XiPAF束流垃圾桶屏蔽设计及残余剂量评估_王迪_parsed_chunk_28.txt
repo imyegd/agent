@@ -1,0 +1,18 @@
+ity
+/g·cm-3</td><td>产额1)
+Yield 1)
+/n·p-1</td><td>产额2)
+Yield 2)
+/n·p-1</td><td>产额3)
+Yield 3)
+/n·p-1</td><td>厚度
+Thickness
+/mm</td><td>半径
+Radius
+/mm</td><td>密度
+Density
+/g·cm-3</td><td>产额
+Yield
+/n·p-1</td></tr><tr><td>石墨
+Graphite</td><td>4.92</td><td>0.128</td><td>2.00</td><td>9.59×10-4</td><td>1.09×10-3</td><td>1.09×10-3</td><td>9</td><td>10</td><td>1.70</td><td>1.14×10-3</td></tr><tr><td>铁
+Iron</td><td>1.72</td><td>0.0996</td><td>7.87</td><td>1.15×10-2</td><td>1.54×10-2</td><td>1.54×10-2</td><td>3</td><td>10<

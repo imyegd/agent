@@ -1,0 +1,20 @@
+# Pilot Study on the Separation of $^ { \mathbf { { \boldsymbol { \mathsf { g } } } \mathbf { \boldsymbol { \mathsf { u } } } \mathbf { \boldsymbol { \mathsf { u } } } } } \mathbf { \mathbf { \Sigma } }$ and 99mTc Originated from Proton Accelerator
+
+XIN Yan $^ { 1 , 2 }$ ，WANG Xuejia2，3 ，ZHAO Rui $4$ ，XIE Hongxin2 ，YIN Ming1，2 ，CUI Liwei3 ，CHEN Shuai1*，LI Bai2 ，DONG Qifan3，5 ，LI Yu-Feng2，3*
+
+（1. Department of Chemistry，College of Sciences，Northeastern University，Shenyang，Liaoning 110819，China；
+
+2. CAS-HKU Joint Laboratory of Metallomics on Health and Environment，Institute of High Energy Physics，Chinese Academy of Sciences， Beijing 100049，China；
+
+3. University of Chinese Academy of Sciences，Beijing 100049，China；   
+4. School of Medicine，Linyi University，Linyi，Shandong 276000，China；
+
+5. Dongguan Branch，Institute of High Energy Physics，Chinese Academy of Sciences，Dongguan，Guangdong 523890，China）
+
+Abstract Technetium- $. 9 9 \mathrm { m }$ （ $^ { 9 9 \mathrm { m } } \mathrm { T c }$ ），a crucial nuclear medicine，primarily stems from $9 9$ Mo decay in nuclear reactors. However，aging reactors have disrupted the 99Mo and 99mTc supply chain. Proton accelerators present a promising alternative for $^ { 9 9 } \mathrm { M o }$ and 99mTc production，yet they yield low-radioactivity 99Mo and face inefficient separation through alumina column. This study explores activated carbon，TEVA resin，and alumina for molybdate and pertechnetate separation. Potassium perrhenate was used to substitute pertechnetate in adsorption and elution experiments，with ICP-MS analyzing eluent concentrations to assess separation efficiency. Activated carbon proves ineffective for separation under neutral or alkaline conditions. TEVA resin，however，excels under acidic conditions. $1 \mathrm { m o l / L }$ nitric acid elutes most molybdate while perrhenate adsorbs onto the resin. Perrhenate recovery surges with $8 \mathrm { m o l / L }$ nitric acid elution，retaining less than $1 \%$ molybdenum. Alumina strongly adsorbs molybdate at $\mathrm { p H } \leqslant 7$ ，and normal saline effectively eluates perrhenate. A combined separation process leveraging both alumina and TEVA resin is proposed. Molybdate is adsorbed by alumina, which is followed by perrhenate elution with saline and further TEVA resin purification. Then， $1 \mathrm { m o l / L }$ nitric acid is used to recover residual molybdate，while $8 \mathrm { m o l / L }$ nitric acid is used to elute perrhenate，achieving $6 9 . 7 \% - 8 1 . 4 \%$ recovery with merely about $1 \%$ residual molybdenum. In summary，this study offers an efficient and viable technical pathway for molybdate and pertechnetate separation，paving the way for $^ { 9 9 \mathrm { m } } \mathrm { T c }$ production via proton accelerators in nuclear medicine.
+
+Keywords separation of molybdate and perrhenate；activated carbon；TEVA resin；alumina column HIGHLIGHTS
+
+1） The separation of molybdate and perrhenate with activated carbon，TEVA resin and alumina column was compared.   
+2） TEVA resin showed excellent separation capability of molybdate and perrhenate.  
+3） The separation of molybdate and perrhenate was achieved through the combined alumina column and TEVA resin.

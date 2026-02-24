@@ -1,0 +1,5 @@
+超导同步回旋加速器的主要参数，见表2。
+
+表 2 $2 3 0 \mathrm { M e V }$ 质子超导同步回旋加速器主要参数  
+
+<table><tr><td>名称/单位</td><td>数值</td></tr><tr><td>中心磁场强度/T</td><td>5.71</td></tr><tr><td>引出点磁场强度/T</td><td>5.32</td></tr><tr><td>磁极半径/mm</td><td>530</td></tr><tr><td>引出能量/MeV</td><td>230</td></tr><tr><td>加速电场频率/MHz</td><td>85.8~60.5</td></tr><tr><td>加速电压/kV</td><td>20</td></tr><tr><td>平衡相位/(°)</td><td>30</td></tr></table>

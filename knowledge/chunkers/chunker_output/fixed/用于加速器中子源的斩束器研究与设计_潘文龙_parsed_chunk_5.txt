@@ -1,0 +1,27 @@
+是静电式斩束器结构示意图，上下极板间距为 d，极板之间存在一个静电场，带电粒子通过长度 $L$ 的斩束器。获得一个偏转角 θ，再经过 L′的漂移长度最终打到承接屏上，粒子经斩束器作用偏转距离为 $x { + } L ^ { \prime } { \mathrm { t a n } } \theta .$ ，假设下极板电势为 $_ { 0 \mathrm { ~ V ~ } }$ ，上极板电势为 $\varphi _ { \mathrm { d } } ,$ ，粒子纵向匀速运动，横向在电场作用下加速运动，不考虑边缘效应。
+
+带电粒子的拉格朗日函数为[14]
+
+$$
+L = T - U = \frac {1}{2} m v ^ {2} - q \varphi \tag {1}
+$$
+
+式中： $T$ 是带电粒子动能； $U$ 是带电粒子电势能。
+
+并对电势 $\varphi$ 进行线性近似，即
+
+![](images/fb1504455653a3e04a71dbf571eda668111a6abe7a63e2549170e38732cc98b5.jpg)  
+Fig. 1    Schematic diagram of electrostatic chopper structure   
+图 1    静电式斩束器结构示意
+
+$$
+\varphi = \varphi_ {0} + \varphi^ {\prime} d \tag {2}
+$$
+
+在束流光学中，将粒子传输方向定义为 z 方向，与 $z$ 方向正交的平面定义为横向截面，横向截面的正交轴 x、$y$ 轴与 $z$ 轴满足右手法则。假定时间 $\scriptstyle { t = 0 }$ 时，粒子坐标 $y { = } 0$ ， $z { = } 0$ ，对于束流偏转角采用泰勒展开并取一阶近似$\tan \theta { \approx } \theta .$ ，带入到拉格朗日方程中，最终可以求得斩束器作用下束流偏转距离公式为
+
+$$
+H = K \varphi = \frac {1}{2} \left(\frac {L}{2} + L ^ {\prime}\right) \frac {L}{d} \frac {\varphi_ {\mathrm {d}}}{W} \tag {3}
+$$
+
+式中：W为带电粒子引出电压， $K$ 为斩束器偏转灵敏度，表示极板

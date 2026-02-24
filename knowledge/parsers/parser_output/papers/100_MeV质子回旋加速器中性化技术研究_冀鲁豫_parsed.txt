@@ -1,0 +1,364 @@
+# 100 MeV 质子回旋加速器中性化技术研究
+
+冀鲁豫，安世忠，郑　侠，温立鹏，张　贺，黄　鹏，管锋平，杨　光，
+
+邢建升，朱鹏飞，魏素敏，纪　彬，宋国芳，边天剑，王　哲
+
+（中国原子能科学研究院，北京　102413）
+
+摘要：基于中国原子能科学研究院 $1 0 0 \mathrm { M e V }$ 质子回旋加速器 CYCIAE-100开展中性化研究，提出采用薄剥离膜部分剥离的方案。该方案使负氢离子束通过剥离膜后形成负氢离子、氢原子和质子的三组分混合束流，其中未被剥离的负氢离子束继续在加速器内旋转多次通过剥离膜直至被剥离。研究分析了不同厚度剥离膜对束流品质和中性化率的影响，发现该方案会引起束流发射度增长，但通过优化引出区聚焦能力可有效抑制束流包络增长，提升束流传输效率。数值模拟结果表明：采用质量厚度为 $2 0 ~ \mu \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 碳剥离膜时，中性化率可达约 $4 9 . 3 \%$ ；束流需经过 3圈循环完成全部粒子剥离；最终获得的氢原子束和质子束尺寸分别为 $2 . 4 7 \ : \mathrm { m m } { \times } 2 . 2 6 \ : \mathrm { m m }$ 和 $2 . 7 1 \ \mathrm { m m } { \times } 2 . 1 0 \ \mathrm { m m }$ 。
+
+关键词：质子回旋加速器；中性化；束流动力学；剥离膜
+
+中图分类号：TL542.1
+
+文献标志码：A
+
+文章编号：1000-6931（2025）00-0001-11
+
+doi：10.7538/yzk.2025.youxian.0404
+
+# Research on Neutralization Technology for 100 MeV Proton Cyclotron
+
+JI Luyu,  AN Shizhong,  ZHENG Xia,  WEN Lipeng,  ZHANG He,  HUANG Peng,  GUAN Fengping,
+
+YANG Guang,  XING Jiansheng,  ZHU Pengfei,  WEI Sumin,  JI Bin,
+
+SONG Guofang,  BIAN Tianjian,  WANG Zhe
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: The  neutralization  research  using  the $1 0 0 \ \mathrm { M e V }$ proton  cyclotron  (CYCIAE-100)  in  China Institute  of  Atomic  Energy  was  conducted,  and  a  partial  stripping  technique  with  thin  foils  was proposed. Unlike conventional stripping extraction that completely converts negative hydrogen ions to proton beams, a three-component mixed beam of negative hydrogen ions, hydrogen atoms and protons after  stripping  was  produced  in  this  method.  The  protons  reversed  rotation  direction  due  to  charge inversion and were extracted through the beam extraction channel. The neutral hydrogen atoms moved along tangential trajectory. The unstripped negative hydrogen ions keep circulating and accelerating in the  cyclotron.  After  completing  one  cycle,  they  return  to  the  stripping  foil  and  undergo  the  stripping process again, potentially being converted to protons or hydrogen atoms. If they are still not stripped, they repeat this process until stripping occurs. This research analyzes the evolution of beam composition when  negative  hydrogen  ion  beams  pass  through  carbon  stripping  foils  of  varying  thicknesses.  The results  show  that  a  single  stripping  event  achieves  the  maximum  neutralization  efficiency  of $5 5 . 9 5 \%$ when  using  a  foil  with  an  areal  density  of $1 1 . 1 6 ~ \mu \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ .  For  the  multi-pass  stripping  scheme,  the
+
+neutralization  efficiency  correlates  with  the  relative  ratio  of  hydrogen  atoms  to  protons  generated  per stripping  event  and  increases  with  decreasing  foil  thickness.  However,  excessively  thin  foils  not  only present fabrication challenges and reduced operational lifetime but also require more circulation turns for  complete  stripping,  consequently  increasing  beam  emittance.  After  comprehensive  evaluation,  a $2 0 ~ { \mu \mathrm { g } } { \cdot } { \mathrm { c m } } ^ { - 2 }$ foil  was  selected,  achieving $4 9 . 3 \%$ neutralization  within  three  circulation  turns.  Multiparticle  tracking  simulations  show  the  extracted  beam  distribution  characteristics:  The  proportions  of particles  stripped  in  successive  turns  are $9 4 . 0 \%$ , $5 . 7 \%$ ,  and $0 . 3 \%$ respectively.  Particles  remaining unstripped  undergo  additional  acceleration  cycles,  where  energy  accumulation  effects  increase  beam energy spread by $1 4 . 3 \%$ . Concurrently, inherent longitudinal-radial coupling in cyclotrons causes orbit expansion for high-energy particles, enlarging the radial beam size at the stripping foil by $1 6 . 6 \%$ .  No significant  emittance  growth  was  observed  axially  due  to  the  absence  of  axial-radial  or  axiallongitudinal coupling mechanisms. To mitigate beam loss from envelope growth, radial focusing in the extraction region was enhanced through the adjustments of the stripping probe’s position and tilt angle. Positional  tuning  affects  both  transverse  planes  but  produces  competing  effects  in  horizontal  versus vertical  focusing,  whereas  tilt  adjustment  exclusively  modifies  horizontal  focusing.  Optimization prioritized  radial  focusing  due  to  the  predominant  radial  envelope  growth  with  minimal  axial  impact. The proton beam profile shows marked improvement, reducing from 4.25 mm (horizontal) $\times \ 1 . 5 9 \ \mathrm { m m }$ (vertical)  to $2 . 7 1 \ \mathrm { \ m m } { \times } 2 . 1 0 \ \mathrm { \ m m }$ ,  while  the  hydrogen  atom  beam  maintains  stable  dimensions  of $2 . 4 7 \ : \mathrm { m m } { \times } 2 . 2 6 \ : \mathrm { m m }$ .
+
+Key words: proton cyclotron; neutralization; beam dynamics; stripping foil
+
+空间碎片是指失效的人造航天物体及其分解产生的残骸。根据美国空间监测网的统计数据显示，近地空间存在着大量的空间碎片，这些碎片的数量不仅呈现持续增长趋势，其增长速度还在不断加快。碎片以 $7 . 8 ~ \mathrm { k m / s }$ 的第一宇宙速度高速运行，在与航天器发生碰撞时的相对速度最高可达$1 5 \ \mathrm { k m / s }$ ，对在轨航天器的安全运行和航天员的生命安全构成了严重威胁[1-3]。中性粒子束由于不受空间电荷效应和地磁场干扰，具有更好的束流定向性和远距离传输能力，有望通过使用中性粒子束轰击空间碎片将其推离运行轨道或击碎的方式，实现释放轨道资源的目标[4]。
+
+粒子和物质靶发生电荷转移碰撞的截面大小与其能量相关，能量越高，截面越小。当前中性束技术研究主要集中在核聚变领域的中性束注入加热方面[5-7]，由于束流能量较低，所需的电荷转移靶厚度极小，因此普遍采用气体靶方案，而关于固体靶中性化的研究则相对较少。对于高能量束流的中性化过程，若采用气体靶，中性化室长度需显著增加，导致装置体积庞大、结构复杂，对航天器的搭载能力提出了严峻挑战。相较之下，固体靶具
+
+有体积小、结构简单等优势，更符合高能量束流中性化在空间应用中的需求。中国原子能科学研究院于 2014 年成功研制出紧凑型质子回旋加速器 CYCIAE-100，为满足高能区间中性化技术的应用需求，本文基于该加速器开展中性化技术研究。
+
+# 1 CYCIAE-100 中性化技术方案
+
+北京放射性核束设施（Beijing Radioactive Ion-beam Facility, BRIF）是国防科技工业局在“十五”至“十一五”期间部署的重点科研基础设施[8]。该设施以中国原子能科学研究院的串列静电加速器为平台，整合了最高能量达 $1 0 0 \ \mathrm { M e V }$ 的质子回旋加速器 CYCIAE-100 作为驱动加速器。作为BRIF 的重要组成部分，CYCIAE-100 于 2014 年首次出束，可以提供能量 ${ 7 0 } \mathrm { \sim } 1 0 0 \ \mathrm { M e V }$ 、平均流强$2 0 0 { \sim } 5 0 0 \mu \mathrm { A }$ 的质子束[9]。CYCIAE-100 的主要参数列于表 1，采用外部离子源产生负氢离子束注入至加速器中，经过 300 余圈的加速后能量可达$1 0 0 \mathrm { M e V }$ ，通过剥离膜将负氢离子束的电子剥离形成质子束进行引出。
+
+在常规的剥离引出中，采用厚度足够大的剥
+
+表 1 CYCIAE-100 的主要参数  
+Table 1 Main parameters of CYCIAE-100   
+
+<table><tr><td>参数</td><td>数值</td></tr><tr><td>离子源类型</td><td>多峰负氢</td></tr><tr><td>离子源流强,mA</td><td>&gt;5</td></tr><tr><td>离注入能量,keV</td><td>40</td></tr><tr><td>注入方式</td><td>螺旋静电偏转板轴向注入</td></tr><tr><td>Dee盒数</td><td>2</td></tr><tr><td>Dee盒张角,(°)</td><td>36</td></tr><tr><td>高频电压,kV</td><td>60~120</td></tr><tr><td>谐波数</td><td>4</td></tr><tr><td>高频频率,MHz</td><td>44.37</td></tr><tr><td>磁铁叶片数,对</td><td>4</td></tr><tr><td>磁极张角,(°)</td><td>&gt;47</td></tr><tr><td>峰区/谷区磁感应强度,T</td><td>1.35/0.15</td></tr><tr><td>磁极/磁轭半径,mm</td><td>2000/3080</td></tr><tr><td>峰区磁气隙,mm</td><td>50~60</td></tr><tr><td>磁铁重量,t</td><td>435</td></tr></table>
+
+离膜使负氢离子的电子完全剥离，形成质子束。与之相比，中性化方案采用厚度更低的剥离膜，使负氢离子束流未完全剥离，形成质子、氢原子和负氢离子三成分的束流。由于这些成分束流的电荷量不同，它们在磁场中的旋转方向和轨迹分布有差异，如图 1 所示。质子束的运动与传统的剥离引出类似，由于电荷量的改变，旋转方向发生了反向，从引出孔道被引出。氢原子束则不带电，会沿剥离前的轨迹切线自由运动。由于该轨迹上未设置引出孔道，氢原子束无法直接被引出。因此，为测量和接收氢原子束，需在加速器内额外安装相应的装置。本方案选择在加速器谷区安装接收靶，用于接收氢原子束并获得相应的电信号，从而测量束流强度。由于氢原子束不带电，无法直接电信号测量流强。因此，在接收靶前，需安装足够
+
+![](images/2188b58938dca33e042ebc79f1ff8e902e883c461405bfb2745ba6d8a526e299.jpg)  
+图 1    CYCIAE-100 中性化原理示意图  
+Fig. 1    Schematic diagram of CYCIAE-100 neutralization
+
+厚的剥离膜将氢原子束剥离成质子束。未被剥离的负氢离子将继续在加速器内旋转并被加速。当它们旋转 1 圈后，重新到达剥离膜，再次经历剥离过程，可能会被剥离成质子或氢原子。若这些粒子仍未被剥离，会继续这一过程直至发生剥离。
+
+在本方案中，束流因多次穿越剥离膜将导致发射度增长。剥离膜厚度与中性化率负相关，但过薄的剥离膜会显著增加制造工艺难度、缩短使用寿命，同时需更多圈数才能实现束流完全剥离，进而加剧发射度增长。因此，首先选取合适参数的剥离膜，即在保证较高中性化率的同时满足工程可行性要求，并兼顾束流发射度。其次需针对发射度增长问题，通过优化引出区聚焦能力来有效抑制束流包络的扩张，减少束流损失。最终将给出优化后的束流关键参数，为后续工程设计提供依据。为保障实验测量精度，设计要求剥离后的氢原子束与质子束的横向尺寸控制在 $3 \mathrm { m m }$ 以内，避免束流传输损失或束流尺寸过大未被完全接收测量产生的误差。在此基础上，尽可能获得高中性化率。
+
+# 2 用于中性束剥离的薄剥离膜方案研究
+
+# 2.1 剥离膜厚度和中性化率
+
+电荷转移碰撞是束流中性化的核心机制，粒子束和靶粒子碰撞后发生电荷转移，改变电荷状态。发生电荷转移碰撞的概率用截面 $\sigma$ 表示，碰撞时粒子可能得到或失去 1 个或多个电子， $\sigma _ { i j }$ 为电荷态 i 的粒子碰撞后成为电荷态 $j$ 的粒子的截面。以负氢离子中性化为例， $\sigma _ { - 1 0 }$ 表示负氢离子碰撞后成为氢原子的截面。
+
+对于分子数密度为 $n$ 的靶，定义靶分子数线密度 t：
+
+$$
+t = \int_ {0} ^ {L} n \mathrm {d} x \tag {1}
+$$
+
+其中， $L$ 为距离。对于氢的中性化，已知 $\mathrm { H } ^ { + }$ 、 $\mathrm { H } ^ { 0 }$ 和$\mathrm { H } ^ { - } \ 3$ 种电荷态初始束流成分占比分别为 $F _ { 1 } , F _ { 0 }$ $F _ { 0 }$ 和$F _ { - 1 }$ ，以及电荷转移碰撞截面。则可通过微分方程组计算束流成分随靶分子数线密度的变化[10]：
+
+$$
+\left\{ \begin{array}{l} \frac {\mathrm {d} F _ {0}}{\mathrm {d} t} = \sigma_ {1 0} F _ {1} - \left(\sigma_ {0 1} + \sigma_ {0 - 1}\right) F _ {0} + \sigma_ {- 1 0} F _ {- 1} \\ \frac {\mathrm {d} F _ {1}}{\mathrm {d} t} = - \left(\sigma_ {1 0} + \sigma_ {1 - 1}\right) F _ {1} + \sigma_ {0 1} F _ {0} + \sigma_ {- 1 1} F _ {- 1} \\ \frac {\mathrm {d} F _ {- 1}}{\mathrm {d} t} = \sigma_ {1 - 1} F _ {1} + \sigma_ {0 - 1} F _ {0} - \left(\sigma_ {- 1 1} + \sigma_ {- 1 0}\right) F _ {- 1} \end{array} \right. \tag {2}
+$$
+
+且有：
+
+$$
+F _ {0} + F _ {1} + F _ {- 1} = 1 \tag {3}
+$$
+
+本方案中剥离膜材料选用碳，在高能量粒子与电荷转移靶碰撞的情况下，粒子与靶材料之间的电子获得截面几乎可忽略不计。因此，假定$\sigma _ { 0 - 1 } , \sigma _ { 1 0 }$ $\sigma _ { 1 0 }$ 和 $\sigma _ { 1 - 1 }$ 均为 0。对于 $1 0 0 \mathrm { M e V }$ 能量的负氢离子束，相关的 $\sigma _ { - 1 0 \setminus } \sigma _ { - 1 1 }$ $\sigma _ { - 1 0 }$ 和 $\sigma _ { 0 1 }$ 截面数据尚未直接测量。基于 Webber 和 Hojvat [11] 在 $2 0 0 \ \mathrm { M e V }$ 下的测量结果，并结合截面与相对论速度参数 $\beta$ 的平方呈反比的关系，推算出在 $1 0 0 \ \mathrm { M e V }$ 时的相关截面数据，列于表 2。实验测量的 $\sigma _ { - 1 1 }$ 远小于 $\sigma _ { - 1 0 }$ 和$\sigma _ { 0 1 }$ ，在计算中忽略不计。
+
+表 2 $\mathbf { 1 0 0 M e V }$ 负氢离子和碳剥离膜的碰撞截面  
+Table 2 Collision cross-section of 100 MeV H− ions with carbon stripping foils   
+
+<table><tr><td rowspan="2">截面类型</td><td colspan="2">截面/10-18cm2</td></tr><tr><td>200 MeV测量数据</td><td>100 MeV推算结果</td></tr><tr><td>σ-10</td><td>1.56 ± 0.14</td><td>2.73 ± 0.24</td></tr><tr><td>σ01</td><td>0.60 ± 0.10</td><td>1.05 ± 0.17</td></tr></table>
+
+剥离膜的厚度通常用质量厚度 T 表示，它和t的关系为：
+
+$$
+T = \frac {t}{N _ {\mathrm {A}}} M \tag {4}
+$$
+
+其中： $N _ { \mathrm { A } }$ 为阿伏伽德罗常数； $M$ 为摩尔质量。由式（2）、（5）和表 2 的截面数据，计算负氢离子束通过不同质量厚度剥离膜后的束流成分占比，结果如图 2 所示。中性化率一般使用中性化后中性束的束流成分占比表示，在 100 MeV 负氢离子束单
+
+![](images/51adfeb7456bf4f4f72c1982d3a102fe5f9572c0a7b44811cea60870db53206c.jpg)  
+图 2    单次剥离的剥离膜质量厚度与束流成分占比关系  
+Fig. 2    Dependence of stripped beam fraction on foil mass thickness with single-pass stripping
+
+次通过碳剥离膜的条件下，中性化率最大值为$5 5 . 9 5 \%$ ，对应的剥离膜质量厚度为 $1 1 . 1 6 \mu \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 。
+
+# 2.2 多圈剥离的束流中性化
+
+在本方案中，未被剥离的负氢离子会继续在加速器内旋转，多次通过剥离膜直至被引出。设图 3 中单次剥离后的负氢离子、氢原子、质子的占比依次为 $F _ { - 1 } , F _ { 0 }$ $F _ { 0 }$ 和 $F _ { 1 }$ ，近似认为在多圈剥离的过程中电荷转移碰撞截面不变，则多圈剥离后的氢原子 $F _ { 0 } ^ { \prime }$ 和质子占比 $F _ { 1 } ^ { \prime }$ 为：
+
+$$
+F _ {0} ^ {\prime} = \frac {F _ {0}}{F _ {0} + F _ {1}} \tag {5}
+$$
+
+$$
+F _ {1} ^ {\prime} = \frac {F _ {1}}{F _ {0} + F _ {1}} \tag {6}
+$$
+
+得到多圈剥离的束流成分占比，如图 3 所示。
+
+![](images/f449feaff2ef5f8008fb533a0fb8dd21e92377da1d49ddbb5f09aff31c901c63.jpg)  
+图 3    多圈剥离的剥离膜质量厚度与束流成分占比关系  
+Fig. 3    Dependence of stripped beam fraction on foil mass thickness with multi-pass stripping
+
+计算结果表明，剥离膜厚度越小，中性化率越高，但降低剥离膜厚度带来两方面问题：首先，过薄的剥离膜会大幅提升制备和安装工艺难度，同时缩短使用寿命，影响装置运行稳定性；其次，剥离膜厚度降低将导致粒子完全剥离所需的圈数增加，引发更大的能散和发射度增长，最终造成束流品质下降并可能导致束流损失。
+
+为定量评估剥离膜厚度对束流品质的影响，设定如下判定标准：当累计引出的氢原子与质子占比之和达到 $9 9 . 9 \%$ （对应残余负氢离子占比不大于 $0 . 1 \%$ ）时，认为束流达到完全引出状态。基于该判据，完全引出所需圈数 $N$ 可通过下式计算：
+
+$$
+N = \frac {\lg 0 . 0 0 1}{\lg F _ {- 1}} \tag {7}
+$$
+
+得到的不同厚度的剥离膜对束流引出所需圈
+
+数的影响如图 4 所示。在 CYCIAE-100 加速器中，引出区的圈能量增益约 $0 . 4 4 \mathrm { M e V }$ ，相邻轨道圈间距约 $3 \mathrm { m m }$ 。以 $5 ~ { \mu \mathrm { g } } \cdot { \mathrm { c m } } ^ { - 2 }$ 质量厚度的剥离膜为例，虽然其中性化率高达 $8 7 . 3 8 \%$ ，但完全引出束流所需的圈数较多，约 10 圈。这种情况下，首圈与末圈引出的束流平均能量差达 $4 . 3 3 \ \mathrm { M e V }$ ，径向位置偏移量达 $2 9 . 4 9 \mathrm { m m }$ ，将导致束流品质显著恶化。
+
+经过综合评估中性化率、剥离膜工艺可行性
+
+![](images/e5bc3e110559ed5e2fcf428d394e16af0eba86e95a85aebd63acb884e7a295ab.jpg)  
+图 4    引出圈数与剥离膜质量厚度关系  
+Fig. 4    Dependence of extraction turns on foil mass thickness
+
+及束流品质等关键参数，最终确定质量厚度为$2 0 ~ { \mu \mathrm { g } } { \cdot } { \mathrm { c m } } ^ { - 2 }$ 的剥离膜为最优选择。该厚度剥离膜的中性化率达 $4 9 . 3 \%$ ，所需引出圈数在 3 圈以内，首末圈束流能量差控制在 $1 . 1 2 \mathrm { M e V }$ ，径向位置差为 $7 . 6 5 \mathrm { m m }$ 。在工程实现与束流性能之间进行平衡，既保证了足够大的中性化率，又降低了超薄剥离膜加工安装的难度，并避免束流发射度过度增长。
+
+# 3 中性束剥离的模拟研究
+
+# 3.1 引出区的束流分布
+
+使用多粒子跟踪方法对 CYCIAE-100 的引出过程进行模拟。模拟从初始能量为较低能量1 MeV 的粒子开始，逐步跟踪粒子的运动轨迹。在模拟过程中，初始粒子分布的选取至关重要：若初始发射度过小，将导致模拟结果偏离实际情况；而初始发射度过大，则会造成大量粒子在模拟过程中丢失，难以跟踪至引出区，降低模拟效率。初始粒子分布选取参考了 CYCIAE-100 加速器接收度的设计[12]。在相空间内生成服从均匀分布的$1 \times 1 0 ^ { 4 }$ 个粒子进行跟踪，如图 5 所示。其中参考粒
+
+![](images/361c0177081680db26ca637771cc2caefc54b4a8b101cf9931f809de00512cff.jpg)
+
+![](images/9209138c852171f71081ac7549ed0a8543c4e05c607b8d6d4709db44d54eaf0b.jpg)
+
+![](images/5eea2c50d0a978d20261eec1c072f2e8d70a292545ee58275e733a45c94ab9f8.jpg)
+
+图 5    初始粒子分布  
+Fig. 5    Initial particle distribution   
+![](images/b635988a4cdd151810c74f5b9030aceb87bcb2d7a0304ece224d5d1d9ed9916d.jpg)  
+a——径向相空间分布；b——轴向相空间分布；c——径向和轴向位置分布；d——纵向分布
+
+子的初始坐标如下：初始方位角 $\theta$ 为 $0 ^ { \circ }$ ；初始半径 $r _ { 0 }$ 为 $2 3 . 1 0 \mathrm { c m }$ ；初始径向动量 $p _ { r 0 }$ 为 $0 . 1 5 0 \mathrm { c m }$ ；初始高频相位 $\tau _ { 0 }$ 为 $0 ^ { \circ }$ ；初始轴向高度 $z _ { 0 }$ 为 $\mathrm { 0 ~ c m }$ ；初始轴向动量 $p _ { z 0 }$ 为 $_ { 0 \mathrm { c m } }$ 。初始粒子的分布如下：束团的初始发射度为 $4 \pi \mathrm { { \cdot m m } \mathrm { { \cdot m r a d } } }$ ，相空间分布参数如下：径向长度为 $0 . 3 6 4 ~ \mathrm { c m }$ ；径向动量为 $0 . 4 7 3 ~ \mathrm { c m }$ ；轴向长度为 $0 . 6 5 0 ~ \mathrm { c m }$ ；轴向动量为 $0 . 2 6 5 ~ \mathrm { c m }$ ；束团相宽为 $4 0 ^ { \circ }$ 。
+
+计算中采用回旋加速器单位，定义长度单位 $a _ { 0 }$ ：
+
+$$
+a _ {0} = \frac {c}{\omega_ {0}} \tag {8}
+$$
+
+式中： $c$ 为光速； $\omega _ { 0 }$ 为轨道角频率。 $a _ { 0 }$ 又称为回旋加速器的无穷大半径。计算中以 $m _ { 0 } c / a _ { 0 }$ 作为动量单位（ $m _ { 0 }$ 为粒子静止质量），因此动量单位量纲与长度相同。
+
+使用粒子跟踪程序 OPAL-cycl[13] 开展多粒子模拟，得到剥离靶上的粒子分布，如图 6 所示。在模拟中，剥离点的半径设定为 $1 8 7 . 5 5 ~ \mathrm { c m }$ ，这一数值对应剥离膜半径的最小值。粒子在这一位置的
+
+径向分布与该半径的最小值一致，并且在此位置粒子的分布最为集中，如图6a、c所示。
+
+由于不同相位的粒子在穿越加速间隙时获得的能量增益不同，导致在束团加速过程中，具有不同初始相位的粒子在加速相同圈数后会产生较大的能散，即径向-纵向耦合效应。这种耦合效应使得中心相位的粒子在达 $1 0 0 \ \mathrm { M e V }$ 时能量增益最快，而相位较差的粒子则需经过更多的加速圈才能达到相同的能量。由于中心相位的粒子获得的能量增益最高，而两侧相位粒子能量增益逐渐递减，因此束团的能量-相位分布呈月牙形结构。加速圈数的差异产生了图 6d 中展示的多组束团分布。此外，束团的轴向初始分布是均匀的，位于相椭圆内。引出的过程中，轴向相椭圆在相空间内不断旋转，经过多圈叠加后，形成了一面积更大、分布更集中在中心位置的椭圆形分布，如图 6b所示。
+
+# 3.2 多圈剥离引出研究
+
+基于图 7 模拟得到的剥离膜上的粒子分布，开展后续粒子跟踪模拟。根据图 2 的计算结果，
+
+![](images/1deff676287ec381ce418843bd19d949864cdebf9cbbd872d398f5f7f23966dd.jpg)
+
+![](images/207469601689e2258bda369bf0ded898d5ba8fa297c3c592a7e5b43cd49644bf.jpg)
+
+![](images/51296e9b2fd19f4e94f25e9362a30ee1866c8d799a9329d4d3cf654909aa40cb.jpg)
+
+图 6    剥离膜上粒子分布  
+Fig. 6    Particle distribution on stripping foil   
+![](images/ef8d53775dcb81859feba941feaf563d1fe420097355f94b1c22f13261af2ea7.jpg)  
+a——径向相空间分布；b——轴向相空间分布；c——径向和轴向位置分布；d——纵向分布
+
+当 $1 0 0 \mathrm { M e V }$ 负氢离子束穿过 $2 0 \mu \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 碳剥离膜时，其转化为氢原子、质子以及保持未剥离状态的概率分别为 $4 6 . 4 5 \%$ 、 $4 7 . 5 0 \%$ 和 $6 . 0 5 \%$ 。记录各
+
+粒子通过剥离膜后的电荷态变化，并对其中未被剥离的负氢离子继续进行跟踪模拟，直至其完成剥离过程，结果如图 7 所示。
+
+![](images/44b46a3b3decc726987cde3a32cfa6bcf673228ade2108976de2c5aa0baefcbb.jpg)
+
+![](images/22d0ed85226f8417f49c70f92dd4797ed3be7f323a395065cd5163cc80423173.jpg)
+
+![](images/d45daf022640d8993c686df780c6721c8292bb49dd9d03c139322cacc2d1ed76.jpg)
+
+![](images/fa52761543103a6a03f38be9f35de5b5e09834f298862b5b9277c668a3155695.jpg)
+
+![](images/f6b4199acf433e7e96cc9d6f9f837aa0f7b355ec76678ad298d62d869c8f91d8.jpg)
+
+![](images/3d3a392f9034c67f4df33c021f7039831fd195f920b65e2e54750301d4eaeeda.jpg)
+
+![](images/27752b20ad98ba4f991488d6ca7f479b75d4e44cb53663672d6aa5f8d0fa6102.jpg)
+
+![](images/fd10aa565d65d804d88cfc12a6a506bf95a1fd63cdd5fd7be8a762184808987d.jpg)
+
+图 7    多圈剥离的剥离膜上粒子分布  
+Fig. 7    Particle distribution on stripping foil with multi-pass stripping   
+![](images/dc0b7ce6eae669d33fcf347285f8c3d65a9f55707f6d3a9c92c5a8e627d21fe5.jpg)  
+a——负氢离子径向相空间分布；b——负氢离子轴向相空间分布；c——负氢离子纵向分布；d——氢原子径向相空间分布；e——氢原子轴向相空间分布；f——氢原子纵向分布；g——质子径向相空间分布；h——质子轴向相空间分布；i——质子纵向分布
+
+计算中关于粒子通过剥离膜后能量损失的考虑如下。粒子通过剥离膜的能量损失主要来源于被剥离电子的能量损失，每个被剥离电子导致粒子能量降低约 $0 . 0 5 \%$ ，对应约 $5 0 \mathrm { k e V }$ 。粒子与剥离膜碰撞引起的电离和激发导致的能量变化可忽略不计。根据文献 [14]， $1 0 0 \ \mathrm { M e V }$ 质子在碳剥离膜中的能量损失率为 $6 . 5 \mathrm { \ : M e V \cdot c m ^ { 2 } \ : g ^ { - 1 } }$ ， $2 0 ~ { \mu \mathrm { g } } { \cdot } { \mathrm { c m } } ^ { - 2 }$ 的剥离膜对应的能量损失约为 $1 3 0 \ \mathrm { e V }$ ，因此在计算中未计入该效应。
+
+粒子穿过剥离靶时由于库仑散射产生的散角分布 $\theta _ { 0 }$ 可通过经验公式估算[15]：
+
+$$
+\theta_ {0} = \frac {1 4 . 1}{\beta c p} z \sqrt {\frac {T}{X _ {0}}} \left(1 + \frac {1}{9} \lg \frac {T}{X _ {0}}\right) \tag {9}
+$$
+
+其中： $\beta$ 为相对论速度参数； $c$ 为光速； $p$ 为动量；$z$ 为入射粒子电荷态； $T$ 为质量厚度； $X _ { 0 }$ 为辐射长度，碳的取 $4 2 . 7 \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 。
+
+式（9）在 $1 0 ^ { - 3 } < T / X _ { 0 } < 1 0 ^ { 3 }$ 内精确度较高。本方案采用的剥离膜厚度小于公式的适用范围，计算结果存在一定误差。考虑到当 $T / X _ { 0 } { = } 1 0 ^ { 3 }$ ，即剥离膜质量厚度为 $4 2 . 7 \mathrm { m g } { \cdot } \mathrm { c m } ^ { - 2 }$ 时，散射角为 1.56 mrad，和束散角的量级相当。本方案采用的剥离膜质量厚度小于该厚度 3 个量级，因此研究中忽略库仑
+
+散射对束散角的影响。
+
+根据计算结果，薄剥离膜多圈剥离引出的束流分布与常规厚剥离膜引出相比，主要在径向和纵向上呈显著差异。未被剥离的粒子在加速器内经历了更多圈次的旋转和加速过程，其能量积累效应导致束流能散增大。与此同时，回旋加速器中固有的纵向-径向耦合效应使得高能粒子的轨道半径随之增大，进而引起束流径向分布的发散。而在轴向维度上，由于缺乏轴向-径向或轴向-纵向耦合机制，其变化幅度相对微弱，未观察到明显发射度增长。统计每圈通过剥离膜后的各成分束流的粒子数列于表 3。结果表明，到达剥离膜的粒子在 3 圈内被剥离，每圈剥离的粒子占总粒子数的比例依次为 $9 4 . 0 \%$ 、 $5 . 7 \%$ 和 $0 . 3 \%$ 。表 4 列出了剥离后各束流成分的分布参数拟合值。统计数
+
+表 3 剥离后的各成分束流的粒子数  
+Table 3 Particle counts of beam components after stripping   
+
+<table><tr><td rowspan="2">圈数</td><td colspan="4">粒子数</td></tr><tr><td>H-</td><td>H0</td><td>H+</td><td>合计</td></tr><tr><td>1</td><td>600</td><td>4634</td><td>4766</td><td>10000</td></tr><tr><td>2</td><td>36</td><td>278</td><td>286</td><td>600</td></tr><tr><td>3</td><td>2</td><td>17</td><td>17</td><td>136</td></tr></table>
+
+表 4 剥离膜上各成分束流参数  
+Table 4 Beam parameters of beam components on stripping foil   
+
+<table><tr><td rowspan="2">参数</td><td colspan="4">粒子数值</td></tr><tr><td>剥离前 H-</td><td>H-</td><td>H0</td><td>H+</td></tr><tr><td>径向尺寸,mm</td><td>1.99</td><td>2.37</td><td>2.32</td><td>2.31</td></tr><tr><td>轴向尺寸,mm</td><td>1.66</td><td>1.66</td><td>1.66</td><td>1.66</td></tr><tr><td>能散,%</td><td>0.14</td><td>0.16</td><td>0.15</td><td>0.16</td></tr></table>
+
+据显示，剥离膜位置处各成分的束流参数基本一致。受多圈剥离过程的累积效应影响，束流径向尺寸与能散较剥离前分别增大 $1 6 . 6 \%$ 和 $1 4 . 3 \%$ ，轴向分布基本不变，这一结果与前述分析结论相符。
+
+以图 7 中被剥离的氢原子和质子的粒子分布作为初始条件继续进行粒子跟踪模拟。其中，氢原子束被跟踪至加速器谷区对称线位置，质子束被跟踪至引出开关磁铁处。模拟获得了这两个位置的束流分布，结果如图 8 所示。图中采用平面曲线坐标系：以束团中心为坐标原点，束团前进方向定义为纵向（ $z$ 轴） ，高度方向为竖直方向（y 轴），水平方向 $\scriptstyle { \mathbf { \mathit { x } } }$ 轴）则根据右手定则由纵向和竖直方向确定。计算结果表明，在薄剥离膜多圈引出的条件下，氢原子束和质子束的水平方向和纵向分布均呈现显著发散，而竖直方向几乎未受
+
+![](images/8d926702d9a66dd6046eeb53ca36d0e3dde3ce231c07328b6bd1f52bc4bd627f.jpg)
+
+![](images/617beb15a233358f39d6ccb2c91f033223221dc82183d0dbb82fec7f95a0c878.jpg)
+
+![](images/6f316ee77cb1b77c5b5ecb4b2f746d78e4a70d6b6ec9e001f1c9fb2ee15fd96a.jpg)
+
+![](images/08aa815b6d7bc6afa6d5ef6eecdd5e2e501a8f192573e77b3676aeb48b7d0c6f.jpg)
+
+![](images/52740c347c8411452df9aad8391035461ef3452ea672d127acb3ef1c7df3f50f.jpg)
+
+图 8    剥离后的氢原子束和质子束分布  
+Fig. 8    Distribution of stripped $\mathrm { H } ^ { 0 }$ and $\mathrm { H } ^ { + }$ beams   
+![](images/f1ea2a21d65454a154e1622eafe15284a91571be0a7ce72f16b4676a7c369c16.jpg)  
+a——氢原子束水平方向相空间分布；b——氢原子束竖直方向相空间分布；c——氢原子束纵向分布；d——质子束水平方向相空间分布；e——质子束竖直方向相空间分布；f——质子束纵向分布
+
+影响。由于质子束传输距离更长，其水平方向发散更为明显。在竖直方向上，质子束受到边缘场的磁场聚焦作用，包络尺寸更小。
+
+# 4 引出区的束流聚焦
+
+多圈剥离过程会显著降低束流品质并增加束流损失风险，这要求对加速器引出区的聚焦能力进行针对性优化。图 8 计算结果表明，氢原子束由于在加速器内部即可完成接收与测量，其传输距离较短，束流包络增长有限；加之中性束无法通过磁场实现聚焦，因此优化空间较小。相比之下，质子束在到达加速器外第 1 个四极透镜前缺乏有效的聚焦元件，长距离传输更易导致束流损失。因此对引出区聚焦的优化主要聚焦于质子束的传输。引出区的聚焦优化的技术路线有两种：一是增加聚焦元件，如安装铁块形成四极场分量的磁通道[16]；二是通过合理设计剥离靶参数，充分利用引出区磁场特性为束流提供聚焦[17]。考虑到后者无需增设额外元件，系统结构更简洁，对加速器原有结构的改动幅度较小且调试难度较低，因此最终采用此路线。
+
+剥离靶调节聚焦能力的方法有两种。对于每个引出能量，在不同方位角安装剥离靶均可实现束流引出。不同电荷态的束流轨迹如图 9 所示，氢原子束沿剥离点的轨迹切线运动，质子束在剥离点旋转方向反向离开加速器。不同方位角的剥离点引出束流的轨迹差异较大，束流经过的磁场分布也有所不同。
+
+![](images/bf139c0e2ce43c514fc8fe0d6fa2a12a0223a83ec21120cfaee94382568b5c73.jpg)  
+图 9    CYCIAE-100 中性束剥离系统束流轨迹  
+Fig. 9    Beam trajectory in CYCIAE-100 neutral beam stripping system
+
+当磁感应强度 $B$ 随半径 $r$ 变化时，存在磁降落指数 $n$ ：
+
+$$
+n = - \frac {r}{B} \frac {\mathrm {d} B}{\mathrm {d} r} \tag {10}
+$$
+
+磁场的聚焦能力和磁降落指数有关，径向自由振荡频率 $\nu _ { r }$ 和轴向自由振荡频率 $\nu _ { z }$ 为：
+
+$$
+v _ {r} = \sqrt {1 - n} \tag {11}
+$$
+
+$$
+v _ {z} = \sqrt {n} \tag {12}
+$$
+
+磁极尾部的磁场降落指数为较大的负值，表现出强径向聚焦和轴向散焦特性；而谷区的磁场随着方位角变化而下降，具有较高的调变度，相比磁极尾部，径向聚焦能力较弱，轴向聚焦能力较强。因此通过调节剥离点方位角可改变引出区的径向和轴向聚焦，且表现为 1 个方向聚焦能力增强、另1个方向聚焦能力减弱。
+
+使用多粒子跟踪方法模拟引出束流的分布。不同剥离靶方位角下质子束引出至开关磁铁时的横向相空间分布如图 10 所示，各椭圆为粒子在相空间分布的拟合结果。当剥离膜和粒子方向存在夹角 $\alpha$ 时，会导致粒子穿过剥离膜后的角度发生变化[18]：
+
+$$
+\left\{ \begin{array}{l} \Delta x ^ {\prime} = \frac {2 \tan \alpha}{\rho} x - \frac {2 n \tan \alpha}{\rho^ {2}} x ^ {2} - \frac {2 \tan \alpha}{\rho} x \delta \\ \Delta y ^ {\prime} = - \frac {2 n \tan \alpha}{\rho^ {2}} x y + \frac {2 n \tan \alpha}{\rho^ {2}} x y \delta \end{array} \right. \tag {13}
+$$
+
+式中： $x$ 为水平方向位置； $y$ 为竖直方向位置； $\Delta x$ '为水平方向角度变化量； $\Delta y$ '为竖直方向角度变化量； $\rho$ 为曲率半径； $\delta$ 为动量分散。
+
+忽略高阶项后，式（12）可近似为：
+
+$$
+\left\{ \begin{array}{l} \Delta x ^ {\prime} = \frac {2 \tan \alpha}{\rho} x \\ \Delta y ^ {\prime} = 0 \end{array} \right. \tag {14}
+$$
+
+可看出，在忽略高阶项的前提下，剥离膜法线和粒子运动方向存在一定夹角时，在水平方向产生和偏转磁铁的入口、出口角类似的聚焦或散焦作用，在竖直方向上基本没有影响。所以可通过调整剥离膜倾斜角提供适当的径向聚焦能力，从而调整引出束流水平方向的包络，如图11所示。
+
+综上所述，可采用改变剥离靶方位角和剥离膜倾斜角两种方法调节引出区横向聚焦，控制束流参数。前者会同时改变水平方向和竖直方向的聚焦，使其中一个方向聚焦增强，另一个方向聚焦减弱，二者无法兼顾；后者只会改变水平方向的聚
+
+![](images/1f036ecc2ca0f560f973422c1bdc27fea8362938d0903d30e6ea090ecda164dc.jpg)  
+a——水平方向；b——竖直方向
+
+![](images/db7faf4dd2d69e37be83045eea43901a1a0a509677a65bbd2159dc1199f43bb3.jpg)  
+图 10    不同剥离靶方位角下引出质子束横向相空间分布
+
+![](images/c70881909ef2fd5eb06d56ed20aec40d8146ac21560a37a38d8a3edd1f41031d.jpg)  
+Fig. 10    Transverse phase space distributions of extracted proton beam under different stripping probe azimuths
+
+图 11    不同剥离膜倾斜角下引出质子束横向相空间分布  
+Fig. 11    Transverse phase space distribution of extracted proton beam under different stripping foil inclination angles   
+![](images/fe6f54f04e59b46ad847787babb0f996ece22a28a7290a08f9e933a23a0cfeb4.jpg)  
+a— 水平方向；b— 竖直方向
+
+焦。CYCIAE-100 目前采用 $6 0 ^ { \circ }$ 方位角的引出方案[19]，为抑制多圈剥离导致的质子束水平方向发射度增长，将剥离靶方位角调整至 $5 9 ^ { \circ }$ ，并引入 $1 5 ^ { \circ } { }$ 的剥离膜与束流夹角，增强水平方向的磁场聚焦能力。在该剥离靶参数条件下，剥离后的氢原子束和质
+
+子束的束流参数的拟合均方根值列于表 5。结果表明，氢原子束的束流分布在优化前后无显著差异，质子束的分布变化明显：优化前呈水平方向尺寸大、竖直方向小的椭圆分布；优化后水平方向尺寸显著减小，竖直方向增大，束流分布更接近圆
+
+表 5 剥离后的氢原子和质子束流参数  
+Table 5 Parameters of stripped $\mathbf { H } ^ { 0 }$ and $\mathbf { H } ^ { + }$ beam   
+
+<table><tr><td>参数</td><td>优化前H0</td><td>优化后H0</td><td>优化前H+</td><td>优化后H+</td></tr><tr><td>水平方向发射度,π·mm·mrad</td><td>2.44</td><td>2.45</td><td>2.13</td><td>2.16</td></tr><tr><td>水平方向束流包络,mm</td><td>2.50</td><td>2.47</td><td>4.25</td><td>2.71</td></tr><tr><td>水平方向束散角,mrad</td><td>1.07</td><td>1.06</td><td>1.01</td><td>0.92</td></tr><tr><td>竖直方向发射度,π·mm·mrad</td><td>1.11</td><td>1.11</td><td>1.12</td><td>1.11</td></tr><tr><td>竖直方向束流包络,mm</td><td>2.26</td><td>2.26</td><td>1.59</td><td>2.10</td></tr><tr><td>竖直方向束散角,mrad</td><td>0.79</td><td>0.79</td><td>0.84</td><td>0.64</td></tr><tr><td>束团长度,mm</td><td>46.99</td><td>46.98</td><td>46.88</td><td>46.88</td></tr><tr><td>能散,%</td><td>0.16</td><td>0.16</td><td>0.16</td><td>0.16</td></tr></table>
+
+形，且横向尺寸满足小于 $3 \mathrm { m m }$ 的设计要求。
+
+# 5 结论
+
+中国原子能科学研究院正在基于 $1 0 0 \mathrm { M e V }$ 质子回旋加速器开展中性化研究，目前已完成物理设计，正在进行机械设计。研究分析了不同剥离膜厚度对中性化率和束流品质的影响，最终选定$2 0 \mu \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 的薄剥离膜方案，可实现约 $4 9 . 3 \%$ 的中性化率，并使束流在 3 圈通过剥离膜后被完全剥离，兼顾了中性化率和工程实现难度。采用多粒子跟踪方法，模拟了中性束剥离后的氢原子束和质子束分布，观察到多圈剥离导致束流水平方向和纵向发射度显著增长，竖直方向无明显变化。针对发射度增长可能引起的束流损失问题，开展了引出区束流聚焦研究，通过优化剥离靶参数，增强了引出区磁场聚焦能力。计算结果表明，所获得的氢原子束的束斑尺寸为 $2 . 4 7 \ : \mathrm { m m } { \times } 2 . 2 6 \ : \mathrm { m m }$ ，质子束为 $2 . 7 1 \mathrm { m m } { \times } 2 . 1 0 \mathrm { m m }$ ，包络增长得以有效抑制。
+
+# 参考文献：
+
+KITAMURA  S,  HAYAKAWA  Y,  KAWAMOTO  S. A［1］ reorbiter for large GEO debris objects using ion beam irradiation[J]. Acta Astronautica, 2014, 94(2): 725-735.   
+BOMBARDELLI C, PELÁEZ J. Ion beam shepherd for［2］ contactless space debris removal[J]. Journal of Guidance, Control, and Dynamics, 2011, 34(3): 916-920.   
+马晓刚. 基于离子束的非接触式空间碎片清除方法研［3］究[D]. 哈尔滨: 哈尔滨工业大学, 2017.  
+沈硕, 张芳, 郝建红, 等. 氢原子束在大气长程传输中的［4］ 剥离效应[J]. 强激光与粒子束, 2020, 32(10): 125-130. SHEN Shuo, ZHANG Fang, HAO Jianhong, et al. Stripping  effect  of  hydrogen  atom  beam  in  long-range  atmospheric  propagation[J]. High  Power  Laser  and  Particle Beams, 2020, 32(10): 125-130(in Chinese).   
+SPETH  E. Neutral  beam  heating  of  fusion  plasmas[J].［5］ Reports on Progress in Physics, 1989, 52(1): 57-121.   
+ISHIDA  S,  BARABASCHI  P,  KAMADA  Y. Overview［6］ of  the  JT-60SA  project[J]. Nuclear  Fusion, 2011, 51(9): 094018.   
+SINGH M J, BOILSON D, POLEVOI A R, et al. Heat-［7］ ing neutral beams for ITER: Negative ion sources to tune fusion  plasmas[J]. New  Journal  of  Physics, 2017, 19(5): 055004.   
+崔保群, 唐兵, 马鹰俊, 等. 北京放射性核束装置在线同［8］位素分离器的研制[J]. 原子能科学技术, 2019, 53(9):1572-1576.
+
+CUI Baoqun, TANG Bing, MA Yingjun, et al. Development  of  Beijing  Radioactive  Ion  Beam  Facility  Isotope Separator  On-line[J]. Atomic Energy  Science  and   Technology, 2019, 53(9): 1572-1576(in Chinese).   
+ZHANG T, LI Z, CHU C. CYCIAE-100, a 100 MeV H−［9］ cyclotron for RIB production[J]. Nuclear Instruments and Methods  in  Physics  Research  B, 2007, 261(1/2): 1027- 1031.   
+张华顺, 主编. 万春侯, 等编. 离子源和大功率中性束［10］ 源[M]. 北京: 原子能出版社, 1987: 458-459.   
+WEBBER  R  C,  HOJVAT  C. Measurement of  the   elec-［11］ tron loss cross sections for negative hydrogen ions on carbon  at  200  MeV[J]. IEEE Transactions  on  Nuclear   Science, 1979, 26(3): 4012-4014.   
+姚红娟. CYCIAE-100回旋加速器轴向注入与中心区［12］理论和实验研究[D]. 北京: 清华大学, 2008.  
+ADELMANN  A,  KRAUS  C,  INEICHEN  Y,  et  al.  The［13］ OPAL  (Object  Oriented  Parallel  Accelerator  Library) Framework,  technical  report  PSI-PR-08-02[R].  Switzerland: Paul Scherrer Institut, 2008.   
+BERGER  M  J,  COURSEY  J  S,  ZUCKER  M  A,  et  al.［14］ Stopping-power  and  range  tables  for  electrons,  protons, and  helium  ions[DB/OL].  Gaithersburg,  MD:  NIST Physics Laboratory, 1998[2025-03-04]. https://www.nist. gov/pml/stopping-power-range-tables-electrons-protonsand-helium-ions.   
+HIGHLAND  V  L. Some  practical  remarks  on  multiple［15］ scattering[J]. Nuclear  Instruments  and  Methods, 1975, 129(2): 497-499.   
+EBARA  Y,  TSUTSUI  H,  NAKAJIMA  S,  et  al. First［16］ beam  extraction  from  a  superconducting  azimuthally varying field cyclotron for proton therapy[J]. Nuclear Instruments  and  Methods  in  Physics  Research  A, 2023, 1056: 168629.   
+冀鲁豫, 安世忠, 管锋平, 等. 用于硼中子俘获治疗的强［17］流回旋加速器束流动力学研究[J]. 原子能科学技术,2025, 59(1): 220-230.JI Luyu, AN Shizhong, GUAN Fengping, et al. Beam dy-namics study  on  high  intensity  cyclotron  for  boron   neu-tron  capture  therapy[J]. Atomic  Energy  Science  andTechnology, 2025, 59(1): 220-230(in Chinese).  
+WEI S, LI M, ZHANG T, et al. Envelope control of the［18］ extracted beam from compact cyclotron[C]//13th Symposium on Accelerator Physics (SAP2017). Jishou: JACOW Publishing, 2017.   
+AN S Z, GUAN F P, XIE H D, et al. Stripping extraction［19］ calculation  and  simulation  for  CYCIAE-100[J]. Chinese Physics C, 2009, 33(S2): 42-46.

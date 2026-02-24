@@ -1,0 +1,7 @@
+对归一标准。出射粒子通过固定立体角为 $3 . 2 6 ~ \mathrm { m s r }$ 的 Q3D 磁谱仪聚焦分析后，由焦平面探测器阵列测量，该阵列包含 6 组 X4 硅探测器，每组有效探测长度 $7 5 ~ \mathrm { m m }$ ，最小位置分辨率$0 . 4 ~ \mathrm { m m }$ ，探测器以 $5 5 ~ \mathrm { m m }$ 间距安装于高精度移动
+
+平台。通过 $6 5 ~ \mathrm { m m }$ 位移可覆盖 $7 9 0 ~ \mathrm { m m }$ 焦平面范围，两次位移测量获得的光谱可拼接为完整谱图。更多类似实验配置可参阅组内以前的工作[9-14]。本次实验在 $3 ^ { \circ } \leqslant \theta _ { \mathrm { l a b } } \leqslant 1 5 ^ { \circ }$ 范围内以 $1 ^ { \circ }$ 为间隔测量$^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 6 } H e ) ^ { 2 7 } A l }$ 反应在阈能附近 3 个态的微分截面，并在 $1 0 ^ { \circ } \leqslant \theta _ { \mathrm { l a b } } \leqslant 4 0 ^ { \circ }$ 范围内以 $1 ^ { \circ }$ 为间隔测量$^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 7 } L i ) ^ { 2 6 } M g }$ 弹性散射微分截面以获取入射道光学势参数。
+
+# 2 数据分析
+
+图1示出了在实验室系 $6 ^ { \circ }$ 下的焦平面位置谱。由于靶面存在一定的氧化层，所以实验中也存在来自 $^ { 1 6 } \mathrm { O } ( ^ { 7 } \mathrm { L i } , ^ { 6 } \mathrm { H e } ) ^ { 1 7 } \mathrm { F }$ 的干扰，但如图1所示，通过Q3D磁谱仪可将来自 $^ { 1 6 } \mathrm { O } ( ^ { 7 } \mathrm { L i } , ^ { 6 } \mathrm { H e } ) ^ { 1 7 } \mathrm

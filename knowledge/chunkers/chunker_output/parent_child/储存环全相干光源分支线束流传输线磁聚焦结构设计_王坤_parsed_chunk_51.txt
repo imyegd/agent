@@ -1,0 +1,6 @@
+LPB202133.200318.  
+LI Ruichun, ZHANG Qinglei, MI Qingru, et al. Application of machine learning in orbital correction of storage ring[J]. High Power Laser and Particle Beams, 2021, 33: 034007. DOI: 10.11884/HPLPB202133.200318.   
+21 邓超, 胡保进, 周梁缘, 等.合肥先进光源磁铁电源自优化控制器设计[J]. 核技术, 2025, 48(5): 050201. DOI: 10.
+
+11889/j.0253-3219.2025.hjs.48.240276. CSTR: 32193.14. hjs.CN31-1342/TL.2025.48.240276.   
+DENG Chao, HU Baojin, ZHOU Liangyuan, et al. Design of a self-optimizing magnet power supply controller for Hefei

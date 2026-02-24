@@ -1,0 +1,3 @@
+maintenance strategies, including cleaning, lubrication, and component replacement for mechanical structural issues, circuit testing, calibration, and component replacement for electrical control system problems, as well as preventive maintenance plans. These strategies can improve the motion performance of the multi leaf collimator, ensure the accuracy of radiation therapy, and provide strong support for the stable operation of the Varian 21EX linear accelerator.
+
+Keywords: Varian 21EX linear accelerator;

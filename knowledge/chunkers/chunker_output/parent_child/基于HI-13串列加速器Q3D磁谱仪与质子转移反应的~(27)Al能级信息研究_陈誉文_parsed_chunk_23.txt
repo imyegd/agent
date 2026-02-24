@@ -1,0 +1,11 @@
+r single-folding potential and Woods-Saxon potential
+
+了两组 Woods-Saxon 形式的光学势参数。
+
+Woods-Saxon 形式的光学势如下：
+
+$$
+U (r) = - \left[ \frac {U _ {V}}{1 + \exp \left(\frac {r - R _ {\mathrm {R}}}{a _ {\mathrm {R}}}\right)} + \frac {\mathrm {i} W _ {V}}{1 + \exp \left(\frac {r - R _ {\mathrm {I}}}{a _ {\mathrm {I}}}\right)} \right] \tag {2}
+$$
+
+其中： $U _ { V }$ 和 $W _ { V }$ 分别为实部和虚部的势阱深度；$R _ { i } = r _ { i } A ^ { 1 / 3 }$ ， $A$ 为靶核的质量数； $r$ 和 $a$ 分别为弥散和半径参数，其下标 I 和 R 分别对应虚部及实部。从使用 Woods-Saxon 形式光学势与单折叠势的拟合结果来看，两者高度一

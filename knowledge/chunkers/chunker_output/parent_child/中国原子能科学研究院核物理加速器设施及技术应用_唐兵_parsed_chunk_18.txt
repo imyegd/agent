@@ -1,0 +1,7 @@
+ut of BRIF
+
+![](images/1f25a16b0e14b2f8a85de40d423b318256027b9d51f219705b2542fc8a45a356.jpg)  
+图3 多粒子可变能量回旋加速器  
+Fig. 3 Multi-particle variable energy cyclotron
+
+混合束流快速切换技术。将荷质比相近的不同重离子束同时注入到回旋加速器中，通过微调磁场或高频频率的方法将不同离子区分开，实现单独引出。利用这一方法可将重离子束流切换时间缩短到 $10\mathrm{min}$ 内，有效提高了实验效率。

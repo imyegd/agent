@@ -1,0 +1,15 @@
+新型的准直器不断追求更好的照射野精度、适形度、低漏射率、靶区保护能力及剂量调整能力，以满足临床应用需求。
+
+# ［ 参 考 文 献 ］
+
+［1］ 郭召. 动态多叶光栅准直器的技术现状及发展趋势［J］.中国医疗设备, 2021, 36(1): 154-158.  
+［2］ 郭召. 立体定向放射治疗设备的技术现状及发展趋势［J］. 中国医疗设备, 2024, 39(9): 144-149, 161.  
+［3］ Clark B G, Teke T, Otto K. Penumbra evaluation of the varian millennium and BrainLAB M 3 multileaf collimators［J］. International Journal of Radiation Oncology Biology Physics, 2006, 66(4): S71-S75.   
+［4］ 宋一昕. 微型多叶光栅剂量学特性的研究［D］. 北京: 清华大学, 2011.  
+［5］ 刘丰华, 戴国胜, 何自怀. 医用外置多叶光栅的性能和特点［J］. 中国医疗器械信息, 2018, 24(11): 55-57.  
+［6］ 谢陈晨, 孟璐珈, 蒋元林. 射波刀设备的精度和误差分析
+
+研究［J］. 中国设备工程, 2023(3): 131-133.  
+［7］ 胡立宏, 程瑞, 张倩, 等. 射波刀技术现状与发展及其临床应用［J］. 医疗卫生装备, 2015, 36(3): 110-112, 115.  
+［8］ Fürweger C, Prins P, Coskan H, et al. Characteristics and performance of the first commercial multileaf collimator for a robotic radiosurgery system［J］. Med Phys, 2016, 43(5): 2063.   
+［9］ Lafond C, Chajon E, Devillers A, et al. Impact of MLC leaf width on volumetric-modulated arc therapy planning for head and neck cancers［J］. J Appl Clin Med Phys

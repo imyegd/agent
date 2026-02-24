@@ -1,0 +1,202 @@
+# 激光加速器中的超薄液体薄膜: 理论、技术及应用前沿
+
+彭梓洋<sup>1</sup>, 刘璇<sup>1</sup>, 宋卓洋<sup>1</sup>, 梁天昊<sup>1</sup>, 周浩<sup>1</sup>, 李昱麒<sup>1</sup>, 赵家瑞<sup>1,2</sup>, 马文君<sup>1,2,3*</sup>
+
+1. 北京大学物理学院, 核物理与核技术全国重点实验室, 重离子物理研究所, 北京 100871  
+2.北京激光加速创新中心，北京101407  
+3. 广东省激光等离子体技术研究院, 广州 510080  
+* 联系人, E-mail: wenjun.ma@pku.edu.cn
+
+2025-09-09收稿, 2025-11-13修回, 2025-11-14接受, 2025-11-17网络版发表
+
+国家自然科学基金(12205008)、国家重点研发计划(2024YFF0726304, 2019YFF01014402)和北京市自然科学基金(1252019)资助
+
+摘要面向高重复频率激光粒子加速的研究与应用需求，传统固体靶材存在制备效率低、换靶速度慢及真空碎屑污染等问题，严重限制了激光打靶的重复频率和平均流强。连续流动的液体薄膜凭借其动态自更新特性、无碎屑积累等优势，成为实现高频重复激光打靶的关键技术路径，是推动激光粒子加速器从实验阶段迈向实际应用的核心基石。本文围绕液体薄膜靶的应用前沿所面临的挑战与困难进行了深入讨论，介绍了北京大学在超薄液膜靶制备、原位表征、厚度模型和应用前沿等方面的系统性成果，为发展连续工作的激光加速器提供了重要的理论依据与技术支撑。
+
+关键词 超薄液体薄膜, 高重复频率, 黏性厚度模型, 原位表征, 激光加速器
+
+粒子加速器是人类探索微观物质结构的重要工具，也是支撑国民经济与科技发展的关键设施[1,2]。相较于体型庞大、成本高昂的传统加速器，超短超强激光与物质相互作用能够产生超过100GV/m的超高加速梯度，可以在微米尺度内加速高能电子[3]乃至质子[4]、重离子[5,6]，也伴随产生覆盖太赫兹到伽马波段的高亮度辐射[7]，展现出小型化、脉宽短、瞬态流强高等优势，在肿瘤放疗[8]、无损检测[9]、材料科学[10]等领域具有重大应用潜力。然而，一个长期存在的瓶颈是单次激光打靶产生的粒子数或光子通量有限，实现相关应用亟需提高激光打靶的重复频率以提升粒子束流强度与辐射平均通量。传统的固体薄膜靶材制备效率低下，且在真空腔内的切换速度和容量有限，无法满足高重频连续打靶的需求[11]。发展以高重频连续靶材为核心的新型技术路线上势在必行。
+
+在众多解决方案中，液体薄膜凭借其可流动更新、
+
+无机械切换、几乎无碎屑等天然优势，被视为实现高重频连续打靶最具潜力的技术路径之一[12].目前，国际上已陆续报道基于液膜靶的质子加速[13]、中子产生[14]、高次谐波辐射[15]等重要进展，展现出良好的应用潜力．尽管如此，液体薄膜靶(liquid sheet target, LST)的研究仍处于萌芽状态，发展高性能LST仍面临着诸多理论与技术的挑战：(1)亚微米级液膜的制备与实时表征技术尚不成熟，厚度、平整度、指向性与法向位置等关键参数缺乏原位、在线监测手段，这些参数的稳定性直接影响激光加速产生束流的效率及品质；(2)厚度是激光离子加速中尤为重要的指标，而液膜形成机制，特别是黏性效应下的厚度分布理论尚未完善，制约了对复杂流体动力学环境下液膜厚度的精确预测与主动调控；(3)面对迅速增长的液膜应用需求，国内在该方向研究起步较晚，液膜靶在真空环境下的高压液体密封、精密对准、系统集成等方面仍存在瓶颈
+
+引用格式：彭梓洋，刘璇，宋卓洋，等.激光加速器中的超薄液体薄膜：理论、技术及应用前沿.科学通报，2026,71:933-941
+
+Peng Z, Liu X, Song Z, et al. Ultra-thin liquid sheets in laser plasma accelerators: theory, technology, and application frontiers (in Chinese). Chin Sci Bull, 2026, 71: 933-941, doi: 10.1360/CSB-2025-5514
+
+解决工程技术的难题是提升我国在激光加速器前沿竞争力的必经之路。本文综述了北京大学针对上述挑战，在超薄连续LST研究方面的创新成果，并在此基础上，对未来的发展和可能的前沿应用进行了展望，以期为该领域的后续研究提供参考，更好地发挥超薄连续液体薄膜的潜力和价值。
+
+# 1 液体薄膜的原位表征
+
+处于流动状态的液体薄膜通常由两束高速液体射流对撞形成，如图1(a)所示。这样的液膜是完全悬空自支撑存在的，且不可承受应力，因此需要实时在线的原位非接触表征。北京大学针对液膜的典型特征和关键参数，研发了完备的LST原位在线表征系统，包括厚度、平整度、空间位置和指向性四大部分，其整体布局如图1(b)所示[16]。厚度和平整度是激光加速靶材尤为重要的指标，它们会强烈地影响激光与靶相互作用时的不稳定性、预等离子体状态等，继而影响加速的物理机制和离子能量[17]。对于微米级的液体薄膜，我们
+
+采用反射光谱法测量其厚度。其核心优势在于紧凑的光纤集成设计与高效的实时测量能力。系统采用梅花状排布的一体式七芯光纤结构——白光经中心单芯光纤传输后，与外围六芯光纤合束，通过光学系统聚焦至液体薄膜靶表面；薄膜反射光由外围6根光纤收集传输至光谱仪完成信号采集。该设计无需分立光学元件，兼具结构紧凑、轻便易移植的特点。合束部位集成了真空馈通结构，可以实现从真空腔外向腔内的馈入。图1(c)为典型的液膜反射光谱测量结果，纵坐标为光谱的归一化强度，理论分析表明，反射光谱的振荡频率在波数空间为 $\nu (k,h) = nh / \pi$ ，将其变换到傅里叶空间就可以分离有效信号和噪声，并解出相应的厚度，测量精度达 $0.5\%$ ，解谱速度支持 $10\mathrm{Hz}$ 的实时测量。在图1(b)中，斜入射液膜的绿色光束代表用于平整度或厚度分布测量的平行单色光，其测到的典型干涉条纹如图1(d)所示，通过特定的算法对其相位解缠可以得到液膜厚度的相对分布[18]。结合反射光谱法所测的单点绝对厚度，即可得到液膜整体的二维厚度分布。北京大学首次使
+
+![](images/1d51486975c44e47e22b58571a66fae290acc454276cbd6ca268b2b600ee9872.jpg)
+
+![](images/4a867e2e3dfe75a802508dac84454c2abff534a304aa8032c4fb9c16bba20b03.jpg)
+
+![](images/64bcf5b9aed1050070c4399e9729f40c29245a6134cd612f218bed6d01edc628.jpg)
+
+![](images/8cd8b00fccf1a04a6092d8dd42bcac0c6abadb2203ab31c19210f12bf0859e2a.jpg)
+
+![](images/3bac984ccff1f866088b520ea6bba386b31d4c8f740bb278b2ebe8f10e95398b.jpg)  
+图1 (a)液膜靶制备照片；(b)液膜靶表征系统的完整布局[16]；(c)典型反射光谱测量结果；(d)干涉条纹及其厚度分布解缠结果[18]；(e)LST法向位置稳定性直方图[19]  
+Figure 1 (a) Photo of LST preparation; (b) complete layout of LST characterization system[16]; (c) typical reflectivity spectrum measurement results; (d) unwrapped results of interference fringes and their thickness distribution[18]; (e) normal position stability histogram of LST[19]
+
+用这种快速方法给出液膜的二维厚度信息, 对于LST实时在线的诊断具有重要价值, 也为液膜厚度理论的研究奠定了实验基础.
+
+除了厚度与平整度外，液膜的法向位置与指向性也举足轻重。激光与液膜的高效耦合是实现高光强激光加速的关键因素，这就需要精确地测量靶材所处的空间位置，且振动幅度远小于瑞利长度，才能保证激光与靶重频相互作用的稳定性。通过共聚焦距离传感器和靶后相机联合测量以确保液膜平面与激光焦平面重合，并通过频谱分析研究了法向振动幅度与制膜参数和流体不稳定的依赖关系，对振动源和扰动源进行抑制与优化，使得10分钟内LST振动振幅的半高全宽约为 $2\mu \mathrm{m}$ ，远小于一般聚焦中的激光瑞利长度(约数十微米)，如图1(e)直方图所示[19]。至于指向性，激光加速产生的离子通常垂直于薄膜的表面发射，在用磁铁收集和运输离子的应用中，靶材的正确方向对于设计的束流传输至关重要[20]。目前尚无能够集成在靶腔内测量薄膜指向性的方法。对于传统的固体薄膜靶材，通常的做法是利用机械固定装置将靶的角度摆正；但这对于悬空自支撑的液体薄膜靶不适用。我们使用偏振依赖的分束立方消除元件表面反射光对低反射率薄膜回光的干扰，实现薄膜指向性诊断和超薄厚度测量一体化功能，同时针对液膜实现局部精确膜面平整度调控。
+
+表1总结了LST表征系统的典型参数，该系统为液膜靶的关键参数提供了在线的高精度原位诊断能力。同时，测量结果表明，本文所研制的液膜靶的厚度、平整度以及各项参数的时间稳定性均达到了可应用于激光加速器的基本要求。
+
+# 2 液膜厚度理论模型与超薄液膜制备
+
+在对液膜充分表征的基础上，就应更好地理解乃至操控液膜。液体薄膜自近两百年前被研究者关注以来，已广泛应用于火箭发动机、消防、农业喷洒、生
+
+物材料、化学反应器等领域[21~23]，并随之诞生了大量描述液膜形成的动力学过程及其厚度的有关理论[24~30].然而，目前尚无任何一个理论成功囊括了黏性效应，因此理论总是与实验有一定偏差.我们提出了三元液相的实验方法，即使用水、乙醇、丙三醇三种液体，在黏度张力相图上三者两两间曲线的闭合区域内，黏度和张力可通过质量配比实现独立连续可调，如图2(a)所示[18].图2(b)揭示了液膜中轴线上的厚度随黏度的增大而增加，并且随着距离的增加这种效果更加显著，其中四种混合物具有接近的表面张力，但黏度不同．由此可见，黏度对于液膜厚度有着不可忽略的作用．图2(c)中则对比了表面张力和黏度的作用效果差异，其中液膜的等厚线梯度几乎完全沿着黏度的方向，这说明表面张力对厚度的影响相比黏度可以忽略，因而在图2(d)中以黏度作为独立的自变量，绘制了在r固定时不同方位角下的厚度随着黏度的变化，并首次观察到在更大的方位角上，厚度随黏度增大反而减小.
+
+图3用简单的图像描述了黏性效应发生的物理原因：在小方位角上，径向速度随着方位角增大而减小，该速度梯度是黏性力发生的主要原因。在黏滞作用下小方位角的液体微元将动量传递到大方位角下，小方位角减速，而由于流量守恒，其厚度变厚。大方位角变薄的现象则由质量输运引起，这是因为在大方位上径向速度的角向梯度更大，受到的黏性力更大，黏性力会对有限元产生扭矩，这就导致了角向速度的产生，继而产生角向质量从大方位角向小方位角输运。
+
+基于三元液相的实验方法和纳米精度的厚度测量，以及对液膜动理学的深刻认识，我们从纳维-斯托克斯方程出发，通过严格的理论推导建立了精确描述液膜厚度分布的数学模型[18]：
+
+$$
+h = \frac {q _ {j} ^ {2} (\phi) \sin \theta}{r} \left[ 1 + a (\phi) \frac {\nu r}{Q} \right], \tag {1}
+$$
+
+其中，形状因子 $a(\phi)$ 描述了黏性效应的角分布特征，而
+
+表 1 北京大学LST表征系统特征参数总结  
+Table 1 Summary of parameters of the LST characterization system at Peking university   
+
+<table><tr><td>表征子系统</td><td>测量范围</td><td>精度</td><td>空间分辨</td><td>液膜典型结果</td><td>时间稳定性@10 min</td></tr><tr><td>厚度</td><td>0.01~50 μm</td><td>±1%</td><td>5~30 μm</td><td>0.25~10 μm</td><td>&lt;1%</td></tr><tr><td>平整度</td><td>~50 nm/μm</td><td>±0.1 nm/μm</td><td>3 μm</td><td>RMS 1 nm (@5 μm×5 μm) (RMS@5 μm×5 μm)</td><td>&lt;1%</td></tr><tr><td>法线指向</td><td>~25 mrad</td><td>0.2 mrad</td><td>25 μm</td><td>\</td><td>±1.5 mrad (FWHM)</td></tr><tr><td>空间位置</td><td>~1 mm</td><td>±2 nm</td><td>20 μm</td><td>\</td><td>±1 μm (FWHM)</td></tr></table>
+
+![](images/1eb6d87ffa50a527c9473357f73782b43acc3f915e26643eab4237f1810b4412.jpg)
+
+![](images/412534db25250d34ec7d0bc1d4f838d192374f08cc0fbff9d685cca2123e74fd.jpg)
+
+![](images/deb6304ba82933b9e1126e7a316f64836747e39bd1d8e893aa630cb0a6200786.jpg)
+
+![](images/0ea13fed404d369b6ffbe996576304e833052fda18c0f3c4418cf7b040e32509.jpg)  
+图2(a)实验中三元液相运动黏度和表面张力相图[18];(b)表面张力接近但运动黏度不同的四种混合液沿中轴线的厚度分布[18];(c)中轴线上某固定点处厚度作为雷诺数和韦伯数的函数[18];(d)中轴线上 $r = 1\mathrm{mm}$ 处在不同方位角上的厚度[18]  
+Figure 2 (a) Phase diagram of kinematic viscosity and surface tension of the ternary liquid mixtures in the experiment[18]; (b) thickness along the central axis for mixtures with similar surface tension but different kinematic viscosity[18]; (c) thickness at a fixed point on the central axis as a function of Reynolds number and Weber number[18]; (d) thickness at $r = 1$ mm on the central axis for different azimuth angles[18]
+
+运动黏度 $\nu$ 、位置 $r$ 和流量 $Q$ 决定了每个角度上黏性效应的强度。其中的物理也非常明确：更大的 $r$ 意味着更充分的动量和质量交换，导致更强的黏性效应；更大的 $Q$ 则相反，对应了更短的相互作用时间从而减弱了黏性效应。正因如此，随着微米尺度射流对撞成膜、亚微米厚度液膜应用的迅速增长，流量对于液膜的重要性也凸显出来，以往模型中认为的厚度与黏度 $\nu$ 和流量 $Q$ 无关的近似已经不适用于如今的很多应用。在这种情况下，经典模型与实验的偏差可能高达 $160\%$ ，而我们的模型误差则在 $5\%$ 以内。同时，三元液相方法通过黏度调控大幅增强了液膜厚度的操控能力，我们通过大量实验探索，优化溶液组分以平衡液膜厚度、尺寸和稳定性，成功制备了在错位对撞下液膜偏转 $60^{\circ}$ 的超薄液膜，厚度为 $238~\mathrm{nm}$ ，是当时国际上最薄的对撞液膜[16]。
+
+表2总结了截至2025年国际上报道的超薄液膜的
+
+制备水平。在喷嘴尺寸不同时，相同位置处的液膜厚度 $h \propto D^2$ ，但由于液膜形状更小，因此要考虑液膜长度 $L \propto Du_j^2$ 。在射流直径更小的情况下，应按照雷诺数恒定来计算流速 $u_j$ 的增大，因为这是限制流量上限、保持液膜稳定性的衡量标准。由 $\operatorname{Re} \propto Du_j$ 可得，射流速度与直径成反比例关系，因此 $L \propto D$ ，考虑最薄厚度 $h \propto L^{-1}$ ，综合得到 $h \propto D$ 。也就是说，在同样的实验条件下，射流直径减小，厚度应当同比例减小。因此，本文定义归一化厚度 $\hat{h} = h / D$ ，其中 $D$ 为等效水力直径。从表2可以看到，北京大学在黏性厚度理论指导下使用三元液相方法将国际上液膜的最薄归一化厚度降低至一半以下，具有显著优势，也为液膜厚度进入百纳米以下的区间提供了可能，以适应诸如光压稳相加速、相对论自透明等更先进的加速机制。
+
+![](images/01fbfb06d7e176d5f4c8ed11044d77ce691ce88d893124bc547ba77c506e03fe.jpg)  
+图3 液膜黏性效应的物理图像  
+Figure 3 Physical picture of viscous effect of liquid sheet
+
+# 3 超薄液膜的应用前沿
+
+连续流动的液膜作为悬空自支撑的超薄液体介质，除了在激光加速器中极具价值，其无边界的特性使得水辐解、氢键强化等超快物理化学和结构生物学的研究成为可能[35~37]. 追求稳定的极致薄膜是这类应用的重要需求，我们提出的液膜厚度理论和三元液相方法为进一步开拓超薄液膜在基础研究和先进技术的前沿应用奠定了基础. 射流对撞作为一种非常有效的雾化和混合方法，还广泛应用于航空航天和化学反应器等领域，这一类应用所关注的雾化特性、混合效率都与液膜的厚度有关，对液膜对撞动力学更深入的描述可以更好地预测雾化的液滴尺寸和理解微观混合的反应机理.
+
+在激光加速器领域，北京大学基于准太瓦飞秒激光进行了液膜打靶实验，激光峰值光强可达 $10^{17} \mathrm{~W} / \mathrm{cm}^2$ ，打靶重频为 $10 \mathrm{~Hz}$ 。液膜重频打靶与传统激光打靶实验的最大差别在于液膜需要从腔外不断供液，废液还需要排出腔外，同时液膜还在腔内不断挥发和迅速降温。图4展示了液膜真空循环系统的示意结构，两路独立驱动的射流经过阀门和脉冲阻尼器馈入真空腔，在腔内对撞成膜后，由特制的收集装置和加热器将液体排出腔外并可进行循环。
+
+基于上述实验平台，北京大学已开展激光加速研究，获得了数百keV的电子加热与离子产生。这种超高剂量率的重频粒子源可用于FLASH放疗、离子注入及离子辐照改性等应用。此外，激光加速过程同步产生的高亮度辐射源为满足先进光源的广泛需求提供了新路径。面对半导体芯片行业新一代器件尺寸接近原子级别所带来的分辨率、精度与测量速度挑战[38]，我们拓展了液膜打靶的应用范围，将实验平台用于研发低成本、高亮度微焦点X射线源，实现了 $15\mu \mathrm{m}$ 焦点尺寸的硬X射线输出，其刀边成像测量结果如图5所示。该微焦点X射线源除半导体精密检测外，在高分辨无损检测领域亦具广泛应用潜力，例如航空航天领域发动机叶片微裂纹与复合材料气孔的快速检测、新能源领域电池内部电极/电解液界面的原位观测、军工与考古领域弹药填充质量评估与文物内部结构非破坏性分析，以及超导技术中线圈绕制缺陷的高灵敏度诊断。未来，我们还将探索新型液膜构型与材料体系[39]，开发基于液膜靶的水窗波段软X射线源和EUV光源，以支撑生物医学成像、先进光刻等重要应用。值得强调的是，随着激光重频提升至 $100\mathrm{kHz}$ 量级，基于液膜靶的辐射源实验有望将光子通量提高2~3个数量级，为低成本、高亮度、微焦点的新型先进光源奠定基础。
+
+# 4 总结与展望
+
+超薄液体薄膜靶技术为高重频激光加速中的靶材
+
+表 2 国际上超薄液膜制备水平总结  
+Table 2 Summary of the state-of-the-art in ultra-thin liquid sheet preparation internationally   
+
+<table><tr><td>单位</td><td>制备方法</td><td>最薄厚度</td><td>喷嘴尺寸D(μm)</td><td>归一化厚度(h/D)</td></tr><tr><td>北京大学[16]</td><td>射流对撞法</td><td>238 nm</td><td>50</td><td>4.76</td></tr><tr><td>美国空军研究实验室[31]</td><td>射流对撞法</td><td>450 nm</td><td>30</td><td>15</td></tr><tr><td>塞格德大学[32]</td><td>射流对撞法</td><td>182 nm</td><td>11</td><td>16.5</td></tr><tr><td>帝国理工学院[33]</td><td>收束喷嘴</td><td>1.02 μm</td><td>69.8×18.4(D=24.1)</td><td>20.9</td></tr><tr><td>西点军校[34]</td><td>收束喷嘴</td><td>250 nm</td><td>260×30(D=48.8)</td><td>10.4</td></tr></table>
+
+![](images/f3a3f5bca4a8c731c0de3b6352af7b2c8892fed8c59f0ce6ec50a1d55cb11498.jpg)  
+图4 液膜真空循环系统示意图
+
+![](images/6cee5cf3151599522ec2a98b3590eb63b891669e2121566b8870537d035759c7.jpg)  
+Figure 4 Schematic diagram of LST vacuum circulation system   
+(b)
+
+![](images/ae34aeff00af008fc41d02061b3dbf9670b5f8658d399178950fb7777572c57a.jpg)
+
+![](images/718039b584dc0e022d0d3e7e5bf42ab0700d3f011497e2c65f1ab7a146f3afce.jpg)  
+(c)   
+图5 刀边成像法测量焦点源尺寸. (a) 实验设置; (b) IP板刀边成像; (c) 刀边扩散函数和线扩散函数的拟合  
+Figure 5 Measurement of focal spot size using the knife-edge imaging method. (a) Experimental setup; (b) knife-edge image on the IP plate; (c) fitting of the edge spread function and the line spread function
+
+瓶颈提供了极具前景的解决方案。本文系统介绍了北京大学在液膜靶制备、原位表征与厚度理论等方面的系列创新工作：(1) 研发了集成厚度、平整度、位置与指向性测量的原位在线表征系统，实现了液膜关键参数的实时监控与精准解析；(2) 通过三元液相方法建立了包含黏性效应的厚度分布理论模型，为液膜厚度的主动调控奠定了理论基础，并在国际上率先制备出归
+
+一化厚度低于5的超薄液膜，推动了液膜厚度进入百纳米级范畴；(3) 基于飞秒激光实现了液膜高重频打靶，将其用于激光粒子加速器和激光等离子体光源的研究。
+
+尽管液膜靶研究已取得显著进展，未来仍面临诸多挑战与发展机遇。首先，推动液膜靶在激光质子治疗、中子源、辐射光源等领域的应用示范，加速其从实验室走向实际应用是核心目标；其次，进一步减薄液
+
+膜厚度并提高其稳定性, 发展针对亚 $100 \mathrm{~nm}$ 液膜的制备技术对于激光加速器的高能输出具有重要意义; 最后, 加强跨学科合作, 探索液膜在化学合成、生物成像、能源材料等新兴领域的应用潜力. 可以预见, 随着
+
+液膜制备技术的不断突破与理论模型的日益完善，超薄液体薄膜靶将在高重频激光加速器及相关前沿领域发挥越来越重要的作用，为小型化、高性能加速器和先进光源的发展提供关键技术支持。
+
+# 参考文献
+
+1 Collaboration A. Observation of a new particle in the search for the standard model Higgs boson with the ATLAS detector at the LHC. Phys Rev X, 2012, 11: 021049   
+2 Holler M, Guizar-Sicairos M, Tsai E H R, et al. High-resolution non-destructive three-dimensional imaging of integrated circuits. Nature, 2017, 543: 402-406   
+3 Gonsalves A J, Nakamura K, Daniels J, et al. Petawatt laser guiding and electron beam acceleration to 8 GeV in a laser-heated capillary discharge waveguide. Phys Rev Lett, 2019, 122: 084801   
+4 Ziegler T, Gothel I, Assenbaum S, et al. Laser-driven high-energy proton beams from cascaded acceleration regimes. Nat Phys, 2024, 20: 1211-1216   
+5 Ma W J, Kim I J, Yu J Q, et al. Laser acceleration of highly energetic carbon ions using a double-layer target composed of slightly underdense plasma and ultrathin foil. Phys Rev Lett, 2019, 122: 014803   
+6 Wang P, Gong Z, Lee S G, et al. Super-heavy ions acceleration driven by ultrashort laser pulses at ultrahigh intensity. Phys Rev X, 2021, 11: 021049   
+7 Shou Y, Wang P, Lee SG, et al. Brilliant femtosecond-laser-driven hard X-ray flashes from carbon nanotube plasma. Nat Photon, 2023, 17: 137-142   
+8 Kroll F, Brack F E, Bernert C, et al. Tumour irradiation in mice with a laser-accelerated proton beam. Nat Phys, 2022, 18: 316-322   
+9 Orji N G, Badaroglu M, Barnes B M, et al. Metrology for the next generation of semiconductor devices. Nat Electron, 2018, 1: 532-547   
+10 Daido H, Nishiuchi M, Pirozhkov A S. Review of laser-driven ion sources and their applications. Rep Prog Phys, 2012, 75: 056401   
+11 Principe I, Fuchs J, Pascarelli S, et al. Targets for high repetition rate laser facilities: needs, challenges and perspectives. High Pow Laser Sci Eng, 2017, 5: e17   
+12 Peng Z Y, Cao Z X, Gao Y, et al. Application of liquid film targets in laser-driven radiation sources and laser ion acceleration (in Chinese). High Power Laser Particle Beams, 2022, 34: 081003 [彭梓洋, 曹正轩, 高营, 等. 液体薄膜靶在激光驱动辐射源和激光离子加速中的应用. 强激光与粒子束, 2022, 34: 081003]   
+13 Streeter M J V, Glenn G D, DiIorio S, et al. Stable laser-acceleration of high-flux proton beams with plasma collimation. Nat Commun, 2025, 16: 1004   
+14 Stuhl L, Varmazyar P, Elekes Z, et al. Continuous high-yield fast neutron generation with few-cycle laser pulses at $10\mathrm{Hz}$ for applications. Phys Rev Res, 2025, 7: 023137   
+15 Cavagna A, Eder M, Chowdhury E, et al. Continuous relativistic high-harmonic generation from a kHz liquid-sheet plasma mirror. Opt Lett, 2025, 50: 165   
+16 Peng Z, Cao Z, Liu X, et al. A comprehensive diagnostic system of ultra-thin liquid sheet targets. High Pow Laser Sci Eng, 2024, 12: e26   
+17 Macchi A, Borghesi M, Passoni M. Ion acceleration by superintense laser-plasma interaction. Rev Mod Phys, 2013, 85: 751-793   
+18 Peng Z, Liu X, Song Z Y, et al. Thickness model for viscous impinging liquid sheets. J Fluid Mech, 2025, 1014: R3   
+19 Cao Z, Peng Z, Shou Y, et al. Vibration and jitter of free-flowing thin liquid sheets as target for high-repetition-rate laser-ion acceleration. Front Phys, 2023, 11: 1172075   
+20 Zhu J G, Wu M J, Liao Q, et al. Experimental demonstration of a laser proton accelerator with accurate beam control through image-relaying transport. Phys Rev Accel Beams, 2019, 22: 061302   
+21 Oefelein J C, Yang V. Comprehensive review of liquid-propellant combustion instabilities in F-1 engines. J Propulsion Power, 1993, 9: 657-677   
+22 Baber R, Mazzei L, Thanh N T K, et al. Synthesis of silver nanoparticles using a microfluidic impinging jet reactor. J Flow Chem, 2016, 6: 268-278   
+23 Visser C W, Kamperman T, Karbaat L P, et al. In-air microfluidics enables rapid fabrication of emulsions, suspensions, and 3D modular (bio) materials. Sci Adv, 2018, 4: eaao1175   
+24 Hasson D, Peck R E. Thickness distribution in a sheet formed by impinging jets. AIChE J, 1964, 10: 752-754   
+25 Ibrahim E A, Przekwas A J. Impinging jets atomization. Phys Fluids A-Fluid Dyn, 1991, 3: 2981-2987
+
+26 Choo Y J, Kang B S. Parametric study on impinging-jet liquid sheet thickness distribution using an interferometric method. Exp Fluids, 2001, 31: 56-62   
+27 Bush J W M, Hasha A E. On the collision of laminar jets: fluid chains and fishbones. J Fluid Mech, 2004, 511: 285-310   
+28 Li R, Ashgriz N. Characteristics of liquid sheets formed by two impinging jets. Phys Fluids, 2006, 18: 087104   
+29 Lu J, Corvalan C M. Influence of viscosity on the impingement of laminar liquid jets. Chem Eng Sci, 2014, 119: 182-186   
+30 Majumdar N, Tirumkudulu M S. Dynamics of radially expanding liquid sheets. Phys Rev Lett, 2018, 120: 164501   
+31 Morrison J T, Feister S, Frische K D, et al. MeV proton acceleration at kHz repetition rate from ultra-intense laser liquid interaction. New J Phys, 2018, 20: 022001   
+32 Fule M, Kovacs A P, Gilinger T, et al. Development of an ultrathin liquid sheet target for laser ion acceleration at high repetition rates in the kilohertz range. High Pow Laser Sci Eng, 2024, 12: e37   
+33 Galinis G, Strucka J, Barnard JC T, et al. Micrometer-thickness liquid sheet jets flowing in vacuum. Rev Sci Instruments, 2017, 88: 083117   
+34 Crissman C J, Mo M, Chen Z, et al. Sub-micron thick liquid sheets produced by isotropically etched glass nozzles. Lab Chip, 2022, 22: 1365-1373   
+35 Loh Z H, Doumy G, Arnold C, et al. Observation of the fastest chemical processes in the radiolysis of water. Science, 2020, 367: 179-182   
+36 Yang J, Dettori R, Nunes J P F, et al. Direct observation of ultrafast hydrogen bond strengthening in liquid water. Nature, 2021, 596: 531-535   
+37 Li S, Lu L, Bhattacharyya S, et al. Attosecond-pump attosecond-probe x-ray spectroscopy of liquid water. Science, 2024, 383: 1118-1122   
+38 Withers P J, Bouman C, Carmignato S, et al. X-ray computed tomography. Nat Rev Methods Primers, 2021, 1: 18   
+39 Ma W. Science and technologies in targets for laser accelerators (in Chinese). Chin Sci Bull, 2023, 68: 1047-1053 [马文君. 激光加速器中的靶科学与技术. 科学通报, 2023, 68: 1047-1053]
+
+Summary for “激光加速器中的超薄液体薄膜: 理论、技术及应用前沿”
+
+# Ultra-thin liquid sheets in laser plasma accelerators: theory, technology, and application frontiers
+
+Ziyang Peng<sup>1</sup>, Xuan Liu<sup>1</sup>, Zhuoyang Song<sup>1</sup>, Tianhao Liang<sup>1</sup>, Hao Zhou<sup>1</sup>, Yuqi Li<sup>1</sup>, Jiarui Zhao<sup>1,2</sup> & Wenjun Ma<sup>1,2,3*</sup>
+
+$^{1}$ State Key Laboratory of Nuclear Physics and Technology, Institute of Heavy Ion Physics, School of Physics, Peking University, Beijing 100871, China   
+$^{2}$ Beijing Laser Acceleration Innovation Center, Beijing 101407, China   
+<sup>3</sup> Guangdong Institute of Laser Plasma Accelerator Technology, Guangzhou 510080, China   
+* Corresponding author, E-mail: wenjun.ma@pku.edu.cn
+
+The interaction of ultrashort, ultra-intense lasers with thin-film targets represents a frontier in modern physics, providing a pathway to high-brightness radiation spanning from terahertz to gamma-rays, alongside high-energy protons and heavy ions. These novel radiation and particle sources, distinguished by their compact footprint, femtosecond-scale pulse duration, and unprecedented transient flux, hold significant potential across diverse applications. In oncology, for instance, the unique synergy of the proton Bragg peak with the ultra-high dose-rate FLASH effect promises a paradigm shift in cancer therapy, enabling more effective tumor cell destruction while minimizing collateral damage to healthy tissue. However, the transition from single-shot, proof-of-concept experiments to real-world applications is constrained by the limited ion numbers and radiation flux per pulse. Therefore, increasing the repetition rate of laser-target interactions is the principal bottleneck hindering practical deployment.
+
+This bottleneck is largely attributable to the limitations of traditional solid targets. Their inefficient preparation, limited switching speed, and catastrophic debris generation render them fundamentally incompatible with high-repetition-rate, continuous operation. In response, free-flowing, self-supporting liquid sheet targets emerge as a transformative solution, offering a continuously replenished, debris-free, and vacuum-compatible medium for laser interaction. Consequently, the development of a robust liquid target technology platform is critically important for advancing the entire field of laser-driven applications.
+
+This paper confronts these challenges by establishing a comprehensive research framework integrating advanced characterization, theoretical modeling, and application development for ultra-thin liquid sheet targets. A primary contribution is the development of a complete in-situ, online characterization system, specifically engineered to overcome the formidable difficulty of measuring sub-micron film dynamics within a vacuum environment. This system enables real-time, high-precision monitoring of critical parameters—including thickness, flatness, and spatial stability—which are essential for stable laser-plasma interaction. This diagnostic capability underscored the critical link between precise thickness control and the shot-to-shot reproducibility of the accelerator output, thus providing an indispensable foundational tool for optimizing particle source reliability.
+
+Building upon this diagnostic foundation, the paper advances the theoretical understanding and fabrication of these targets. A novel ternary liquid phase methodology was conceptualized and implemented to systematically decouple the complex interplay between viscosity and surface tension during liquid sheet formation. Extensive analysis revealed that surface tension primarily governs the global sheet geometry, whereas viscosity dominantly controls the spatial thickness distribution. Leveraging fundamental insights from radial momentum transfer and angular mass transport dynamics, the first predictive viscous collision model was established. This theoretical framework, combined with the ternary method, enabled the deterministic fabrication of ultra-thin liquid sheets, achieving internationally competitive sub-micron thicknesses identified as optimal for current laser ion acceleration applications.
+
+Finally, the paper pivots to demonstrate the practical utility of these liquid sheet targets as next-generation, micro-focus X-ray sources. A dedicated, vacuum-compatible femtosecond laser platform was constructed, a non-trivial engineering feat incorporating advanced differential pumping and sophisticated thermal management systems to ensure liquid sheet survival and stability. Experimental campaigns demonstrated continuous $10\mathrm{Hz}$ operation for over one hour with mJ-level lasers, generating a stable flux of high-energy hard X-rays with high photon yields and sub-20 $\mu$ m focal spot sizes. These findings establish a viable technological pathway for developing low-cost, high-brightness X-ray sources, critically bridging the significant performance gap between conventional X-ray tubes and large-scale synchrotron radiation facilities.
+
+ultra-thin liquid sheet, high-repetition-rate, viscous thickness model, in-situ characterization, laser plasma accelerator
+
+doi: 10.1360/CSB-2025-5514

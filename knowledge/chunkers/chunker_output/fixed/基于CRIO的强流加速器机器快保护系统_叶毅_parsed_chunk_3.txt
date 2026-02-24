@@ -1,0 +1,15 @@
+ctromagnetic environment, significantly improving the experimental reliability.
+
+Keywords： accelerator； Experimental Physics and Industrial Control System(EPICS)； fastprotection system；Compact Reconfigurable I/O(CRIO)；Field Programmable Gate Array(FPGA)；Input/Output Controller(IOC)
+
+紧凑型可重配置输入输出控制器(CRIO)是一款小巧且坚固的工业化控制和采集嵌入式平台，包含实时控制器和可编程的现场可编程门阵列(FPGA)芯片。采用可重新配置的I/O(Input/Output)、可重复编程的FPGA技术，
+
+实现真正的并行运行性、高确定性和可自定义功能，同时支持可热插拔的工业级I/O模块。CRIO由于其坚固性、稳定性、开放性、实时性等特点，广泛用于车载、机载、舰艇、航空航天等各种复杂以及较恶劣环境的工业现场环境。我国的强流加速器机器快保护系统，主要针对加速器运行异常或发生某些故障时，根据仪器设备提供的报警信号和状态信息，可靠、快速对装置进行保护，切断实验触发链路，保护人身和产品的安全[1-2]。因此机器快保护系统要求实时响应速度需优于ms级，能够在加速器高电压强电流的复杂电磁环境下可靠动作，同时需要与采用实验物理和工业控制系统(EPICS)架构的中央控制系统进行通信。本文阐述了采用CRIO系统实现强流加速器机器快保护设计，以及CRIO系统作为EPICS机构中IOC组件的实现技术。
+
+# 1　系统设计
+
+# 1.1 EPICS 结构
+
+EPICS是20世纪90年代初由美国洛斯阿拉莫斯国家实验室 (Los Alamos National Laboratory， LANL) 和 美 国 阿 贡 国 家 实验室(Argonne National Laboratory，ANL)等联合开发的、基于客户端/服务器模式的分布式控制系统架构[3-5]。EPICS经过30余年的发展，已被国内外超过上百台大型物理实验装置(如大
+
+![](images/0417f13b23a1f1ea98301db54acfe1b0fcf56c254d26831042fb334

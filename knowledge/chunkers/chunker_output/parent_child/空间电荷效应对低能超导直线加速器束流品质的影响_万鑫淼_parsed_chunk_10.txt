@@ -1,0 +1,5 @@
+ings provide theoretical and numerical support for beam quality optimization in low-energy superconducting proton linacs.
+
+Key  words：    low-energy  superconducting  linac, space  charge  effect, double-periodic  structure, beam  quality, envelope instability, particle-core model, halo
+
+强流超导质子直线加速器在核废物嬗变[1]、大功率散裂中子源[2]、中微子工厂等[3]。为提升其流强与功率性能，世界各国相继开展了相关研究项目。经验表明，束流损失需控制在低于 $1 \ \mathrm { W / m }$ ，以保障设备与人员安全[4]。经过长期研究，人们对强流直线加速器中束流运动的理解不断加深，提出了包括包络不稳定性、粒子-束核共振等影响强流直线加速器中束流运动稳定性的理论，总结、形成了一套强流直线加速器设计所应遵循的设计原则

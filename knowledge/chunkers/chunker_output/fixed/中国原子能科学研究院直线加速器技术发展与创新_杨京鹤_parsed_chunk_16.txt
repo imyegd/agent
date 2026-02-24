@@ -1,0 +1,7 @@
+34(1): 11-13(in Chinese).  
+[5] 杨誉, 朱志斌, 吴青峰, 等. $10 \mathrm{MeV} / 50 \mathrm{kW}$ 脊型加速器输入耦合器的研制[J]. 原子能科学技术, 2021, 55(3): 555-560. YANG Yu, ZHU Zhibin, WU Qingfeng, et al. Development of input coupler for $10 \mathrm{MeV} / 50 \mathrm{kW}$ Ridgetron accelerator[J]. Atomic Energy Science and Technology, 2021, 55(3): 555-560(in Chinese).  
+[6] 张立锋, 杨圣, 刘保杰, 等. 多能量档电子直线加速器用栅控电子枪电源研究[J]. 原子能科学技术, 2018, 52(12): 2302-2307. ZHANG Lifeng, YANG Sheng, LIU Baojie, et al. Study on power supply for grid-controlled electron gun of mul
+
+ti-energy electron linac[J]. Atomic Energy Science and Technology, 2018, 52(12): 2302-2307(in Chinese).   
+[7] 杨京鹤, 余国龙, 佟迅华, 等. 基于电子直线加速器的空间电子环境地面模拟用电子源设计与实现[J]. 原子能科学技术, 2022, 56(9): 1794-1800. YANG Jinghe, YU Guolong, TONG Xunhua, et al. Design and implementation of electron linear accelerator for ground simulation facility of space electronic environment[J]. Atomic Energy Science and Technology, 2022, 56(9): 1794-1800(in Chinese).   
+[8] 王常强, 向益淮, 李金海, 等. 地面模拟空间电子环境束流均匀化设计[J]. 核技术, 2

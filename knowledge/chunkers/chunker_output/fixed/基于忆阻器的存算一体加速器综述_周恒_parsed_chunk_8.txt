@@ -1,0 +1,15 @@
+，忽略了内存资源受限场景。此外，该编译器前端支持的领域专用 语 言 （ domain  specific  language,  DSL） 为 TC（ tensorcomprehensions），需重写网络，开发成本高。OOC 同样是一个全自动端到端编译器[20]，其基于 MLIR（multi-level intermediate representation）编译框架，优化了访存局部性，并且优化了阵列寿命。然而该工作仅支持对VMM和卷积操作进行编译和优化，此外前端所支持的DSL为TC，开发成本高。
+
+华中科技大学提出了面向存算一体 AI加速器的端到端编译器 BYO-PiM[21]，其基于 MLIR 编译框架，通过分层的方言（dialect）及算子集（operator set）实现编译器与硬件解耦，针对卷积算子采用多阵列并行、双缓冲流水线等优化方法，同时提供 Python接口，提升易用性。此外，为了支持中央处理器（central processing unit,CPU）和存算一体加速器的异构系统，提出贪心子图切分策略与子图卸载调度器，以子图为粒度卸载任务，合
+
+并算子以减少数据传输和调用开销，并在调度器中基于代价评估选择合适的执行单元。
+
+# 仿真工具
+
+与 专 用 集 成 电 路 （ application  specific  integratedcircuit, ASIC）和现场可编程门阵列（field programmablegate array, FPGA）相比，面向 CIM 的仿真工具较为稀缺，尤其是跨架构、电路和器件的多层次仿真工具，而且传统 SPICE 工具对 CIM 架构进行仿真耗时极长[22]，
+
+为了提升设计与开发效率、缩短芯片开发周期，研究者提出了多种面向 CIM架构的仿真工具，这些工具支持在架构、阵列和器件级别进行配置和仿真，报告准确性和其他性能信息，在 CIM 设计空间探索、算法映射、器件仿真和硬件/算法协同设计方面发挥着重要作用。表 2给出了这些工具的对比，其中器件类别包括静态随机存取存储器（static random access memory, SRAM）和忆阻器。
+
+表2     CIM 仿真工具对比  
+
+<table><tr><td>工具</td><td>器件类别</td><td>仿真级别</td><td>测试负载</td></tr><tr><td>NeuroSim[23]

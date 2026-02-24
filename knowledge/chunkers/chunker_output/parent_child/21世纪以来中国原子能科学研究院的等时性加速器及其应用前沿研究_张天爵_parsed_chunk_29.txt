@@ -1,0 +1,8 @@
+0479e0b0b13c87c6f737de24b4dffac08526970.jpg)  
+图4 CYCIAE-14A商品机  
+Fig.4 Type CYCIAE-14A commercial cyclotron
+
+表 1 CYCIAE-14A 的主要参数  
+Table 1 Main parameters of CYCIAE-14A   
+
+<table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>磁极半径,m</td><td>0.5</td><td>离子源,mA</td><td>5</td></tr><tr><td>外部磁轭半径,m</td><td>0.88</td><td>加速/引出粒子</td><td>H-/H+</td></tr><tr><td>磁场强度,kGs</td><td>2.0~18.5</td><td>引出能量,MeV</td><td>14~14.6</td></tr><tr><td>高频频率,MHz</td><td>73.02</td><td>引出流强,μA</td><td>400</td></tr></t

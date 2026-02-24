@@ -1,0 +1,14 @@
+行效率的要求。在高压加速器应用等方面，将根据国防及国民经济发展的需求，研发更多种类的离子注入机、加速器质谱、紧凑中子发生器等高压型加速器，在半导体设备国产替代、药物的示踪研究及重要设备的缺陷检测等方面做出更多贡献。
+
+# 参考文献：
+
+[1] 朱升云, 郭刚, 何明, 等. HI-13串列加速器核物理应用
+
+研究发展现状和展望[J].原子能科学技术，2020,54(增刊):1-16.  
+ZHU Shengyun, GUO Gang, HE Ming, et al. Development status and prospect of nuclear physics application research of HI-13 tandem accelerator[J]. Atomic Energy Science and Technology, 2020, 54(Suppl.): 1-16(in Chinese).   
+[2] 姜承烈, 关遐令. 我国最大的串列加速器[J]. 自然杂志, 1992(9): 651-655.  
+[3] 山常起, 郝嘉琨, 陈庆旺, 等. 抗等离子体辐照的防氚渗透材料的研究[J]. 核聚变与等离子体物理, 1997(3): 63-66.  
+SHAN Changqi, HAO Jiakun, CHEN Qingwang, et al. Research on tritium permeation barrier materials resistant to plasma irradiation[J]. Nuclear Fusion and Plasma Physics, 1997(3): 63-66(in Chinese).   
+[4] 关遐令, 周立鹏, 彭朝华, 等. CIAE 重离子加速器物理研究平台[J]. 高能物理与核物理, 2006(S1): 162-164.  
+GUAN Xialing, ZHOU Lipeng, PENG Zhaohua, et al. CIAE heavy ion accelerator physics research platform [J]. High Energy Physics and Nuclear Physics, 2006(S1): 162-164(in Chinese).   
+[5] 徐勇军, 王荣, 于伟翔, 等. 串列

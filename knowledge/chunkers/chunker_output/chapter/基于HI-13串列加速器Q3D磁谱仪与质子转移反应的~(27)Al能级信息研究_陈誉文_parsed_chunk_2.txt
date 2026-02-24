@@ -1,0 +1,29 @@
+# Study on 27Al Energy Level Information Based on Q3D Spectrograph at HI-13 Tandem Accelerator and Proton Transfer Reactions
+
+CHEN Yuwen1,  LI Yunju1,*,  GUO Bing1,*,  YAN Shengquan1,  DONG Chao1,  ZHANG Yang1,
+
+ZHANG Yuqiang1,  TIAN Junwen1,  LI Jiayinghao1,  CAO Fuqiang1,  NAN Wei1,  HOU Jianglin1,
+
+ZHU Minghao1,  ZHANG Zhicheng1,  GUO Changxin1,  CHEN Chen1,  JIANG Yuchen1,
+
+LI Zhihong1,  WANG Youbao1,  ZENG Sheng1,  SHEN Yangping1,  LIU Weiping1,2
+
+(1. Department of Nuclear Physics, China Institute of Atomic Energy, Beijing 102413, China;
+
+2. Southern University of Science and Technology, Shenzhen 518055, China)
+
+Abstract: $^ { 2 7 } \mathrm { A l }$ is  the  only  stable  isotope  of  aluminum,  is  an  odd-proton  nucleus.  The  energy  level information of its ground and excited states helps test the predictive power of nuclear models, such as the  shell  model  and  collective  models  (e.g.,  rotational  and  vibrational  models).  Its  level  transition properties also provide insights into the collective and single-particle behavior of nucleons, aiding in the understanding of nuclear deformation. On the other hand, Al plays a significant role in other fields, such
+
+as nuclear astrophysics and gamma-ray astronomy. Studying nuclear reactions involving $^ { 2 7 } \mathrm { A l }$ requires a thorough understanding of its excited-state level structure, particularly near the reaction threshold, it is now crucial to determine the spectroscopic information of $^ { 2 7 } \mathrm { A l }$ , such as spin-parity assignments. In this work, the angular distributions of the proton transfer reaction $^ { 2 6 } \mathrm { M g ( ^ { 7 } L i , ^ { 6 } H e ) ^ { 2 7 } A l }$ were measured using the HI-13 Tandem Accelerator and a high-precision Q3D magnetic spectrograph. Previous international studies  have  rarely  investigated  the  (7Li, 6He)  transfer  reaction  system.  This  reaction  provides  unique capabilities  for  populating  excited  states  that  are  difficult  to  measure  via  other  transfer  reactions  or direct reactions. Furthermore, our research group’s accumulated experimental results using this reaction system have consistently demonstrated both its reliability and unique scientific merit. In the same time, this also marks the first measurement of this reaction using the indirect proton-transfer method with $^ \mathrm { 7 L i }$ , providing  complementary  data  to  previous  results  obtained  via 3He  proton  transfer  and  direct measurements.  Importantly,  this  approach  may  populate  excited  states  in $^ { 2 7 } \mathrm { A l }$ that  are  inaccessible through conventional $^ 3 \mathrm { H e }$ -induced reactions, representing a significant exploratory study of $^ { 2 7 } \mathrm { A l }$ excited states. Additionally, elastic scattering measurements were conducted for the entrance channel to extract the  optical  potential  in  the  Woods-Saxon  form.  To  eliminate  other  potential  influences,  single-folded potentials were also employed to fit the angular distributions of the entrance channel as a cross-check. For  the  exit  channel,  since  no  elastic  scattering  data  were  measured  in  this  experiment,  two  sets  of elastic scattering angular distributions from neighboring nuclei in the literature were used for extraction. Through  the  aforementioned  approach,  potential  influences  of  optical  potential  selection  on  the  final results have been minimized. The final uncertainty in the optical potential was determined by averaging the  results  from  multiple  sets  of  optical  potentials.  By  analyzing  the  angular  distributions  with  the distorted  wave  Born  approximation  (DWBA)  method  and  FRESCO  code,  the  proton  spectroscopic factors  for  three  states  were  extracted  and  their  transferred  angular  momenta  and  parities  were determined. For the excited state at $9 0 8 0 \mathrm { k e V }$ , the analysis of the angular distributions suggests a spinparity  assignment  that  differs  from  the  one  listed  in  the  National  Nuclear  Data  Center.  Compared  to conventional direct measurements and indirect approaches using (3He, d) or (d, n) transfer reactions, the (7Li, $^ { 6 } \mathrm { H e } )$ )  reaction  system  offers  unique  advantages.  It  provides  complementary  constraints  to  other experimental  studies  and  can  help  resolve  discrepancies,  particularly  for  uncertain  level  information. Future work will employ this reaction to investigate energy levels of additional key nuclides.
+
+Key words: Al abundance; DWBA method; proton transfer reaction
+
+$^ { 2 7 } \mathrm { A l }$ 是唯一稳定 Al 同位素，作为一个奇质子核，其基态核激发态的能级信息有助于人们检测壳模型、集体模型（如转动和振动模型）的预测能力，它的能级跃迁特性也有助于人们研究核子的集体和单粒子行为，帮助理解原子核的形变问题。另一方面，Al 在其他领域，如核天体、伽马天文学也有重要的意义[1]，人们对其参与的核反应进行研究也要求对 $^ { 2 7 } \mathrm { A l }$ 尤其在阈值附近的激发态能级信息有充分的了解。
+
+但目前对 $^ { 2 7 } \mathrm { A l }$ 质子发射阈上的研究较少，许多重要能级的自旋、宇称等信息都尚未确定或是
+
+可能有误。在距今较早的研究中，对 $^ { 2 7 } \mathrm { A l }$ 能级信息的了解主要依赖于 $^ { 2 4 } \mathrm { M g } (  { \mathrm { a } } ,  { \mathbf { p } } \gamma ) ^ { 2 7 } \mathrm { A l }$ 反 应 [ 2 ] ，$^ { 2 7 } \mathrm { A l }$ 对质子和 $\mathfrak { a }$ 粒子的非弹性散射[3-4] 及一些质子转移反应体系如 $\mathrm { ( ^ { 3 } H e , d ) }$ 转移与 $^ { ( \mathrm { d } , \mathrm { n } ) }$ 转移[5]，尚未有基于 $( ^ { 7 } \mathrm { L i } , ^ { 6 } \mathrm { H e } )$ 转移的实验研究。根据这些实验结果来看，目前对高能级的认识仍不足。以往国际上的研究中较少涉及 $( ^ { 7 } \mathrm { L i } , ^ { 6 } \mathrm { H e } )$ 转移反应体系，通过该反应能布居一些其他转移反应或是直接反应难以测量的激发态，具有独特的研究价值，借助中国原子能科学研究院的 HI-13 串列加速器以及高精度 Q3D 磁谱仪，可对 $^ { 2 7 } \mathrm { A l }$ 的能级信息做进一步
+
+的研究。
+
+本次实验中采取 $\mathrm { ( ^ { 7 } L i , ^ { 6 } H e ) }$ 体系对27Al的3个近阈激发态进行测量，结合扭曲波玻恩近似（DWBA）分析，拟合得到入射道的 Woods-Saxon 形式的光学势参数，对能级的自旋宇称进行约束，与以往文献的数据进行对比和检验，同时结合已有精确数据的7Li质子谱因子[6-7]，计算对应的27Al质子谱因子。

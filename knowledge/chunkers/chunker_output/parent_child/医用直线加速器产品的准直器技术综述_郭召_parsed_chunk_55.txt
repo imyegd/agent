@@ -1,0 +1,7 @@
+5-57.  
+［6］ 谢陈晨, 孟璐珈, 蒋元林. 射波刀设备的精度和误差分析
+
+研究［J］. 中国设备工程, 2023(3): 131-133.  
+［7］ 胡立宏, 程瑞, 张倩, 等. 射波刀技术现状与发展及其临床应用［J］. 医疗卫生装备, 2015, 36(3): 110-112, 115.  
+［8］ Fürweger C, Prins P, Coskan H, et al. Characteristics and performance of the first commercial multileaf collimator for a robotic radiosurgery system［J］. Med Phys, 2016, 43(5): 2063.   
+［9］ Lafond C, Chajon E, Devillers A, et al. Impact of MLC leaf width on volumetric-modulated arc therapy planning for head and neck cancers［J］. J Appl Clin Med Phys, 20

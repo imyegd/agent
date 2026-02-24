@@ -1,0 +1,5 @@
+iation source for EUV lithography[J]. Scientific Reports, 2022, 12: 3325. DOI: 10.1038/s41598- 022-07323-z.   
+6 Li C L, Feng C, Jiang B C. Extremely bright coherent synchrotron radiation production in a diffraction-limited storage ring using an angular dispersion-induced
+
+microbunching scheme[J]. Physical Review Accelerators and Beams, 2020, 23(11): 110701. DOI: 10.1103/ physrevaccelbeams.23.110701.   
+7 Li C, Jiang B, Feng C, et al. Lattice design for angular dispersion enhanced microbunching in storage r

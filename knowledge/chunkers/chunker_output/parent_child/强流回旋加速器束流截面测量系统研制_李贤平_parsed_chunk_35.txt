@@ -1,0 +1,7 @@
+# Design and Implementation of a Beam Cross-section Measurement System for Strong Current Cyclotron
+
+LI Xianping, WEN Lipeng*, GUAN Fengping*, HOU Shigang, HUANG Peng, LI Yunlong, CUI Tianhao
+
+(China Institute of Atomic Energy, Beijing 102413, China)
+
+Abstract: In cyclotron operations, beam measurement technology plays a pivotal role in providing accurate feedback on the accelerator's operational status and beam extraction performance, thereby enhancing the quality of the extracted beam. The China Institute

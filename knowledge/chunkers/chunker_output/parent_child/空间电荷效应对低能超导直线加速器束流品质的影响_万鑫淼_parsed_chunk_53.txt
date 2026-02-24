@@ -1,0 +1,10 @@
+erse, $\scriptstyle \eta = 0 . 6 9$ , $\sigma _ { 0 \mathrm { s } } { = } 8 5 . 8 ^ { \circ }$
+
+![](images/ae8b65cfbce24c6e4f223d059f540e61e040b891d7eb04eaef8d12a278e1c743.jpg)  
+(b) longitudinal, $\scriptstyle \eta = 0 . 6 9$ , $\sigma _ { 0 \mathrm { s } } { = } 8 5 . 8 ^ { \circ }$   
+Fig. 15    Transverse and longitudinal envelope spectrum analysis   
+图 15    横向包络和纵向包络的频谱分析
+
+络也会改变束核的电荷密度。
+
+采用 TraceWin 进行多粒子模拟，发现粒子 2∶1共振在相空间内的类花生分布图，如图 16所示。此处，多粒子模拟的参数为：初始横纵向归一化发射度为 $0 . 2 \ \pi$ ·mm·mrad、$0 . 3 \pi { \c

@@ -1,0 +1,9 @@
+ate arithmetic components can be selected for specific applications. Building on this, an approximate computing-based SNN hardware accelerator, AxSpike, is implemented using open-source EDA tools and PDKs, along with a corresponding simulator developed using snnTorch. Experimental results demonstrate that the accelerator achieves a $37.32\%$ reduction in power consumption and a $31.26\%$ reduction in area, with only a 3.47 percentage point decrease in accuracy, significantly enhancing the energy efficiency of SNN hardware accelerators.
+
+Key words: approximate computing; spiking neural network; hardware accelerator; high energy efficiency; low power consumption
+
+# 1 引言
+
+随着人工智能技术的迅猛发展，神经网络已然成为处理复杂数据、解决实际问题的强大工具。脉冲神经网络SNN(Spiking Neural Network)作为第3代神经网络模型[1]，凭借其独特的脉冲编码与传递方式，与生物神经系统的信息处理机制更为贴近，因而备受瞩目。脉冲神经网络所具备的低功耗与高能效特性，使其在边缘计算和终端计算场景中极具吸引力，尤其是在对功耗敏感的嵌入式设备和移动设备方面，诸如传感器和无人机等，脉冲神经网络的优势尤为突出。
+
+然而，尽管脉冲神经网络本身功耗较低，但在追求极致能效、延长电池寿命的应用中，进一步降低功耗仍是一项关键挑战。为应对这一挑战，研究人员持续探索新的设计方法与优化策略。近似计算技术作为一种新兴的高能效计算技术，通过牺牲一定的计算精度，来实现功耗和硬件面

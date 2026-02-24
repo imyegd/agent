@@ -1,0 +1,5 @@
+997dee7ebd6bbb32c239cd98289248df2146e15225edd333299143858fd1a83.jpg)  
+图 2 $^ { 1 4 } \mathrm { C }$ 能谱图（a）标准样品和（b）本底样品  
+Fig.2 Energyspectrao $^ { 1 4 } \mathrm { C }$ （a）referencesampleand（b）blanksample
+
+行测量。标准样品（标称 ${ } ^ { 1 0 } \mathrm { B e } / { } ^ { 9 } \mathrm { B e } = 4 . 9 4 \times 1 0 ^ { - 1 2 } ~ ;$ ）和本底样品由 CeregeAMS实验室提供［27］ 。每个标准样品测量 10次，每次采集 20个数据块 $1 0 \ \mathrm { s / }$ ／块），本底样品测量时长为 $^ { 1 \mathrm { ~ h ~ } }$ ，测量结果（表 3）显示，标准样品的平均 $^ { 1 0 } \mathrm { B e } / ^ { 9 } \mathrm { B e }$ 比

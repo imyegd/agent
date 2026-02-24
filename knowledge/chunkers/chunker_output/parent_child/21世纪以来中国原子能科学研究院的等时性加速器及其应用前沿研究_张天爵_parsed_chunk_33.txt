@@ -1,0 +1,5 @@
+cb9ab29c2199c0c74e41b3588cfc7c5ce36e57.jpg)  
+图5 CYCIAE-16中心平面磁场分布、平衡轨道、双向引出轨迹  
+Fig. 5 CYCIAE-16 magnetic field distribution in median plane, equilibrium orbit and dual extraction trajectories
+
+经调试和稳定性测试，CYCIAE-16引出能量、流强已达设计指标，为后续定型和商业化推广奠定了技术基础。该加速器整机如图6所示。

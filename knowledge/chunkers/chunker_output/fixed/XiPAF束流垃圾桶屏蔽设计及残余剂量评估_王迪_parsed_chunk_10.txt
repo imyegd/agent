@@ -1,0 +1,8 @@
+thrm { : 0 . 9 4 g \cdot c m ^ { - 3 } , 2 . 0 0 g \cdot c m ^ { - 3 } , 2 . 7 0 g \cdot c m ^ { - 3 } , 7 . 8 7 g \cdot c m ^ { - 3 } , 8 . 9 6 g \cdot c m ^ { - 3 } , 1 1 . 3 5 g \cdot c m ^ { - 3 } }$ Notes: The densities of polyethylene, graphite, aluminum, iron, copper, and lead are $0 . 9 4 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $2 . 0 0 \ \mathrm { ~ g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $2 . 7 0 ~ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $7 . 8 7 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , $8 . 9 6 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , and $1 1 . 3 5 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ , respectively
+
+![](images/26f224679421ab5518f3049dce577d6cc919876a58bcae4bf123681da2af5590.jpg)  
+图2 质子入射不同材料产生的次级中子（能量大于1 MeV）总产额（彩图见网络版）
+
+![](images/3e965f4228425f9b4892107042f98067e68c358cc5ccd8aab65b1ace93435322.jpg)  
+Fig.2 Total neutron yield (energy>1 MeV) per proton for different target materials (color online)   
+图3 $2 0 0 \mathrm { M e V

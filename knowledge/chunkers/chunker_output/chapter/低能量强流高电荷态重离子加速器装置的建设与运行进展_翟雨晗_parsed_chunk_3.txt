@@ -1,0 +1,34 @@
+# 1    装置介绍
+
+低能量强流高电荷态重离子加速器装置[1] 是中国科学院近代物理研究所自主研制的综合性实验平台，其核心设计目标是提供能量可调 $( 0 . 3 { \sim } 0 . 7 \mathrm { M e V / u } )$ 、流强可达毫安量级、电荷态覆盖轻离子（如 $\mathrm { H } _ { 2 } ^ { + }$ 、 $\mathrm { ^ { 4 } H e ^ { 2 + } }$ ）至超重离子（如238U50+、 $^ { 2 0 9 } \mathrm { { B i } ^ { 5 5 + } }$ ）的全谱系高品质束流。同时，该装置也是国家“十二五”重大科技基础设施 HIAF[2] 前端的原型样机。如图1 所示，该装置主要由首台第四代 $4 5 \mathrm { G H z }$ 超导 ECR 离子源 FECR[3]（first 4th generation ECR ion source)、 $1 0 0 \mathrm { k V }$ 高压平台、低能束传输线（LEBT）、 $8 1 . 2 5 \mathrm { M H z }$ 射频四极场型加速器（RFQ）、中能束传输线（MEBT）和实验终端组成。其中，FECR的主要设计参数见表 1，在 FECR的磁体系统中，采用了 ${ \mathrm { N b } } _ { 3 } { \mathrm { S n } }$ 超导线材，相较于传统 NbTi超导体，具有更高临界场强和临界电流密度，但其脆性和应力敏感特性对磁体机械结构和励磁保护提出了严苛要求。为此，开发了基于主动能量抽取的猝灭保护系统及自动加载程序，有效降低了 Flux Jump误触发概率。FECR不仅支持 $\mathrm { X e ^ { 4 0 ^ { + } } }$ 、 ${ \mathrm { B i } } ^ { 5 5 + }$ 等高电荷态离子的高效产生，同时还能实现如“ $^ { 4 } \mathrm { H e ^ { + } { + } ^ { 5 8 } \mathrm { N i } ^ { 1 5 + 9 } }$ ”“ $^ { 1 2 9 } \mathrm { X e } ^ { 3 3 + } + ^ { 4 } \mathrm { H e } ^ { + } + ^ { 1 6 } \mathrm { O } ^ { 4 + } { } ^ { , , }$ 等多元离子混合的“鸡尾酒式”束流（cocktail beam）的制备，为研究核能材料在多粒子协同辐照环境下的损伤行为提供了独特的实验
+
+![](images/4ea87965ba72c302fc0baf67962cf1c399840c06c54f2d1c8dfab80871e03161.jpg)  
+Fig. 1    Layout of the LEAF platform   
+图 1    LEAF 平台布局图
+
+表 1    FECR 主要设计参数  
+Table 1    Main design parameters of FECR   
+
+<table><tr><td>operating frequency/GHz</td><td>RF power/kW</td><td>magnet coils</td><td>mirror fields/T</td><td>Brad</td><td>chamber ID/mm</td><td>mirror length/mm</td></tr><tr><td>28~45</td><td>&gt;20</td><td>Nb3Sn</td><td>~6.4</td><td>~3.2</td><td>~140</td><td>~500</td></tr></table>
+
+平台。LEAF-RFQ 采用四翼型（设计参数见表 2），在连续波运行模式下，可稳定地将质荷比为 $2 \sim 7$ 的全粒子从 $1 4 \mathrm { k e V / u }$ 提升至 $5 0 0 ~ \mathrm { k e V / u }$ 。鉴于 RFQ 的出口能量恒定，为了提升 LEAF 装置束流条件的多样性，在 RFQ 出口段集成了束流能量调节系统。该系统包含一台交叉指型漂移管直线加速器（IH-DTL，设计参数见表 3），可提供 $0 . 3 { \sim } 0 . 7 \mathrm { M e V / u }$ 的连续能量增减调制[4]。DTL 两侧分别布置了两个四分之一波长谐振腔型聚束器（QWR mode Re-buncher），以控制纵向束流品质并对束流能量展宽进行压缩调制[5]。
+
+表 2   LEAF-RFQ 主要设计参数  
+Table 2    Main design parameters of LEAF-RFQ   
+表 3   IH-DTL 主要设计参数  
+
+<table><tr><td>duty cycle/%</td><td>operating frequency/MHz</td><td>resonant type</td><td>input particle energy/(keV·u-1)</td><td>output particle energy/(keV·u-1)</td><td>M/q range</td><td>RFQ vane length</td><td>maximum vane voltage/kV</td></tr><tr><td>100 (CW mode)</td><td>81.25</td><td>4~vane</td><td>14</td><td>500</td><td>2 (H2+)-7 (238U34+)</td><td>~596.4</td><td>70</td></tr></table>
+
+Table 3    Main design parameters of IH-DTL   
+
+<table><tr><td>duty cycle/%</td><td>operating frequency/MHz</td><td>number of gaps</td><td>gap/mm</td><td>tube length/mm</td><td>maximum gap voltage/kV</td><td>input particle energy/(keV·u-1)</td><td>output particle energy/(keV·u-1)</td><td>cavity length/mm</td></tr><tr><td>100 (CW mode)</td><td>81.25</td><td>8</td><td>25.96</td><td>32</td><td>195</td><td>500</td><td>300~700</td><td>~563.7</td></tr></table>
+
+为支撑 LEAF装置在核天体物理与核材料研究中的应用需求，平台配套建设了两个具备专用功能的实验终端：T1（强流核天体物理终端，如图 2所示）与 T2（高通量核能材料辐照终端，如图 3所示）。T1终端主要面向低能重离子熔合反应截面的直接测量，当前聚焦于天体能区的 $^ { 1 2 } \mathrm { C } + ^ { 1 2 } \mathrm { C }$ 反应研究[6]。终端配置时间投影室（TPC）与硅探测阵列构成的望远镜系统，可在强本底环境下实现对轻带电粒子的高效率鉴别与背景抑制[7]。配合 LEAF 装置提供的低能量高流强 $^ { 1 2 } \mathrm { C }$ 束流，T1终端支持质心系能量 $2 . 2 0 { \sim } 3 . 7 5 \mathrm { M e V }$ 区间内熔合截面的精密测量。T2终端用于开展高通量离子辐照下的核材料性能研究，具备多种高电荷态离子束及“鸡尾酒”混合束的注入能力，可模拟反应堆服役环境中的多因子协同辐照效应。终端支持不同温度与应力条件下的辐照实验，适用于辐照硬化、蠕变、脆化等关键问题研究。通过对材料微观结构的演化行为进行原位或离线分析，T2 终端为先进核能系统材料的快速筛选与寿命预测提供了实验支撑。
+
+![](images/245c685c2187325414540644b56f703580451350b8461c4193d039bb628c1862.jpg)  
+Fig. 2    Layout of experimental terminal 1   
+图 2    T1 终端布局图
+
+![](images/578da101a80ffa84e0239c495bc5dc99b3b38df5eafc2783342d205d229899f3.jpg)  
+Fig. 3    Layout of experimental terminal 2   
+图 3    T2 终端布局图

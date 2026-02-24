@@ -1,0 +1,12 @@
+1 Yeboah C. Characterization of linear accelerator X-ray source size using a laminated beam-spot camera[J]. Journal of Applied Clinical Medical Physics, 2011, 12(3): 178–182. DOI: 10.1120/jacmp.v12i3.3463.   
+2 唐利华, 张国光, 肖丹, 等. X射线与中子融合成像技术研究现状及展望[J]. 核技术, 2025, 48(1): 010001. DOI:10.11889/j.0253-3219.2025.hjs.48.240014. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.240014.
+
+TANG Lihua, ZHANG Guoguang, XIAO Dan, et al. Research status and prospect of combined X-ray and neutron imaging technology[J]. Nuclear Techniques, 2025, 48(1): 010001. DOI: 10.11889/j. 0253-3219.2025. hjs.48.240014. CSTR: 32193.14.hjs.CN31-1342/TL.2025. 48.240014.
+
+3 孙爱赟, 贾文宝, 黑大千, 等. 基于小型电子感应加速器的二维/三维X射线成像系统研制[J]. 核技术, 2024, 47(12): 120202. DOI: 10.11889/j. 0253-3219.2024. hjs. 47.120202. CSTR: 32193.14. hjs. CN31-1342/TL. 2024.47.120202.
+
+SUN Aiyun, JIA Wenbao, HEI Daqian, et al. Development of 2D/3D X-ray imaging system based on small size betatron[J]. Nuclear Techniques, 2024, 47(12): 120202. DOI: 10.11889/j.0253-3219.2024.hjs.47.120202. CSTR: 32193.14.hjs.CN31-1342/TL.2024.47.120202.
+
+4 张少东, 金宝亮, 张小东. 基于液闪EJ301研制的中子探测器的性能测试[J]. 核技术, 2024, 47(8): 080402. DOI:10.11889/j.0253-3219.2024.hjs.47.080402.
+
+ZHANG Shaodong, JIN Baoliang, ZHANG Xiaodong. Evaluation of self-developed neutron detector based on EJ301 liquid scintillator[J]. Nuclear Techniques, 2024, 47 (8): 080402. DOI: 10.11889/j. 0253-3219.2024. hjs. 47. 080402.

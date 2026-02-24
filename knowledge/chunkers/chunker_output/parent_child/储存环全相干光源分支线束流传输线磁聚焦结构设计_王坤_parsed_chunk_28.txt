@@ -1,0 +1,11 @@
+9df63660dac3614430628aef82f0cb1.jpg)
+
+![](images/f371a7b1c2f7951f6de48adbe180ad72de2eb14557f43c9c27210bff32b2b1d7.jpg)  
+图7 轨道畸变RMS校正后分布图 (a) 水平，(b) 垂直  
+Fig.7 Distribution of RMS orbit distortion after correction (a) Horizontal, (b) Vertical
+
+子追踪模拟计算。粒子追踪结果表明，在设置真空管道尺寸 $\pm 1 7 . 5 \ \mathrm { m m }$ 、磁铁元件安装误差和磁场误差的情况下，束流传输线的传输效率可达 $1 0 0 \%$ 。
+
+![](images/41692c8c05069793acb72d3bba24d7cd56a0f81975197f76cfdcab980d15c393.jpg)
+
+![](images/eb8790c0eff457f224be5707ba7d13562af4e9b631b6f17a36931595afa88f59.jpg)

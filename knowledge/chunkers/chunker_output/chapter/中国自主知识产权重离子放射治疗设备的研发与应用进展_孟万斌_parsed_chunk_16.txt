@@ -1,0 +1,35 @@
+# 参考文献：
+
+[1] 张宏 ， 金晨涛 ， 钟燕 ， 等. 基于PET分子影像的肿瘤重离子治疗精准评价[J]. 肿瘤学杂志 2025 31(8) 651-656.
+
+ZHANG H JIN C T ZHONG Y et al. PET molecularimaging-based precision evaluation of heavy ion therapyfor tumors[J]. Journal of Chinese Oncology ， 2025 ， 31(8) ：651-656.  
+[2] 杨根 ， 赵梓茗 ， 张艺宝 ， 等. 肿瘤放射治疗的发展[J]. 原子能科学技术 2024 58(S2) ： 492-500.  
+YANG G ZHAO Z M ZHANG Y B et al. Development of tumor radiotherapy[J]. Atomic Energy Science and Technology 2024 58(S2) ： 492-500.   
+[3] 唐靖宇 ，周路平. 中国粒子加速器的发展现状和趋势[J].原子能科学技术 2022 56(9) ： 1735-1746.  
+TANG J Y ZHOU L P. Development status and trend ofparticle accelerator in China[J]. Atomic Energy Scienceand Technology ， 2022 ， 56(9) ： 1735-1746.  
+[4] 兰州晚报. 首台国产重离子治疗肿瘤系统投用5年累计治 疗 2036名 患 者 [EB/OL]. 2025-06-30. https ： //gansu.gscn.com.cn/system/2025/06/30/013345990.shtml.  
+Lanzhou Evening News. China ’ s first domestic heavy-ion tumor therapy system in use for five years treating 2036 patients cumulatively[EB/OL]. 2025-06-30. https ： //gansu. gscn.com.cn/system/2025/06/30/013345990.shtml.   
+[5] 金渊昌. 重离子放疗技术应用现状及我国产业发展对策研究[D]. 兰州 兰州大学 2022.  
+JIN Y C. Application status of heavy ion radiotherapy technology and research on industrial development strategies in china[D]. Lanzhou ： Lanzhou University 2022.   
+[6] 潘婷婷 任益民 叶延程 等. 碳离子治疗肿瘤的临床进展研究[J]. 中国肿瘤临床 2023 50(18) 951-956.  
+PAN T T REN Y M YE Y C et al. Clinical research progress of carbon ion radiotherapy for cancer[J]. Chinese Journal of Clinical Oncology 2023 50(18) ： 951-956.   
+[7] 李欣龙 王军成 潘亚文 等. 碳离子放射治疗在神经外科肿瘤中的应用与研究进展[J]. 国际神经病学神经外科学杂志 2024 51(6) 58-64.  
+LI X L WANG J C PAN Y W et al. Application and research progress of carbon ion radiotherapy in neurosurgical tumors[J]. Journal of International Neurology and Neurosurgery 2024 51(6) 58-64.   
+[8] 杨立娜 冉俊涛 张红 等. 重离子束治疗肿瘤临床研究[J]. 原子核物理评论 2013 30(2) ： 166-173.  
+YANG L N RAN J T ZHANG H et al. Clinical research on tumor treatment with heavy ion beam[J]. Nuclear Physics Review 2013 30(2) ： 166-173.   
+[9] 杜晓月 刘艳丽 刘宇琴 等. 我国重离子治疗系统临床应用研究进展[J]. 中国医疗器械信息 2022 28(17) 54-57.  
+DU X Y LIU Y L LIU Y Q et al. Research progress of
+
+the clinical application of heavy ion therapy system in China [ J]. China Medical Device Information 2022 28 (17) ： 54-57.   
+[10] 张晨 葛悦 魏艳 等. 重离子放射系统治疗肿瘤的快速卫生技术评估[J]. 中国医疗设备 2024 39(4) ： 88-95.ZHANG C ， GE Y ， WEI Y ， et al. Rapid health technologyassessment of heavy-ion radiation system for tumor treat-ment[J]. China Medical Devices 2024 39(4) ： 88-95.  
+[11] LI Q ， LIU XG ， DAI ZY ， et al. Progress in heavy ion can-cer therapy at IMP and future development[J]. Mol Phar-maceutics 2024 1(2) ： 91-98.  
+[12] 人 民 日 报. 科 研 重 器 造 福 民 生 [EB/OL]. 2024-04-29.https ： //www.ccnta.cn/article/17033.html.People ’ s Daily. Major scientific research facilities benefitpeople ’ s livelihood[EB/OL]. 2024-04 -29. https ： //www.ccnta.cn/article/17033.html.  
+[13] 潘灵婧 顾先宝 王远远 等. 锥形闪烁体探测器在笔形束扫描式质子放疗系统质控中的应用[J]. 核技术2024 47(8) ： 080501.PAN L J GU X B WANG Y Y et al. Application ofcone-shaped scintillation detector for quality assurance inpencil beam scanning proton therapy systems[J]. NuclearTechniques 2024 47(8) ： 080501.  
+[14] 中国科学报. “消灭癌细胞 ”的“国之重器 ”[EB/OL]. 2023-09 - 05 . https ： / / www . cas . cn / zkyzs / 2023 / 09 / 410 / cmsm /202309/t20230901_4967399.shtml.China Science Daily. Cancer-eliminating national treasure[EB/OL]. 2023-09-05. https ： //www.cas.cn/zkyzs/2023/09/410/cmsm/202309/t20230901_4967399.shtml.  
+[15] 中国新闻网. 中国首台自主知识产权碳离子治疗系统临床医院披露疗效[EB/OL]. 2020-09-28. https ： //www.
+
+chinanews.com/jk/2020/09-28/9302250.shtml. China News Network. China ’ s first carbon ion therapy system with independent intellectual property rights sees clinical results disclosed by hospital[EB/OL]. 2020-09-28. https ： //www.chinanews.com/jk/2020/09-28/9302250.shtml.   
+[16] LI Y LI X YANG J et al. Flourish of proton and carbon ionradiotherapy in China[J]. Front Oncol 2022 12 ： 819905.  
+[17] 左妍. 树立国际粒子放疗“中国标杆”[N]. 新民晚报 2025-05-06. ZUO Y. Establishing a ’ Chinese Benchmark ’ in international particle radiotherapy[N]. Xinmin Evening News 2025- 05-06.   
+[18] 中央广电总台国际在线. 十年磨剑 中国重离子走向世界— —武威重离子中心临床应用五周年巡礼[EB/OL].(2025 -07 -02) [2025 -11 -03]. https ： //news.cri.cn/2025 -07-02/5ff93bdc-49bd-a9da-191c-4b4189d7e5c0.html.China Radio International Online. Ten years of dedica-tion ： Chinese heavy-ion technology goes global—a reviewof the Wuwei Heavy Ion Center ’ s five years of clinical ap-plication[EB/OL]. (2025-07-02)[2025-11-03]. https ： //news.cri.cn/2025-07-02/5ff93bdc -49bd-a9da -191c -4b4189d7e5c0.html.  
+[19] 中国经济网. 破垄断、建标准、惠全球 ！ 中国重离子技术实现弯道超车[EB/OL]. (2025-09-01)[2025-11-03].http ： //www.ce.cn/xwzx/ shgj/gdxw/202509/t20250911_2472065.shtml.China Economic Net. Breaking monopolies ， establishingstandards ， and benefiting the globe ： China ’ s heavy iontechnology achieves leapfrog development[EB/OL]. (2025-09-01)[2025-11-03]. http ： //www.ce.cn/xwzx/shgj/gdxw/202509/t20250911_2472065.shtml.

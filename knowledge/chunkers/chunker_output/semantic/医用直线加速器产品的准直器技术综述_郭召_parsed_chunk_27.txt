@@ -1,0 +1,8 @@
+# ［ 参 考 文 献 ］
+
+［1］ 郭召. 动态多叶光栅准直器的技术现状及发展趋势［J］.中国医疗设备, 2021, 36(1): 154-158.  
+［2］ 郭召. 立体定向放射治疗设备的技术现状及发展趋势［J］. 中国医疗设备, 2024, 39(9): 144-149, 161.  
+［3］ Clark B G, Teke T, Otto K. Penumbra evaluation of the varian millennium and BrainLAB M 3 multileaf collimators［J］. International Journal of Radiation Oncology Biology Physics, 2006, 66(4): S71-S75.   
+［4］ 宋一昕. 微型多叶光栅剂量学特性的研究［D］. 北京: 清华大学, 2011.  
+［5］ 刘丰华, 戴国胜, 何自怀. 医用外置多叶光栅的性能和特点［J］. 中国医疗器械信息, 2018, 24(11): 55-57.  
+［6］ 谢陈晨, 孟璐珈, 蒋元林. 射波刀设备的精度和误差分析

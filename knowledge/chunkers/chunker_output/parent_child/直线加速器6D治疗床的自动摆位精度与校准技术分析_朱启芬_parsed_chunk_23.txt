@@ -1,0 +1,5 @@
+d>0.18 mm</td></tr><tr><td>Y平移</td><td>0.79 mm</td><td>0.16 mm</td></tr><tr><td>Z平移</td><td>0.77 mm</td><td>0.15 mm</td></tr><tr><td>Pitch旋转</td><td>0.48°</td><td>0.13°</td></tr><tr><td>Roll旋转</td><td>0.51°</td><td>0.14°</td></tr><tr><td>Yaw旋转</td><td>0.49°</td><td>0.12°</td></tr></table>
+
+![](images/c446debbd3c559411a087d7e8122d95d61fceea740e23756a619cb048448b7ea.jpg)  
+图2 校准前后6D治疗床摆位误差对比图  
+Fig.2 Comparison of 6D treatment couch positioning errors before and after calibration

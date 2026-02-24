@@ -1,0 +1,9 @@
+该式可以改写为：
+
+$$
+C (z) = \frac {1}{1 - z ^ {- 1}} \cdot \left(\left(K _ {p} + K _ {i} \cdot \frac {T _ {s}}{2} + \frac {K _ {d}}{T _ {s}}\right) + \right.
+$$
+
+$$
+\left(- K _ {p} + K _ {i} \cdot \frac {T _ {s}}{2} - \frac {2 \cdot K _ {d}}{T _ {s}}\right) \cdot z ^ {- 1} + \frac {K _ {d}}{T _ {s}} \cdot z ^ {- 2} \tag {6}
+$$

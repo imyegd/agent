@@ -1,0 +1,6 @@
+# 参考文献：
+
+[1] Neutron Sciences Directorate[EB/OL]. http://neutrons.ornl.gov/media/pubs/.   
+[2] Neutrino Factory[EB/OL]. http://www.nu.to.infn.it/Neutrino_Factory/.   
+[3] 袁建东,  马力祯,  何源,  等. 超导直线加速器准直方案设计[J]. 北京测绘, 2019, 33（3）：285-290. （Yuan  Jiandong,  Ma  Lizhen,  He  Yuan,  et  al. Design  ofalignment scheme for superconducting linear accelerator[J]. Beijing Surveying and Mapping, 2019, 33（3）: 285-290）  
+[4] Jeon  D  O. Classification  of  space-charge  resonances  and  instabilities  in  high-intensity

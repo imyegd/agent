@@ -1,0 +1,5 @@
+tonics, 2024, 11(6).   
+[13] Zhang Z. A flexible new technique for camera calibration [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2000, 22(11): 1330-1334.   
+[14] Astola J, Kuosmanen P. Fundamentals of nonlinear digital filtering [M]. Fundamentals of Nonlinear Digital Filtering, 1997.   
+[15] Otsu N. A threshold selection method from gray-level histograms[J]. IEEE Transactions on Systems Man & Cybernetics, 2007, 9(1): 62-66.   
+[16] Krishnakumar R. Scintillation screen materials for

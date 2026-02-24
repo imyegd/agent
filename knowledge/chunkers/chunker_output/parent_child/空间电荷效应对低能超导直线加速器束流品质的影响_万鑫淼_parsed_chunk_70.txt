@@ -1,0 +1,4 @@
+.   
+[16] Chernin D. Evolution of RMS beam envelopes in transport systems with linear X-Y coupling[J]. Particle Accelerators, 1988, 24: 29-44.   
+Struckmeier  J,  Reiser  M. Theoretical  studies  of  envelope  oscillations  and  instabilities  of  mismatched  intense  charged-particle  beams  in  periodic  focusing[17] channels[J]. Particle Accelerators, 1984, 14: 227-260.   
+[18] Li Chao, Qin Qing. Space charge induced beam instability in periodic focusing channel[J]. Physics of Plasmas, 2015, 22: 023108.

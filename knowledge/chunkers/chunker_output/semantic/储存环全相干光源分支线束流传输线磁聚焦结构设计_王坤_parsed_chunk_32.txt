@@ -1,0 +1,7 @@
+1 Jiao Y, Xu G, Cui X H, et al. The HEPS project[J]. Journal of Synchrotron Radiation, 2018, 25(6): 1611 – 1618. DOI: 10.1107/s1600577518012110.   
+2 Yang P H, Liu G W, Xu J H, et al. Design and comparison of hybrid multi-bend achromat lattices for HALF storage ring[J]. Nuclear Science and Techniques, 2023, 34(7): 107. DOI: 10.1007/s41365-023-01252-w.   
+3 Feng C, Zhao Z T. A storage ring based free-electron laser for generating ultrashort coherent EUV and X-ray radiation[J]. Scientific Reports, 2017, 7: 4724. DOI: 10. 1038/s41598-017-04962-5.   
+4 姜伯承, 唐传祥, 冯超, 等. 储存环全相干光源[J]. 强激光 与 粒 子 束 , 2022, 34: 104001. DOI: 10.11884/HPLPB202234.220047.  
+JIANG Bocheng, TANG Chuanxiang, FENG Chao, et al. Storage ring based coherent light sources[J]. High Power Laser and Particle Beams, 2022, 34: 104001. DOI: 10. 11884/HPLPB202234.220047.   
+5 Jiang B C, Feng C, Li C L, et al. A synchrotron-based kilowatt-level radiation source for EUV lithography[J]. Scientific Reports, 2022, 12: 3325. DOI: 10.1038/s41598- 022-07323-z.   
+6 Li C L, Feng C, Jiang B C. Extremely bright coherent synchrotron radiation production in a diffraction-limited storage ring using an angular dispersion-induced

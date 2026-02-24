@@ -1,0 +1,7 @@
+# 参考文献
+
+[1] Fabian  Oboril,  Rajendra  Bishnoi,  Mojtaba  Ebrahimi,  et  al.
+
+Evaluation  of  Hybrid  Memory  Technologies  Using  SOT-MRAM  for  On-Chip  Cache  Hierarchy[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2015, 34(3): 367−380.   
+Sayeef Salahuddin, Kai Ni, Suman Datta. The Era of Hyper-[2] Scaling  in  Electronics[J].  Nature Electronics,  2018,  1: 442−450.   
+Can  Li,  Lili  Han,  Hao  Jiang,  et  al.  Three-Dimensional[3] Crossbar  Arrays  of  Self-Recti

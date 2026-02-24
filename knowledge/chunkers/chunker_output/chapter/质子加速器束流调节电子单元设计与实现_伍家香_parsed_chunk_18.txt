@@ -1,0 +1,12 @@
+# 4.2.2 调节反馈
+
+调节反馈来自IC电离室。后面板相关接口如下：
+
+ICInBNC连接到电离室上。其输入范围为 $1\mu \mathrm{A},25~\mu \mathrm{A}$ （默认）或 $50~\mu \mathrm{A}$
+
+ICOutBNC提供 $0\sim 10\mathrm{V}$ 的具有可配置带
+
+![](images/2c090d8dc8ad27da4cbea38376ea88e0db428b04e13ab1e5ed1048f2cde1269b.jpg)  
+图5 IPC软件架构
+
+宽的信号。

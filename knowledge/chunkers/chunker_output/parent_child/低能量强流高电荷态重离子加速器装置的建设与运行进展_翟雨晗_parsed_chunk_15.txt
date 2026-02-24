@@ -1,0 +1,7 @@
+3 { \sim } 0 . 7 \mathrm { M e V / u }$ 的连续能量增减调制[4]。DTL 两侧分别布置了两个四分之一波长谐振腔型聚束器（QWR mode Re-buncher），以控制纵向束流品质并对束流能量展宽进行压缩调制[5]。
+
+表 2   LEAF-RFQ 主要设计参数  
+Table 2    Main design parameters of LEAF-RFQ   
+表 3   IH-DTL 主要设计参数  
+
+<table><tr><td>duty cycle/%</td><td>operating frequency/MHz</td><td>resonant type</td><td>input particle energy/(keV·u-1)</td><td>output particle energy/(keV·u-1)</td><td>M/q range</td><td>RFQ vane length</td><td>maximum vane voltage/kV</td></tr><tr><td>100 (CW mode)</td><td>81.25</td

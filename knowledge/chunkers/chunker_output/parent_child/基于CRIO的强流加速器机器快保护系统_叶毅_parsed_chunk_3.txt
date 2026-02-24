@@ -1,0 +1,7 @@
+# Fast protection system for high current LIA based on CRIO
+
+YE Yi，LI Zetong，YANG Xinglin，JIANG Xiaoguo，JING Xiaobing，CHEN Nan，LIU Bangliang， ZANG Zongyang，LI Yue，JIANG Wei*
+
+(Institute of Fluid Physics ， China Academy of Engineering Physics ， Mianyang Sichuan 621999 ， China)
+
+Abstract： In high-current accelerators, anomalies in the Marx self-excitation of the pulsed-power system and in the loading of the magnet-excitation power-supply can degrade experimental quality or even cause the experiment to fail. A

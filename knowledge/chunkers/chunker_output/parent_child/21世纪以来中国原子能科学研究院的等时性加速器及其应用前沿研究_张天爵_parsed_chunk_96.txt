@@ -1,0 +1,4 @@
+and application[J]. Physical Review Special Topics: Accelerators and Beams, 2010, 13(6): 064201.   
+[22] ZHANG T, LU Y, ZHONG J, et al. Design, construction, installation, mapping, and shimming for a 416-ton compact cyclotron magnet[J]. IEEE Transactions on Applied Superconductivity, 2016, 26(4): 4101605.   
+[23] 毕远杰. 强流回旋加速器中束流损失和辐射场研究[D]. 北京: 清华大学, 2011.  
+[24] WANG C, ADELMANN A, YIN Z G, et al. Dark current and multipacting capabilities in OPAL: Model benchmarks and applications[J]. Proceedings of ICAP

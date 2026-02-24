@@ -1,0 +1,2 @@
+\tan \theta_ {i} \\ y _ {i + 1} = y _ {i} + x _ {i} \tan \theta_ {i} \end{array} \right. \tag {5}
+$$

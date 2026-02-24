@@ -1,0 +1,7 @@
+has been continuously iterated and innovated. The development of novel collimators has become a key link in radiotherapy product innovation. This article introduces several types of collimators widely used in medical linacs on the market, analyzes and compares the performance and structural characteristics of different collimators, summarizes the key technical points in collimator design and manufacturing, and provides an outlook on the development of collimators for medical linac products. This holds significant reference value for the research and development of domestically produced medical linear accelerators.
+
+【Key words】 Multi-leaf collimator (MLC); Cone beam collimator; Beam shaping; Radiotherapy
+
+医用直线加速器是治疗癌症的主要装备之一，准直器作为医用直线加速器核心部件，通常包含初级准直器与次级准直器，其中次级准直器直接参与照射野形状精准调控，对治疗精度产生关键影响，是实现精准放疗的核心执行单元。早期的医用直线加速器只配置光阑，仅能形成方野，因此只能开展普放治疗。为了提升适形精度，医务工作者采用低
+
+熔点铅依据患者照射野形状制成适形挡块作为辅助准直器。随后为了提升工作效率，市场上推出了手动多叶光栅，可以根据患者照射野形状快速手动调整叶片位置形成所需照射野形状。到 20世纪 90年代，数控技术及精密制造技术的快速发展推动了多叶光栅的电动化。电动多叶光栅（dynamic multi-leaf collimato

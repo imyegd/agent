@@ -1,0 +1,7 @@
+得出该区域发出的X射线穿过狭缝后被探测器接收的X射线强度为：
+
+$$
+\begin{array}{l} S \left(x ^ {\prime}\right) = I _ {0} \int_ {- \infty} ^ {+ \infty} \exp \left(- \frac {y ^ {2}}{2 \sigma_ {y} {} ^ {2}}\right) d y \int_ {x ^ {\prime}} ^ {x ^ {\prime} + w} \exp \left(- \frac {x ^ {2}}{2 \sigma_ {x} {} ^ {2}}\right) d x \\ = \sigma_ {y} I _ {0} \sqrt {2 \pi} \int_ {x ^ {\prime}} ^ {x ^ {\prime} + w} \exp \left(- \frac {x ^ {2}}{2 \sigma_ {x} {} ^ {2}}\right) d x \tag {2} \\ \end{array}
+$$
+
+式中： $x ^ { \prime }$ 是焦平面中的坐标； $w$ 表示有效狭缝宽度，其是在焦点

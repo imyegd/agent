@@ -1,0 +1,21 @@
+# Radiation shielding design and residual radioactivity assessment for the beam dump at XiPAF
+
+WANG Di CHEN Wei LYU Wei YAN Yihua YU Junying WANG Minwen WANG Zhongming
+
+(National Key Laboratory of Intense Pulsed Radiation Simulation and Effect, Northwest Institute of Nuclear Technology, Xi'an 710024, China)
+
+Abstract [Background] The Xi'an $2 0 0 \ \mathrm { M e V }$ proton application facility (XiPAF) is planned for upgrade and transformation into a versatile experimental facility for both proton and heavy-ion applications, requiring comprehensive radiation protection design for operational safety. [Purpose] This study aims to develop a radiationsafe beam dump design ensuring compliance with operational dose limits during operation and minimizing postirradiation residual doses. [Methods] Firstly, the neutron yield characteristics of different target materials were analyzed using FLUKA Monte Carlo simulations to determine the optimal core material with low neutron production. Then, a composite structure beam dump was designed with polyethylene as the target core material, iron as the main shielding material, and borated polyethylene as the outer shielding layer. Finally, shielding performance was quantified via ambient dose equivalent rate mapping at critical locations, and residual dose decay kinetics were modeled for three operational scenarios: 1-h, 1-d, and 1-w continuous irradiation at maximum beam intensity of $1 . 3 \times$ $1 0 ^ { 1 0 }$ protons per second. [Results] The computational results show that the maximum ambient dose equivalent rates at the rear and transverse sides of the beam dump are $4 . 2 \mathrm { m S v { \cdot h } ^ { - 1 } }$ and $3 . 2 ~ \mathrm { m S v { \cdot h } ^ { - 1 } }$ respectively, both below the design limit of $5 . 5 \mathrm { m S v ^ { \cdot } h ^ { - 1 } }$ . Compared to traditional graphite core, polyethylene demonstrates approximately $7 5 \%$ lower upstream dose while maintaining equivalent downstream shielding performance. Analysis of residual dose under the
+
+three operational scenarios shows consistent decay patterns, with all cases reaching the dose constraint of $2 . 5 ~ \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 }$ after 2~3 h cooling time. [Conclusions] The polyethylene-core composite beam dump design provides effective radiation protection for the XiPAF facility upgrade, with significantly reduced neutron backscattering compared to conventional graphite targets. The residual radioactivity analysis indicates that facility access can be safely permitted within 2~3 h after beam shutdown for all typical operational scenarios. These results provide practical reference for radiation protection design of beam dumps at similar intermediate-energy proton accelerator facilities.
+
+Key words Beam dump, Radiation shielding, Radioactivity, Monte-Carlo simulation
+
+西安 $2 0 0 \mathrm { M e V }$ 质 子应 用装 置(Xi'an 200 MeVProton Application Facility，XiPAF）是为宇航器件的空间单粒子效应研究而建设的一台加速器装置，在“十四五”期间，XiPAF计划升级改造为一台质子/重离子通用实验装置［1‒2］。为了确保人员、设备和环境安全，该类加速器装置的辐射防护问题不可忽视，其中束流垃圾桶在辐射防护中扮演着至关重要的角色。束流垃圾桶可以吸收废弃的束流，在原有建筑
+
+屏蔽墙的基础上形成叠加屏蔽结构，从而提升总体屏蔽效能，同时避免了束流直接照射到屏蔽墙体后对墙体及周围设备材料造成的活化。如图1所示，束流垃圾桶位于XiPAF装置高能输运线及辐照终端的末尾，在加速器停机之后，此处将是实验人员出入最频繁的区域，因此研究设计XiPAF束流垃圾桶并评估其残余放射性水平，对于该装置的辐射安全具有重要意义。
+
+![](images/0825e8cd2954d995342f4f9af4c15b90997047d4e9cfa9f22d6032dd10d35ed5.jpg)  
+图1 XiPAF质子辐照终端布局示意图  
+Fig.1 Layout diagram of the XiPAF proton irradiation terminal
+
+本文将对常用的屏蔽材料的屏蔽性能进行对比分析，提出束流垃圾桶的材料及结构，通过蒙特卡罗模拟进行屏蔽计算和验证，并评估不同运行时间停机后，靶芯中产生的放射性核素种类及活度。研究结果可以为中能质子加速器束流垃圾桶的设计及人员辐射防护提供参考。

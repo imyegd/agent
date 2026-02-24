@@ -1,0 +1,5 @@
+结合（1）、（3）、（4），我们得到：
+
+$$
+C (z) = K _ {p} + \frac {K _ {i} \cdot \left(1 + z ^ {- 1}\right) \cdot T _ {s}}{\left(1 - z ^ {- 1}\right) \cdot 2} + \frac {K _ {d} \cdot \left(1 - z ^ {- 1}\right)}{T _ {s}} \tag {5}
+$$

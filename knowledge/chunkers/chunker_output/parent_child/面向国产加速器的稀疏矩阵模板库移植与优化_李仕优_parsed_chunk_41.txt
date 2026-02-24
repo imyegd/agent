@@ -1,0 +1,9 @@
+/td><td>R→S</td><td>……</td></tr></table>
+
+Optimized scheme   
+
+<table><tr><td>G→R</td><td>R→S</td><td>S→R</td><td>C</td><td>S→R</td><td>C</td></tr><tr><td></td><td></td><td></td><td>S→R</td><td>C</td><td></td></tr><tr><td></td><td></td><td>G→R</td><td></td><td></td><td>R→S</td></tr></table>
+
+图 9 数据流水线的设计
+
+Fig.9 The design of data pipeline

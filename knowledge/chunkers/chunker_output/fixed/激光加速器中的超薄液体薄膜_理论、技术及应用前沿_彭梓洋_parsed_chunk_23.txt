@@ -1,0 +1,5 @@
+high photon yields and sub-20 $\mu$ m focal spot sizes. These findings establish a viable technological pathway for developing low-cost, high-brightness X-ray sources, critically bridging the significant performance gap between conventional X-ray tubes and large-scale synchrotron radiation facilities.
+
+ultra-thin liquid sheet, high-repetition-rate, viscous thickness model, in-situ characterization, laser plasma accelerator
+
+doi: 10.1360/CSB-2025-5514

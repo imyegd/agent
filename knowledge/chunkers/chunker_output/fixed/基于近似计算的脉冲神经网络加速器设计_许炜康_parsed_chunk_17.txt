@@ -1,0 +1,17 @@
+计下面面积为 $17.2\mathrm{mm}^2$ 相比，近似
+
+精度设计下的面积减小到了 $11.8 \mathrm{~mm}^{2}$ 。表 6 所示为近似精度与完整精度在准确率指标上的比较结果。
+
+Table 5 Power consumption of approximate-precision spiking neural network accelerator   
+表 5 近似精度脉冲神经网络加速器功耗  
+Table 6 Comparison of indicators between approximate-precision and full-precision   
+
+<table><tr><td>组别</td><td>内部功耗/mW</td><td>开关功耗/mW</td><td>泄露功耗/μW</td><td>总功耗/mW</td><td>占总功耗的百分比/%</td></tr><tr><td>时序功耗</td><td>21.70</td><td>1.63</td><td>0.16</td><td>23.33</td><td>60.1</td></tr><tr><td>组合功耗</td><td>9.42</td><td>6.05</td><td>0.27</td><td>15.47</td><td>39.9</td></tr><tr><td>总计</td><td>31.12</td><td>7.68</td><td>0.43</td><td>38.80</td><td>100.0</td></tr></table>
+
+表 6 近似精度与完整精度的指标比较  
+
+<table><tr><td>数据集</td><td>准确率
+(完整精度)/%</td><td>准确率
+(近似精度)/%</td></tr><tr><td>MNIST</td><td>98.44</td><td>94.97</td></tr><tr><td>FMNIST</td><td>87.77</td><td>82.85</td></tr><tr><td>DVS</td><td>91.11</td><td>86.34</td></tr><tr><td>SHD</td><td>65.48</td><td>60.52</td></tr></table>
+
+实验结果表明，在采用add8u_2LL近似加法器后，AxSpike在功耗方

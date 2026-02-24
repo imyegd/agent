@@ -1,0 +1,26 @@
+2}}{2 \sigma_ {x} {} ^ {2}}\right) d x \tag {2} \\ \end{array}
+$$
+
+式中： $x ^ { \prime }$ 是焦平面中的坐标； $w$ 表示有效狭缝宽度，其是在焦点处检测到的宽度，取决于狭缝长度l、狭缝宽度 $w _ { 0 }$ 和狭缝到焦点的距离 $h$ ，如图4所示。
+
+$$
+w = \left(\frac {2 h}{l} + 1\right) w _ {0} \tag {3}
+$$
+
+通过移动狭缝在 $[ - b , b ]$ 范围内对X射线强度进行采样，可以收集到离散序列：
+
+$$
+\left\{S \left[ x ^ {\prime} = \frac {(2 k - N) b}{N} \right] \right\} _ {k = 1, \dots , N} \tag {4}
+$$
+
+式中： $N$ 表示采样频率，采样间隔 $d = 2 b / N .$ 。通常，将 $^ { b }$ 设置为待测量焦点尺寸的两倍，这个采样序列可以很好地拟合出焦点在 $X$ 方向的X射线强度实际分布曲线［20］ 。
+
+![](images/0e075f29a149c69c41fca10457ed0c8a22baf48c5eb0f5b4a193fd38e7d3204f.jpg)  
+图4 狭缝有效宽度 $w$ 与狭缝长宽l及狭缝与焦点间距离h的关系示意图  
+Fig.4 Schematic diagram of the relationship among the effective slit width w, slit length l, and slit-to-focal point distance h
+
+$$
+\begin{array}{l} f \left(x ^ {\prime}, \cdot\right) = \int_ {- \infty} ^ {+ \infty} f \left(x ^ {\prime}, y\right) d y \tag {5} \\ = \sigma_ {y} I _ {0} \sqrt {2 \pi} \exp \left(- \frac {x ^ {\prime 2}}{2 \sigma_ {x} {} ^ {2}}\right) \\ \end{array}
+$$
+
+最终使用采集到的X射线强度离散序列

@@ -1,0 +1,7 @@
+# 2）安装调试与初步应用
+
+CYCIAE-50于2022年7月成功出束，在直径 $15\mathrm{cm}$ 的荧光靶上获得了 $2\mathrm{nA} / \mathrm{cm}^2$ 的均匀化辐照的质子束流，为后续全面试运行奠定了基础，如图13所示。目前，中能质子辐照平台的两条束线已经在进行以空间效应模拟为目的的多项辐照实验[44]。
+
+![](images/b78f777d7ef23c33aed4a41891a51a7f0dc2c21568464059b0a4d2e8ff52e737.jpg)  
+图13 荧光靶实测的质子辐照均匀化束斑  
+Fig. 13 Proton irradiation homogenization beam spot measured by fluorescent target

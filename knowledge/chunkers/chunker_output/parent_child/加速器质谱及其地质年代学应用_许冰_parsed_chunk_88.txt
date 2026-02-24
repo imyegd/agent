@@ -1,0 +1,8 @@
+{e} ^ {- \lambda_ {2 6} t _ {b}}\right) \tag {16}
+$$
+
+$$
+N _ {1 0} = \frac {P _ {1 0} (0)}{\lambda_ {1 0} + \rho \varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}} + \frac {P _ {1 0} (z)}{\lambda_ {1 0}} \left(1 - \mathrm {e} ^ {- \lambda_ {1 0} t _ {\mathrm {b}}}\right) \tag {17}
+$$
+
+因此，通过测量样品中 $^ { 1 0 } \mathrm { { B e } }$ 和 $^ { 2 6 } \mathrm { A l }$ l浓度，以及得到这两种核素在研究区的产率及其随深度的变化，根据公式（16）和（17）就可以得到埋藏年龄 $\left( \mathbf { \sigma } _ { t _ { \mathrm { b } } } \right)$ ）和侵蚀速率。如

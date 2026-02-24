@@ -1,0 +1,9 @@
+Price A T, Knutson N C, Kim T, et al. Commissioning a secondary dose calculation software for a 0.35 T MRlinac［J］. J Appl Clin Med Phys, 2022, 23(3): e13452.   
+［22］ Davies G A, Clowes P, McQuaid D, et al. An experimental comparison of conventional two-bank and novel four-bank dynamic MLC tracking［J］. Phys Med Biol, 2013, 58(5):
+
+1635-1648.   
+［23］ Kunieda E, Kawaguchi O, Saitoh H, et al. Measurement of beam-axis displacement from the isocenter during threedimensional conformal radiosurgery with a micro-multileaf collimator［J］. Radiother Oncol, 2004, 70(1): 45-48.   
+［24］陈高翔, 解传滨, 戴相昆, 等. 基于正交双层光栅的调强放射治疗临床应用［J］. 中国医疗设备, 2021, 36(4): 81-85.  
+［25］ Wang Q, Li Q, Wang Z, et al. Characterization of a novel VenusX orthogonal dual-layer multileaf collimator［J］. J Appl Clin Med Phys, 2024, 25(5): e14357.   
+［26］ Zhang M, Fan Q, Lei Y, et al. Assessment of an Elekta Versa HD linear accelerator for stereotactic radiosurgery with circular cone collimators［J］. J Xray Sci Technol, 2020, 28(1): 71-82.   
+［27］陈超敏, 于晓宝, 周凌宏

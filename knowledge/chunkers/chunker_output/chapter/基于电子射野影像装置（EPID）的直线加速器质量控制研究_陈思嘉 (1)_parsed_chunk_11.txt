@@ -1,0 +1,8 @@
+# 3  结果
+
+# 3.1  MLC 叶片到位精度（Picket Fence）
+
+图 1 是在 $0 ^ { \circ }$ °机架角下，Picket Fence 测试的 EPID成像结果。导入软件分析得出，MLC 的最大误差出现在第 2 个栅栏，发生在第 17 对 MLC，误差值为 $0 . 1 1 6 \mathrm { m m }$ ，小于项目的容差值 $\pm 0 . 5 \mathrm { m m }$ ，测试通过率为 $1 0 0 \%$ 。在$0 ^ { \circ }$ 、 $9 0 ^ { \circ }$ 、 $1 8 0 ^ { \circ }$ 、 $2 7 0 ^ { \circ }$ 机架角的测试结果均符合要求。
+
+![](images/06cea3b44f5b1dcec116b12828fef6322786bd2a95046021e2ff67325c09d898.jpg)  
+图 1  0 度机架角下，Picket Fence 测试的 EPID 成像结果

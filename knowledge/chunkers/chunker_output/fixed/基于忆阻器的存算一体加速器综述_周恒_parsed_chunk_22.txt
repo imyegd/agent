@@ -1,0 +1,5 @@
+Xia,  Boxun  Li,  Tianqi  Tang,  et  al.  MNSIM:[25] Simulation  Platform  for  Memristor-Based  Neuromorphic Computing  System[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2018, 37(5): 1009−1022.   
+Xiaotian Sun; Xinyu Wang; Wanqian Li, et al. PIMCOMP:[26] An  End-to-End  DNN  Compiler  for  Processing-In-Memory Accelerators[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2025,  44(5): 1745−1759.   
+Bing Wu, Yibo Liu, Jinpeng Liu, et al. FADESIM: Enable[27] Fast  and  Accurate  Design  Exploration  for  Memristive Accelerators  Considering  Nonidealities[J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2025, 44(4): 1529−1543.   
+Zhenhua Zhu, Hanbo Sun, Tongxin Xie, et al. MNSIM 2.0:[28] A  Behavior-Level  Modeling  Tool  for  Processing-In-Memory Architectures[J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2023, 42(11): 4112−4125.   
+Kaizhong Qiu, Zhenhua Zhu, Yi

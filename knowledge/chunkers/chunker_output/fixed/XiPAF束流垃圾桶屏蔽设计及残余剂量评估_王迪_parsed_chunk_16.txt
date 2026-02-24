@@ -1,0 +1,17 @@
+h } ^ { - 1 }$ 。可以看出，随着冷却时间的增加，残余剂量变低，并且残余辐射主要存在束流垃圾桶的入口处。
+
+![](images/017e1b5e9c747bf56abe1d3732479e746651d6d0a7c3e82f99d706674bb5ff36.jpg)
+
+![](images/c358627467beaeded4efdb545b26973c8bc7d5739bd199d150a5ee51d547b6f3.jpg)  
+图8 连续运行1 d后不同冷却时间的束流垃圾桶周围剂量当量率分布（彩图见网络版）  
+Fig.8 Ambient dose equivalent rates around the beam dump for several cooling times after 1 d of continuous operation (color online)
+
+本研究进一步选取以束流垃圾桶入口平面（ $Z =$ $- 4 0 \mathrm { c m } )$ ）上、 $. R { = } 1 0 \mathrm { c m }$ 内面积作为剂量评估点，分别计算连续辐照 $1 \mathrm { h } , 1 \mathrm { d } , 1 \mathrm { w }$ 之后残余剂量的衰减，如图9所示。计算结果显示，三种工况下剂量衰减至XiPAF的剂量管理约束值 $( 2 . 5 \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 } )$ ）所需的冷却时间均大约为 $2 { \sim } 3 \mathrm { ~ h ~ }$ 。在停束后的2 h内，三种工况的剂量衰减趋势基本一致，而随着冷却时间的增加，辐照时间更长的工况将残留更高的剂量，这种趋势特征归因于辐照时间、冷却时间与放射性核素半衰期的相对关系。
+
+根据核反应中放射性核素的生成规律［18］，易得：
+
+$$
+A = N _ {s} \sigma I \left(1 - 2 ^ {- \frac {t _ {0}}{T _ {1 / 2}}}\right) \cdot 2 ^ {- \frac {t _ {c}}{T _ {1 / 2}}} \tag {1}
+$$
+
+式中： $A$ 为放射性活度； $N _ { \mathrm { s } }$ 为单位面积靶上的靶核

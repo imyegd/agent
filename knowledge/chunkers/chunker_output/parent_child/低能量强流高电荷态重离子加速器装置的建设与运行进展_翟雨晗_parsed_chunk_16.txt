@@ -1,0 +1,5 @@
+V</td></tr><tr><td>100 (CW mode)</td><td>81.25</td><td>4~vane</td><td>14</td><td>500</td><td>2 (H2+)-7 (238U34+)</td><td>~596.4</td><td>70</td></tr></table>
+
+Table 3    Main design parameters of IH-DTL   
+
+<table><tr><td>duty cycle/%</td><td>operating frequency/MHz</td><td>number of gaps</td><td>gap/mm</td><td>tube length/mm</td><td>maximum gap voltage/kV</td><td>input particle energy/(keV·u-1)</td><td>output particle energy/(keV·u-1)</td><td>cavity length/mm</td></tr><tr><td>100 (CW mode)</td><td>81.25</td

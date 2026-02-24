@@ -1,0 +1,12 @@
+<table><tr><td>来源</td><td>Elab/MeV</td><td>VR</td><td>aR</td><td>rR</td><td>WI</td><td>aI</td><td>rI</td></tr><tr><td>入射道1</td><td>42</td><td>154.25</td><td>1.52</td><td>0.57</td><td>17.3</td><td>1.85</td><td>0.89</td></tr><tr><td>入射道2</td><td>42</td><td>196.79</td><td>1.48</td><td>0.58</td><td>19.8</td><td>1.79</td><td>0.89</td></tr><tr><td>27Al+6Li</td><td>34</td><td>206</td><td>1.21</td><td>0.75</td><td>17.5</td><td>1.85</td><td>0.80</td></tr><tr><td>28Si+6Li</td><td>27</td><td>141</td><td>1.15</td><td>0.91</td><td>15.0</td><td>1.91</td><td>0.81</td></tr></table>
+
+$^ { 2 7 } \mathrm { A l }$ 的谱因子通过下式得到：
+
+$$
+(\mathrm {d} \sigma / \mathrm {d} \Omega) _ {\exp} = S _ {7 \mathrm {L i}} S _ {2 7 \mathrm {A l}} (\mathrm {d} \sigma / \mathrm {d} \Omega) _ {\mathrm {D W B A}} \tag {3}
+$$
+
+其中， $( \mathrm { d } \sigma / \mathrm { d } \varOmega ) _ { \mathrm { D W B A } }$ 和 $( \mathrm { d } \sigma / \mathrm { d } \varOmega ) _ { \mathrm { e x p } }$ 分别表示通过DWBA计算和实验测得的微分截面。根据以往的研究结果， $S _ { \mathrm { \Delta \ v _ { L i } } }$ 的值为 $0 . 4 2 ^ { [ 6 - 7 ] }$ ，由此再对比理论和实验的角分布可得到 $S _ { ^ { 2 7 } \mathrm { A l } }$ 的值。最终的谱因子由前文提到的 6 套光学势组合平均得到，详细结果列于表2。表 3 列出了 3 个激发态对应的转移角动量与谱因子。
+
+表 2 不同光学势组合得到的谱因子结果  
+Table 2 Spetroscopic factor from different sets of OMP parameters

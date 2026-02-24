@@ -1,0 +1,56 @@
+# 参考文献
+
+[1] Fabian  Oboril,  Rajendra  Bishnoi,  Mojtaba  Ebrahimi,  et  al.
+
+Evaluation  of  Hybrid  Memory  Technologies  Using  SOT-MRAM  for  On-Chip  Cache  Hierarchy[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2015, 34(3): 367−380.   
+Sayeef Salahuddin, Kai Ni, Suman Datta. The Era of Hyper-[2] Scaling  in  Electronics[J].  Nature Electronics,  2018,  1: 442−450.   
+Can  Li,  Lili  Han,  Hao  Jiang,  et  al.  Three-Dimensional[3] Crossbar  Arrays  of  Self-Rectifying $\mathrm { S i } / \mathrm { S i O } _ { 2 } / \mathrm { S i }$ Memristors[J]. Nature Communications, 2017, 8: 15666.   
+Rivu  Midya,  Zhongrui  Wang,  Jiaming  Zhang,  et  al.[4] Anatomy  of  Ag/Hafnia-Based  Selectors  with 1010 ${ 1 0 } ^ { 1 0 }$ Nonlinearity[J].  Advanced Materials,  2017,  29(12): 1604457.   
+Mingyi  Rao,  Wenhao  Song,  Fatemeh  Kiani,  et  al.  Timing[5] Selector: Using Transient Switching Dynamics to Solve the Sneak  Path  Issue  of  Crossbar  Arrays[J].  Small Science, 2022, 2(1): 2100072.   
+Yi Huang, Takashi Ando, Abu Sebastian, et al. Memristor-[6] based  Hardware  Accelerators  for  Artificial  Intelligence[J]. Nature Reviews Electrical Engineering, 2024, 1: 286−299.   
+Pengxiao  Sun,  Nianduan  Lu,  Ling  Li,  et  al.  Thermal[7] Crosstalk  in  3-Dimensional  RRAM  Crossbar  Array[J]. Scientific Reports, 2015, 5: 13504.   
+Jinpeng Liu, Wei Tong, Bing Wu, et al. ICON: An IR Drop[8] Compensation  Method  at  OU  Granularity  with  Low Overhead  for  eNVM-based  Accelerators[C]//2023 IEEE 41st International Conference on Computer Design. Piscataway: IEEE, 2023: 102−109.   
+Heng  Zhou,  Bing  Wu,  Huan  Cheng,  et  al.  ODLPIM:  A[9] Write-Optimized  and  Long-Lifetime  ReRAM-Based Accelerator  for  Online  Deep  Learning[C]//2023 Design, Automation & Test in Europe Conference & Exhibition. Piscataway: IEEE, 2023: 1−6.   
+Heng  Zhou,  Bing  Wu,  Huan  Cheng,  et  al.  DRCTL:  A[10] Disorder-Resistant  Computation  Translation  Layer Enhancing  the  Lifetime  and  Performance  of  Memristive CIM  Architecture[C]//2024 57th IEEE/ACM International Symposium on Microarchitecture. Piscataway: IEEE, 2024: 263−277.   
+Anteneh Gebregiorgis, Hoang Anh Du Nguyen, Jintao Yu, et[11] al. A Survey on Memory-Centric Computer Architectures[J]. ACM Journal on Emerging Technologies in Computing Systems, 2022, 18(4): 1−50.   
+Mohsen  Imani,  Saransh  Gupta,  Yeseong  Kim,  et  al.[12] FloatPIM:  In-Memory  Acceleration  of  Deep  Neural Network Training with High Precision[C]//2019 ACM/IEEE 46th Annual International Symposium on Computer Architecture. Piscataway: IEEE, 2019: 802−815.   
+Minh S. Q. Truong, Eric Chen, Deanyone Su, et al. RACER:[13] Bit-Pipelined  Processing  Using  Resistive  Memory[C]// MICRO-54: 54th Annual IEEE/ACM International
+
+Symposium on Microarchitecture.  New  York:  ACM,  2021: 100−116.   
+Ali  Shafiee,  Anirban  Nag,  Naveen  Muralimanohar,  et  al.[14] ISAAC: A Convolutional Neural Network Accelerator with In-Situ  Analog  Arithmetic  in  Crossbars[C]//2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture. Piscataway: IEEE, 2016: 14−26.   
+Linghao  Song,  Xuehai  Qian,  Hai  Li,  et  al.  PipeLayer:  A[15] Pipelined  ReRAM-Based  Accelerator  for  Deep Learning[C]//2017 IEEE International Symposium on High Performance Computer Architecture.  Piscataway:  IEEE, 2017: 541−552.   
+Aayush Ankit, Izzat El Hajj, Sai Rahul Chalamalasetti, et al.[16] PUMA:  A  Programmable  Ultra-efficient  Memristor-based Accelerator  for  Machine  Learning  Inference[C]// Proceedings of the Twenty-Fourth International Conference on Architectural Support for Programming Languages and Operating Systems. New York: ACM, 2019: 715−731.   
+Xiaotian Sun, Xinyu Wang, Wanqian Li, et al. PIMCOMP:[17] A  Universal  Compilation  Framework  for  Crossbar-based PIM  DNN  Accelerators[C]//2023 60th ACM/IEEE Design Automation Conference. Piscataway: IEEE, 2023: 1−6.   
+Songyun  Qu,  Shixin  Zhao,  Bing  Li,  ,  et  al.  CIM-MLC:  A[18] Multi-level  Compilation  Stack  for  Computing-In-Memory Accelerators[C]//Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems.  New  York:  2024: 185−200.   
+Andi  Drebes,  Lorenzo  Chelini,  Oleksandr  Zinenko,  et  al.[19] TC-CIM:  Empowering  Tensor  Comprehensions  for Computing-In-Memory[C]//  10th International Workshop on Polyhedral Compilation Techniques.  New  York:  ACM, 2020: 1−12.   
+Adam  Siemieniuk,  Lorenzo  Chelini,  Asif  Ali  Khan,  et  al.[20] OCC:  An  Automated  End-to-End  Machine  Learning Optimizing  Compiler  for  Computing-In-Memory[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022, 41(6): 1674−1686.   
+秦忠宇. 面向存算一体 AI 加速器的端到端编译器设计及[21]优化 [D]. 武汉：华中科技大学, 2025.  
+Wenyu  Sun,  Jinshan  Yue,  Yifan  He,  et  al.  A  Survey  of[22] Computing-in-Memory  Processor:  From  Circuit  to Application[J].  IEEE Open Journal of the Solid-State Circuits Society, 2023, 4: 25−42.   
+Xiaochen  Peng,  Shanshi  Huang,  Hongwu  Jiang,  et  al.[23] DNN+NeuroSim  V2.0:  An  End-to-End  Benchmarking Framework  for  Compute-in-Memory  Accelerators  for  On-Chip  Training[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2021,  40(11): 2306−2319.   
+Indranil Chakraborty, Mustafa Fayez Ali, Dong Eun Kim, et[24] al.  GENIEx:  A  Generalized  Approach  to  Emulating  Non-
+
+Ideality  in  Memristive  Xbars  using  Neural  Networks[C]// 2020 57th ACM/IEEE Design Automation Conference. Piscataway: IEEE, 2020: 1−6.   
+Lixue  Xia,  Boxun  Li,  Tianqi  Tang,  et  al.  MNSIM:[25] Simulation  Platform  for  Memristor-Based  Neuromorphic Computing  System[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2018, 37(5): 1009−1022.   
+Xiaotian Sun; Xinyu Wang; Wanqian Li, et al. PIMCOMP:[26] An  End-to-End  DNN  Compiler  for  Processing-In-Memory Accelerators[J].  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2025,  44(5): 1745−1759.   
+Bing Wu, Yibo Liu, Jinpeng Liu, et al. FADESIM: Enable[27] Fast  and  Accurate  Design  Exploration  for  Memristive Accelerators  Considering  Nonidealities[J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2025, 44(4): 1529−1543.   
+Zhenhua Zhu, Hanbo Sun, Tongxin Xie, et al. MNSIM 2.0:[28] A  Behavior-Level  Modeling  Tool  for  Processing-In-Memory Architectures[J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,  2023, 42(11): 4112−4125.   
+Kaizhong Qiu, Zhenhua Zhu, Yi Cai, et al. MNSIM-TIME:[29] Performance Modeling Framework for Training-In-Memory Architectures[C]//2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems.  Piscataway: IEEE, 2021: 1−4.   
+Geng Yuan, Payman Behnam, Zhengang Li, et al. FORMS:[30] Fine-grained  Polarized  ReRAM-based  In-situ  Computation for  Mixed-signal  DNN  Accelerator[C]//2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture. Piscataway: IEEE, 2021: 265−278.   
+Ermin  Wei,  Asuman  Ozdaglar.  Distributed  alternating[31] direction  method  of  multipliers[C]//2012 IEEE 51st IEEE Conference on Decision and Control.  Piscataway:  IEEE, 2012: 5445−5450.   
+Fengbin  Tu,  Zihan  Wu,  Yiqi  Wang,  et  al.  TranCIM:  Full-[32] Digital  Bitline-Transpose  CIM-based  Sparse  Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes[J]. IEEE Journal of Solid-State Circuits,  2023,  58(6): 1798−1809.   
+Fengbin Tu, Zihan Wu, Yiqi Wang, et al. 16.1 MuITCIM: A[33] 28nm $2 . 2 4 \mu \mathrm { J } /$ Token  Attention-Token-Bit  Hybrid  Sparse Digital  CIM-Based  Accelerator  for  Multimodal Transformers[C]//2023 IEEE International Solid-State Circuits Conference. Piscataway: IEEE, 2023: 248−250.   
+Manuel  Le  Gallo,  Abu  Sebastian,  Roland  Mathis,  et  al.[34] Mixed-Precision  in-Memory  Computing[J].  Nature Electronics, 2018, 1: 246−253.   
+丁文隆, 汪承宁, 童薇. 基于自选尾数压缩的高能效浮点[35]忆阻存内处理系统 [J]. 计算机研究与发展, 2022, 59(3):
+
+533−552.   
+Zhong  Sun.  Analog  Matrix  Computing  with  Resistive[36] Memory:  Circuits  and  Theory[C]//2022 International Symposium on VLSI Technology, Systems and Applications. Piscataway: IEEE, 2022: 1−2.   
+Zhichuang  Liang,  Yunlei  Zhao.  Number  Theoretic[37] Transform  and  Its  Applications  in  Lattice-based Cryptosystems:  A  Survey[EB/OL].  (2022−11−24)[2025− 09−17]. https://arxiv.org/pdf/2211.13546.   
+Dai  Li,  Akhil  Pakala,  Kaiyuan  Yang.  MeNTT:  A  Compact[38] and  Efficient  Processing-in-Memory  Number  Theoretic Transform  (NTT)  Accelerator[J].  IEEE Transactions on Very Large Scale Integration Systems,  2022,  30(5): 579−588.   
+Peng  Yao,  Huaqiang  Wu,  Bin  Gao,  et  al.  Fully  Hardware-[39] Implemented  Memristor  Convolutional  Neural  Network[J]. Nature, 2020, 577: 641−646.   
+[40] Weier Wan, Rajkumar Kubendran, Clemens Schaefer, et al.
+
+A  Compute-in-Memory  Chip  Based  on  Resistive  Random-Access Memory[J]. Nature, 2022, 608: 504−512.   
+Seungchul Jung, Hyungwoo Lee, Sungmeen Myung, et al. A[41] Crossbar Array of Magnetoresistive Memory Devices for in-Memory Computing[J]. Nature, 2022, 601: 211−216.   
+DeepSeek-AI, Daya Guo, Dejian Yang, et al. DeepSeek-R1:[42] Incentivizing  Reasoning  Capability  in  LLMs  via Reinforcement  Learning[EB/OL].  (2025−01−22)[2025−09− 17].https://arxiv.org/abs/2501.12948.   
+Manuel  Le  Gallo,  Riduan  Khaddam-Aljameh,  Milos[43] Stanisavljevic,  et  al.  A  64-core  Mixed-Signal  in-Memory Compute  Chip  Based  on  Phase-Change  Memory  for  Deep Neural  Network  Inference[J].  Nature Electronics,  2023, 6(9): 680−693.   
+S. Ambrogio, P. Narayanan, A. Okazaki, et al. An Analog-[44] AI  Chip  for  Energy-Efficient  Speech  Recognition  and Transcription[J]. Nature, 2023, 620: 768−775.

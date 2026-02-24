@@ -1,0 +1,9 @@
+jets atomization. Phys Fluids A-Fluid Dyn, 1991, 3: 2981-2987
+
+26 Choo Y J, Kang B S. Parametric study on impinging-jet liquid sheet thickness distribution using an interferometric method. Exp Fluids, 2001, 31: 56-62   
+27 Bush J W M, Hasha A E. On the collision of laminar jets: fluid chains and fishbones. J Fluid Mech, 2004, 511: 285-310   
+28 Li R, Ashgriz N. Characteristics of liquid sheets formed by two impinging jets. Phys Fluids, 2006, 18: 087104   
+29 Lu J, Corvalan C M. Influence of viscosity on the impingement of laminar liquid jets. Chem Eng Sci, 2014, 119: 182-186   
+30 Majumdar N, Tirumkudulu M S. Dynamics of radially expanding liquid sheets. Phys Rev Lett, 2018, 120: 164501   
+31 Morrison J T, Feister S, Frische K D, et al. MeV proton acceleration at kHz repetition rate from ultra-intense laser liquid interaction. New J Phys, 2018, 20: 022001   
+32 Fule M, Kovacs A P, Gilinger T, et al. Development of an ultrathin liquid sheet target for laser ion acceleration at high repetition rates in the kilo

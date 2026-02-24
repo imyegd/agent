@@ -1,0 +1,7 @@
+ripheral dose fall-off［J］. Cureus, 2021, 13(3): e13972.   
+［34］ Weidlich G A, Schneider M B, Adler J R. Characterization of a novel revolving radiation collimator［J］. Cureus, 2018, 10(2): e2146.   
+［35］张金葆, 卢爱国. 螺旋断层放疗系统多叶准直器叶片的性能分析［J］. 医疗卫生装备, 2010, 31(10): 128-129.  
+［36］戴相昆, 徐寿平, 王运来, 等. HI-ART螺旋断层治疗机多 叶 准 直 器 机 械 性 能 测 试［J］. 中国医学物理学杂志,2009, 26(4): 1265-1267, 1284.  
+［37］ Sarkar V, Lin L, Shi C, et al. Quality assurance of the multileaf collimator with helical tomotherapy: design and implementation［J］. Med Phys, 2007, 34(7): 2949-2956.   
+［38］ Oderinde O M, Shirvani S M, Olcott P D, et al. The technical design and concept of a PET/CT linac for biology-guided radiotherapy［J］. Clin Transl Radiat Oncol, 2021, 29: 106-112.   
+［39］ Han B, Capaldi D, Kovalchuk N, et al. Beam commissioning of the first clinical biology-guided radiotherapy system［J］. J Appl Clin Med Phys, 2022, 23(6): e13607.

@@ -1,0 +1,3 @@
+chine Learning Research, 2021, 22(241): 1-124.   
+[5] ANZT H, TOMOV S, DONGARRA J J. Accelerating the LOBPCG method on GPUs using a blocked sparse matrix vector product[C]//Proceedings of the Symposium on High Performance Computing. San Diego, USA: Society for Computer Simulation International, 2015: 75-82.   
+[6] ZHAO H S, LI S, WANG J H, et al. Acc-SpMM: accelerating general-purpose sparse matrix-matrix multiplication with GPU tensor cores[C]//Proceedings of the 30th ACM SIGPLAN Annual Symposium on Princi

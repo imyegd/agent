@@ -1,0 +1,11 @@
+angle between $\pm 45$ degrees. For DR detection, the system can detect parts with a height of more than 3 meters, and the maximum detectable equivalent steel thickness is not less than $120\mathrm{mm}$ . The detection sensitivity of the system is better than $1\%$ when examined by an image quality meter.
+
+Keywords: S-band, Accelerator, X-ray source, Non-destructive testing
+
+加速器X射线源具有广泛的应用价值[1]。在国防领域，可实现对国防装备的无损检测，确保其有效性；在航空航天领域，可实现对大型火箭、航天器、飞机发动机及机翼等重要部件的无损检测；在基础设施建设领域，实现对大型电站、铁路、桥梁、大坝以
+
+及石油和天燃气管道等重要设施和部位的无损检测；在医疗领域，可以实现放射治疗和辐照消毒等[2-3]。基于移动式、小型化加速器X射线源的数字化无损探伤系统，由于其使用的机动性和方便性，使得其在野外固定物的原位检测或现场检测中得到
+
+青睐，如可以在电力、管道焊缝等行业中得到广泛应用，特别适用于电压为 $500\mathrm{kV}$ 及以上的气体绝缘组合电器（GIS）、隔离开关、断路器等大型电力设备和大型管道焊缝的现场DR检测，且这一需求随着目前国内外越来越多的大型变电站和大型管道建设项目的实施变得越来越迫切。
+
+针对目前国内基于加速器X射线源的移动式DR无损探伤系统的需求现状，利用本单位在小型化、数字化加速器技术和无损检测技术研究方面取得的突破和成果[4-5]，在国内率先研制出了一台基于S波段2MeV加速器X射线源的履带车载移动式小型化DR无损检测系统。该系统采用S波段2MeV驻波加速管作为加速器X射线源核心器件，并以轻型履带车作为移动机器人，通过对整机系统进行模块化、轻量化设计，使整机质量、尺寸显著减小，具有灵活机动、方便快捷的优点；同时，该系统采用加速器DR成像方式，即利用加速器作为X射线源，并采用CMOS/CCD图像传感器实现高灵敏度数字化

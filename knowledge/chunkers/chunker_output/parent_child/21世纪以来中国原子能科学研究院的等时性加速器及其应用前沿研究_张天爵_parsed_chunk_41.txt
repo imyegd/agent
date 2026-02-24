@@ -1,0 +1,13 @@
+# 4) mA 量级束流调试
+
+CYCIAE-100于2014年首次实现 $100\mathrm{MeV}$ 质
+
+![](images/b4ad61e67c4739a94950f590155a96fe1deac7def922d926e7f83ade46894e14.jpg)
+
+![](images/4953fc8b45173fc984272f65d047aedc7ecbe90a7bdafcd662e4d9d441d5933a.jpg)  
+图8 不同流强下引出束流的轴向和径向分布
+
+![](images/c32ea25da3108dcc00e3b98cfc51e5bb279934a3aa43e6b56d00a77323f966a4.jpg)  
+Fig. 8 Axial and radial distributions of extracted beam under different beam currents   
+图9 安装后的主磁体、主线圈、真空室、液压举升设备  
+Fig. 9 Main magnet, main coil, vacuum chamber, and hydraulic elevat

@@ -1,0 +1,12 @@
+uranium［J］. Radioisotopes，2014，63：501-513.  
+［10］ SEKIMOTO S，TATENUMA K，SUZUKI Y，et al. Separation and purification of ${ } ^ { 9 9 \mathrm { m } } \mathrm { T c }$ from $^ { 9 9 } \mathrm { M o }$ produced by electron linear accelerator［J］. Journal of Radioanalytical and Nuclear Chemistry，2017，311：1361-1366.   
+［11］ JANG J，KUMAKURA Y，TATENUMA K，et al. A preliminary biodistribution study of $\mathrm { \Delta [ ^ { 9 9 m } T c ] }$ sodium pertechnetate prepared from an electron linear accelerator and activated carbon-based 99mTc generator［J］. Nuclear Medicine and Biology，2022，110-111：1-9.   
+［12］ ANDERSSON J D，WILSON J S，ROMANIUK J A，et al.Separation of $\mathrm { [ ^ { 9 9 m } T c ] }$ pertechnetate and molybdate usingpolyethylene glycol coated C18 and C30 resins［J］.Applied Radiation and Isotopes，2016，110：193-199.  
+［13］ MORLEY T J，DODD M，GAGNON K，et al. An automated module for the separation and purification of cyclotron-produced $\mathrm { ^ { 9 9 m } T c O _ { 4 } } ^ { - } [ \mathrm { J } ]$ . Nuclear Medicine and Biology，2012，39：551-559.   
+［14］ IBRAHIM I T. Preparation of 99mTc-metronidazole as amodel for tumor imaging［J］. Journal of Radioanalyticaland Nuclear Chemistry，2009，281（3）：669-674.  
+［15］ DAŇO M，VIGLAŠOVÁ E，GALAMBOŠ M，et al. Sorption behaviour of pertechnetate on oxidized and reduced surface of activated carbon［J］. Journal of Radioanalytical and Nuclear Chemistry，2017，314：2219-2227.   
+［16］ 阳国桂，胡骥. 用活性碳纤维从 $^ { 9 9 } \mathrm { M o }$ 中提取 99mTc[J]. 核化学与放射化学，2018，40（2）：132-138.YANG Guogui，HU Ji. Extraction of 99mTc from Moby activated carbon fiber［J］. Journal of Nuclear andRadiochemistry，2018，40（2）：132-138.  
+［17］ 周迎春，冯世红，周艳军. 活性炭吸附法分离铼钼的研究［J］. 表面技术，2003，32（4）：7-9.ZHOU Yingchun，FENG Shihong，ZHOU Yanjun.Study on the separation of rhenium and molybdenumby the method of active carbon adsorption［J］. SurfaceTechnology，2003，32（4）：7-9.  
+［18］ VIGLAJOV E，DANO M，GALAMBOS M，et al.Study on the column for separating 99mTc using activatedcarbon［J］. Journal of Radioanalytical and NuclearChemistry，2016，307（1）：591-597.  
+［19］ SUZUKI T，FUJII Y，YAN W，et al. Adsorption behavior of VII group elements on tertiary pyridine resin in hydrochloric acid solution［J］. Journal of Radioanalytical and Nuclear Chemistry，2009，282：641-644.   
+［20］ HORWITZ E P，DIETZ M L，CHIARIZIA R，et al. Separation and preconcentration of actinides by extraction chromatography using a supported liquid anion exchanger： application to the characterization of high-level nuclear waste solutions［J］. Analytica Chimica Acta，1995，310：

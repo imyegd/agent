@@ -1,0 +1,4 @@
+for linear accelerator in industrial CT by slit translation scanning method[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 4506207. DOI: 10.1109/TIM.2024.3406806.   
+21 Bagramova A, Zhumadilov K, Endo S, et al. Gamma ray registration efficiency simulation of a HPGe detector with PHITS[J]. Journal of Radioanalytical and Nuclear Chemistry, 2025, 334(1): 381 – 387. DOI: 10.1007/ s10967-024-09839-2.   
+22 陈刚. 高能X射线ICT数据采集系统（DAS）的研究[D].重庆: 重庆大学, 2007.  
+CHEN Gang. Study on high energy X-ray

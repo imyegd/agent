@@ -1,0 +1,6 @@
+C } / ^ { 1 2 } \mathrm { C }$ 比值的不确定度 $< 1 \text{‰}$ 。连续两天 $^ { 1 4 } \mathrm { C } / ^ { 1 2 } \mathrm { C }$ 比值平均值分别为 $1 . 4 4 3 4 3 \times 1 0 ^ { - 1 2 }$ 和 $1 . 4 3 6 8 9 \times 1 0 ^ { - 1 2 }$ ，两天的重复性为 $0 . 4 5 \%$ 。
+
+表 2 四个核素的测量精度和最小可探测的本底值  
+Table 2 The measurement precision and background for isotope ratio of four nuclides   
+
+<table><tr><td>核素Nuclide</td><td></td><td>同位素比值Isotope ratio</td><td>最小可探测同位素比值(本底)Minimum detectable isotope ratio(Background)</td><td>测量精度(统计误差)Measurement precision (st

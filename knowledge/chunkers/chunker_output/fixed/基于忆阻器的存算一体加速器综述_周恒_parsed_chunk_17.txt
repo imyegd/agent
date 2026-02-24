@@ -1,0 +1,6 @@
+^ { 1 0 }$ Nonlinearity[J].  Advanced Materials,  2017,  29(12): 1604457.   
+Mingyi  Rao,  Wenhao  Song,  Fatemeh  Kiani,  et  al.  Timing[5] Selector: Using Transient Switching Dynamics to Solve the Sneak  Path  Issue  of  Crossbar  Arrays[J].  Small Science, 2022, 2(1): 2100072.   
+Yi Huang, Takashi Ando, Abu Sebastian, et al. Memristor-[6] based  Hardware  Accelerators  for  Artificial  Intelligence[J]. Nature Reviews Electrical Engineering, 2024, 1: 286−299.   
+Pengxiao  Sun,  Nianduan  Lu,  Ling  Li,  et  al.  Thermal[7] Crosstalk  in  3-Dimensional  RRAM  Crossbar  Array[J]. Scientific Reports, 2015, 5: 13504.   
+Jinpeng Liu, Wei Tong, Bing Wu, et al. ICON: An IR Drop[8] Compensation  Method  at  OU  Granularity  with  Low Overhead  for  eNVM-based  Accelerators[C]//2023 IEEE 41st International Conference on Computer Design. Piscataway: IEEE, 2023: 102−109.   
+Heng  Zhou,  Bing  Wu,  Huan  Cheng,  et  al.  ODLPIM:  A[9] Write-Optimized  and  Long-Lifetime  ReRAM-Based Accelerator  for  Online  Deep  Le

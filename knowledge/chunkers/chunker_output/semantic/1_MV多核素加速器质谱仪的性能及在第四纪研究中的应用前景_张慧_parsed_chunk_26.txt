@@ -1,0 +1,12 @@
+［1］ BennettCL，BeukensRP，CloverM R，etal．Radiocarbondatingusingelectrostaticaccelerators：Negativeionsprovidethekey［J］Science，1977，198（4316）：508－510  
+［2］ NelsonDE，KortelingRG，StottW R．Carbon-14：Directdetectionatnaturalconcentrations［J］．Science，1977，198（4316）：507－508  
+［3］ 姜山，董克君，何明．超灵敏加速器质谱技术进展及应用［J］岩矿测试，2012，31（1）：7－23JiangShan，DongKejun，HeMing．Developmentandapplicationoultrasensitiveacceleratormassspectrometry［J］．RockandMineraAnalysis，2012，31（1）：7－23  
+［4］ 周卫健，卢雪峰，武振坤，等．西安加速器质谱中心多核素分析的加速器质谱仪［J］．核技术，2007，30（8）：702－708ZhouWeijian，LuXuefeng，WuZhenkun，etal．TheAMSfacilityaXi,anAMSCentre［J］．NuclearTechniques，2007，30（8）：702－708  
+［5］ KutscheraW．Applicationsofacceleratormassspectrometry［J］InternationalJournalofMassSpectrometry，2013，349：203－218．doi：10．1016／j．ijms．2013．05．023  
+［6］姜山．超高灵敏加速器质谱技术及应用进展［J］．质谱学报，2019，40（5）：401－415JiangShan．Developmentandapplicationofultrasensitiveacceleratomassspectrometry［J］．JournalofChineseMassSpectrometrySociety，2019，40（5）：401－415  
+［7］SynalHA．Acceleratormassspectrometry：Ultra-sensitivedetectiotechniqueoflong-livedradionuclides［J］．Chimia，2022，76（1－2）：45－51  
+［8］刘起，侯小琳．阿克量级放射性同位素分析的加速器质谱分析技术及其进展［J］．分析测试学报，2024，43（10）：1525－1535LiuQi， Hou Xiaolin．Progressofacceleratormassspectrometrytechnologyfordeterminationofradioisotopesatatto-gram level［J］JournalofInstrumentalAnalysis，2024，43（10）：1525－1535  
+［9］管永精，王慧娟，鞠志萍，等．加速器质谱技术及其在地球科学中的应用［J］．岩矿测试，2005，24（4）：277－283GuanYongjing，WangHuijuan，JuZhiping，etal．Acceleratormasspectrometryanditsapplicationsingeosciences［J］．RockandMineraAnalysis，2005，24（4）：277－283  
+［10］ YiC，Liu K， CuiZ， etal．AMS radiocarbon dating ofLateQuaternaryglaciallandforms，sourceoftheÜrümqiRiver，TienSha $- \mathbf { A }$ pilotstudyo $^ { 1 4 } \mathrm { C }$ datingoninorganiccarbon［J］．QuaternaryInternational，2004，121：99－107．doi：10．1016／j．quaint．2004．01．026  
+［11］ ZhaoM，ShenGJ，HeJN，etal．AMS $^ { 1 4 } \mathrm { C }$ datingofthehomininarchaeological site Chuandong cave in Guizhou Province，SouthwesternChina［J］．QuaternaryInternational，2017，447：102－110．doi：10．1016／j．quaint．2017．04．037  
+［12］孔屏．宇宙成因核素在地球科学中的应用［J］．地学前缘，2002，9（3）：41－48KongPing．ApplicationsofcosmogenicnuclidesintheEarthscience

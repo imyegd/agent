@@ -1,0 +1,5 @@
+3206c.jpg)  
+图 2    单次剥离的剥离膜质量厚度与束流成分占比关系  
+Fig. 2    Dependence of stripped beam fraction on foil mass thickness with single-pass stripping
+
+次通过碳剥离膜的条件下，中性化率最大值为$5 5 . 9 5 \%$ ，对应的剥离膜质量厚度为 $1 1 . 1 6 \mu \mathrm { g } \cdot \mathrm { c m } ^ { - 2 }$ 。

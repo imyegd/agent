@@ -1,0 +1,7 @@
+eering Research Center of Industrial Computed Tomography Nondestructive Testing, Ministry of Education, Chongqing University,
+
+Chongqing 400044, China)
+
+Abstract [Background] The dimensions and positional stability of X-ray focal spots produced by electron linear accelerators significantly influence the quality of non-destructive testing (NDT) imaging and are critical determinants of spatial resolution in radiographic imaging. The conventional "sandwich" method recommended by International Electrotechnical Commission (IEC) 62976: 2021 standards involves complex procedures and cannot achieve rapid and repetitive measurement of focal spot positional stability. [Purpose] This study aims to develop a slit translation scanning method and a dedicated measurement instrument for determining the X-ray focal spot size and stability of electron linear accelerators. [Methods] Firstly, a comprehensive hardware system was developed comprising four
+
+冲击波物理与爆轰物理全国重点实验室开放基金(No.2024CXPJGFJJ06411)、国家自然科学基金面上项目(No.12175026)、重庆市研究

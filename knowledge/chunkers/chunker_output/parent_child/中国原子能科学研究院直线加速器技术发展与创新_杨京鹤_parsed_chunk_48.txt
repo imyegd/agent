@@ -1,0 +1,3 @@
+化设计[J]. 核技术, 2020, 43(12): 120201. WANG Changqiang, XIANG Yihuai, LI Jinhai, et al. Design of beam homogenization for ground simulation of space electron environment[J]. Nuclear Techniques, 2020, 43(12): 120201(in Chinese).   
+[9] 杨誉, 杨京鹤, 韩广文, 等. keV/MeV 能量可切换加速结构设计与调配[J]. 原子能科学技术, 2022, 56(增刊): 279-286. YANG Yu, YANG Jinghe, HAN Guangwen, et al. Design and deployment of keV/MeV energy switchable acceleration structure[J]. Atomic Energy Science and Technology, 2022, 56(Suppl.): 279-286(in Chinese).   
+[10]

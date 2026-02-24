@@ -1,0 +1,3 @@
+tizationprocessofAGE3system
+
+加热炉组成，反应互不干扰，可同时进行，反应温度 为 $5 8 0 \ \mathrm { { } ^ { \circ } C }$ ， $\mathrm { C O } _ { 2 }$ 与 $\mathrm { H } _ { 2 }$ 的 压 力 比 值 固 定，$\mathrm { P } \left( \mathrm { C O } _ { 2 } \right) : \mathrm { P } \left( \mathrm { H } _ { 2 } \right) = 1 : 2 . 3$ 。还原反应所需要的 Fe催化剂通过分配器快速、均匀分配至各还原管中，$1 ~ \mathrm { m g C }$ 对应的 Fe为稳定的 $3 . 7 { \pm } 0 . 2 ~ \mathrm { m g }$ 。在将 $\mathrm { C O } _ { 2 }$ 输送到还原管并启动石墨化之前，需要通过软件控制对 Fe进行纯化和活化处理。经空气氧化和氢气还原，纯化 Fe有利于减少催化剂表面污染并提高Fe的催化功能［14］ 。石墨化反应中，纯粹

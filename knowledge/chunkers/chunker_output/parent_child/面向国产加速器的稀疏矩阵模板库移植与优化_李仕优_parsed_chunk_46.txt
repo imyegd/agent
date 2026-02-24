@@ -1,0 +1,1 @@
+Cache</td><td>8MB</td><td>96MB</td></tr><tr><td>Bandwidth (L2 Cache Hit)</td><td>2700~2770GB/s</td><td>3674~5090GB/s</td></tr><tr><td>Bandwidth (L2 Cache Miss)</td><td>800~900GB/s</td><td>864GB/s</td></tr><tr><td>FP16 TFLOPS</td><td>110~120TFLOPS</td><td>119.5TFLOPS</td></tr><tr><td>TF32 TFLOPS</td><td>50~60TFLOPS</td><td>59.8TFLOPS</td></tr></table>

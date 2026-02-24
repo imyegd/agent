@@ -1,0 +1,6 @@
+$80\mathrm{t}$ ，主要参数如表3所列[40-41]。
+
+表 3 CYCIAE-50 的主要参数  
+Table 3 Main parameters of CYCIAE-50   
+
+<table><tr><td>指标</td><td>参数</td><td>指标</td><td>参数</td></tr><tr><td>束流能量</td><td>30~50 MeV</td><td>离子源流强</td><td>5 mA</td></tr><tr><td>流强</td><td>1 nA~10 μA</td><td>粒子回旋频率</td><td>约16 MHz</td></tr><tr><td>加速粒子</td><td>H-</td><td>高频频率</td><td>约65.4 MHz</td></tr><tr><td>磁场强度</td><td>最大1.6T</td><td>加速电压</td><td>约50 kV</td></tr><tr><td>加速器尺寸</td><td>φ3.5 m×2.5 m</td><td>总功率</td><td>约200 kW</td></tr><tr><td>离子源能量</

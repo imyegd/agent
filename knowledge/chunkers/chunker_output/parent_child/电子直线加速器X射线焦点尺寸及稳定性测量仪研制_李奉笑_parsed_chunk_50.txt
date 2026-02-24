@@ -1,0 +1,3 @@
+l. Design andapplication of integrated high energy X-ray parametermeasurement device[J]. Nuclear technology, 2011, 34(6):433–436.  
+12 陈浩, 许州, 金晓, 等. 高能工业 CT 用新型 X 射线源焦 点测量[J]. 强激光与粒子束, 2004, 16(3): 390–394. CHEN Hao, XU Zhou, JIN Xiao, et al. Focal spot measurement with a new X-ray source for high energy industrial CT[J]. Intense Laser and Particle Beams, 2004, 16(3): 390–394.   
+13 李勤, 王毅, 刘云龙, 等. 针孔法测量X光源焦斑尺寸 [J]. 强激光与粒子束, 2021, 33: 044007. DOI: 10.11884/ HPLPB202133.200132. LI Qin, WANG Yi, LIU Yunlong,

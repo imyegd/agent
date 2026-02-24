@@ -1,0 +1,33 @@
+# 2.2.2 有无束流条件下的残余气体成分演变分析
+
+RGA 是评估真空系统洁净度与束流稳定性的核心技术手段。对比了储存环真空稳定后（未通束流前）与注入束流稳定运行后
+
+的残余气体谱图。图 6、图 7 展示了通束流前和通束流后的典型 RGA谱图。
+
+通束流前状态：系统内主要气体成分为
+
+$_ \mathrm { H _ { 2 } O }$ 、 $\mathrm { H } _ { 2 }$ 、 $\mathrm { N } _ { 2 } / \mathrm { C O }$ 、 $\mathrm { C O } _ { 2 }$ 等，这与典型超高真空系统经过烘烤后的残余气体成分一致，主要来源于真空盒内壁的微量解吸[9]。
+
+![](images/7f60c0a3fcacb44504f72576e1b8e551b44105bec183fb683de9be170a8afef6.jpg)  
+图6 没通束流状态下的残余气体质谱图  
+Fig. 6 Residual gas mass spectrum in the beam-unenergized state
+
+通束流后：最显著的变化是氢气（H₂）的信号强度急剧上升，成为主导成分。这是由于同步辐射光照射到真空盒内壁，发生光致解吸（Photon Stimulated Desorption，PSD），
+
+其主要解吸产物就是 $\mathrm { H } _ { 2 } ^ { \mathrm { ~ [ 6 , 1 0 ] ~ } }$ 。同时，我们观察到 CH₄、CO 等气体成分也呈现出特征性变化，这与电子诱导解吸等过程有关。
+
+![](images/49212e810f785626e54d2a74386983964da8ad0dd685d66641eb9379c51f0851.jpg)  
+图7 通束流后的残余气体质谱图（ $\mathrm { H } _ { 2 }$ 信号显著增强）  
+Fig. 7 Residual gas mass spectrum after beam energization (with significantly enhanced H₂ signal)
+
+这些动态气载是限制束流寿命的主要因素，其监测数据为优化束流填充模式、评估束流寿命提供了关键技术参数支持。系统
+
+经过烘烤和束流调试后，静态真空度优于$5 { \times } 1 0 ^ { - 9 } \mathrm { P a }$ ，束流积累后的动态真空度稳定在$1 0 ^ { - 8 } \mathrm { P a }$ 量级，达到了设计指标[2, 4,11]。离子泵
+
+电流作为真空度和气体负载的间接反映，其稳定值也表明系统处于良好的超高真空状态。图 8 展示了束流积累 $1 0 0 \mathrm { A } { \cdot } \mathrm { h }$ 后，储存
+
+环全环平均真空度与模拟值的对比[11]，可以看出，随着束流扫真空的进一步进行，真空度还有望继续提高。
+
+![](images/f730c8fc9274081153ffd0c9ab012b48928ea157086660fd69e281bdf7e3f537.jpg)  
+图8 束流积累后的真空度与模拟结果的对比  
+Fig. 8 Comparison of the vacuum level after beam accumulation with the simulation results

@@ -1,0 +1,19 @@
+[](images/f6aa2c3e7e4299bd1fc2adedd93a710f480287111b31f309f822757fbd1b9606.jpg)  
+图6 狭缝装置结构示意图  
+Fig.6 Structural diagram of the slit device
+
+高能X射线探测器采用一体化结构设计，由闪烁体与光电二极管直接耦合。当高能X射线照射到闪烁体时转换为可见光，可见光照射到光电二极管上，产生微弱的电流脉冲信号。该电流脉冲信号的
+
+幅度与高能X射线的强度成正比关系［21］ ，通过测量该电流脉冲信号的大小，可以测量出高能X射线的强度。
+
+对于微弱电流信号的采集，需先将电流信号进行积分转换为电压，然后再进行模数转换。最终选用数据转换器芯片DDC118作为该电路采集板的模数 转 换 器（Analog-to-Digital Converter，ADC）。DDC118 是德州仪器（Texas Instruments，TI）公司生产的8通道、20位电流输入模数转换器，集成了模数（Analog-to-Digital，A/D）转换器和积分放大电路，每个通道配备两路电荷积分电路，采用乒乓模式［22］进行信号采集，如图8所示。该系统最终在4和5状态下工作，实现微弱电流信号向数字信号的转换。
+
+![](images/830b0e1bd5dcfa6eb638d3e854bc6ae25cd988d73931ed7f69fca2d1db2d226f.jpg)  
+图7 高能X射线探测与采集系统构件图
+
+![](images/ec1e0dc528696ec3fbfca5393f2fff652938d06e884a21cd34cace8f6e3e20ab.jpg)  
+Fig.7 Snapshots of components of the high-energy X-ray detection and acquisition system   
+图8 DDC118乒乓模式的工作状态转化图  
+Fig.8 Working status conversion diagram of DDC118 ping-pong mode
+
+为实现数据的在线实时采集与处理，信号经模数转换器（ADC）转换后，发送现场可编程门阵列（Field-Programmable Gate Array，FPGA）进行进一步处理。FPGA 芯片选用 Alt

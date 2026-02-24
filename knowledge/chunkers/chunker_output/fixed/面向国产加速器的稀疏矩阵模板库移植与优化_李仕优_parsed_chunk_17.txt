@@ -1,0 +1,19 @@
+加速器上高效实现，又能够使得优化后的 CUTLASS-Sparse 满足用户定制化的需求。
+
+# 4 实验结果与分析
+
+# 4.1 实验环境
+
+本实验硬件环境为国产加速器 K 型号、国产加速器 B 型号和 NVIDIA GPU L20。国产加速器是一种类 GPU 设备，通过 PCI-E 总线与 CPU 相连，两者共同构成一个异构计算平台。国产加速器 K 型号与 GPU L20 具有相近的计算性能，国产加速器 K 型号与 GPU L20 硬件参数对比如表 1 所示。
+
+表 1 国产加速器 K型号与 GPU L20 硬件参数对比  
+Table 1 Comparison of hardware parameters between domestic   
+accelerator K and GPU L20   
+
+<table><tr><td>Parameters</td><td>Domestic Accelerator K</td><td>GPU L20</td></tr><tr><td>Memory Type</td><td>GDDR6</td><td>GDDR6</td></tr><tr><td>L2 Cache</td><td>8MB</td><td>96MB</td></tr><tr><td>Bandwidth (L2 Cache Hit)</td><td>2700~2770GB/s</td><td>3674~5090GB/s</td></tr><tr><td>Bandwidth (L2 Cache Miss)</td><td>800~900GB/s</td><td>864GB/s</td></tr><tr><td>FP16 TFLOPS</td><td>110~120TFLOPS</td><td>119.5TFLOPS</td></tr><tr><td>TF32 TFLOPS</td><td>50~60TFLOPS</td><td>59.8TFLOPS</td></tr></table>
+
+# 4.2 实验设计
+
+实验对混合精度和单精度数据类型进行了性能测试。在国产加速器 K 型号上，对于 TF32 和 FP16数据类型，分别对本文提出的共享内存数据重排算法、数据流水线优化策略、数据写回优化策略和三者整体优化效果进行消融实验；并在常规数据流水
+
+线情况下与 GPU L20 上的 CUTLASS-Spars

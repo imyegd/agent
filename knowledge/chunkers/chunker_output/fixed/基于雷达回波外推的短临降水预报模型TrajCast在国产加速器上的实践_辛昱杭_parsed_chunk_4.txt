@@ -1,0 +1,7 @@
+results demonstrate that the model outperforms traditional optical flow methods in precipitation forecasting, achieving a 4.1-fold acceleration ratio in model training on a domestic accelerator. [Limitations] The model has certain requirements for data quality and computing resources in practical applications, and its performance under extreme weather conditions still needs further verification. [Conclusions] This study provides new methods and technical support for short-term precipitation forecasting, promotes the application of domestic accelerators in the field of meteorology. The model has been demonstrated and applied in meteorological departments in Hunan, Zhejiang, and Hubei provinces, providing intelligent algorithm support for high- resolution and high- frequency meteorological intelligent forecasting products.
+
+Keywords: short-term and imminent precipitation forecast; deep learning; domestic accelerator; radar echo extrapolation; mixed-precision training
+
+# 引 言
+
+短时临近降水预报旨在对发展迅速的强降水等灾害性天气进行预报，在我国的气

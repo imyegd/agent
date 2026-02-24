@@ -1,0 +1,6 @@
+# 参考文献:
+
+[1] Lei W, Antoszewski J, Faraone O. Progress, challenges, and opportunities for HgCdTe infrared materials and detectors [J]. Applied Physics Reviews, 2015, 2(4): 041303.   
+[2] Wang X, Wang M, Liao Y, et al. Molecular-beam epitaxy-grown HgCdTe infrared detector: Material physics, structure design, and device fabrication [J]. Science China Physics, Mechanics & Astronomy, 2023, 66(3): 237302.   
+[3] 赵俊, 王晓璇, 李雄军, 等. 碲镉汞红外探测器研究进展[J]. 中国科学: 技术科学, 2023, 53(9): 1 419–1 433.  
+[4] 折伟林, 邢晓帅, 邢伟荣, 等. 中国电科

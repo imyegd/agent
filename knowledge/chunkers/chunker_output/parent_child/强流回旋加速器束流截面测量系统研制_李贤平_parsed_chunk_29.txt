@@ -1,0 +1,7 @@
+# 参考文献：
+
+[1] 安世忠, 管锋平, 魏素敏, 等. 中国原子能科学研究院紧凑型强流质子回旋加速器的发展和应用[J]. 原子能科学技术, 2024, 58(S2): 464-474.  
+[2] 冀鲁豫，安世忠，管锋平，等．用于硼中子俘获治疗的强流回旋加速器束流动力学研究[J].原子能科学技术，2025, 59(1): 220-230.  
+[3] Chao D S, Liu Y H, Jiang S H. Demonstration of the importance of a dedicated neutron beam monitoring system for BNCT facility [J]. Applied Radiation & Isotopes, 2016, 107: 312-316.   
+[4] 管锋平，温立鹏，解怀东. LabVIEW 在束流信号控制系统的应用[J]. 电工技术(下半月)，2017(4):78-79.  
+[5] Renuka K, Becker F, Ensinger W, et al. Imaging properties of scintillation

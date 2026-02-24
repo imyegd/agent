@@ -1,0 +1,5 @@
+1702c2fd968d0e74568756fd2839f11f233ea4d68b9f2f1c949.jpg)  
+图2　（a）基于TEVA树脂使用1 mol/L硝酸溶液对钼铼分离的洗脱图；（b）基于TEVA树脂使用8 mol/L硝酸溶液对钼铼分离的洗脱图  
+Figure 2　（a） Elution diagram of molybdenum-rhenium separation using 1 mol/L nitric acid；（b） Elution diagram of molybdenum-rhenium separation using 8 mol/L nitric acid based on TEVA resin.
+
+基于上述实验结果，本研究选择 $8 ~ \mathrm { m o l / L }$ 硝酸作为洗脱液用于TEVA树脂柱的钼、铼分离：首先，该条件下 $\mathrm { R e O _ { 4 } } ^ { - }$ 的洗脱峰尖锐，与钼酸根 $\mathrm { ( M o O _ { 4 } } ^ { 2 - }$ ）的保留行为形成显著差异，可确保两组分达到基线分离；其次，

@@ -1,0 +1,7 @@
+er is suitable for multi-point in situ measurement of radiation field distribution in Halcyon accelerator treatment  rooms.  The  measurement  results  can  be  used  to  optimize  the  shielding  design  of  Halcyon  accelerator  treatment rooms.
+
+Keywords：    Halcyon linear accelerator; Radiation field; Thermoluminescence dosimeter; Shielding design
+
+Corresponding author：    ZENG Hongwei, E-mail: yewon1103@163.com
+
+放射治疗设备和技术的快速发展极大的推动了各类新型电子直线加速器的临床应用，瓦里安公司研发生产的 Halcyon 直线加速器作为全图像引导的医用直线加速器，其环形机架设计实现了治疗速度

@@ -1,0 +1,14 @@
+\left(\frac {\partial^ {2}}{\partial r ^ {2}} + \frac {1}{r} \frac {\partial}{\partial r} + \frac {1}{r ^ {2}} \frac {\partial^ {2}}{\partial \theta^ {2}}\right) B _ {z} (r, \theta) + 0 \left(z ^ {4}\right), \tag {2} \\ \end{array}
+$$
+
+$$
+\begin{array}{l} B _ {r} (r, \theta , z) = z \frac {\partial}{\partial r} B _ {z} (r, \theta) + 0 \left(z ^ {3}\right), (3) \\ B _ {0} (r, \theta , z) = \frac {z}{r} \frac {\partial}{\partial \theta} B _ {z} (r, \theta) + 0 \left(z ^ {3}\right), (4) \\ \end{array}
+$$
+
+其中： $r , \theta , z$ 为粒子在以磁极旋转对称轴为 $z$ 轴，以磁铁中心为原点的柱坐标系中的坐标位置。 $B _ { z } ( r , \theta )$ 为中心平面上坐标为 $( r , \theta )$ 处纵向磁场大小， $B _ { \mathrm { r } } ( r , \theta , z )$ 为三维空间中坐标为 $( r , \theta , z )$ 处的径向磁场大小, $B _ { z } ( r , \theta , z )$ 为三维空间上坐标为 $( r , \theta , z )$ 处纵向磁场大小。以上三维磁场表达式只保留了偏离中心平面位置 $z$ 的平方项，如果需要更高精度，可以采用类似的方法展开到 $z$ 的更高阶。本文设计中，考虑到在引出区域非线性效应的影响，在粒子轨道计算程序中，磁场展开至 $z$ 的平方项。
+
+同步回旋加速器中，粒子只在加速间隙受到电场的作用。该电场可以通过谐振腔的数值计算来得到中心平面上的电场分布，然后利用与磁场类似的方法，得到电场的三维分布。
+
+# 2.1 横向动力学分析
+
+在不考虑引出系统影响的情况下，同步回旋加速器中粒子的轨道比

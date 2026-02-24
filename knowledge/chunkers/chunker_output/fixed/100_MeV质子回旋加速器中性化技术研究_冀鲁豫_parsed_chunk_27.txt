@@ -1,0 +1,5 @@
+eport  PSI-PR-08-02[R].  Switzerland: Paul Scherrer Institut, 2008.   
+BERGER  M  J,  COURSEY  J  S,  ZUCKER  M  A,  et  al.［14］ Stopping-power  and  range  tables  for  electrons,  protons, and  helium  ions[DB/OL].  Gaithersburg,  MD:  NIST Physics Laboratory, 1998[2025-03-04]. https://www.nist. gov/pml/stopping-power-range-tables-electrons-protonsand-helium-ions.   
+HIGHLAND  V  L. Some  practical  remarks  on  multiple［15］ scattering[J]. Nuclear  Instruments  and  Methods, 1975, 129(2): 497-499.   
+EBARA  Y,  TSUTSUI  H,  NAKAJIMA  S,  et  al. First［16］ beam  extraction  from  a  superconducting  azimuthally varying field cyclotron for proton therapy[J]. Nuclear Instruments  and  Methods  in  Physics  Research  A, 2023, 1056: 168629.   
+冀鲁豫, 安世忠, 管锋平, 等. 用于硼中子俘获治疗的强［17］流回旋加速器束流动力学研究[J]. 原子能科学技术,2025, 59(1): 220-230.JI Luyu, AN Shizhong, GUAN Fengping, et al. Beam dy-namics study  on  high  intensity  cyclotron  for  boron   neu-tron  capture  therapy[J]. Atomic  Energy  Science  andTechnology, 2025, 59(1)

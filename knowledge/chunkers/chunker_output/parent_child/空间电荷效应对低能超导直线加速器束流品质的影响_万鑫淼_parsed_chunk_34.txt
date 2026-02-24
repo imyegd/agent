@@ -1,0 +1,5 @@
+稳定性结构，最终，束团以不稳定的结构在加速通道中传输，因此，束流发射度的增加源于四阶共振与包络不稳定性。而当 $\sigma _ { 0 }$ 按聚焦方案 $\textcircled{2}$ 变化时，相空间中的粒子分布虽有轻微丝状分裂，但在束流传输一段时间后趋于稳定。
+
+![](images/92e7974a477d2155f37c0a3cbffbfa66d9851ec678d1a2890e3ad572a8b09672.jpg)  
+Fig. 8    Distribution evolution of particles in the phase space when the focusing schemes are $\textcircled{1}$ and $\textcircled{2}$ respectively, $\eta = 0 . 6$ , and the beam current is transported along the doublet   
+图 8    当聚焦方案分别为 $\textcircled{1}$ 和 $\textcircled{2}$ ， $\eta = 0 . 6$

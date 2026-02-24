@@ -1,0 +1,21 @@
++ k _ {2} r ^ {4} + k _ {3} r ^ {6}\right)
+$$
+
+$$
+y _ {\text {c o r r e c t d}} = y \left(1 + k _ {1} r ^ {2} + k _ {2} r ^ {4} + k _ {3} r ^ {6}\right) \tag {2}
+$$
+
+切向畸变：
+
+$$
+x _ {\text {c o r r e c t d}} = x + \left(2 p _ {1} x y + p _ {2} \left(r ^ {2} + 2 x ^ {2}\right)\right) \tag {3}
+$$
+
+$$
+y _ {\text {c o r r e c t d}} = y + \left(p _ {1} \left(r ^ {2} + 2 y ^ {2}\right) + p _ {2} x y\right)
+$$
+
+内参矩阵：
+
+$$
+\left[ \begin{array}{l} x \\ y \\ w \end{array} \right] = \left[ \begin{array}{c c c} f _ {x} &

@@ -1,0 +1,8 @@
+ealth and Environment，Institute of High Energy Physics，Chinese Academy of Sciences， Beijing 100049，China；
+
+3. University of Chinese Academy of Sciences，Beijing 100049，China；   
+4. School of Medicine，Linyi University，Linyi，Shandong 276000，China；
+
+5. Dongguan Branch，Institute of High Energy Physics，Chinese Academy of Sciences，Dongguan，Guangdong 523890，China）
+
+Abstract Technetium- $. 9 9 \mathrm { m }$ （ $^ { 9 9 \mathrm { m } } \mathrm { T c }$ ），a crucial nuclear medicine，primarily stems from $9 9$ Mo decay in nuclear reactors. However，aging reactors have disrupted the 99Mo and 99mTc supply chain. Proton accelerators present a promising alternative for $^ { 9 9 } \mathrm { M o }$ and 99mTc production，yet they yield low-radioactivity 99Mo and face inefficient separation through alumina column. This study explores activated carbon，TEVA resin，and alumina for molybdate and pertechnetate separation. Potassium perrhenate was used to substitute pertechnetate in adsorption and elution experiments，with ICP-MS analyzing

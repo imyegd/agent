@@ -1,0 +1,21 @@
+omplete periodic structure   
+(b) double periodic structure   
+Fig. 11    Schematic diagram of the envelope obtained from multi-particle simulation   
+图 11    多粒子模拟得到的包络仿真结果
+
+![](images/e7566675f60e01d3f7447d2322e411ffcdb82c7d6e7ad0a45f80d34e8364b765.jpg)
+
+![](images/737413cbd8cf87f193bce32247c7b519921a2c7de6d6cba55468bbbb8d9fc171.jpg)  
+Fig. 12    Distribution of particles in the phase space of the entrance and 182 m   
+图 12    粒子在入口和 182 米处相空间的分布
+
+不同。发射度主导引起共振类型是 4∶1，空间电荷主导的是 2∶1，如图 13 所示。
+
+束流包络在传输过程中的振荡并非简单的简谐振动，而是包含了丰富谐波成分的复杂周期运动。这些谐波可以通过频谱分析。基频等于包络振荡的主频率，通常对应包络在一个大周期内完成一次完整振荡的频率。这是包络振荡中的主要成分。由于空间电荷力的非线性以及聚焦结构的不连续性，包络振荡波形会偏离完美的正弦波，从而产生频率为基频整数倍的高次谐波。这些谐波代表了包络运动中的快波动。我们选取了一个位于2∶1 共振岛的粒子进行观察，发现粒子在 10个大周期内跑了 15次，也就是和束核振荡的 3 倍频产生 2∶1共振，如图14所示。
+
+通过对包络的频谱分析，如图 15所示，发现横向包络振荡的三倍频为 0，但纵向包络的能量很高，说明纵向包
+
+![](images/8f3d085c4a64a0520fa4024dc70bec37e776943b891ead0f6ecce26af51505a7.jpg)
+
+![](images/fd5f7103f2c9ecf1b7e7c6144da31398d4fc2d2384800bd4ba4034a551bf46ef.jpg)  
+Fig. 13    Beam current dominated by emittance under

@@ -1,0 +1,5 @@
+# 忆阻器件、阵列及非理想因素
+
+# 忆阻器件
+
+阻 变 随 机 存 取 存 储 器 （ resistive  random  accessmemory,  RRAM） 、 磁 阻 随 机 存 取 存 储 器（magnetoresistive random access memory, MRAM）和相变存储器（phase change memory, PCM）通过电阻状态存储信息，因此被称为忆阻器。它们可以通过设置（set）或重置（reset）电压来编程为高电阻（high resistancestate, HRS）或低电阻（low resistance state, LRS）状态。RRAM 单元由顶电极—中间氧化层—底电极组成，其电阻切换是通过导电细丝（conductive filament, CF）的形成或破坏来实现的，CF的尺寸决定了设备的电阻状态。MRAM 的信息存储在磁性隧道结（magnetic tunneljunction, MTJ）中，其由三层构成，包括 2 个铁磁层和夹在其中的氧化层。其中一个铁磁层是参考层，磁化方向固定；另一个是自由层，其磁化方向可根据电流方向自由旋转。当 2个层的磁化方向平行

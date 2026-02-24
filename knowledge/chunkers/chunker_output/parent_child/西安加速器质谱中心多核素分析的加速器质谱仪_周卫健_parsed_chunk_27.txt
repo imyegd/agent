@@ -1,0 +1,17 @@
+$$
+\bar {Y} = \frac {1}{N} \sum_ {1} ^ {N} \overline {{X _ {j}}} \quad (j = 1, 2, \dots \dots N)
+$$
+
+各个 holder 样品测量值相对于该算术平均值的标准偏差 $\sigma$ 为
+
+$$
+\sigma = \sqrt {\frac {\sum_ {1} ^ {N} \left(\bar {X _ {j}} - \bar {Y}\right) ^ {2}}{(N - 1)}} \quad (j = 1, 2, \dots \dots N)
+$$
+
+它们的相对标准偏差为
+
+$$
+\sigma_ {r e l a t i v e} = \frac {1}{\bar {Y}} \sqrt {\frac {\sum_ {1} ^ {N} \left(\bar {X _ {j}} - \bar {Y}\right) ^ {2}}{(N - 1)}} \quad (j = 1, 2, \dots \dots N)
+$$
+
+这就是要达到的精度验收指标，它表示 AMS测量相同样品的不确定性。文献表明，HVEE[3-5,1

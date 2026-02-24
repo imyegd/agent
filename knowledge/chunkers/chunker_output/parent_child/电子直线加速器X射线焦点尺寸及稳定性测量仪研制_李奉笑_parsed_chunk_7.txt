@@ -1,0 +1,7 @@
+from Chongqing University of Technology with a master's degree in 2021, doctoral student, focusing on high energy industrial CT system construction and focal spot measurement
+
+Corresponding author: ZHOU Rifeng, E-mail: zhou65112401@cqu.edu.cn
+
+Received date: 2024-11-18, revised date: 2025-06-24
+
+main components: a stainless steel slit device, a high-energy X-ray detection and acquisition system, a high-precision mechanical scanning system, and a host computer interface. Then, based on slit translation scan

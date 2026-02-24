@@ -1,0 +1,25 @@
+# 参考文献
+
+Lloyd SAM, Lim TY, Fave X, et al. TG-51 reference dosimetry for[1] the  Halcyon™:  a  clinical  experience[J]. J  Appl  Clin  Med  Phys, 2018, 19（4）: 98-102. DOI: 10.1002/acm2.12349.
+
+Huang  YY,  Liu  ZW. Dosimetric  performance  evaluation  of  the[2] Halcyon treatment platform for stereotactic radiotherapy: a pooled study[J]. Medicine (Baltimore), 2023, 102（36）: e34933. DOI: 10. 1097/MD.0000000000034933.   
+Wang GY, Zhu QZ, Zhu HL, et al. Clinical performance evaluation[3] of  O-Ring  Halcyon  Linac:  a  real-world  study[J]. World  J  Clin Cases, 2022, 10（ 22） : 7728-7737. DOI: 10.12998/wjcc.v10.i22. 7728.   
+张德钦, 潘翊, 杜晓宏, 等. 自屏蔽加速器屏蔽防护优化探讨[J].[4]中国辐射卫生，2022，31（4）：401-405,412. DOI: 10.13491/j.issn.1004-714X.2022.04.003.Zhang  DQ,  Pan  Y,  Du  XH,  et  al. An  exploration  of  shieldingoptimization for self-shielded accelerators[J]. Chin J Radiol Health,2022, 31（4）: 401-405,412. DOI: 10.13491/j.issn.1004-714X.2022.04.003. (in Chinese)  
+Cai  B,  Laugeman  E,  Hsu  H,  et  al. Technical  Note:  self-shielding[5] evaluation  and  radiation  leakage  measurement  of  a  jawless  ring gantry linac with a beam stopper[J]. Med Phys, 2021, 48（6）: 3143- 3150. DOI: 10.1002/mp.14858.   
+Caravani K, Murry R, Healy B. Characterisation of in-room leakage[6] and scattered radiation for the Varian Halcyon linear accelerator[J]. Phys Eng Sci Med, 2022, 45（1）: 73-81. DOI: 10.1007/s13246-021- 01084-1.   
+于浪, 杨波, 孙显松, 等. Halcyon 加速器机房的防护设计[J]. 中[7]华放射肿瘤学杂志，2020，29（12）：1086-1090. DOI: 10.3760/cma.j.cn113030-20200413-00175.Yu  L,  Yang  B,  Sun  XS,  et  al. Protection  design  of  Halcyonaccelerator room[J]. Chin J Radiat Oncol, 2020, 29（12）: 1086-1090.DOI: 10.3760/cma.j.cn113030-20200413-00175. (in Chinese)  
+Kaur  A,  Sahani  G,  Shrivastava  A,  et  al. Optimization  of  radiation[8] shielding  considerations  for  designing  halcyon  vault[J]. J  Med Phys, 2023, 48（1）: 1-12. DOI: 10.4103/jmp.jmp_86_22.   
+马向捷, 姜庆寰, 刘雅, 等. 自屏蔽头颈部放射治疗系统辐射防[9]护检测与评估方法[J]. 中国辐射卫生，2024，33（6）：621-625.DOI: 10.13491/j.issn.1004-714X.2024.06.001.Ma  XJ,  Jiang  QH,  Liu  Y,  et  al. Methods  for  radiation  protectiontesting and evaluation of a self-shielded head and neck radiotherapysystem[J]. Chin J Radiol Health, 2024, 33（6）: 621-625. DOI: 10.13491/j.issn.1004-714X.2024.06.001. (in Chinese)
+
+曹勤剑, 谭俊, 任越, 等. 新型自屏蔽放疗加速器 Zap-X 系统屏[10]蔽效果评价[J]. 中国辐射卫生，2023，32（3）：288-292. DOI: 10.13491/j.issn.1004-714X.2023.03.013.  
+Cao  QJ,  Tan  J,  Ren  Y,  et  al. Evaluation  of  the  radiation  shielding effect  of  the  novel  self-shielding  radiotherapy  system  Zap-X[J]. Chin J Radiol Health, 2023, 32（3）: 288-292. DOI: 10.13491/j.issn. 1004-714X.2023.03.013. (in Chinese)   
+孟令广, 王元, 程晓军. 某医院 Halcyon直线加速器机房辐射屏[11]蔽 评 估 [J]. 中 国 职 业 医 学 ， 2021， 48（ 5） ： 582-586. DOI: 10.20001/j.issn.2095-2619.20210906.  
+Meng LG, Wang Y, Cheng XJ. Evaluation on radiation shielding of the Halcyon linear accelerator room in a hospital[J]. China Occup Med, 2021, 48（ 5） : 582-586. DOI: 10.20001/j.issn.2095-2619. 20210906. (in Chinese)   
+Altergot  A,  Schürmann  M,  Jungert  T,  et  al. Imaging  doses  for[12] different  CBCT  protocols  on  the  Halcyon  3.0  linear  accelerator - TLD  measurements  in  an  anthropomorphic  phantom[J]. Z  Med Phys, 2024, 34（4）: 580-595. DOI: 10.1016/j.zemedi.2023.03.002.   
+Ghoneam  SM,  Mahmoud  KR,  Diab  HM,  et  al. Studying  the  dose[13] level for different X-ray energy conventional radiography by TLD-100[J]. Appl  Radiat  Isot, 2022, 181: 110066. DOI: 10.1016/j. apradiso.2021.110066.   
+Kron  T,  Lonski  P,  Yukihara  EG. Thermoluminescence  dosimetry[14] (TLD)  in  medicine:  five  'w's  and  one  how[J]. Radiat  Prot Dosimetry, 2020, 192（2）: 139-151. DOI: 10.1093/rpd/ncaa212.   
+Rozaila  ZS,  Khandaker  MU,  Abdul  Sani  SF,  et  al. Environmental[15] monitoring  through  use  of  silica-based  TLD[J]. J  Radiol  Prot, 2017, 37（3）: 761-779. DOI: 10.1088/1361-6498/aa770e.   
+Wang  RX,  Du  Y,  Yao  KN,  et  al. Halcyon  clinical  performance[16] evaluation:  a  log  file-based  study  in  comparison  with  a  C-arm Linac[J]. Phys  Med, 2020, 71: 14-23. DOI: 10.1016/j.ejmp.2020. 01.023.   
+Yao  MN,  Feng  ZC,  Bai  B,  et  al. Measurement  and  analysis  on[17] distribution  of  radiation  field  dose  inside  the  treatment  room  of TaiChi  Pro  multimodal  integrated  digital  radiotherapy  system[J]. Radiat  Med  Prot, 2023, 4（ 4） : 236-243. DOI: 10.1016/j.radmp. 2023.10.008.
+
+（收稿日期：2025-05-25）

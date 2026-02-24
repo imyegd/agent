@@ -1,0 +1,7 @@
+$$
+\left\{ \begin{array}{l} \Delta x ^ {\prime} = \frac {2 \tan \alpha}{\rho} x - \frac {2 n \tan \alpha}{\rho^ {2}} x ^ {2} - \frac {2 \tan \alpha}{\rho} x \delta \\ \Delta y ^ {\prime} = - \frac {2 n \tan \alpha}{\rho^ {2}} x y + \frac {2 n \tan \alpha}{\rho^ {2}} x y \delta \end{array} \right. \tag {13}
+$$
+
+式中： $x$ 为水平方向位置； $y$ 为竖直方向位置； $\Delta x$ '为水平方向角度变化量； $\Delta y$ '为竖直方向角度变化量； $\rho$ 为曲率半径； $\delta$ 为动量分散。
+
+忽略高阶项后，式（12）可近似为：

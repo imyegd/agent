@@ -1,0 +1,16 @@
+205, 251—257   
+24 Priller A, Brandl T, Golser R, et al. Nucl Instr Meth, 2000, B172, 100—106
+
+# The AMS facility at Xi’an AMS Centre
+
+ZHOU Weijian1,2,3 LU Xuefeng1,2,3 WU Zhenkun1,2 ZHAO Wennian1,3
+
+HUANG Chunhai1,3 LI Linglang1,3 CHENG Peng1,2
+
+1 ( Xi’an AMS Center, Xi’an 710052 ）
+
+2( State Key Lab of Loess and Quaternary Geology,Institute of Earth Environment, Chinese Academy of Science, Xi’an 710075 ）
+
+3 （ Xi’an Jiao Tong University, Xi’an 710049 ）
+
+Abstract The Institute of Earth Environment of the Chinese Academy of Sciences and Xi'an Jiaotong University have jointly created an AMS center, under the support of Ministry of Science and Technology, Chinese Academy of Sciences and Ministry of Education. The Xi’an 3MV multi-element AMS system will be a national experimental platform for earth environmental studies, archeology, biomedical research and other fields related to the AMS technique. This paper describes the AMS’s major components with their unique features，including body grounded ion source accepti

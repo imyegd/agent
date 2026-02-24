@@ -1,0 +1,3 @@
+ic accelerators in the field of meteorology, with the goal of improving the accuracy of meteorological disaster prevention and mitigation, and providing more reliable meteorological support for urban development and
+
+transportation. [Literature Scope] This paper focuses on the development of short-term precipitation forecasting technology, especially the application of deep learning-based radar echo extrapolation methods in the field of meteorology. [Context] Traditional numerical weather prediction has unc

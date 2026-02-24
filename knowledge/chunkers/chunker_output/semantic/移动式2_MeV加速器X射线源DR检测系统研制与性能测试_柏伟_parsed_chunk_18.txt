@@ -1,0 +1,9 @@
+场景。
+
+# 参考文献
+
+[1] 姚充国. 电子直线加速器[M]. 北京: 科学出版社, 1986: 1-767.  
+[2] Matsumot H, Adolphsen C, Shintake T, et al. The First Wakefield Test on the C-band Choke-mode Accelerating Structure[C]. Proceedings of the 1999 Particle Accelerator Conference, US: New York, 1999:3411-3413.   
+[3]周文振，章向阳，丁书琳，等.C波段全密封加速管的研制[J].强激光与粒子束，1999，11(03)：347-349.  
+[4] 柏伟. C 波段驻波加速管的物理设计与实验研究[D]. 北京: 中国工程物理研究院研究生部, 2005.  
+[5] Bai Wei, Xu Zhou, Jin Xiao, et al. Physical Design and Cooling Test of C-band Standing Wave Accelerating Tube [J]. Chinese Physics, 2006, 15 (2): 319-323.

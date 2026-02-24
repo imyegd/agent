@@ -1,0 +1,15 @@
+# 2.2   “鸡尾酒”束的制备与精确调制
+
+LEAF装置的一项重要技术特色，是具备将多种离子同时引出、共线传输并协同加速的能力，可实现所谓“鸡尾酒”式混合离子束的稳定输出。该类束流可包括具有不同或相近荷质比的多个离子成分，如： $\mathrm { ^ { 8 6 } K r ^ { 1 2 + } } + \mathrm { ^ { 1 4 } N ^ { 2 + } }$ 、 $^ 4 \mathrm { H e ^ { + } + }$ $^ { 1 6 } \mathrm { O } ^ { 4 + }$ 、 $^ { 5 6 } \mathrm { F e } ^ { 1 4 + } + ^ { 4 } \mathrm { H e } ^ { + }$ 等，流强总和可达数百微安，能够在单次辐照中同时引入多种损伤成分。这一能力为开展复杂辐照环境下的协同损伤效应研究提供了有力实验手段。针对不同荷质比的离子组分，LEAF 可分别实现两种混合加速方式：一是“同时型”混合束，即多种离子在 ECR离子源内同时产生并共轨加速；二是“分时型”混合束，通过磁场快速切换的方式实现离子周期性注入。以 $\mathrm { H _ { 2 } } ^ { + }$ 与 $\mathrm { H e } ^ { 2 + }$ 为例，在束线中同轨传输与加速，经硅探测器分析可对各离
+
+子成分能谱峰进行清晰分辨，从而完成定量组分测量。如图8所示，H 和 He的计数峰与束流强度相关，图中横坐标代表束流能量，纵坐标为计数，峰的面积即代表该离子在计数时段的总个数。通过卢瑟福微分散射截面公式[11] 即可得到不同离子的粒子流强之比，此处为 $I _ { \mathrm { H } } { : } I _ { \mathrm { H e } } { = } 1 { : } 1 0$ 。
+
+在分时模式中，对于质荷比差异显著的离子（如 $^ { 5 8 } \mathrm { N i } ^ { 1 5 + }$ 与$^ 4 \mathrm { H e } ^ { + }$ ），可通过周期性的调制磁铁电源，在百毫秒时间尺度内实现束流快速切换，并配合 RFQ 相位同步调制以补偿不同离子速度带来的注入效率下降[11]。LEAF装置还支持混合束各成分离子的能量独立调节，依托调能器系统的协同工作，可对多种离子束在 $0 . 3 { \sim } 0 . 7 \mathrm { M e V / u }$ 能量范围内进行独立精确调控，形成特定能量差控制下的叠加射程分布区域。例如，通过将 $^ 4 { \mathrm { H e } } ^ { + }$ 与 $^ { 5 6 } \mathrm { F e } ^ { 1 4 + }$ 离子的能量分别设定为 $0 . 6 0 \ \mathrm { M e V / u }$ 与$0 . 5 7 \mathrm { M e V / u }$ ，可实现在单晶铜样品中小于 $1 0 0 \mathrm { n m }$ 的穿透深度差，适用于模拟局域叠加损伤机制[12]。
+
+![](images/322c6600133574811ce101ac2747cfdf2f959d53e021e84a635cc7e8237b82ee.jpg)  
+Fig. 7    Measurement of the energy spread of a milliampere-class high-current $\mathrm { O } ^ { 6 ^ { + } }$ heavy ion beam (suppressed by the QWR cavity, with a $1 \sigma$ energy spread of approximately $0 . 1 1 5 \%$ )
+
+![](images/e96fc08bb19ae2154f7f293bbc1ebb6f3a561e59794861dc8f4483bb34fa148d.jpg)  
+图 7    毫安级强流 $\mathrm { O } ^ { 6 ^ { + } }$ 重离子束流的能散度测量（通过 QWR腔体抑制， $1 \sigma$ 能散度约为 $0 . 1 1 5 \%$ ）  
+Fig. 8 $\mathrm { H _ { 2 } } ^ { + }$ and $^ { 4 } \mathrm { H e } ^ { 2 + }$ beam resolution by silicon detector, the particle number ratio of H to He is approximately 1 to 10   
+图 8    硅探测器对 $\mathrm { H } _ { 2 } ^ { + }$ 和4He2+束流的分辨，H 和 He 粒子数比约为 1∶10

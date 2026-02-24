@@ -1,0 +1,13 @@
+结合(6)、(7)、(8)、(9)，我们得到：
+
+$$
+C (z) = \frac {1}{1 - z ^ {- 1}} \cdot \left(\left(P + \pi \cdot I \cdot T _ {s} + \frac {1}{2 \pi \cdot D \cdot T _ {s}}\right) + \right.
+$$
+
+$$
+\begin{array}{l} \left(- P + \pi \cdot I \cdot T _ {s} - \frac {1}{\pi \cdot D \cdot T _ {s}}\right) \cdot z ^ {- 1} + \\ \left. \frac {1}{2 \cdot \pi \cdot D \cdot T _ {s}} \cdot z ^ {- 2}\right) \tag {10} \\ \end{array}
+$$
+
+考虑到实际情况取值如下：
+
+$P = 0.85; I = 212; D = \infty$ （不使用）。

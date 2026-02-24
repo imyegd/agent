@@ -1,0 +1,12 @@
+\frac {2 n \tan \alpha}{\rho^ {2}} x y + \frac {2 n \tan \alpha}{\rho^ {2}} x y \delta \end{array} \right. \tag {13}
+$$
+
+式中： $x$ 为水平方向位置； $y$ 为竖直方向位置； $\Delta x$ '为水平方向角度变化量； $\Delta y$ '为竖直方向角度变化量； $\rho$ 为曲率半径； $\delta$ 为动量分散。
+
+忽略高阶项后，式（12）可近似为：
+
+$$
+\left\{ \begin{array}{l} \Delta x ^ {\prime} = \frac {2 \tan \alpha}{\rho} x \\ \Delta y ^ {\prime} = 0 \end{array} \right. \tag {14}
+$$
+
+可看出，在忽略高阶项的前提下，剥离膜法线和粒子运动方向存在一定夹角时，在水平方向产生和偏转磁铁的入口、出口角类似的聚焦或散焦作用，在竖直方向上基本没有影响。所以可通过调整剥离膜倾斜角提供适当的径向聚焦能力，从而调整引出束流水平方向的包络，如图1

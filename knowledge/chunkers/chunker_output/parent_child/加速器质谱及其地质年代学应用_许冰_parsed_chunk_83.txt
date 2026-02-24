@@ -1,0 +1,11 @@
+如果在介子成因和热中子产率占相当产率时，不能用公式（11）计算暴露年龄，只能用公式（10）进行计算。
+
+在长时间稳定侵蚀速率的极端情况下，如果侵蚀剥离量和产率达到平衡，宇成核素的浓度不再随时间变化，即达到饱和状态。如果 $T _ { \mathrm { e x p } } { \gg } 1 ( 1 { + } \rho \varepsilon / A _ { i } )$ ）时，
+
+对于 表 层 样 品 $\left( z _ { 0 } - \mathrm { e } T _ { \mathrm { e x p } } = 0 \right) ,$ ），继 承 组 分 可 忽 略$N _ { \mathrm { i n h } } = 0$ ）时，则浓度表示如下：
+
+$$
+N _ {\text {t o t a l}} (z) = \sum_ {i} \frac {P _ {i}}{\lambda + \rho \varepsilon / \Lambda_ {i}} \tag {12}
+$$
+
+在产率 $( \boldsymbol { P } _ { i } )$ ）和侵蚀速率 ${ \bf \Xi }

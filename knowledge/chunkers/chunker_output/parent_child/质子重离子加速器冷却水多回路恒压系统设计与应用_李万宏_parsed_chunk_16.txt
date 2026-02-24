@@ -1,0 +1,1 @@
+系统压强稳定性 。 图 1 中 的 RF CWS、 SYNC CWS、 HEBT CWS、 ISCWS、LINAC CWS 均为独立密闭式循环水系统，当系统压强升高，需要泄压时，由各 OCPD 自动完成。

@@ -1,0 +1,6 @@
+the stop band of fourth-order resonance in high-intensity linear accelerators[J]. Physics of Plasmas, 2020, 27: 063105.   
+[8] Jeon D O. Experimental evidence of space charge driven resonances in high intensity linear accelerators[J]. Physical Review Accelerators and Beams, 2016, 19: 010101.   
+[9] Groening L, Barth W, Bayer W, et al. Experimental evidence of the $9 0 ^ { \circ }$ stop band in the GSI UNILAC[J]. Physical Review Letters, 2009, 102: 234801.   
+Wangler T P, Allen C K, Chan K C D, et al. Beam-halo in mismatched proton beams[J]. Nuclear Instruments and Methods in Physics Research Section A:[10] Accelerators, Spectrometers, Detectors and Associated Equipment, 2004, 519（1/2）: 425-431.   
+孙纪磊, 阮玉芳, 肖帅, 等. 强流质子加速器束流剖面分布及束晕测量系统设计[J]. 强激光与粒子束, 2011, 23(01). （Sun Jilei, Ruan Yufang, Xiao Shuai, et[11]al. Design of beam profile and halo measurement system for high-intensity RFQ accelerator[J]. High Power Laser and Particle Beams, 2011, 23）  
+Li Zhihui, Cheng Peng, Geng Huiping, et al. Physics design of a

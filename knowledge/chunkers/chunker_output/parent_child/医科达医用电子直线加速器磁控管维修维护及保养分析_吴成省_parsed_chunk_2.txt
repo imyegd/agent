@@ -1,0 +1,5 @@
+# Maintenance and Maintenance Analysis of Magnetron in Elekta Medical Linear Accelerator
+
+WU Cheng-sheng YUAN Ge LI Ding-yan HUANG Guang-sen CHEN Jie CHEN Shao-juan LIU Jia MAI Yan-hua JIANG Lei* Radiotherapy Room, Cancer Hospital, Affiliated Hospital of Guangdong Medical University (Guangdong Zhanjiang 524000)
+
+Abstract: In order to further improve the level of radiation therapy technology, this article takes the medical electronic linear accelerator of Elekta as the object, analyzes the operating principl

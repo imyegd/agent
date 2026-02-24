@@ -1,0 +1,3 @@
+mm and rotational errors (Pitch, Roll, Yaw) from $0 . 5 ^ { \circ }$ to below $0 . 1 5 ^ { \circ }$ , significantly improving radiotherapy targeting accuracy and treatment efficacy. This approach effectively addresses the precision limitations of traditional positioning methods.
+
+Key words： linear accelerator; 6D treatment couch; automatic positioning accuracy; calibration technique

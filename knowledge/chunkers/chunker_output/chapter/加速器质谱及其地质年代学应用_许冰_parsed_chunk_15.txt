@@ -1,0 +1,87 @@
+# 4.2 暴露年龄
+
+暴露年龄，即通过测定暴露地表矿物中的宇宙
+
+![](images/227d1d17a80eff4e7add06f226cfefedde4b60f8c504ed3709292c1b38fd748c.jpg)
+
+成因核素（就地成因宇宙成因核素）的累计量来进行定年的技术方法［52］ 。目前用于宇宙成因核素暴露年龄的核素主要有 $^ { 1 0 } \mathrm { { B e } }$ e、 $^ { 2 6 } \mathrm { A l }$ l、 $^ 3 \mathrm { H e }$ e、21 Ne、 $^ { 3 6 } \mathrm { C l }$ l、$^ { 1 4 } \mathrm { C }$ ，其中， $^ { 1 0 } \mathrm { { B e } }$ 是暴露年代学中应用最广泛的宇宙成因核素。理论上，稳定并持续暴露于宇宙射线的任何地表矿物中的宇宙成因核素的累积量是其产率和时间的函数，且具体地区地表宇宙成因核素的产率可知［44］ 。因此，通过测定地表岩石中累积的宇宙成因核素的浓度，结合当地的产率，就可以确定其暴露年龄。尽管地表矿物中宇宙成因核素的累积是时间函数，但其产率与累积浓度同时还受侵蚀速率和埋藏深度影响。
+
+暴露在宇宙射线下稳定的地质表面中的宇宙成因核素会随时间累积［44］ 。如果无侵蚀，则在任何地表深度 $z$ z的宇宙成因核素的浓度 $\cdot N _ { \mathrm { t o t a l } } ( \textit { t , z } )$ ）随时间（t）的变化为：
+
+$$
+\begin{array}{l} N _ {\text {t o t a l}} (t, z) = N _ {\text {i n h}} (z) \mathrm {e} ^ {- \lambda t} + \sum_ {i} \frac {P _ {i} (z)}{\lambda} (1 - \mathrm {e} ^ {- \lambda t}) (1) \\ P _ {i} (z) = P _ {i} (0) \mathrm {e} ^ {- \rho z / \Lambda_ {i}} (2) \\ \end{array}
+$$
+
+公式（1）和（2）中， $N _ { \mathrm { i n h } }$ 是继承浓度，其可能来自以前暴露的继承组分或非宇宙成因组分； $P$ 是核素的产率，下角 $i$ i指示核素不同产生路径（散裂、热中子、介子俘获、快介子）； $\rho$ 是样品覆盖层的密度； $\boldsymbol { A } _ { i }$ 是射线的衰减长度，指在岩石和沉积物等物质中，由于散射和吸收作用使射线通量减少 $\mathrm { e } ^ { - 1 }$ 所需的厚度，取值范围在 $1 2 0 \sim 1 7 0 ~ \mathrm { g / c m } ^ { 2 }$ ，对于密度为 $2 . 7 \ \mathrm { g } / \mathrm { c m } ^ { 3 }$ 的岩石，取值范围在 $4 5 \sim 6 5 ~ \mathrm { c m }$ ； $\lambda$ 是核素的衰变常数，其是半衰期的倒数与 ln2的乘积。
+
+Fig.5 Theeffectofcalibrationcurvevariationsoncalibrated $^ { 1 4 } \mathrm { C }$ ages．（a）Theerrorofthecalibratedageissmallduringtheperiod withhighvariationrateof $^ { 1 4 } \mathrm { C }$ activityinatmospheric $\mathrm { C O } _ { 2 }$ ；（b）Theerrorofthecalibratedageislargeduringtheperiodwithlow variationrateo $^ { 1 4 } \mathrm { C }$ activityinatmospheric $\mathrm { C O } _ { 2 }$   
+![](images/dcf3d73db67798ea0eaa82da387362004b031c84c6b7350b0d083f80c2d08f57.jpg)  
+大气 $\mathrm { C O } _ { 2 }$ 中 $^ { 1 4 } \mathrm { C }$ 活度变率对校正年龄的影响：（a）大气 $\mathrm { C O } _ { 2 }$ 中 ${ } ^ { 1 4 } \mathrm { C }$ 活度变率较大，校正后年代误差较小；（b）大气 $\mathrm { C O } _ { 2 }$ 中 $^ { 1 4 } \mathrm { C }$ 活度变率较小，校正后年代误差较大
+
+图 5 校正曲线对 $^ { 1 4 } \mathrm { C }$ 校正年龄的影响
+
+对于暴露时间较短 $t \ll t _ { 1 / 2 }$ ）的表面，宇宙成因核素为稳定同位素，公式（1）可简化为：
+
+$$
+N _ {\text {t o t a l}} (t, z) = N _ {\text {i n h}} (z) + \sum \left(P _ {i} (z)\right) \times t \tag {3}
+$$
+
+在继承核素为 0或可以单独计算的情况下$\mathrm { \Delta } N _ { \mathrm { { c o s } } } = N _ { \mathrm { { t o t a l } } } - N _ { \mathrm { { i n h } } } \mathrm { \Delta }$ ），暴露年龄 $\cdot \ : T _ { \mathrm { e x p } }$ ）如下［52］ ：
+
+$$
+\begin{array}{l} T _ {\exp} = - 1 / \lambda \times \ln [ 1 - (\lambda N _ {\cos} (z, T _ {\exp}) / \\ \left. \left(\sum \left(P _ {i} (z) e ^ {- z \rho / \Lambda_ {i}}\right) \right] \right. \tag {4} \\ \end{array}
+$$
+
+对于表层样品 ${ \it z } = 0$ ），方程简化为：
+
+$$
+T _ {\exp} = - 1 / \lambda \times \ln \left[ 1 - \lambda N _ {\cos} (0, T _ {\exp}) / \sum \left(P _ {i} (0)\right) \right] \tag {5}
+$$
+
+同样，对于暴露时间较短 $t \ll T _ { 1 / 2 }$ ）的稳定核素，公式（4）和（5）可简化为：
+
+$$
+\begin{array}{l} T _ {\exp} = \ln \left[ \left(N _ {\cos} (z, T _ {\exp}) / \left(\sum \left(P _ {i} (z) e ^ {- z p / \Lambda_ {i}}\right)\right) \right] \right. (6) \\ T _ {\exp} = \ln \left[ N _ {\cos} (0, T _ {\exp}) / \sum \left(P _ {i} (0)\right) \right] (7) \\ \end{array}
+$$
+
+在自然条件下，地表在暴露过程中存在侵蚀，这将降低样品中宇成核素在矿物中的累积，或将受射线屏蔽的新鲜物质随侵蚀暴露地表［44］ 。因此，由公式（7）计算得到的暴露年龄是最小暴露年龄。如果侵蚀量可以确定或估算，并且假设具有稳定的侵蚀速率 ${ \bf \Xi } ( \varepsilon )$ ），那么公式（4）～（7）可以与校正系数结合应用，获得暴露年代［44］ 。在暴露时间较小，侵蚀量 $( < 1 0 \ \mathrm { c m } \ )$ ）和散裂（spallation）占主导产率的情况下，侵蚀校正系数 $( f _ { \varepsilon } )$ ）可以用公式（8）进行估算，其中 $\varLambda _ { s p }$ 是导致散裂方式产生核素射线的衰减长度。
+
+$$
+f _ {\varepsilon} = 1 + \left(\varepsilon \rho T _ {\exp} / 2 \Lambda_ {\mathrm {s p}}\right) \tag {8}
+$$
+
+则公式（4）～（7）的暴露年龄侵蚀校正后为：
+
+$$
+T _ {\text {e x p - c o r}} = f _ {\varepsilon} \times T _ {\text {e x p}} \tag {9}
+$$
+
+侵蚀校正的通用公式为：
+
+$$
+\begin{array}{l} N _ {\text {t o t a l}} (t, z) = N _ {\text {i n h}} (z) \mathrm {e} ^ {- \lambda t} + \\ \sum_ {i} \frac {P _ {i} (z)}{\lambda + \rho \varepsilon / \Lambda_ {i}} \mathrm {e} ^ {- \rho \left(z _ {0} - \varepsilon t\right) / \Lambda_ {i}} \left(1 - \mathrm {e} ^ {- (\lambda + \rho \varepsilon / \Lambda_ {i}) t}\right) (1 0) \\ \end{array}
+$$
+
+$z _ { 0 }$ 是起始屏蔽深度 $( z _ { 0 } = \varepsilon T _ { \exp }$ ）；对于表层样品$\left( z _ { 0 } - T _ { \mathrm { e x p } } = 0 \right.$ ）且继承组分可以忽略和散裂产率占主导的情况下，暴露年龄可以用公式（11）计算：
+
+$$
+T _ {\exp} = \frac {1}{\lambda + \frac {\rho \varepsilon}{\Lambda_ {i}}} \ln \left(1 - \frac {N _ {\text {t o t a l}} (t , z) \times \left(\lambda + \frac {\rho \varepsilon}{\Lambda_ {i}}\right)}{\sum P _ {i} (z)}\right) \tag {11}
+$$
+
+如果在介子成因和热中子产率占相当产率时，不能用公式（11）计算暴露年龄，只能用公式（10）进行计算。
+
+在长时间稳定侵蚀速率的极端情况下，如果侵蚀剥离量和产率达到平衡，宇成核素的浓度不再随时间变化，即达到饱和状态。如果 $T _ { \mathrm { e x p } } { \gg } 1 ( 1 { + } \rho \varepsilon / A _ { i } )$ ）时，
+
+对于 表 层 样 品 $\left( z _ { 0 } - \mathrm { e } T _ { \mathrm { e x p } } = 0 \right) ,$ ），继 承 组 分 可 忽 略$N _ { \mathrm { i n h } } = 0$ ）时，则浓度表示如下：
+
+$$
+N _ {\text {t o t a l}} (z) = \sum_ {i} \frac {P _ {i}}{\lambda + \rho \varepsilon / \Lambda_ {i}} \tag {12}
+$$
+
+在产率 $( \boldsymbol { P } _ { i } )$ ）和侵蚀速率 ${ \bf \Xi } ( { \bf \Lambda } _ { \varepsilon } )$ ）达到平衡时，宇成核素的浓度不再具有年龄方面的信息。
+
+由以上所有公式可知，宇成核素的累积量至少是暴露年龄和侵蚀剥蚀速率两个独立参数的函数。因此，如果表面侵蚀速率不能通过独立的方法进行确定和估算时，单一核素只能给出最小暴露年龄。而要获得较可靠的暴露年龄，需对同一样品进行至少两种核素的测定，并且这两种核素的半衰期差距越大越好。如同时 $^ { 1 4 } \mathrm { C } - ^ { 1 0 } \mathrm { B e }$ e要比 $^ { 1 0 } \mathrm { B e } - { } ^ { 2 6 } \mathrm { A l }$ l的效果要好———这是由于 $^ { 1 0 } \mathrm { { B e } }$ e和 $^ { 2 6 } \mathrm { A l }$ l半衰期只差一倍，它们的比值不是侵蚀速率和暴露年龄的敏感函数［53］ 。
+
+另外，还可以通过对大于厚度 $1 , 5 \mathrm { ~ m ~ }$ 的剖面进行系统的样品测试来确定暴露年龄和侵蚀速率，即通过单一核素的浓度－深度剖面与模型预测拟合来求得暴露年龄和侵蚀速率。一般情况下剖面深度要大于 $1 , 5 \mathrm { ~ m ~ }$ ，样品个数在 6个以上［54～56］ 。
+
+暴露年龄的研究对象，包括：冰碛物、洪积物和海岸沉积；熔岩流暴露年龄；侵蚀面的暴露年龄，包括冰蚀岩床、洪积切面、浪切面、风蚀岩床、崩岩疤痕、断裂疤痕等。另外，在进行暴露年龄研究时，还要考虑遮挡、覆盖度、抬升、下沉等因素对宇成核素产率的影响。

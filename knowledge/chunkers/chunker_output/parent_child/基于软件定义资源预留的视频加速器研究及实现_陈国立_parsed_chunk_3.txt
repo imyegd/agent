@@ -1,0 +1,9 @@
+# Research and Implementation of Video Accelerator Based on Software Defined Resource Reservation
+
+CHEN Guoli<sup>1</sup>, LIAO Zhiwen<sup>1</sup>, CHEN Hongling<sup>2</sup>, ZHU Huimin<sup>1</sup>, LIN Weiyi<sup>1</sup>
+
+(1.School of Artificial Intelligence, Zhuhai City Polytechnic, Zhuhai 519090, China;
+
+2.Artificial Intelligence College, Guangdong Polytechnic of Science and Technology, Zhuhai 519090, China)
+
+Abstract: Since the advent of the Software Defined Network (SDN), the concept of separating the c

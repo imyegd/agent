@@ -1,0 +1,25 @@
+厚覆膜木模板，次龙骨采用 $4 0 \mathrm { m m } \times 4 0 \mathrm { m m } \times 2 . 5 \mathrm { m m }$ 方钢管。
+
+# 2.1 顶板支架设计
+
+模板自重 $0 . 3 0 \mathrm { k N / m } ^ { 2 }$ ，混凝土钢筋自重$2 5 . 1 0 \mathrm { k N } / \mathrm { m } ^ { 3 }$ ，振捣混凝土荷载标准值 $0 . 0 0 \mathrm { k N } / \mathrm { m } ^ { 2 }$ ，施工均布荷载标准值 $2 . 5 0 \mathrm { k N } / \mathrm { m } ^ { 2 }$ ，堆放荷载标准值$0 . 0 0 \mathrm { k N } / \mathrm { m } ^ { 2 }$ 。
+
+静荷载标准值
+
+$$
+q _ {1} = 2 5. 1 0 0 \times 3. 0 0 0 + 0. 3 0 0 = 7 5. 6 \mathrm {k N / m ^ {2}}
+$$
+
+活荷载标准值
+
+$$
+q _ {2} = 0. 0 0 0 + 2. 5 0 0 = 2. 5 0 0 \mathrm {k N / m ^ {2}}
+$$
+
+立杆轴力设计值
+
+$$
+N = 1. 2 \times 7 5. 6 + 1. 4 \times 2. 5 = 9 4. 2 2 \mathrm {k N} / \mathrm {m} ^ {2}
+$$
+
+（1）当采用盘扣式脚手架时，立杆钢管立杆抗压强度设计值 $[ f ] = 3 0 0 . 0 0 \mathrm { N / m m } ^ { 2 }$ ， $\varPhi 6 0 \times$ $3 . 2 \times 5 0 0$ 钢管立杆净截面面积 $\cdot A { = } 5 . 7 1 \mathrm { c m } ^ { 2 }$ 。根据立杆稳定性公式 $\sigma { = } N / \phi A \leqslant \ [ f ]$ （轴心受压立杆的稳定系数，由长细比查表得到，该工程为0.44），单根立杆最大承载力为 $[ f ] \ \times \varPhi \times A { = } 7 5 . 3 7 \mathrm { k N } .$ 。

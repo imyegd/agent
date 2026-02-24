@@ -1,0 +1,20 @@
+电子直线加速器创新发展
+
+紧凑小型化电子直线加器凭借径向尺寸更小、体积更小、重量更轻的优势，能够实现应用场景的有效扩展。提高微波频率是实现紧凑小型化电子直线加速器的重要手段，原子能院开展了X波段、C波段系列化紧凑小型化电子直线加速器的研究。
+
+X波段加速结构能显著提高便携性，实现小型化，是电子直线加速器的重要发展方向之一，在无损检测、医疗等领域具有应用需求。
+
+![](images/40b20831286ef289587be3a908d3b108907d919ed54c7fd03732ac92a225f0cd.jpg)
+
+![](images/6d0811979a8f8319aaa2fa76e8d7bb4e4a986486e1a77eb3efea907855708980.jpg)  
+图1双腔脊型加速器原理模型(a)及 $10\mathrm{MeV} / 50\mathrm{kW}$ 高能大功率电子辐照加速器样机(b)  
+Fig. 1 Working principle of double cavity Ridgetron accelerator (a) and   
+prototype of $10\mathrm{MeV} / 50\mathrm{kW}$ high-energy high-power electron irradiation accelerator (b)
+
+![](images/d321ee1e3c6078a5bfdaead7caf7879dde5898bf4a88a65aec508200c1003597.jpg)
+
+![](images/60d163ec630c44d47002663a8e0af91cbeae4644c7b1527d4ebc65722d9d6f57.jpg)  
+图2边腔失谐棒模型(a)及 $\mathrm{keV / MeV}$ 能量可切换电子直线加速管腔链(b)  
+Fig. 2 Model of detuning bar inside-coupling cavity (a) and cavity chain of keV/MeV energy switchable accelerating tube (b)
+
+2021年，原子能院成功开发了X波段6MeV驻波加速管，通过高功率测试验证设计，奠定了高波段加速结构开发的工程实践基础[10]。X波段加速结构尺寸小，增加了物

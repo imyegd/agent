@@ -1,0 +1,9 @@
+f838d192374f08cc0fbff9d685cca2123e74fd.jpg)
+
+![](images/deb6304ba82933b9e1126e7a316f64836747e39bd1d8e893aa630cb0a6200786.jpg)
+
+![](images/0ea13fed404d369b6ffbe996576304e833052fda18c0f3c4418cf7b040e32509.jpg)  
+图2(a)实验中三元液相运动黏度和表面张力相图[18];(b)表面张力接近但运动黏度不同的四种混合液沿中轴线的厚度分布[18];(c)中轴线上某固定点处厚度作为雷诺数和韦伯数的函数[18];(d)中轴线上 $r = 1\mathrm{mm}$ 处在不同方位角上的厚度[18]  
+Figure 2 (a) Phase diagram of kinematic viscosity and surface tension of the ternary liquid mixtures in the experiment[18]; (b) thickness along the central axis for mixtures with similar surface tension but different kinematic viscosity[18]; (c) thickness at a fixed point on the central axis as a function of Reynolds number and Weber number[18]; (d) thickness at $r = 1$ mm on the central axis for different azimuth angles[18]
+
+运动黏度 $\nu$ 、位置 $r$ 和流量 $Q$ 决定了每个角度上黏性效应的强度。其中的物理也非常明确：更大的 $r$ 意味着更充分的动量和质量交换，导致更强的黏性效应；更大的 $Q$ 则相反，对应了更短的相互作用时间从而减弱了黏性效应。正因如此，随着微米尺度射流对撞成膜、亚微米厚度液膜应用的迅速增长，流量对于液膜的重要性也凸显出来，以往模型中认为的厚度与黏度 $\nu$ 和流量 $Q$ 无关的近似已经不适用于如今的很多应用。在这种情况下，经典模型与实验的偏差可能高达 $160\

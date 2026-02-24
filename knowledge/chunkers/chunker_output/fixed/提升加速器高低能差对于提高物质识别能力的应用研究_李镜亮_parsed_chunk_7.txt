@@ -1,0 +1,25 @@
+$
+
+式中，s 是比例因子， $\mathrm { T } ( \mathrm { E _ { H } , Z , t } )$ 、 $\mathrm { T } ( \mathrm { E _ { L } , Z , t } )$ 是高低能对应的透视度：
+
+$$
+\mathrm {T} (\mathrm {E}, \mathrm {Z}, \mathrm {t}) = \frac {\int_ {0} ^ {\mathrm {E M}} \mathrm {P} (\mathrm {E}) \exp (- \mu (\mathrm {Z} , \mathrm {E}) \mathrm {t}) \mathrm {d E}}{\int_ {0} ^ {\mathrm {E M}} \mathrm {P} (\mathrm {E}) \mathrm {d E}} \tag {8}
+$$
+
+式中，P(E) 涉及探测器能量相应函数以及 $\pmb { \times }$ 光源能谱分布函数， $\mu$ (Z,E) 是质量衰减系数，t 是质量厚度， $\mathsf { E } _ { \mathsf { M } }$ 是能谱最高能量。
+
+优化前后的物质识别 $a$ 曲线散点图对比如图 3，局部放大如图 4。
+
+![](images/09110b66868b1c639b0c935aa11e0657b85e02bea6ed8f6d01a444b55a014fc1.jpg)
+
+![](images/afcf41f2a9030797f8c45c72cdef2fec23ffc883169e9eaaea62e597845e349f.jpg)  
+图3 优化前后的物质识别α曲线散点图  
+图4 优化前后的物质识别 $a$ 曲线散点图（局部放大）
+
+优化后，对于不同厚度的四类物质，从 α 曲线散点上可以实现区分开，物质识别散点在纵坐标和横坐标上略有区别，优化后的散点整体趋势分散得相对更分散，更利于物质识别分类。
+
+由图 5 可见，灰度图像中各梯度碳铝铁铅高低能灰度值，其中优化前为绿线，优化后为红线，高能为实线，低能为虚线。
+
+![](images/5ba755c405553243f3745434580a2ebf25d4fc4787946e65be3d437b1f149fad.jpg)
+
+![](images/06d3b7735c1db1

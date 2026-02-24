@@ -1,0 +1,10 @@
+1 王忠明, 陈伟, 邱孟通, 等. 西安 $2 0 0 \ \mathrm { M e V }$ 质子应用装置的 建 设 及 调 试 [J]. 现 代 应 用 物 理 , 2021, 12(3): 13 –26, 42.  
+WANG Zhongming, CHEN Wei, QIU Mengtong, et al. Construction and commissioning of Xi'an 200 MeV proton application facility[J]. Modern Applied Physics, 2021, 12(3): 13–26, 42.   
+2 王忠明, 王敏文, 闫逸花, 等. 西安 $2 0 0 \ \mathrm { M e V }$ 质子应用装置开放运行情况及下一步升级改造计划[J]. 现代应用物理, 2024, 15(4): 14–23. DOI: 10.12061/j.issn.2095-6223.2024.040402.  
+WANG Zhongming, WANG Minwen, YAN Yihua, et al. Current status and upgrade plan of Xi'an $2 0 0 \ \mathrm { M e V }$ proton application facility[J]. Modern Applied Physics, 2024, 15 (4): 14 – 23. DOI: 10.12061/j. issn. 2095-6223.2024. 040402.   
+3 吴青彪, 王庆斌. 用FLUKA程序模拟设计中国散裂中子源的束流垃圾桶结构[J]. 清华大学学报(自然科学版), 2007, 47(S1): 996 – 1000. DOI: 10.16511/j. cnki.qhdxxb.2007.s1.023.  
+WU Qingbiao, WANG Qingbin. Simulation and design of beam trash can structure of spallation neutron source in China with FLUKA program[J]. Journal of Tsinghua University (Science and Technology), 2007, 47(S1): 996 –1000. DOI: 10.16511/j.cnki.qhdxxb.2007.s1.023.   
+4 张刚, 敬罕涛, 朱东辉, 等. CSNS简化版实验缪子源的辐射和屏蔽设计[J]. 核技术, 2021, 44(9): 090501. DOI:10.11889/j.0253-3219.2021.hjs.44.090501.  
+ZHANG Gang, JING Hantao, ZHU Donghui, et al. Radiation and shielding design on the simplified experimental muon source at CSNS[J]. Nuclear Techniques, 2021, 44(9): 090501. DOI: 10.11889/j.0253- 3219.2021.hjs.44.090501.   
+5 朱益楠, 林作康, 郁海燕, 等. 基于蒙特卡罗几何分裂减方差技巧的AB-BNCT治疗室屏蔽模拟分析[J]. 核技术 , 2025, 48(1): 010202. DOI: 10.11889/j. 0253-3219.2025.hjs.48.230415. CSTR: 32193.14.hjs.CN31-1342/TL.2025.48.230415.  
+ZHU Yinan, LIN Zuokang, YU Haiyan, et al. Simulation analysis of AB-BNCT treatment room shielding based on

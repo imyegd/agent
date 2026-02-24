@@ -1,0 +1,3 @@
+ti-GPU training performance on multi servers (with 32 CPU cores)   
+
+<table><tr><td>资源</td><td>每秒处理样本数(个)</td><td>加速比</td></tr><tr><td>单机2卡</td><td>47.63</td><td>—</td></tr><tr><td>2机4卡</td><td>99.75</td><td>2.09</td></tr><tr><td>4机8卡</td><td>201.31</td><td>4.23</td></tr></table>

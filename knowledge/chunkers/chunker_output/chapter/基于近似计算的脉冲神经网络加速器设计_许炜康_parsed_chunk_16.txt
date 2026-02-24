@@ -1,0 +1,19 @@
+# 参考文献：
+
+[1] MAASS W. Networks of spiking neurons: The third generation of neural network models[J]. Neural Networks, 1997, 10(9): 1659-1671.   
+[2] VENKATESAN R, AGARWAL A, ROY K, et al. MACACO: Modeling and analysis of circuits for approximate computing [C] // Proceedings of the 2011 IEEE/ACM International Conference on Computer-Aided Design, 2011:667-673.   
+[3] ESHRAGHIAN J K, WARD M, NEFTCI E O, et al. Training spiking neural networks using lessons from deep learning[J]. Proceedings of the IEEE, 2023, 111 (9): 1016-1054.   
+[4] ESHRAGHIAN J K, LU W D. The fine line between dead neurons and sparsity in binarized spiking neural networks[J]. arXiv:2201.11915, 2022.   
+[5] LECUN Y, BOTTOU L, BENGIO Y, et al. Gradient-based learning applied to document recognition[J]. Proceedings of the IEEE, 1998, 86(11):2278-2324.   
+[6] XIAO H, RASUL K, VOLLGRAF R. Fashion-MNIST: A novel image dataset for benchmarking machine learning algorithms[J]. arXiv:1708.07747, 2017.   
+[7] AMIR A, TABA B, BERG D, et al. A low power, fully event-based gesture recognition system[C]//Proceedings of the 2017 IEEE Conference on Computer Vision and Pattern Recognition, 2017:7388-7397.   
+[8] CRAMER B, STRADMANN Y, SCHEMEML J, et al. The Heidelberg spiking data sets for the systematic evaluation of spiking neural networks [J]. IEEE Transactions on Neural Networks and Learning Systems, 2020, 33(7):2744-2757.   
+[9] MODARESI F, GUTHAUS M, ESHRAGHIAN J. K. OpenSpike: An OpenRAM SNN accelerator[C]// Proceedings of the 2023 IEEE International Symposium on Circuits and Systems, 2023:1-5.
+
+[10] GUPTA V, MOHAPATRA D, RAGHUNATHAN A, et al. Low-power digital signal processing using approximate adders [J]. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2013, 32(1): 124-137.   
+[11] LIU B, DONG W, XU T T, et al. E-ERA: An energy-efficient reconfigurable architecture for RNNs using dynamically adaptive approximate computing [J]. IEICE Electronics Express, 2017, 14(15): Article ID 20170637.   
+[12] HO N-M, MANOGARAN E, WONG W-F, et al. Efficient floating point precision tuning for approximate computing[C]//Proceedings of the 22nd Asia and South Pacific Design Automation Conference, 2017:63-68.   
+[13] YANG T X, UKEZONO T, SATO T. A low-power yet high-speed configurable adder for approximate computing[C]//Proceedings of the 2018 IEEE International Symposium on Circuits and Systems, 2018: 1-5.   
+[14] 龚宇，王丽萍，王佑，等.近似计算新范式在深度学习加速系统中的应用及研究进展[J].电子与信息学报，2023,45(9)：3098-3108.GONG Yu,WANG Liping,WANG You,etal.Appli cation and research progress of approximate computing as a new computing paradigm in AI acceleration systems[J].Journal of Electronics & Information Technology,2023,45(9):3098-3108.  
+[15] MRAZEK V, HRBACEK R, VASICEK Z, et al. EvoApprox8b: Library of approximate adders and multipliers for circuit design and benchmarking of approximation methods [C] // Proceedings of the 2017 Design, Automation & Test in Europe Conference & Exhibition, 2017:258-261.   
+[16] LIANG J H, HAN J, LOMBARDI F. New metrics for the reliability of approximate and probabilistic adders[J]. IEEE Transactions on Computers, 2013, 62(9):1760-1771.

@@ -1,0 +1,6 @@
+fMassSpectrometry，2013，349：192－202doi：10．1016／j．ijms．2013．05．008  
+［20］ WhittierAC．Fastnegativehydrogenions［J］．CanadianJournaloPhysics，1954，32（4）：275－290  
+［21］ WeinmanJA，Cameron JR．Negativehydrogen ion source［J］ReviewofScientificInstruments，1956，27（5）：288－293  
+［22］ JollyT．Characterization ofion sources［M］∥ BernardiG edHandbookofIonSources．BocaRaton：CRCPress，2017：209－237  
+［23］ MiddletonR，AdamsCT．A closetouniversalnegativeionsourc［J］．NuclearInstrumentsandMethods，1974，118（2）：329－336  
+［24］AnbarM．MassSpectro

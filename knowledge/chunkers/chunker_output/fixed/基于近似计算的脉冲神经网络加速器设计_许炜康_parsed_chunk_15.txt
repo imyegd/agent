@@ -1,0 +1,7 @@
+地理解和优化脉冲神经网络加法器的性能。
+
+对于选出的10个近似加法器，在应用最优近似加法器选择策略时，本文将AARE的阈值设定为0.5，并赋予AARE、功耗和面积不同的权重值。具体而言，AARE的权重（AAREWeight）设为1，功耗的权重（POWERWeight)设为2，面积的权重（AREAWeight)也设为2。基于这些权重计算出每个近似加法器的代价cost，如表3所示。
+
+Table 3 Cost of ten types of approximate adders 表 3 10 种近似加法器的 cost  
+
+<table><tr><td>近似加法器</td><td>面积/μm²</td><td>功耗/μW</td><td>AARE</td><td>cost</td></tr><tr><td>add8u_6PT</td><td>346.6</td><td>24.7</td><td>0.014</td><td>3.818</td></tr><tr><td>add8u_2AM</td><td>354.1</td><td>26.7</td><td>0.043</td><td>4.030</td></tr><tr><td>add8u_6MZ</td><td>304.0</td><td>21.5</td><td>0.026</td><td>3.346</td></tr><tr><td>add8u_6P8</td><td>290.3</td><td>21.8</td><td>0.030</td><td>3.293</td></tr><tr><td>add8u_0NH</td><td>262.8</td><td>19.3</td><td>0.039</td><td>2.957</td></tr><tr><td>add8u_0NS</td><td>222.7</td><td>16.3</td><td>0.044</td><td>2.510</td></tr><tr><td>add8u_0NQ</td><td>206.4</td><td>14.3</td><td>0.169</td><td>2.356</td></tr><tr><td>add8u_2LL</td><td>173.9</td><td>14.3</td><td>0.430</td><td>2.355</td></tr><tr><td>add8u_2J3</t

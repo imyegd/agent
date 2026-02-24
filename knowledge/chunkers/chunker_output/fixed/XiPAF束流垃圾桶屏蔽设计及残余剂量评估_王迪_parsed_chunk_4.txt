@@ -1,0 +1,5 @@
+os shows consistent decay patterns, with all cases reaching the dose constraint of $2 . 5 ~ \mu \mathrm { S v } { \cdot } \mathrm { h } ^ { - 1 }$ after 2~3 h cooling time. [Conclusions] The polyethylene-core composite beam dump design provides effective radiation protection for the XiPAF facility upgrade, with significantly reduced neutron backscattering compared to conventional graphite targets. The residual radioactivity analysis indicates that facility access can be safely permitted within 2~3 h after beam shutdown for all typical operational scenarios. These results provide practical reference for radiation protection design of beam dumps at similar intermediate-energy proton accelerator facilities.
+
+Key words Beam dump, Radiation shielding, Radioactivity, Monte-Carlo simulation
+
+西安 $2 0 0 \mathrm { M e V }$ 质 子应 用装 置(Xi'an 200 MeVProton Application Facility，XiPAF）是为宇航器件的空间单粒子效应研究而建设的一台加速器装置，在“十四五”期间，XiPAF计划升级改造为一台质子/重离子通用实验装置［1‒2］。为了确保人员、设备和环境安全，该类加速器装置的辐射防护问题不可忽视，其中束流垃圾桶在辐射防护中扮演着至关重要的角色。束流垃圾桶可以吸收废弃的束流，

@@ -1,0 +1,4 @@
+-256(in Chinese).   
+[89] LI Chaoli, HE Ming, ZHANG Wei, et al. AMS Measurement of $^{36}\mathrm{Cl}$ with a Q3D magnetic spectrometer at CIAE[J]. Plasma Science and Technology, 2012, 14(6): 543-547.   
+[90] 郑元丰,阮向东,何明,等.低能核反应产物 $^{26}\mathrm{Al}$ 的AMS测量方法研究[J].质谱学报,2003,24(1):295-297.ZHENG Yuanfeng,RUAN Xiangdong,HE Ming,etal.Study on the measurement method of $^{26}\mathrm{Al}$ by AMS[J].Journal of Chinese Mass Spectrometry Society,2003,24(1):295-297(in Chinese).   
+[91] 何明, 姜山, 蒋崧生, 等. 中国原子能科学研究院的 PX-AMS

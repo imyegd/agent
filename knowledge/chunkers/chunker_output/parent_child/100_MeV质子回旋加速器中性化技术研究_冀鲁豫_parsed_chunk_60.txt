@@ -1,0 +1,3 @@
+注入与中心区［12］理论和实验研究[D]. 北京: 清华大学, 2008.  
+ADELMANN  A,  KRAUS  C,  INEICHEN  Y,  et  al.  The［13］ OPAL  (Object  Oriented  Parallel  Accelerator  Library) Framework,  technical  report  PSI-PR-08-02[R].  Switzerland: Paul Scherrer Institut, 2008.   
+BERGER  M  J,  COURSEY  J  S,  ZUCKER  M  A,  et  al.［14］ Stopping-power  and  range  tables  for  electrons,  protons, and  helium  ions[DB/OL].  Gaithersburg,  MD:  NIST Physics Laboratory, 1998[2025-03-04]. https://www.nist. gov/pml/stopping-power-range-tables-

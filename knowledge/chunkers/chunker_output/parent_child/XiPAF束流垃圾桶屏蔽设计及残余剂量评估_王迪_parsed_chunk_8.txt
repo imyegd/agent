@@ -1,0 +1,3 @@
+effective radiation protection for the XiPAF facility upgrade, with significantly reduced neutron backscattering compared to conventional graphite targets. The residual radioactivity analysis indicates that facility access can be safely permitted within 2~3 h after beam shutdown for all typical operational scenarios. These results provide practical reference for radiation protection design of beam dumps at similar intermediate-energy proton accelerator facilities.
+
+Key words Beam dump, Radiation shielding,
