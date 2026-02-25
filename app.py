@@ -119,65 +119,6 @@ def query_data():
         }), 500
 
 
-@app.route('/api/analyze', methods=['POST'])
-def analyze_fluctuation():
-    """波动分析接口"""
-    try:
-        data = request.json
-        start_time = data.get('start_time')
-        end_time = data.get('end_time')
-        
-        if not start_time or not end_time:
-            return jsonify({
-                'success': False,
-                'error': '请提供开始和结束时间'
-            }), 400
-        
-        # 调用 PLS 分析工具
-        result = TOOL_FUNCTIONS['analyze_beam_fluctuation'](
-            start_time=start_time,
-            end_time=end_time
-        )
-        
-        return jsonify(result)
-        
-    except Exception as e:
-        return jsonify({
-            'success': False,
-            'error': str(e)
-        }), 500
-
-
-@app.route('/api/visualize', methods=['POST'])
-def visualize():
-    """可视化接口"""
-    try:
-        data = request.json
-        start_time = data.get('start_time')
-        end_time = data.get('end_time')
-        
-        if not start_time or not end_time:
-            return jsonify({
-                'success': False,
-                'error': '请提供开始和结束时间'
-            }), 400
-        
-        # 调用可视化工具
-        result = TOOL_FUNCTIONS['visualize_beam_fluctuation'](
-            start_time=start_time,
-            end_time=end_time,
-            show_plot=True
-        )
-        
-        return jsonify(result)
-        
-    except Exception as e:
-        return jsonify({
-            'success': False,
-            'error': str(e)
-        }), 500
-
-
 @app.route('/api/knowledge/search', methods=['POST'])
 def search_knowledge():
     """知识库搜索接口"""

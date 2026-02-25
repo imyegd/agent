@@ -5,18 +5,6 @@ from .data_query import (
     DATA_QUERY_TOOLS,
     DATA_QUERY_TOOL_FUNCTIONS
 )
-from .pls_analysis import (
-    PLSAnalysisTool, 
-    analyze_beam_fluctuation,
-    PLS_ANALYSIS_TOOLS,
-    PLS_ANALYSIS_TOOL_FUNCTIONS
-)
-from .beam_visualization import (
-    BeamVisualizationTool, 
-    visualize_beam_fluctuation,
-    VISUALIZATION_TOOLS,
-    VISUALIZATION_TOOL_FUNCTIONS
-)
 from .anomaly_detection import (
     AnomalyDetectionTool,
     detect_anomaly,
@@ -50,8 +38,6 @@ except ImportError as e:
 # 汇总所有工具
 TOOLS = (
     DATA_QUERY_TOOLS + 
-    PLS_ANALYSIS_TOOLS + 
-    VISUALIZATION_TOOLS + 
     ANOMALY_DETECTION_TOOLS + 
     ANOMALY_DIAGNOSIS_TOOLS + 
     RAG_TOOLS
@@ -60,8 +46,6 @@ TOOLS = (
 # 汇总所有工具函数映射
 TOOL_FUNCTIONS = {}
 TOOL_FUNCTIONS.update(DATA_QUERY_TOOL_FUNCTIONS)
-TOOL_FUNCTIONS.update(PLS_ANALYSIS_TOOL_FUNCTIONS)
-TOOL_FUNCTIONS.update(VISUALIZATION_TOOL_FUNCTIONS)
 TOOL_FUNCTIONS.update(ANOMALY_DETECTION_TOOL_FUNCTIONS)
 TOOL_FUNCTIONS.update(ANOMALY_DIAGNOSIS_TOOL_FUNCTIONS)
 TOOL_FUNCTIONS.update(RAG_TOOL_FUNCTIONS)
@@ -69,16 +53,12 @@ TOOL_FUNCTIONS.update(RAG_TOOL_FUNCTIONS)
 __all__ = [
     # 数据查询
     'DataQueryTool', 'query_beam_data', 'get_data_info',
-    # PLS 分析 
-    'PLSAnalysisTool', 'analyze_beam_fluctuation',
-    # 可视化
-    'BeamVisualizationTool', 'visualize_beam_fluctuation',
     # 异常检测
     'AnomalyDetectionTool', 'detect_anomaly',
     # 异常诊断
     'diagnose_by_statistical_difference', 'diagnose_by_pls', 
     'diagnose_by_shap', 'diagnose_by_autoencoder',
-    # RAG 工具（新）
+    # RAG 工具
     'explain_diagnosis_features', 'explain_variable_meaning', 'search_domain_knowledge',
     # 工具汇总
     'TOOLS', 'TOOL_FUNCTIONS'

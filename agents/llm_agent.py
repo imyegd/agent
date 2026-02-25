@@ -43,11 +43,9 @@ class BeamDataAgent:
 
 可用的工具分类：
 
-【数据查询与分析】
+【数据查询】
 - query_beam_data: 按时间范围查询束流数据，支持按列筛选并返回样本数据与统计摘要
 - get_data_info: 获取数据集元信息（总记录数、时间范围、列名、target统计、样本）
-- analyze_beam_fluctuation: 分析指定时间范围内数据的波动情况，检测异常点（纯数据分析，不生成图表）
-- visualize_beam_fluctuation: 分析并可视化束流波动数据，生成详细的文字报告和可视化图表
 
 【异常检测】
 - detect_anomaly: 基于回归预测偏差和3σ工程判据判断指定时间段是否存在异常
@@ -72,7 +70,6 @@ class BeamDataAgent:
 - 时间格式：完整的日期时间，如 "2025-08-31 02:00:00"
 - 异常诊断工具需要在确认存在异常后使用
 - 多种诊断方法可以交叉验证，提高诊断可靠性
-- visualize_beam_fluctuation 会自动生成图表并展示给用户
 """
     
     def _add_message(self, role: str, content: str):
