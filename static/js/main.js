@@ -1,418 +1,254 @@
-// ===== 全局变量 =====
+// ===== 全局状态 =====
 const API_BASE = '';
 let isProcessing = false;
 
-// ===== 工具函数 =====
-function showLoading() {
-    document.getElementById('loading-overlay').classList.remove('hidden');
-}
+// ===== DOM 引用 =====
+const chatMessages = document.getElementById('chat-messages');
+const chatInput    = document.getElementById('chat-input');
+const sendBtn      = document.getElementById('send-btn');
+const resetBtn     = document.getElementById('reset-btn');
 
-function hideLoading() {
-    document.getElementById('loading-overlay').classList.add('hidden');
-}
+// ===== 通知 =====
+const NOTIF_ICONS = {
+    success: 'fa-circle-check',
+    error:   'fa-circle-exclamation',
+    info:    'fa-circle-info',
+};
 
 function showNotification(message, type = 'info') {
     const container = document.getElementById('notification-container');
-    const notification = document.createElement('div');
-    notification.className = `notification ${type}`;
-    notification.textContent = message;
-    
-    container.appendChild(notification);
-    
+    const el = document.createElement('div');
+    el.className = `notification ${type}`;
+    el.innerHTML = `<i class="fas ${NOTIF_ICONS[type] || NOTIF_ICONS.info}"></i><span>${message}</span>`;
+    container.appendChild(el);
+
     setTimeout(() => {
-        notification.style.animation = 'slideOutRight 0.3s';
-        setTimeout(() => notification.remove(), 300);
+        el.style.transition = 'opacity 0.28s, transform 0.28s';
+        el.style.opacity    = '0';
+        el.style.transform  = 'translateX(20px)';
+        setTimeout(() => el.remove(), 280);
     }, 3000);
 }
 
-function formatTime(dateString) {
-    return new Date(dateString).toLocaleString('zh-CN');
+// ===== 消息渲染 =====
+function renderMarkdown(text) {
+    return text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/```([\s\S]*?)```/g, (_, code) => `<pre>${code}</pre>`)
+        .replace(/`([^`\n]+)`/g, '<code>$1</code>')
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        .replace(/\n/g, '<br>');
 }
 
-// ===== Tab 切换 =====
-document.querySelectorAll('.nav-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-        const tabName = btn.dataset.tab;
-        
-        // 更新按钮状态
-        document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        
-        // 切换内容
-        document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
-        document.getElementById(`${tabName}-tab`).classList.add('active');
-    });
-});
-
-// ===== 聊天功能 =====
-const chatMessages = document.getElementById('chat-messages');
-const chatInput = document.getElementById('chat-input');
-const sendBtn = document.getElementById('send-btn');
-const resetBtn = document.getElementById('reset-btn');
-
 function addMessage(content, type = 'assistant', images = []) {
-    const message = document.createElement('div');
-    message.className = `message ${type}-message`;
-    
-    const icon = document.createElement('i');
-    icon.className = type === 'user' ? 'fas fa-user' : 'fas fa-robot';
-    
-    const messageContent = document.createElement('div');
-    messageContent.className = 'message-content';
-    
-    // 处理markdown和换行
-    const formattedContent = content
-        .replace(/\n/g, '<br>')
-        .replace(/```([\s\S]*?)```/g, '<pre>$1</pre>')
-        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-    
-    messageContent.innerHTML = formattedContent;
-    
-    // 如果有图片，添加图片展示区域
+    const row = document.createElement('div');
+    row.className = `message ${type}-message`;
+
+    const avatar = document.createElement('div');
+    avatar.className = 'avatar';
+    avatar.innerHTML = `<i class="fas ${type === 'user' ? 'fa-user' : 'fa-robot'}"></i>`;
+
+    const bubble = document.createElement('div');
+    bubble.className = 'bubble';
+    bubble.innerHTML = renderMarkdown(content);
+
     if (images && images.length > 0) {
-        const imageContainer = document.createElement('div');
-        imageContainer.className = 'message-images';
-        imageContainer.style.cssText = 'margin-top: 15px;';
-        
-        images.forEach(imgPath => {
-            const imgWrapper = document.createElement('div');
-            imgWrapper.style.cssText = 'margin-top: 10px; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);';
-            
+        const imgWrap = document.createElement('div');
+        imgWrap.className = 'message-images';
+        images.forEach(src => {
             const img = document.createElement('img');
-            img.src = imgPath;
-            img.alt = '分析图表';
-            img.style.cssText = 'width: 100%; max-width: 800px; display: block; cursor: pointer;';
+            img.src     = src;
+            img.alt     = '分析图表';
             img.loading = 'lazy';
-            
-            // 点击图片放大查看
-            img.addEventListener('click', () => {
-                openImageModal(imgPath);
-            });
-            
-            // 图片加载失败处理
-            img.onerror = function() {
-                imgWrapper.innerHTML = '<div style="padding: 20px; color: #ff6b6b; text-align: center;"><i class="fas fa-image" style="font-size: 24px;"></i><p>图片加载失败</p></div>';
+            img.addEventListener('click', () => openImageModal(src));
+            img.onerror = () => {
+                imgWrap.innerHTML = '<p style="color:var(--text-3);font-size:13px;margin-top:8px;">图片加载失败</p>';
             };
-            
-            imgWrapper.appendChild(img);
-            imageContainer.appendChild(imgWrapper);
+            imgWrap.appendChild(img);
         });
-        
-        messageContent.appendChild(imageContainer);
+        bubble.appendChild(imgWrap);
     }
-    
-    message.appendChild(icon);
-    message.appendChild(messageContent);
-    chatMessages.appendChild(message);
-    
+
+    row.appendChild(avatar);
+    row.appendChild(bubble);
+    chatMessages.appendChild(row);
     chatMessages.scrollTop = chatMessages.scrollHeight;
 }
 
-// 图片放大查看模态框
-function openImageModal(imgPath) {
-    // 创建模态框
-    const modal = document.createElement('div');
-    modal.className = 'image-modal';
-    modal.style.cssText = `
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.9);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 10000;
-        cursor: zoom-out;
-    `;
-    
-    const img = document.createElement('img');
-    img.src = imgPath;
-    img.style.cssText = 'max-width: 95%; max-height: 95%; object-fit: contain; border-radius: 4px;';
-    
-    modal.appendChild(img);
-    document.body.appendChild(modal);
-    
-    // 点击关闭
-    modal.addEventListener('click', () => {
-        modal.remove();
-    });
-    
-    // ESC 键关闭
-    const handleEsc = (e) => {
-        if (e.key === 'Escape') {
-            modal.remove();
-            document.removeEventListener('keydown', handleEsc);
-        }
-    };
-    document.addEventListener('keydown', handleEsc);
+// ===== 打字指示器 =====
+function showTyping() {
+    const row = document.createElement('div');
+    row.className = 'message assistant-message typing-indicator';
+    row.id = 'typing-indicator';
+    row.innerHTML = `
+        <div class="avatar"><i class="fas fa-robot"></i></div>
+        <div class="bubble">
+            <div class="typing-dots">
+                <span></span><span></span><span></span>
+            </div>
+        </div>`;
+    chatMessages.appendChild(row);
+    chatMessages.scrollTop = chatMessages.scrollHeight;
 }
 
+function hideTyping() {
+    document.getElementById('typing-indicator')?.remove();
+}
+
+// ===== 图片放大 =====
+function openImageModal(src) {
+    const overlay = document.createElement('div');
+    overlay.style.cssText = [
+        'position:fixed', 'inset:0',
+        'background:rgba(0,0,0,0.82)',
+        'display:flex', 'align-items:center', 'justify-content:center',
+        'z-index:10000', 'cursor:zoom-out',
+        'animation:fadeIn 0.2s ease',
+    ].join(';');
+
+    const img = document.createElement('img');
+    img.src = src;
+    img.style.cssText = 'max-width:92%;max-height:92%;object-fit:contain;border-radius:12px;box-shadow:0 20px 60px rgba(0,0,0,0.5)';
+
+    overlay.appendChild(img);
+    document.body.appendChild(overlay);
+    overlay.addEventListener('click', () => overlay.remove());
+
+    const onEsc = e => {
+        if (e.key === 'Escape') {
+            overlay.remove();
+            document.removeEventListener('keydown', onEsc);
+        }
+    };
+    document.addEventListener('keydown', onEsc);
+}
+
+// ===== 欢迎卡片工厂 =====
+function buildWelcomeCard(subtitle = '您可以用自然语言查询和分析束流数据，例如：') {
+    const div = document.createElement('div');
+    div.className = 'welcome-card';
+    div.innerHTML = `
+        <div class="welcome-icon"><i class="fas fa-atom"></i></div>
+        <h2>束流数据分析助手</h2>
+        <p>${subtitle}</p>
+        <div class="welcome-chips">
+            <span class="chip">查询8月31日两点到三点的束流数据</span>
+            <span class="chip">检测该时段是否存在异常</span>
+            <span class="chip">用SHAP方法诊断异常特征</span>
+            <span class="chip">feature6 是什么意思？</span>
+        </div>`;
+    return div;
+}
+
+// ===== 点击示例 chip 填入输入框（事件委托） =====
+chatMessages.addEventListener('click', e => {
+    const chip = e.target.closest('.chip');
+    if (!chip) return;
+    chatInput.value = chip.textContent.trim();
+    chatInput.focus();
+    chatInput.dispatchEvent(new Event('input'));
+});
+
+// ===== 发送消息 =====
 async function sendMessage() {
     const message = chatInput.value.trim();
     if (!message || isProcessing) return;
-    
-    // 添加用户消息
+
+    // 首次发送时移除欢迎卡片
+    document.querySelector('.welcome-card')?.remove();
+
     addMessage(message, 'user');
     chatInput.value = '';
-    
+    chatInput.style.height = 'auto';
+
     isProcessing = true;
     sendBtn.disabled = true;
-    showLoading();
-    
+    sendBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i>';
+    showTyping();
+
     try {
-        const response = await fetch(`${API_BASE}/api/chat`, {
-            method: 'POST',
+        const res  = await fetch(`${API_BASE}/api/chat`, {
+            method:  'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ message })
+            body:    JSON.stringify({ message }),
         });
-        
-        const data = await response.json();
-        
+        const data = await res.json();
+        hideTyping();
+
         if (data.success) {
-            // 传递图片数组给 addMessage
             addMessage(data.response, 'assistant', data.images || []);
         } else {
-            addMessage(`错误：${data.error}`, 'assistant');
-            showNotification('发送失败', 'error');
+            addMessage(`出现错误：${data.error || '未知错误'}`, 'assistant');
+            showNotification('请求失败', 'error');
         }
-    } catch (error) {
-        addMessage('网络错误，请检查连接', 'assistant');
+    } catch {
+        hideTyping();
+        addMessage('网络连接失败，请确认服务是否正常运行。', 'assistant');
         showNotification('网络错误', 'error');
     } finally {
         isProcessing = false;
         sendBtn.disabled = false;
-        hideLoading();
+        sendBtn.innerHTML = '<i class="fas fa-paper-plane"></i>';
         chatInput.focus();
     }
 }
 
 sendBtn.addEventListener('click', sendMessage);
-chatInput.addEventListener('keydown', (e) => {
+
+chatInput.addEventListener('keydown', e => {
     if (e.key === 'Enter' && !e.shiftKey) {
         e.preventDefault();
         sendMessage();
     }
 });
 
-// 自动调整输入框高度
-chatInput.addEventListener('input', function() {
+// 输入框自动伸缩
+chatInput.addEventListener('input', function () {
     this.style.height = 'auto';
-    this.style.height = Math.min(this.scrollHeight, 150) + 'px';
+    this.style.height = Math.min(this.scrollHeight, 140) + 'px';
 });
 
-// 重置对话
+// ===== 清空对话 =====
 resetBtn.addEventListener('click', async () => {
     if (!confirm('确定要清空对话历史吗？')) return;
-    
+
     try {
-        const response = await fetch(`${API_BASE}/api/reset`, { method: 'POST' });
-        const data = await response.json();
-        
+        const res  = await fetch(`${API_BASE}/api/reset`, { method: 'POST' });
+        const data = await res.json();
+
         if (data.success) {
-            chatMessages.innerHTML = `
-                <div class="message system-message">
-                    <i class="fas fa-robot"></i>
-                    <div class="message-content">
-                        <p>对话已重置。有什么可以帮助您的吗？</p>
-                    </div>
-                </div>
-            `;
-            showNotification('对话已重置', 'success');
+            chatMessages.innerHTML = '';
+            chatMessages.appendChild(buildWelcomeCard('对话已重置，有什么可以帮您分析的吗？'));
+            showNotification('对话已清空', 'success');
         }
-    } catch (error) {
-        showNotification('重置失败', 'error');
-    }
-});
-
-// ===== 波动分析功能 =====
-const analyzeStartTime = document.getElementById('analyze-start-time');
-const analyzeEndTime = document.getElementById('analyze-end-time');
-const analyzeBtn = document.getElementById('analyze-btn');
-const analyzeResult = document.getElementById('analyze-result');
-
-// 快速选择时间
-document.querySelectorAll('.quick-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-        const range = btn.dataset.range;
-        const now = new Date();
-        const end = now.toISOString().slice(0, 16);
-        
-        let start = new Date(now);
-        switch(range) {
-            case '1h': start.setHours(start.getHours() - 1); break;
-            case '6h': start.setHours(start.getHours() - 6); break;
-            case '1d': start.setDate(start.getDate() - 1); break;
-            case '7d': start.setDate(start.getDate() - 7); break;
-        }
-        
-        analyzeStartTime.value = start.toISOString().slice(0, 16);
-        analyzeEndTime.value = end;
-    });
-});
-
-analyzeBtn.addEventListener('click', async () => {
-    const startTime = analyzeStartTime.value.replace('T', ' ') + ':00';
-    const endTime = analyzeEndTime.value.replace('T', ' ') + ':00';
-    
-    if (!startTime || !endTime) {
-        showNotification('请选择时间范围', 'error');
-        return;
-    }
-    
-    showLoading();
-    
-    try {
-        const response = await fetch(`${API_BASE}/api/visualize`, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ start_time: startTime, end_time: endTime })
-        });
-        
-        const data = await response.json();
-        
-        if (data.success) {
-            displayAnalyzeResult(data);
-            showNotification('分析完成', 'success');
-        } else {
-            analyzeResult.innerHTML = `
-                <div class="empty-state">
-                    <i class="fas fa-exclamation-circle"></i>
-                    <p>分析失败：${data.message || data.error}</p>
-                </div>
-            `;
-            showNotification('分析失败', 'error');
-        }
-    } catch (error) {
-        analyzeResult.innerHTML = `
-            <div class="empty-state">
-                <i class="fas fa-exclamation-circle"></i>
-                <p>网络错误：${error.message}</p>
-            </div>
-        `;
-        showNotification('网络错误', 'error');
-    } finally {
-        hideLoading();
-    }
-});
-
-function displayAnalyzeResult(data) {
-    let html = '<div style="color: var(--text-primary);">';
-    
-    // 文本报告
-    if (data.text_report) {
-        html += `<pre style="white-space: pre-wrap; font-family: monospace; line-height: 1.8;">${data.text_report}</pre>`;
-    }
-    
-    // 图表
-    if (data.plot_path) {
-        html += `
-            <div style="margin-top: 20px;">
-                <h3 style="color: var(--primary-color); margin-bottom: 15px;">
-                    <i class="fas fa-chart-area"></i> 可视化图表
-                </h3>
-                <img src="/${data.plot_path}" alt="分析图表" style="width: 100%; border-radius: 8px;">
-            </div>
-        `;
-    }
-    
-    html += '</div>';
-    analyzeResult.innerHTML = html;
-}
-
-// ===== 知识库功能 =====
-const knowledgeQuery = document.getElementById('knowledge-query');
-const knowledgeSearchBtn = document.getElementById('knowledge-search-btn');
-const knowledgeResult = document.getElementById('knowledge-result');
-
-async function searchKnowledge() {
-    const query = knowledgeQuery.value.trim();
-    if (!query) {
-        showNotification('请输入搜索内容', 'error');
-        return;
-    }
-    
-    const docType = document.querySelector('input[name="doc-type"]:checked').value;
-    
-    showLoading();
-    
-    try {
-        const response = await fetch(`${API_BASE}/api/knowledge/search`, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                query,
-                top_k: 5,
-                doc_type: docType || null
-            })
-        });
-        
-        const data = await response.json();
-        
-        if (data.success && data.results_count > 0) {
-            displayKnowledgeResults(data.results);
-            showNotification(`找到 ${data.results_count} 条结果`, 'success');
-        } else {
-            knowledgeResult.innerHTML = `
-                <div class="empty-state">
-                    <i class="fas fa-search"></i>
-                    <p>未找到相关内容</p>
-                </div>
-            `;
-        }
-    } catch (error) {
-        showNotification('搜索失败', 'error');
-    } finally {
-        hideLoading();
-    }
-}
-
-function displayKnowledgeResults(results) {
-    let html = '';
-    
-    results.forEach((result, index) => {
-        html += `
-            <div class="knowledge-item">
-                <span class="score">相关度: ${(result.score * 100).toFixed(1)}%</span>
-                <h4>${index + 1}. ${result.metadata.type === 'feature' ? result.metadata.name : result.metadata.problem || result.metadata.term || '知识条目'}</h4>
-                <p>${result.content}</p>
-            </div>
-        `;
-    });
-    
-    knowledgeResult.innerHTML = html;
-}
-
-knowledgeSearchBtn.addEventListener('click', searchKnowledge);
-knowledgeQuery.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') {
-        e.preventDefault();
-        searchKnowledge();
+    } catch {
+        showNotification('重置失败，请重试', 'error');
     }
 });
 
 // ===== 初始化 =====
 window.addEventListener('DOMContentLoaded', async () => {
+    chatInput.focus();
+
     // 加载数据集信息
     try {
-        const response = await fetch(`${API_BASE}/api/data/info`);
-        const data = await response.json();
-        
-        if (data.total_records) {
-            document.getElementById('data-info').textContent = 
-                `数据集: ${data.total_records} 条记录 | 时间范围: ${data.time_range.start.slice(0, 10)} ~ ${data.time_range.end.slice(0, 10)}`;
-        }
-    } catch (error) {
-        console.error('加载数据信息失败:', error);
-    }
-    
-    // 设置默认时间范围
-    const now = new Date();
-    const yesterday = new Date(now);
-    yesterday.setDate(yesterday.getDate() - 1);
-    
-    analyzeEndTime.value = now.toISOString().slice(0, 16);
-    analyzeStartTime.value = yesterday.toISOString().slice(0, 16);
-});
+        const res  = await fetch(`${API_BASE}/api/data/info`);
+        const data = await res.json();
+        const info = data.data_info || data;
 
+        if (info && info.total_records) {
+            const tr    = info.time_range || {};
+            const start = (tr.start || '').slice(0, 10);
+            const end   = (tr.end   || '').slice(0, 10);
+            document.getElementById('data-info').textContent =
+                `${info.total_records.toLocaleString()} 条记录 · ${start} ~ ${end}`;
+        } else {
+            document.getElementById('data-info').textContent = '数据信息不可用';
+        }
+    } catch {
+        document.getElementById('data-info').textContent = '数据信息不可用';
+    }
+});

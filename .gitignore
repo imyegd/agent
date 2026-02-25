@@ -41,6 +41,9 @@ Thumbs.db
 .env
 config/local_config.py
 
+# 工具调用日志（运行时生成，不纳入版本库）
+logs/
+
 # Data (optional)
 # *.csv
 

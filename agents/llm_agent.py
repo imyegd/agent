@@ -5,6 +5,7 @@ LLM代理模块
 
 from openai import OpenAI
 import json
+import time
 from typing import Dict, Any, List, Optional
 import sys
 import os
@@ -12,6 +13,7 @@ import os
 # 添加父目录到路径以便导入tools模块
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tools import TOOLS, TOOL_FUNCTIONS
+from agents.tool_logger import ToolCallLogger
 
 
 class BeamDataAgent:
@@ -32,6 +34,7 @@ class BeamDataAgent:
         )
         self.model = model
         self.conversation_history = []
+        self.tool_logger = ToolCallLogger()
         #   工作流程建议：
         #   1. 数据查询 → 2. 异常检测 → 3. 异常诊断（定位具体变量）→ 4. 诊断结果解释（generation KG）→ 5. 领域知识查询（常规 RAG）
         self.system_prompt = """你是一个专业的束流数据分析助手。你可以帮助用户查询和分析束流数据，并提供异常检测和诊断服务。
@@ -121,24 +124,60 @@ class BeamDataAgent:
         print(f"[参数] {json.dumps(function_args, ensure_ascii=False, indent=2)}")
         
         images = []
+        t_start = time.time()
         
         # 执行工具函数
         if function_name in TOOL_FUNCTIONS:
-            result = TOOL_FUNCTIONS[function_name](**function_args)
-            print(f"[结果] 查询成功，返回 {result.get('count', 0)} 条记录")
-            
-            # 检查是否有生成的图片
-            if result.get('plot_path'):
-                images.append(result['plot_path'])
-                print(f"[图片] 生成图片: {result['plot_path']}")
-            
-            return {
-                "result_str": json.dumps(result, ensure_ascii=False),
-                "images": images
-            }
+            try:
+                result = TOOL_FUNCTIONS[function_name](**function_args)
+                duration_ms = (time.time() - t_start) * 1000
+                print(f"[结果] 执行完成，耗时 {duration_ms:.0f}ms")
+
+                self.tool_logger.log(
+                    tool_name=function_name,
+                    args=function_args,
+                    result=result,
+                    duration_ms=duration_ms
+                )
+
+                # 检查是否有生成的图片
+                if result.get('plot_path'):
+                    images.append(result['plot_path'])
+                    print(f"[图片] 生成图片: {result['plot_path']}")
+
+                return {
+                    "result_str": json.dumps(result, ensure_ascii=False),
+                    "images": images
+                }
+            except Exception as e:
+                duration_ms = (time.time() - t_start) * 1000
+                error_msg = str(e)
+                print(f"[错误] 工具执行失败: {error_msg}")
+
+                self.tool_logger.log(
+                    tool_name=function_name,
+                    args=function_args,
+                    result=None,
+                    duration_ms=duration_ms,
+                    error=error_msg
+                )
+
+                return {
+                    "result_str": json.dumps({"error": error_msg}, ensure_ascii=False),
+                    "images": []
+                }
         else:
+            duration_ms = (time.time() - t_start) * 1000
+            error_msg = f"未知的工具函数: {function_name}"
+            self.tool_logger.log(
+                tool_name=function_name,
+                args=function_args,
+                result=None,
+                duration_ms=duration_ms,
+                error=error_msg
+            )
             return {
-                "result_str": json.dumps({"error": f"未知的工具函数: {function_name}"}, ensure_ascii=False),
+                "result_str": json.dumps({"error": error_msg}, ensure_ascii=False),
                 "images": []
             }
     
@@ -224,6 +263,7 @@ class BeamDataAgent:
     def reset_conversation(self):
         """重置对话历史"""
         self.conversation_history = []
+        self.tool_logger.reset()
         print("对话历史已重置")
 
 
