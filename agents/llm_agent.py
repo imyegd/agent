@@ -260,6 +260,101 @@ class BeamDataAgent:
             "images": all_images
         }
     
+    def chat_with_events(self, user_input: str):
+        """
+        与用户对话，以 SSE 事件流方式 yield 进度。
+
+        每个 yield 值是一个 dict，包含 type 字段：
+          {"type": "tool_start",  "tool": "...", "args": {...}}
+          {"type": "tool_done",   "tool": "...", "summary": "...", "duration_ms": 123}
+          {"type": "tool_error",  "tool": "...", "error": "..."}
+          {"type": "answer",      "content": "..."}
+        """
+        from agents.tool_logger import extract_tool_summary
+
+        self._add_message("user", user_input)
+        messages = [{"role": "system", "content": self.system_prompt}] + self.conversation_history
+
+        response = self._call_llm(messages, TOOLS)
+        assistant_message = response.choices[0].message
+
+        all_images: list = []
+        max_iterations = 5
+        iteration = 0
+
+        while assistant_message.tool_calls and iteration < max_iterations:
+            iteration += 1
+
+            self.conversation_history.append({
+                "role": "assistant",
+                "content": assistant_message.content or "",
+                "tool_calls": [
+                    {
+                        "id": tc.id,
+                        "type": tc.type,
+                        "function": {
+                            "name": tc.function.name,
+                            "arguments": tc.function.arguments
+                        }
+                    } for tc in assistant_message.tool_calls
+                ]
+            })
+
+            for tool_call in assistant_message.tool_calls:
+                function_name = tool_call.function.name
+                function_args = json.loads(tool_call.function.arguments)
+
+                yield {"type": "tool_start", "tool": function_name, "args": function_args}
+
+                t_start = time.time()
+                if function_name in TOOL_FUNCTIONS:
+                    try:
+                        result = TOOL_FUNCTIONS[function_name](**function_args)
+                        duration_ms = (time.time() - t_start) * 1000
+                        self.tool_logger.log(function_name, function_args, result, duration_ms)
+
+                        if result.get("plot_path"):
+                            all_images.append(result["plot_path"])
+
+                        summary = extract_tool_summary(function_name, result)
+                        yield {"type": "tool_done", "tool": function_name,
+                               "summary": summary, "duration_ms": round(duration_ms, 1)}
+
+                        self.conversation_history.append({
+                            "role": "tool",
+                            "tool_call_id": tool_call.id,
+                            "content": json.dumps(result, ensure_ascii=False)
+                        })
+                    except Exception as e:
+                        duration_ms = (time.time() - t_start) * 1000
+                        error_msg = str(e)
+                        self.tool_logger.log(function_name, function_args, None, duration_ms, error=error_msg)
+                        yield {"type": "tool_error", "tool": function_name, "error": error_msg}
+                        self.conversation_history.append({
+                            "role": "tool",
+                            "tool_call_id": tool_call.id,
+                            "content": json.dumps({"error": error_msg}, ensure_ascii=False)
+                        })
+                else:
+                    error_msg = f"未知工具: {function_name}"
+                    self.tool_logger.log(function_name, function_args, None, 0, error=error_msg)
+                    yield {"type": "tool_error", "tool": function_name, "error": error_msg}
+                    self.conversation_history.append({
+                        "role": "tool",
+                        "tool_call_id": tool_call.id,
+                        "content": json.dumps({"error": error_msg}, ensure_ascii=False)
+                    })
+
+            messages = [{"role": "system", "content": self.system_prompt}] + self.conversation_history
+            response = self._call_llm(messages, TOOLS)
+            assistant_message = response.choices[0].message
+
+        final_response = assistant_message.content or "抱歉，我无法处理您的请求。"
+        if not assistant_message.tool_calls:
+            self._add_message("assistant", final_response)
+
+        yield {"type": "answer", "content": final_response, "images": all_images}
+
     def reset_conversation(self):
         """重置对话历史"""
         self.conversation_history = []

@@ -5,7 +5,7 @@ Flask Web 应用 - 束流数据智能分析系统
 import matplotlib
 matplotlib.use('Agg')  # 使用非交互式后端，避免 tkinter 多线程问题
 
-from flask import Flask, render_template, request, jsonify, send_file
+from flask import Flask, render_template, request, jsonify, send_file, Response, stream_with_context
 from flask_cors import CORS
 import json
 import os
@@ -86,6 +86,33 @@ def chat():
             'success': False,
             'error': str(e)
         }), 500
+
+
+@app.route('/api/chat/stream', methods=['GET'])
+def chat_stream():
+    """聊天流式接口 - 实时推送工具调用进度（Server-Sent Events）"""
+    user_message = request.args.get('message', '')
+    if not user_message:
+        return jsonify({'success': False, 'error': '消息不能为空'}), 400
+
+    def _generate():
+        agent_instance = get_agent()
+        try:
+            for event in agent_instance.chat_with_events(user_message):
+                yield f"data: {json.dumps(event, ensure_ascii=False)}\n\n"
+        except Exception as e:
+            err = json.dumps({"type": "error", "error": str(e)}, ensure_ascii=False)
+            yield f"data: {err}\n\n"
+        yield "data: [DONE]\n\n"
+
+    return Response(
+        stream_with_context(_generate()),
+        content_type='text/event-stream',
+        headers={
+            'Cache-Control': 'no-cache',
+            'X-Accel-Buffering': 'no'
+        }
+    )
 
 
 @app.route('/api/query', methods=['POST'])

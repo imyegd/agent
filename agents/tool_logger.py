@@ -2,29 +2,27 @@
 工具调用日志模块
 每次 LLM 调用工具时，记录调用信息到 logs/ 目录下，按天分文件。
 
-日志格式：JSON Lines（每次调用一行），便于后续溯源和统计。
+日志格式：JSON Lines，每次调用一行。
 
 日志字段：
-  timestamp     - 调用时刻（ISO 格式）
-  session_id    - 会话 ID（每个 Agent 实例唯一）
-  call_index    - 本会话第几次工具调用
-  tool          - 工具函数名
-  args          - 入参（完整记录）
-  success       - 是否执行成功
-  duration_ms   - 执行耗时（毫秒）
-  summary       - 结果摘要（关键字段，非全量输出）
-  error         - 失败时的错误信息
+  timestamp   - 调用时刻（ISO 格式）
+  session_id  - 会话 ID（每个 Agent 实例唯一）
+  call_index  - 本会话第几次工具调用
+  tool        - 工具函数名
+  args        - 入参（完整记录）
+  success     - 是否执行成功
+  duration_ms - 执行耗时（毫秒）
+  summary     - 结果摘要（关键字段，非全量输出）
+  error       - 失败时的错误信息
 """
 
 import json
 import os
-import time
 import uuid
 from datetime import datetime
 from typing import Any, Dict, Optional
 
 
-# 日志目录：相对于项目根目录
 _LOG_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "logs")
 
 
@@ -33,20 +31,17 @@ def _ensure_log_dir():
 
 
 def _log_path() -> str:
-    """返回当天的日志文件路径，格式：logs/tool_calls_YYYY-MM-DD.jsonl"""
     today = datetime.now().strftime("%Y-%m-%d")
     return os.path.join(_LOG_DIR, f"tool_calls_{today}.jsonl")
 
 
-def _extract_summary(tool_name: str, result: Dict[str, Any]) -> str:
+def extract_tool_summary(tool_name: str, result: Dict[str, Any]) -> str:
     """
-    从工具返回结果中提取关键摘要，避免日志体积过大。
-    不同工具提取不同的关键字段。
+    从工具返回结果中提取关键摘要（公开函数，供 agent 使用）。
     """
     if not isinstance(result, dict):
         return str(result)[:200]
 
-    # 通用：如果有 message 字段直接用
     if not result.get("success", True):
         return f"失败: {result.get('message') or result.get('error', '未知错误')}"
 
@@ -113,16 +108,6 @@ class ToolCallLogger:
         duration_ms: float,
         error: Optional[str] = None
     ):
-        """
-        记录一次工具调用。
-
-        Args:
-            tool_name:   工具函数名
-            args:        调用入参
-            result:      工具返回的原始结果（可为 None）
-            duration_ms: 执行耗时（毫秒）
-            error:       若执行抛异常，传入异常信息
-        """
         self._call_index += 1
         success = error is None and (result is None or result.get("success", True))
 
@@ -134,7 +119,7 @@ class ToolCallLogger:
             "args": args,
             "success": success,
             "duration_ms": round(duration_ms, 1),
-            "summary": _extract_summary(tool_name, result) if result else "无返回结果",
+            "summary": extract_tool_summary(tool_name, result) if result else "无返回结果",
         }
         if error:
             entry["error"] = error
@@ -146,5 +131,4 @@ class ToolCallLogger:
             print(f"[ToolLogger] 写日志失败: {e}")
 
     def reset(self):
-        """重置调用计数（对话重置时调用）"""
         self._call_index = 0

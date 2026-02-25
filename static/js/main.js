@@ -152,12 +152,94 @@ chatMessages.addEventListener('click', e => {
     chatInput.dispatchEvent(new Event('input'));
 });
 
-// ===== 发送消息 =====
-async function sendMessage() {
+// ===== 工具步骤块 =====
+
+/**
+ * 在消息区追加一个工具步骤块，返回 { row, stepsBody, stepMap }
+ * stepMap: tool_name -> step DOM element
+ */
+function createStepsBlock() {
+    const row = document.createElement('div');
+    row.className = 'message assistant-message';
+
+    const avatar = document.createElement('div');
+    avatar.className = 'avatar';
+    avatar.innerHTML = '<i class="fas fa-robot"></i>';
+
+    const bubble = document.createElement('div');
+    bubble.className = 'bubble';
+    bubble.style.padding = '0';
+    bubble.style.background = 'transparent';
+    bubble.style.boxShadow = 'none';
+
+    const block = document.createElement('div');
+    block.className = 'tool-steps';
+
+    const header = document.createElement('div');
+    header.className = 'tool-steps-header';
+    header.innerHTML = `
+        <span class="steps-icon">⚙️</span>
+        <span class="steps-label">正在调用工具…</span>
+        <span class="steps-toggle">▼</span>`;
+
+    const body = document.createElement('div');
+    body.className = 'tool-steps-body';
+
+    header.addEventListener('click', () => block.classList.toggle('collapsed'));
+
+    block.appendChild(header);
+    block.appendChild(body);
+    bubble.appendChild(block);
+    row.appendChild(avatar);
+    row.appendChild(bubble);
+    chatMessages.appendChild(row);
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+
+    return { row, block, header, stepsBody: body, stepMap: {} };
+}
+
+function addStepItem(stepsBody, stepMap, toolName) {
+    const item = document.createElement('div');
+    item.className = 'step-item';
+    item.innerHTML = `
+        <div class="step-dot running"></div>
+        <div class="step-body">
+            <div class="step-name">${toolName}</div>
+            <div class="step-summary">运行中…</div>
+        </div>
+        <div class="step-duration"></div>`;
+    stepsBody.appendChild(item);
+    stepMap[toolName] = item;
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+function resolveStepItem(stepMap, toolName, type, payload) {
+    const item = stepMap[toolName];
+    if (!item) return;
+    const dot     = item.querySelector('.step-dot');
+    const summary = item.querySelector('.step-summary');
+    const dur     = item.querySelector('.step-duration');
+
+    dot.classList.remove('running');
+    if (type === 'done') {
+        dot.classList.add('done');
+        summary.textContent = payload.summary || '';
+        if (payload.duration_ms != null) {
+            dur.textContent = `${(payload.duration_ms / 1000).toFixed(2)}s`;
+        }
+    } else {
+        dot.classList.add('error');
+        summary.className = 'step-error';
+        summary.textContent = payload.error || '执行失败';
+    }
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+// ===== 发送消息（SSE 流式版本） =====
+function sendMessage() {
     const message = chatInput.value.trim();
     if (!message || isProcessing) return;
 
-    // 首次发送时移除欢迎卡片
     document.querySelector('.welcome-card')?.remove();
 
     addMessage(message, 'user');
@@ -169,26 +251,72 @@ async function sendMessage() {
     sendBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i>';
     showTyping();
 
-    try {
-        const res  = await fetch(`${API_BASE}/api/chat`, {
-            method:  'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body:    JSON.stringify({ message }),
-        });
-        const data = await res.json();
-        hideTyping();
+    let stepsCtx = null;   // 工具步骤块上下文
 
-        if (data.success) {
-            addMessage(data.response, 'assistant', data.images || []);
-        } else {
-            addMessage(`出现错误：${data.error || '未知错误'}`, 'assistant');
-            showNotification('请求失败', 'error');
+    const url = `${API_BASE}/api/chat/stream?message=${encodeURIComponent(message)}`;
+    const es   = new EventSource(url);
+
+    es.onmessage = (e) => {
+        if (e.data === '[DONE]') {
+            es.close();
+            done();
+            return;
         }
-    } catch {
+
+        let event;
+        try { event = JSON.parse(e.data); } catch { return; }
+
+        if (event.type === 'tool_start') {
+            hideTyping();
+            if (!stepsCtx) stepsCtx = createStepsBlock();
+            addStepItem(stepsCtx.stepsBody, stepsCtx.stepMap, event.tool);
+
+        } else if (event.type === 'tool_done') {
+            if (stepsCtx) resolveStepItem(stepsCtx.stepMap, event.tool, 'done', event);
+
+        } else if (event.type === 'tool_error') {
+            if (stepsCtx) resolveStepItem(stepsCtx.stepMap, event.tool, 'error', event);
+
+        } else if (event.type === 'answer') {
+            es.close();
+            hideTyping();
+
+            // 折叠步骤块并更新标题
+            if (stepsCtx) {
+                const count = Object.keys(stepsCtx.stepMap).length;
+                stepsCtx.header.querySelector('.steps-label').textContent =
+                    `已调用 ${count} 个工具`;
+                stepsCtx.block.classList.add('collapsed');
+            }
+
+            // 显示最终答案
+            const images = (event.images || []).map(p => {
+                if (!p.startsWith('/')) return `/${p}`;
+                return p;
+            });
+            addMessage(event.content, 'assistant', images);
+            done();
+
+        } else if (event.type === 'error') {
+            es.close();
+            hideTyping();
+            addMessage(`出现错误：${event.error || '未知错误'}`, 'assistant');
+            showNotification('请求失败', 'error');
+            done();
+        }
+    };
+
+    es.onerror = () => {
+        es.close();
         hideTyping();
-        addMessage('网络连接失败，请确认服务是否正常运行。', 'assistant');
-        showNotification('网络错误', 'error');
-    } finally {
+        if (!stepsCtx) {
+            addMessage('网络连接失败，请确认服务是否正常运行。', 'assistant');
+        }
+        showNotification('连接中断', 'error');
+        done();
+    };
+
+    function done() {
         isProcessing = false;
         sendBtn.disabled = false;
         sendBtn.innerHTML = '<i class="fas fa-paper-plane"></i>';
