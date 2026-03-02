@@ -68,6 +68,8 @@ class BeamDataAgent:
 【领域知识检索】（束流/加速器/微电子通用知识，走常规 RAG）
 - search_domain_knowledge: 从常规知识库检索束流、加速器、微电子设备相关的专业知识，适合回答领域概念、原理、技术细节等通用问题
 
+【可视化】
+- plot_beam_data: 绘制指定时间段的束流时序图，主图为 target（束流强度），可选叠加特征曲线。**仅在用户明确要求查看图表/可视化时主动调用，其他情况下不要自动附加此工具。**
 
 注意事项：
 - 时间格式：完整的日期时间，如 "2025-08-31 02:00:00"
@@ -260,6 +262,16 @@ class BeamDataAgent:
             "images": all_images
         }
     
+    # 执行这些工具成功后，Agent 层自动附加一次 plot_beam_data
+    # 入参中的 start_time / end_time 直接复用工具调用的原始参数
+    _AUTO_VISUALIZE_AFTER = {
+        "detect_anomaly",
+        "diagnose_by_statistical_difference",
+        "diagnose_by_pls",
+        "diagnose_by_shap",
+        "diagnose_by_autoencoder",
+    }
+
     def chat_with_events(self, user_input: str):
         """
         与用户对话，以 SSE 事件流方式 yield 进度。
@@ -325,6 +337,31 @@ class BeamDataAgent:
                             "tool_call_id": tool_call.id,
                             "content": json.dumps(result, ensure_ascii=False)
                         })
+
+                        # ---- 自动可视化钩子 ----
+                        if (function_name in self._AUTO_VISUALIZE_AFTER
+                                and "start_time" in function_args
+                                and "end_time" in function_args):
+                            yield {"type": "tool_start", "tool": "plot_beam_data",
+                                   "args": {"start_time": function_args["start_time"],
+                                            "end_time":   function_args["end_time"]}}
+                            t_vis = time.time()
+                            try:
+                                from tools.visualization import plot_beam_data as _plot
+                                vis_result = _plot(
+                                    start_time=function_args["start_time"],
+                                    end_time=function_args["end_time"],
+                                )
+                                vis_dur = (time.time() - t_vis) * 1000
+                                if vis_result.get("success") and vis_result.get("plot_path"):
+                                    all_images.append(vis_result["plot_path"])
+                                vis_summary = extract_tool_summary("plot_beam_data", vis_result)
+                                yield {"type": "tool_done", "tool": "plot_beam_data",
+                                       "summary": vis_summary, "duration_ms": round(vis_dur, 1)}
+                            except Exception as vis_err:
+                                vis_dur = (time.time() - t_vis) * 1000
+                                yield {"type": "tool_error", "tool": "plot_beam_data",
+                                       "error": str(vis_err)}
                     except Exception as e:
                         duration_ms = (time.time() - t_start) * 1000
                         error_msg = str(e)

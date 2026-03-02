@@ -173,10 +173,22 @@ def diagnose_by_shap(
 
     X = anomaly_df[features]
 
-    explainer = shap.Explainer(model, X)
-    shap_values = explainer(X)
-
-    mean_abs = np.abs(shap_values.values).mean(axis=0)
+    if model_name in ("RF", "LGBM", "XGB"):
+        # 树模型专用路径：TreeExplainer 无需背景集，速度快 10-100x
+        explainer = shap.TreeExplainer(model)
+        explain_X = X.sample(min(500, len(X)), random_state=42)
+        sv = explainer.shap_values(explain_X)
+        # RF 回归 shap_values 直接是 ndarray；分类模型返回列表取 [1]
+        if isinstance(sv, list):
+            sv = sv[1]
+        mean_abs = np.abs(sv).mean(axis=0)
+    else:
+        # MLP / Linear 等非树模型：双采样降低计算量
+        background = shap.sample(X, min(100, len(X)))
+        explain_X  = X.sample(min(300, len(X)), random_state=42)
+        explainer   = shap.Explainer(model, background)
+        shap_values = explainer(explain_X)
+        mean_abs    = np.abs(shap_values.values).mean(axis=0)
 
     results = [
         {"feature": f, "mean_abs_shap": float(v)}

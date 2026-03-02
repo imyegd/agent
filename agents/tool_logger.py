@@ -82,6 +82,15 @@ def extract_tool_summary(tool_name: str, result: Dict[str, Any]) -> str:
             s = result.get("summary", {})
             return f"检索到 {s.get('retrieved_count', '?')} 条知识"
 
+        elif tool_name == "plot_beam_data":
+            stats = result.get("stats", {})
+            count = stats.get("count", "?")
+            ratio = stats.get("anomaly_ratio")
+            base = f"已绘制 {count} 条数据"
+            if ratio is not None:
+                base += f"，异常占比 {ratio:.1%}"
+            return base
+
         else:
             return result.get("message", "执行成功")
 
