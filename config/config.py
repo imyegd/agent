@@ -22,6 +22,7 @@ class Config:
     
     # LLM 模型配置
     MODEL_NAME = os.getenv('MODELSCOPE_LLM_MODEL', 'Qwen/Qwen3-VL-30B-A3B-Instruct')
+    # MODEL_NAME = os.getenv('MODELSCOPE_LLM_MODEL', 'Qwen/Qwen3-235B-A22B-Instruct-2507')
     
     # Embedding 模型配置
     EMBEDDING_MODEL = os.getenv('MODELSCOPE_EMBEDDING_MODEL', 'Qwen/Qwen3-Embedding-0.6B')
