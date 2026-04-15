@@ -173,10 +173,15 @@ def diagnose_by_shap(
 
     X = anomaly_df[features]
 
+    # 只解释你关心的小批样本（更快、更可复现）
+    # 说明：这里的 X 是“异常时间段”样本；取前 N 条即可快速得到诊断结果
+    EXPLAIN_MAX_SAMPLES = 200
+    BACKGROUND_MAX_SAMPLES = 100
+    explain_X = X.iloc[: min(EXPLAIN_MAX_SAMPLES, len(X))]
+
     if model_name in ("RF", "LGBM", "XGB"):
         # 树模型专用路径：TreeExplainer 无需背景集，速度快 10-100x
         explainer = shap.TreeExplainer(model)
-        explain_X = X.sample(min(500, len(X)), random_state=42)
         sv = explainer.shap_values(explain_X)
         # RF 回归 shap_values 直接是 ndarray；分类模型返回列表取 [1]
         if isinstance(sv, list):
@@ -184,8 +189,7 @@ def diagnose_by_shap(
         mean_abs = np.abs(sv).mean(axis=0)
     else:
         # MLP / Linear 等非树模型：双采样降低计算量
-        background = shap.sample(X, min(100, len(X)))
-        explain_X  = X.sample(min(300, len(X)), random_state=42)
+        background = shap.sample(X, min(BACKGROUND_MAX_SAMPLES, len(X)))
         explainer   = shap.Explainer(model, background)
         shap_values = explainer(explain_X)
         mean_abs    = np.abs(shap_values.values).mean(axis=0)
