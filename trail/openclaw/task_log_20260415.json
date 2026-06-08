@@ -1,0 +1,60 @@
+{
+  "log_date": "2026-04-15",
+  "generated_at": "2026-04-15 18:42:16",
+  "summary": {
+    "total_tasks": 3,
+    "completed_tasks": 3,
+    "failed_tasks": 0,
+    "running_tasks": 0,
+    "success_rate": "100.0%",
+    "total_duration_seconds": 1.0,
+    "avg_duration_seconds": 0.33,
+    "total_input_tokens": 770,
+    "total_output_tokens": 475,
+    "total_tokens": 1245
+  },
+  "records": [
+    {
+      "task_id": "task_20260415_183903_3984",
+      "task_name": "测试任务：数据查询",
+      "start_time": "2026-04-15 18:39:03",
+      "end_time": "2026-04-15 18:39:04",
+      "duration_seconds": 1.0,
+      "input_tokens": 150,
+      "output_tokens": 80,
+      "total_tokens": 230,
+      "status": "completed",
+      "error_message": null,
+      "metadata": {}
+    },
+    {
+      "task_id": "task_20260415_184134_5658",
+      "task_name": "数据查询",
+      "start_time": "2026-04-15 18:41:34",
+      "end_time": "2026-04-15 18:41:34",
+      "duration_seconds": 0.0,
+      "input_tokens": 120,
+      "output_tokens": 95,
+      "total_tokens": 215,
+      "status": "completed",
+      "error_message": null,
+      "metadata": {
+        "message_length": 21,
+        "timestamp": "2026-04-15T18:41:34.258060"
+      }
+    },
+    {
+      "task_id": "task_20260415_184216_1620",
+      "task_name": "束流数据查询工具开发",
+      "start_time": "2026-04-15 18:42:16",
+      "end_time": "2026-04-15 18:42:16",
+      "duration_seconds": 0.0,
+      "input_tokens": 500,
+      "output_tokens": 300,
+      "total_tokens": 800,
+      "status": "completed",
+      "error_message": null,
+      "metadata": {}
+    }
+  ]
+}

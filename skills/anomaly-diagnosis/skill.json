@@ -1,0 +1,65 @@
+{
+  "name": "anomaly-diagnosis",
+  "version": "1.0.0",
+  "description": "异常诊断技能 - 提供四种不同的异常特征诊断方法，用于定位导致束流异常的关键变量",
+  "type": "tool-suite",
+  "tools": [
+    {
+      "name": "diagnose_by_statistical_difference",
+      "description": "基于统计差异（Z-score）的异常特征诊断方法。通过比较异常时间段与正常时间段内各变量的统计分布差异，识别在异常状态下发生显著偏移的关键变量。",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "anomaly_start": {"type": "string", "description": "异常时间段起始时间"},
+          "anomaly_end": {"type": "string", "description": "异常时间段结束时间"},
+          "normal_start": {"type": "string", "description": "正常工况时间段起始时间，用于统计基准"},
+          "normal_end": {"type": "string", "description": "正常工况时间段结束时间"},
+          "top_k": {"type": "integer", "default": 10, "description": "返回偏移最显著的前 k 个特征"}
+        },
+        "required": ["anomaly_start", "anomaly_end", "normal_start", "normal_end"]
+      }
+    },
+    {
+      "name": "diagnose_by_pls",
+      "description": "基于已训练的偏最小二乘（PLS）模型进行异常特征诊断。通过分析模型中各输入变量对目标束流的线性投影权重，识别与束流异常变化高度相关的关键变量。",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "anomaly_start": {"type": "string", "description": "异常时间段起始时间"},
+          "anomaly_end": {"type": "string", "description": "异常时间段结束时间"},
+          "top_k": {"type": "integer", "default": 10}
+        },
+        "required": ["anomaly_start", "anomaly_end"]
+      }
+    },
+    {
+      "name": "diagnose_by_shap",
+      "description": "基于 SHAP 方法的异常特征诊断工具。对已训练的回归模型进行解释，分析异常时间段内各变量对模型预测结果的贡献程度。",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "anomaly_start": {"type": "string", "description": "异常时间段起始时间"},
+          "anomaly_end": {"type": "string", "description": "异常时间段结束时间"},
+          "model_name": {"type": "string", "default": "RF", "enum": ["RF", "XGB", "LGBM", "MLP", "Linear"]},
+          "top_k": {"type": "integer", "default": 10}
+        },
+        "required": ["anomaly_start", "anomaly_end"]
+      }
+    },
+    {
+      "name": "diagnose_by_autoencoder",
+      "description": "基于已训练自编码器（AutoEncoder）的异常特征诊断方法。通过分析异常时间段内各变量的重构误差，识别相对于正常工况分布发生显著偏离的关键变量。",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "anomaly_start": {"type": "string", "description": "异常时间段起始时间"},
+          "anomaly_end": {"type": "string", "description": "异常时间段结束时间"},
+          "top_k": {"type": "integer", "default": 10}
+        },
+        "required": ["anomaly_start", "anomaly_end"]
+      }
+    }
+  ],
+  "source_file": "./reference/tool_definitions.json",
+  "documentation": "./SKILL.md"
+}

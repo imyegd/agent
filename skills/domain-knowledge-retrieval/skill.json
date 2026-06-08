@@ -1,0 +1,47 @@
+{
+  "name": "domain-knowledge-retrieval",
+  "version": "1.0.0",
+  "description": "领域知识检索技能 - 提供三类知识检索能力：诊断特征解释、变量含义查询、常规领域问答",
+  "type": "tool-suite",
+  "tools": [
+    {
+      "name": "explain_diagnosis_features",
+      "description": "承接异常诊断工具的输出结果，解释诊断出的异常特征（feature1-feature34）的物理含义、所属子系统、详细参数等。严格从 generation 知识图谱查询，不回退到常规 RAG。",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "feature_names": {"type": "array", "items": {"type": "string"}, "description": "异常特征名列表，格式为 feature1-feature34"},
+          "top_k": {"type": "integer", "default": 3}
+        },
+        "required": ["feature_names"]
+      }
+    },
+    {
+      "name": "explain_variable_meaning",
+      "description": "解释单个变量的含义和用法，支持中文变量名、featureN、或自然语言问题。严格从 generation 知识图谱查询，不回退到常规 RAG。",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "query": {"type": "string", "description": "查询文本，可以是变量名、featureN 或问题"},
+          "top_k": {"type": "integer", "default": 3}
+        },
+        "required": ["query"]
+      }
+    },
+    {
+      "name": "search_domain_knowledge",
+      "description": "从常规知识库检索束流、加速器、微电子设备相关的专业知识，使用混合检索（TF-IDF + 向量语义）。适用场景：回答领域概念、原理、技术细节等通用问题。",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "query": {"type": "string", "description": "查询问题"},
+          "top_k": {"type": "integer", "default": 5},
+          "doc_type": {"type": "string", "description": "可选文档类型过滤（预留参数）"}
+        },
+        "required": ["query"]
+      }
+    }
+  ],
+  "source_file": "./reference/tool_definitions.json",
+  "documentation": "./SKILL.md"
+}

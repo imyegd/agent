@@ -1,0 +1,41 @@
+{
+  "skill_name": "beam-visualization",
+  "description": "束流数据可视化技能 - 提供束流数据的时序图绘制功能",
+  "tools": [
+    {
+      "type": "function",
+      "function": {
+        "name": "plot_beam_data",
+        "description": "绘制指定时间段内的束流时序图（折线图）。主图始终显示 target（束流强度），可选叠加若干特征曲线。仅在用户明确要求查看图表/可视化时调用，不要自动附加到每次查询。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "start_time": {
+              "type": "string",
+              "description": "开始时间，格式 'YYYY-MM-DD HH:MM:SS'"
+            },
+            "end_time": {
+              "type": "string",
+              "description": "结束时间，格式 'YYYY-MM-DD HH:MM:SS'"
+            },
+            "features": {
+              "type": "array",
+              "items": {"type": "string"},
+              "description": "可选。在 target 下方额外绘制的特征列名，最多 5 个，如 ['feature1', 'feature3']。"
+            },
+            "title": {
+              "type": "string",
+              "description": "可选。图表标题，不传则自动生成。"
+            }
+          },
+          "required": ["start_time", "end_time"]
+        }
+      }
+    }
+  ],
+  "source_file": "D:\\code\\graduate\\llm\\tools\\visualization.py",
+  "dependencies": {
+    "data_file": "D:\\code\\graduate\\llm\\data\\束流.csv",
+    "output_dir": "D:\\code\\graduate\\llm\\output\\"
+  }
+}

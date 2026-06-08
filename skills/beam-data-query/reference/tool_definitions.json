@@ -1,0 +1,66 @@
+{
+  "skill_name": "beam-data-query",
+  "description": "束流数据查询技能 - 提供对工业装备束流数据的查询和元信息获取能力",
+  "tools": [
+    {
+      "type": "function",
+      "function": {
+        "name": "query_beam_data",
+        "description": "按时间范围查询束流数据，适合先做数据核对、趋势分析前取样、异常诊断前数据确认。返回统一结构：query + summary + data + (可选)statistics。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "start_time": {
+              "type": "string",
+              "description": "开始时间，支持格式：'YYYY-MM-DD HH:MM:SS' 或 'YYYY-MM-DDTHH:MM:SS'。例如：'2025-08-31 02:00:00'"
+            },
+            "end_time": {
+              "type": "string",
+              "description": "结束时间，支持格式：'YYYY-MM-DD HH:MM:SS' 或 'YYYY-MM-DDTHH:MM:SS'。例如：'2025-08-31 03:00:00'"
+            },
+            "columns": {
+              "type": "array",
+              "items": {"type": "string"},
+              "description": "可选。需要返回的列名列表，例如 ['时间', 'target', 'feature1']。不传则返回所有列。"
+            },
+            "limit": {
+              "type": "integer",
+              "description": "可选。返回样本条数上限，范围 1-200，默认 20。"
+            },
+            "include_statistics": {
+              "type": "boolean",
+              "description": "可选。是否返回 target 统计信息（均值/最大/最小/标准差），默认 true。"
+            }
+          },
+          "required": ["start_time", "end_time"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "get_data_info",
+        "description": "获取数据集元信息（总记录数、时间范围、列名、target 统计、样本记录）。建议在首次查询前调用，用于确定时间范围和可用列。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "include_target_stats": {
+              "type": "boolean",
+              "description": "可选。是否返回 target 统计信息，默认 true。"
+            },
+            "include_sample": {
+              "type": "boolean",
+              "description": "可选。是否返回前几条样本数据，默认 true。"
+            },
+            "sample_size": {
+              "type": "integer",
+              "description": "可选。样本条数，范围 1-50，默认 3。"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "source_file": "D:\\code\\graduate\\llm\\tools\\data_query.py",
+  "data_file": "D:\\code\\graduate\\llm\\data\\束流.csv"
+}

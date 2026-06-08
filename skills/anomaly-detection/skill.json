@@ -1,0 +1,22 @@
+{
+  "name": "anomaly-detection",
+  "version": "1.0.0",
+  "description": "异常检测技能 - 基于回归预测偏差 + 3σ工程判据判断指定时间段是否存在异常",
+  "type": "tool-suite",
+  "tools": [
+    {
+      "name": "detect_anomaly",
+      "description": "基于回归预测偏差和 3σ工程判据判断指定时间段是否存在异常。返回是否异常、异常比例、预测均值与正常统计参数。",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "start_time": {"type": "string", "description": "开始时间，格式 'YYYY-MM-DD HH:MM:SS'"},
+          "end_time": {"type": "string", "description": "结束时间，格式 'YYYY-MM-DD HH:MM:SS'"}
+        },
+        "required": ["start_time", "end_time"]
+      }
+    }
+  ],
+  "source_file": "./reference/tool_definitions.json",
+  "documentation": "./SKILL.md"
+}

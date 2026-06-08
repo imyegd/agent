@@ -1,0 +1,139 @@
+{
+  "name": "beam-diagnostic-agent",
+  "version": "1.0.0",
+  "description": "工业装备异常智能诊断系统 - 束流数据分析助手",
+  "skills": [
+    "beam-data-query",
+    "anomaly-detection",
+    "anomaly-diagnosis",
+    "beam-visualization",
+    "domain-knowledge-retrieval"
+  ],
+  "tools": {
+    "query_beam_data": {
+      "skill": "beam-data-query",
+      "enabled": true,
+      "description": "按时间范围查询束流数据，支持列筛选、条数限制、统计信息",
+      "parameters": {
+        "start_time": {"type": "string", "required": true, "description": "开始时间，格式 'YYYY-MM-DD HH:MM:SS'"},
+        "end_time": {"type": "string", "required": true, "description": "结束时间，格式 'YYYY-MM-DD HH:MM:SS'"},
+        "columns": {"type": "array", "required": false, "description": "需要返回的列名列表"},
+        "limit": {"type": "integer", "required": false, "default": 20, "description": "返回样本条数上限，1-200"},
+        "include_statistics": {"type": "boolean", "required": false, "default": true}
+      }
+    },
+    "get_data_info": {
+      "skill": "beam-data-query",
+      "enabled": true,
+      "description": "获取数据集元信息（总记录数、时间范围、列名、target 统计、样本记录）",
+      "parameters": {
+        "include_target_stats": {"type": "boolean", "default": true},
+        "include_sample": {"type": "boolean", "default": true},
+        "sample_size": {"type": "integer", "default": 3, "description": "样本条数，1-50"}
+      }
+    },
+    "detect_anomaly": {
+      "skill": "anomaly-detection",
+      "enabled": true,
+      "description": "基于回归预测偏差和 3σ工程判据判断指定时间段是否存在异常",
+      "parameters": {
+        "start_time": {"type": "string", "required": true},
+        "end_time": {"type": "string", "required": true}
+      }
+    },
+    "diagnose_by_statistical_difference": {
+      "skill": "anomaly-diagnosis",
+      "enabled": true,
+      "description": "基于统计差异（Z-score）的异常特征诊断方法",
+      "parameters": {
+        "anomaly_start": {"type": "string", "required": true},
+        "anomaly_end": {"type": "string", "required": true},
+        "normal_start": {"type": "string", "required": true},
+        "normal_end": {"type": "string", "required": true},
+        "top_k": {"type": "integer", "default": 10}
+      }
+    },
+    "diagnose_by_pls": {
+      "skill": "anomaly-diagnosis",
+      "enabled": true,
+      "description": "基于 PLS 模型权重的异常特征诊断",
+      "parameters": {
+        "anomaly_start": {"type": "string", "required": true},
+        "anomaly_end": {"type": "string", "required": true},
+        "top_k": {"type": "integer", "default": 10}
+      }
+    },
+    "diagnose_by_shap": {
+      "skill": "anomaly-diagnosis",
+      "enabled": true,
+      "description": "基于 SHAP 方法的异常特征诊断",
+      "parameters": {
+        "anomaly_start": {"type": "string", "required": true},
+        "anomaly_end": {"type": "string", "required": true},
+        "model_name": {"type": "string", "default": "RF", "enum": ["RF", "XGB", "LGBM", "MLP", "Linear"]},
+        "top_k": {"type": "integer", "default": 10}
+      }
+    },
+    "diagnose_by_autoencoder": {
+      "skill": "anomaly-diagnosis",
+      "enabled": true,
+      "description": "基于自编码器重构误差的异常特征诊断",
+      "parameters": {
+        "anomaly_start": {"type": "string", "required": true},
+        "anomaly_end": {"type": "string", "required": true},
+        "top_k": {"type": "integer", "default": 10}
+      }
+    },
+    "plot_beam_data": {
+      "skill": "beam-visualization",
+      "enabled": true,
+      "description": "绘制束流时序图，主图为 target，可选叠加特征曲线",
+      "parameters": {
+        "start_time": {"type": "string", "required": true},
+        "end_time": {"type": "string", "required": true},
+        "features": {"type": "array", "required": false, "maxItems": 5},
+        "title": {"type": "string", "required": false}
+      }
+    },
+    "explain_diagnosis_features": {
+      "skill": "domain-knowledge-retrieval",
+      "enabled": true,
+      "description": "承接诊断结果，从 generation 知识图谱查询特征的物理含义",
+      "parameters": {
+        "feature_names": {"type": "array", "required": true, "description": "feature1-feature34 列表"},
+        "top_k": {"type": "integer", "default": 3}
+      }
+    },
+    "explain_variable_meaning": {
+      "skill": "domain-knowledge-retrieval",
+      "enabled": true,
+      "description": "解释单个变量的含义，支持中文变量名/featureN/自然语言问题",
+      "parameters": {
+        "query": {"type": "string", "required": true},
+        "top_k": {"type": "integer", "default": 3}
+      }
+    },
+    "search_domain_knowledge": {
+      "skill": "domain-knowledge-retrieval",
+      "enabled": true,
+      "description": "从常规知识库检索束流/加速器/微电子领域专业知识",
+      "parameters": {
+        "query": {"type": "string", "required": true},
+        "top_k": {"type": "integer", "default": 5}
+      }
+    }
+  },
+  "system_prompt_includes": [
+    "skills/beam-data-query/SKILL.md#使用示例",
+    "skills/anomaly-detection/SKILL.md#使用示例",
+    "skills/anomaly-diagnosis/SKILL.md#使用示例",
+    "skills/domain-knowledge-retrieval/SKILL.md#使用示例"
+  ],
+  "dependencies": {
+    "data_file": "D:\\code\\graduate\\llm\\data\\束流.csv",
+    "models_dir": "D:\\code\\graduate\\llm\\models\\",
+    "neo4j_uri": "bolt://localhost:7687",
+    "neo4j_database": "generation",
+    "vector_index": "D:\\code\\graduate\\llm\\knowledge\\vector_store\\index\\parent_child_api"
+  }
+}

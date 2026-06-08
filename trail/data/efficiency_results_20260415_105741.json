@@ -1,7 +1,7 @@
 {
   "meta": {
     "timestamp": "2026-04-15T11:05:36.202347",
-    "model": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+    "model": "Qwen/Qwen3-VL-8B-Instruct",
     "question_count": 30,
     "questions_file": "efficiency_test_questions.json"
   },

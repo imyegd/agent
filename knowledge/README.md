@@ -1,4 +1,17 @@
-# Knowledge RAG系统
+# knowledge — RAG 与知识图谱
+
+知识库模块，提供文档解析、分块、向量检索和 Neo4j 知识图谱能力。
+
+## 子模块
+
+| 目录 | 说明 |
+|------|------|
+| [parsers/](parsers/README.md) | PDF/TXT 文档解析 |
+| [chunkers/](chunkers/README.md) | 文本分块策略 |
+| [retrievers/](retrievers/README.md) | 关键词/向量/混合检索 |
+| [vector_store/](vector_store/README.md) | FAISS 向量索引 |
+| [knowledge_graph/](knowledge_graph/README.md) | Neo4j 知识图谱 |
+| [data/](data/README.md) | 原始文档与图谱 JSON |
 
 ## 架构说明
 

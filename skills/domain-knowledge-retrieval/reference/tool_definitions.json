@@ -1,0 +1,86 @@
+{
+  "skill_name": "domain-knowledge-retrieval",
+  "description": "领域知识检索技能 - 提供三类知识检索能力：诊断特征解释、变量含义查询、常规领域问答",
+  "tools": [
+    {
+      "type": "function",
+      "function": {
+        "name": "explain_diagnosis_features",
+        "description": "承接异常诊断工具的输出结果，解释诊断出的异常特征（feature1-feature34）的物理含义、所属子系统、详细参数等。严格从 generation 知识图谱查询，不回退到常规 RAG。适用场景：diagnose_by_* 工具返回 top_features 后，需要深入理解这些特征的技术背景。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "feature_names": {
+              "type": "array",
+              "items": {"type": "string"},
+              "description": "异常特征名列表，格式为 feature1-feature34，如 ['feature4', 'feature5', 'feature6']"
+            },
+            "top_k": {
+              "type": "integer",
+              "description": "可选。每个特征返回的相关知识条数，默认 3（当前返回节点完整详情）",
+              "default": 3
+            }
+          },
+          "required": ["feature_names"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "explain_variable_meaning",
+        "description": "解释单个变量的含义和用法，支持中文变量名（如'灯丝电源电流'）、featureN（如'feature6'）、或自然语言问题（如'灯丝电源是什么'）。严格从 generation 知识图谱查询，不回退到常规 RAG。适用场景：用户直接询问某个变量、传感器、子系统的含义和技术细节。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "query": {
+              "type": "string",
+              "description": "查询文本，可以是变量名（'加速电源电压'）、featureN（'feature3'）或问题（'加速电源电压是什么'）"
+            },
+            "top_k": {
+              "type": "integer",
+              "description": "可选。返回结果数量上限，默认 3",
+              "default": 3
+            }
+          },
+          "required": ["query"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "search_domain_knowledge",
+        "description": "从常规知识库检索束流、加速器、微电子设备相关的专业知识，使用混合检索（TF-IDF + 向量语义）。适用场景：回答领域概念、原理、技术细节等通用问题，如'束流强度如何测量'、'加速器的工作原理'、'离子注入工艺流程'。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "query": {
+              "type": "string",
+              "description": "查询问题，如'束流强度的测量方法'、'加速器真空系统的作用'"
+            },
+            "top_k": {
+              "type": "integer",
+              "description": "可选。返回结果数量，默认 5",
+              "default": 5
+            },
+            "doc_type": {
+              "type": "string",
+              "description": "可选。文档类型过滤（预留参数）"
+            }
+          },
+          "required": ["query"]
+        }
+      }
+    }
+  ],
+  "source_file": "D:\\code\\graduate\\llm\\knowledge\\rag_tool.py",
+  "dependencies": {
+    "neo4j": {
+      "uri": "bolt://localhost:7687",
+      "database": "generation"
+    },
+    "vector_index": "D:\\code\\graduate\\llm\\knowledge\\vector_store\\index\\parent_child_api",
+    "feature_mapping_file": "见 rag_tool.py 中的 FEATURE_MAPPING"
+  }
+}

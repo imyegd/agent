@@ -1,0 +1,136 @@
+{
+  "skill_name": "anomaly-diagnosis",
+  "description": "异常诊断技能 - 提供四种不同的异常特征诊断方法，用于定位导致束流异常的关键变量",
+  "tools": [
+    {
+      "type": "function",
+      "function": {
+        "name": "diagnose_by_statistical_difference",
+        "description": "基于统计差异（Z-score）的异常特征诊断方法。通过比较异常时间段与正常时间段内各变量的统计分布差异，识别在异常状态下发生显著偏移的关键变量。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "anomaly_start": {
+              "type": "string",
+              "description": "异常时间段起始时间，格式：YYYY-MM-DD HH:MM:SS"
+            },
+            "anomaly_end": {
+              "type": "string",
+              "description": "异常时间段结束时间，格式：YYYY-MM-DD HH:MM:SS"
+            },
+            "normal_start": {
+              "type": "string",
+              "description": "正常工况时间段起始时间，用于统计基准"
+            },
+            "normal_end": {
+              "type": "string",
+              "description": "正常工况时间段结束时间，用于统计基准"
+            },
+            "top_k": {
+              "type": "integer",
+              "description": "返回偏移最显著的前 k 个特征",
+              "default": 10
+            }
+          },
+          "required": ["anomaly_start", "anomaly_end", "normal_start", "normal_end"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "diagnose_by_pls",
+        "description": "基于已训练的偏最小二乘（PLS）模型进行异常特征诊断。通过分析模型中各输入变量对目标束流的线性投影权重，识别与束流异常变化高度相关的关键变量。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "anomaly_start": {
+              "type": "string",
+              "description": "异常时间段起始时间，格式：YYYY-MM-DD HH:MM:SS"
+            },
+            "anomaly_end": {
+              "type": "string",
+              "description": "异常时间段结束时间，格式：YYYY-MM-DD HH:MM:SS"
+            },
+            "top_k": {
+              "type": "integer",
+              "description": "返回权重最大的前 k 个特征",
+              "default": 10
+            }
+          },
+          "required": ["anomaly_start", "anomaly_end"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "diagnose_by_shap",
+        "description": "基于 SHAP 方法的异常特征诊断工具。对已训练的回归模型（如随机森林、XGBoost）进行解释，分析异常时间段内各变量对模型预测结果的贡献程度，从模型角度识别导致束流偏离的关键变量。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "anomaly_start": {
+              "type": "string",
+              "description": "异常时间段起始时间，格式：YYYY-MM-DD HH:MM:SS"
+            },
+            "anomaly_end": {
+              "type": "string",
+              "description": "异常时间段结束时间，格式：YYYY-MM-DD HH:MM:SS"
+            },
+            "model_name": {
+              "type": "string",
+              "description": "用于 SHAP 解释的回归模型名称，可选：'RF'(随机森林), 'XGB'(XGBoost), 'LGBM'(LightGBM), 'MLP'(神经网络), 'Linear'(线性回归)",
+              "default": "RF"
+            },
+            "top_k": {
+              "type": "integer",
+              "description": "返回 SHAP 重要性最高的前 k 个特征",
+              "default": 10
+            }
+          },
+          "required": ["anomaly_start", "anomaly_end"]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "diagnose_by_autoencoder",
+        "description": "基于已训练自编码器（AutoEncoder）的异常特征诊断方法。通过分析异常时间段内各变量的重构误差，识别相对于正常工况分布发生显著偏离的关键变量。该方法不依赖监督标签，适用于无故障标注场景。",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "anomaly_start": {
+              "type": "string",
+              "description": "异常时间段起始时间，格式：YYYY-MM-DD HH:MM:SS"
+            },
+            "anomaly_end": {
+              "type": "string",
+              "description": "异常时间段结束时间，格式：YYYY-MM-DD HH:MM:SS"
+            },
+            "top_k": {
+              "type": "integer",
+              "description": "返回重构误差最大的前 k 个特征",
+              "default": 10
+            }
+          },
+          "required": ["anomaly_start", "anomaly_end"]
+        }
+      }
+    }
+  ],
+  "source_file": "D:\\code\\graduate\\llm\\tools\\anomaly_diagnose.py",
+  "dependencies": {
+    "data_file": "D:\\code\\graduate\\llm\\data\\束流.csv",
+    "models": {
+      "pls": "D:\\code\\graduate\\llm\\models\\pls_model.pkl",
+      "shap_rf": "D:\\code\\graduate\\llm\\models\\RF_regressor.pkl",
+      "shap_xgb": "D:\\code\\graduate\\llm\\models\\XGB_regressor.pkl",
+      "shap_lgbm": "D:\\code\\graduate\\llm\\models\\LGBM_regressor.pkl",
+      "shap_mlp": "D:\\code\\graduate\\llm\\models\\MLP_regressor.pkl",
+      "shap_linear": "D:\\code\\graduate\\llm\\models\\Linear_regressor.pkl",
+      "autoencoder": "D:\\code\\graduate\\llm\\models\\ae_model.pt"
+    }
+  }
+}

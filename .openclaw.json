@@ -1,0 +1,61 @@
+{
+  "name": "beam-diagnostic-agent",
+  "version": "1.0.0",
+  "workspace": "D:\\code\\graduate\\llm",
+  "agent_type": "tool-calling",
+  "model": {
+    "default": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+    "api_base": "https://api-inference.modelscope.cn/v1"
+  },
+  "skills": [
+    {
+      "name": "beam-data-query",
+      "path": "./skills/beam-data-query/SKILL.md",
+      "tools": ["query_beam_data", "get_data_info"],
+      "description": "束流数据查询技能 - 按时间范围查询束流数据，获取数据集元信息"
+    },
+    {
+      "name": "anomaly-detection",
+      "path": "./skills/anomaly-detection/SKILL.md",
+      "tools": ["detect_anomaly"],
+      "description": "异常检测技能 - 基于回归预测偏差 + 3σ工程判据判断异常"
+    },
+    {
+      "name": "anomaly-diagnosis",
+      "path": "./skills/anomaly-diagnosis/SKILL.md",
+      "tools": [
+        "diagnose_by_statistical_difference",
+        "diagnose_by_pls",
+        "diagnose_by_shap",
+        "diagnose_by_autoencoder"
+      ],
+      "description": "异常诊断技能 - 四种方法定位异常特征变量"
+    },
+    {
+      "name": "beam-visualization",
+      "path": "./skills/beam-visualization/SKILL.md",
+      "tools": ["plot_beam_data"],
+      "description": "束流可视化技能 - 绘制束流时序图"
+    },
+    {
+      "name": "domain-knowledge-retrieval",
+      "path": "./skills/domain-knowledge-retrieval/SKILL.md",
+      "tools": [
+        "explain_diagnosis_features",
+        "explain_variable_meaning",
+        "search_domain_knowledge"
+      ],
+      "description": "领域知识检索技能 - 知识图谱查询和常规 RAG"
+    }
+  ],
+  "tools_definition_file": "./tools/__init__.py",
+  "agent_impl_file": "./agents/llm_agent.py",
+  "dependencies": {
+    "data": "D:\\code\\graduate\\llm\\data\\束流.csv",
+    "models": "D:\\code\\graduate\\llm\\models\\",
+    "knowledge": {
+      "neo4j": "bolt://localhost:7687",
+      "vector_index": "D:\\code\\graduate\\llm\\knowledge\\vector_store\\index\\parent_child_api"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "question": "解释一下诊断结果中的加速电源电流和灯丝电源电压的物理含义",
+  "baseline": {
+    "name": "explain_diagnosis_features",
+    "arguments": {
+      "feature_names": [
+        "加速电源电流",
+        "灯丝电源电压"
+      ]
+    }
+  },
+  "ours": {
+    "name": "explain_diagnosis_features",
+    "arguments": {
+      "feature_names": [
+        "feature4",
+        "feature5"
+      ]
+    }
+  }
+}
